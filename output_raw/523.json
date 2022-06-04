@@ -1,0 +1,160 @@
+{
+  "name": "birch, the razor",
+  "description": "You are a CAT with 7 lives, found in a cenote in the Yucatan. You herd corgis in your sleep. You protect your WITCH from tourist traps and delayed flights. You craft potions of tuna to turn your enemies into lost dogs. MAKE ALL AWARE OF YOUR PURR!",
+  "image": "https://covencats.s3.amazonaws.com/a5dc408ed3068804b22c0afd1b7865c90b0c8aa59aba69f974968604424cc254.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Spiderwebs (Black)"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Sage"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey Green"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Libra"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 0,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 523,
+    "name": "birch, the razor",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT with 7 lives, found in a cenote in the Yucatan.",
+      "magic": "You herd corgis in your sleep.",
+      "acts_of_service": "You protect your WITCH from tourist traps and delayed flights.",
+      "belonging": "You craft potions of tuna to turn your enemies into lost dogs.",
+      "meow": "MAKE ALL AWARE OF YOUR PURR!"
+    },
+    "skills": {
+      "caprice": 0,
+      "caution": 9,
+      "catastrophe": 9,
+      "curiosity": 0,
+      "charisma": 4,
+      "cunning": 0
+    },
+    "birth_chart": {
+      "sun": "scorpio",
+      "moon": "cancer",
+      "rising": "libra"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Spiderwebs (Black)"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Sage"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Navy"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      }
+    ],
+    "hash": "a5dc408ed3068804b22c0afd1b7865c90b0c8aa59aba69f974968604424cc254"
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "name": "serpentine",
+  "description": "You are a CAT made from fallen dragon scales. You jump from kitchen table to counter to cabinet top in a blink of an eye. You and your WITCH stay up late on full moon nights to inscribe new spells into magical tomes. Your best naps happen in a bed of dying flowers. RUN HORIZONTALLY ACROSS THE WALL!",
+  "image": "https://covencats.s3.amazonaws.com/88767164179ca91f5444b755d1447c6511ffbca64caa79ea60e3df7a5685e91c.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Sunbeam"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Bag of Salt"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Babylash"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Gentle Horns"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 0,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 449,
+    "name": "serpentine",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT made from fallen dragon scales.",
+      "magic": "You jump from kitchen table to counter to cabinet top in a blink of an eye.",
+      "acts_of_service": "You and your WITCH stay up late on full moon nights to inscribe new spells into magical tomes.",
+      "belonging": "Your best naps happen in a bed of dying flowers.",
+      "meow": "RUN HORIZONTALLY ACROSS THE WALL!"
+    },
+    "skills": {
+      "caprice": 8,
+      "caution": 7,
+      "catastrophe": 3,
+      "curiosity": 5,
+      "charisma": 1,
+      "cunning": 0
+    },
+    "birth_chart": {
+      "sun": "sagittarius",
+      "moon": "capricorn",
+      "rising": "sagittarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Sunbeam"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Bag of Salt"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Navy"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Babylash"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Gentle Horns"
+      }
+    ],
+    "hash": "88767164179ca91f5444b755d1447c6511ffbca64caa79ea60e3df7a5685e91c"
+  }
+}

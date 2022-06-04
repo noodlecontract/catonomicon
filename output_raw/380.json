@@ -1,0 +1,168 @@
+{
+  "name": "vesta star",
+  "description": "You are a CAT with 5 lives, found in the Taj Mahal. Your form expands or shrinks to exactly fill the space you occupy. You and your WITCH dance under every rainbow. Your oracle lives inside a saucer of fresh cream. POUNCE!",
+  "image": "https://covencats.s3.amazonaws.com/d6b3b0e8cc6687d0e9bd10fc47d91031e55a2f4cfa6e91ec6f6fa75cf060e57f.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Spiderwebs (Ethereum)"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Green)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Floofed"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Starry Cyan"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Raised Third Eye (Red)"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Eyepatch (Blue)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Gemini"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 2,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 380,
+    "name": "vesta star",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT with 5 lives, found in the Taj Mahal.",
+      "magic": "Your form expands or shrinks to exactly fill the space you occupy.",
+      "acts_of_service": "You and your WITCH dance under every rainbow.",
+      "belonging": "Your oracle lives inside a saucer of fresh cream.",
+      "meow": "POUNCE!"
+    },
+    "skills": {
+      "caprice": 4,
+      "caution": 3,
+      "catastrophe": 3,
+      "curiosity": 4,
+      "charisma": 3,
+      "cunning": 2
+    },
+    "birth_chart": {
+      "sun": "scorpio",
+      "moon": "gemini",
+      "rising": "gemini"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Spiderwebs (Ethereum)"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Green)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Starry Cyan"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Amber"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Raised Third Eye (Red)"
+      },
+      {
+        "trait_type": "Facewear",
+        "value": "Eyepatch (Blue)"
+      }
+    ],
+    "hash": "d6b3b0e8cc6687d0e9bd10fc47d91031e55a2f4cfa6e91ec6f6fa75cf060e57f"
+  }
+}

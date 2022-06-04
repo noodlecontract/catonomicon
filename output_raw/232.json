@@ -1,0 +1,144 @@
+{
+  "name": "arity sophocles",
+  "description": "You are a CAT who sleeps on bags of chips. You inspire chaotic good and dispel chaotic bad. You herd your WITCH and they (try to) herd you. You can recite the entire works of Homer in Greek. IT'S TIME TO SLEEP ON THE KEYBOARD!",
+  "image": "https://covencats.s3.amazonaws.com/7f264d9c1e0c939d7746b101a99f1febe34c5b46ef5fde47ed1c873859009977.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Primordial Ooze"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Smudged Monolid"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 3,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 232,
+    "name": "arity sophocles",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT who sleeps on bags of chips.",
+      "magic": "You inspire chaotic good and dispel chaotic bad.",
+      "acts_of_service": "You herd your WITCH and they (try to) herd you.",
+      "belonging": "You can recite the entire works of Homer in Greek.",
+      "meow": "IT'S TIME TO SLEEP ON THE KEYBOARD!"
+    },
+    "skills": {
+      "caprice": 1,
+      "caution": 6,
+      "catastrophe": 4,
+      "curiosity": 7,
+      "charisma": 1,
+      "cunning": 3
+    },
+    "birth_chart": {
+      "sun": "leo",
+      "moon": "virgo",
+      "rising": "taurus"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Taupe"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Primordial Ooze"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lilac"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged Monolid"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "7f264d9c1e0c939d7746b101a99f1febe34c5b46ef5fde47ed1c873859009977"
+  }
+}

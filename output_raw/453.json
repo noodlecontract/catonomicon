@@ -1,0 +1,168 @@
+{
+  "name": "pancake of the ivy",
+  "description": "You are a CAT summoned from a failed transaction. You drink dew from the petals of flowers and paint your whiskers with the light of the stars. You protect your WITCH from tentacles, thorns, and Tauruses. Butterflies follow you wherever you go. FLOURISH MY FRIEND!",
+  "image": "https://covencats.s3.amazonaws.com/e117839e1f061fb84e7908df77b82032caa09954baf279f1c0969b5e6c802984.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Spiderwebs (Ethereum)"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Blue)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Forehead Marking",
+      "value": "Mark of Earth (White)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Glo"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aries"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 2,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 453,
+    "name": "pancake of the ivy",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT summoned from a failed transaction.",
+      "magic": "You drink dew from the petals of flowers and paint your whiskers with the light of the stars.",
+      "acts_of_service": "You protect your WITCH from tentacles, thorns, and Tauruses.",
+      "belonging": "Butterflies follow you wherever you go.",
+      "meow": "FLOURISH MY FRIEND!"
+    },
+    "skills": {
+      "caprice": 1,
+      "caution": 9,
+      "catastrophe": 3,
+      "curiosity": 7,
+      "charisma": 4,
+      "cunning": 2
+    },
+    "birth_chart": {
+      "sun": "cancer",
+      "moon": "scorpio",
+      "rising": "aries"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Spiderwebs (Ethereum)"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Blue)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Navy"
+      },
+      {
+        "trait_type": "Forehead Marking",
+        "value": "Mark of Earth (White)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Glo"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "e117839e1f061fb84e7908df77b82032caa09954baf279f1c0969b5e6c802984"
+  }
+}

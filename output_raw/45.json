@@ -1,0 +1,160 @@
+{
+  "name": "carbs of the whiskers",
+  "description": "You are a CAT with 4 lives, born from a ritual of the chaos circle. Your claws are dipped in the venom of a spiteful spirit. You and your WITCH love a mess. You share bread with Aradia and meow to the tune of her soundscapes. DYOR!",
+  "image": "https://covencats.s3.amazonaws.com/e446ad5245a05dac04e1d34f600af5d818b583e949f23709f2e2d09bf2fa9e8b.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Moths"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Folded"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Anemone Horns"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Scorpio"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 6,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 45,
+    "name": "carbs of the whiskers",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT with 4 lives, born from a ritual of the chaos circle.",
+      "magic": "Your claws are dipped in the venom of a spiteful spirit.",
+      "acts_of_service": "You and your WITCH love a mess.",
+      "belonging": "You share bread with Aradia and meow to the tune of her soundscapes.",
+      "meow": "DYOR!"
+    },
+    "skills": {
+      "caprice": 4,
+      "caution": 9,
+      "catastrophe": 5,
+      "curiosity": 7,
+      "charisma": 4,
+      "cunning": 6
+    },
+    "birth_chart": {
+      "sun": "cancer",
+      "moon": "leo",
+      "rising": "scorpio"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Taupe"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Moths"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Folded"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Navy"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Anemone Horns"
+      }
+    ],
+    "hash": "e446ad5245a05dac04e1d34f600af5d818b583e949f23709f2e2d09bf2fa9e8b"
+  }
+}

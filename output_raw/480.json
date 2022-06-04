@@ -1,0 +1,160 @@
+{
+  "name": "sauron, the mischievous",
+  "description": "You are a CAT who smirks in your sleep. You eat sardines in olive oil and wash your whiskers with the utmost poise. You and your WITCH ponder the fastest ways to derail a conversation. You summon chaos from the seventh circle of hell. IF YOU EAT, EAT WELL!",
+  "image": "https://covencats.s3.amazonaws.com/6eb4bfc2d385aa77a9b0378a3320f9fd72d67d7cd0109d7e9c66f7b396952eb6.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Dragon (Black)"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Cat Food (Tuna)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Demon"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ring Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Gemini"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 9,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 480,
+    "name": "sauron, the mischievous",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT who smirks in your sleep.",
+      "magic": "You eat sardines in olive oil and wash your whiskers with the utmost poise.",
+      "acts_of_service": "You and your WITCH ponder the fastest ways to derail a conversation.",
+      "belonging": "You summon chaos from the seventh circle of hell.",
+      "meow": "IF YOU EAT, EAT WELL!"
+    },
+    "skills": {
+      "caprice": 4,
+      "caution": 7,
+      "catastrophe": 9,
+      "curiosity": 3,
+      "charisma": 1,
+      "cunning": 9
+    },
+    "birth_chart": {
+      "sun": "capricorn",
+      "moon": "aquarius",
+      "rising": "gemini"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "Dragon (Black)"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Cat Food (Tuna)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lilac"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Demon"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ring Collar (Silver)"
+      }
+    ],
+    "hash": "6eb4bfc2d385aa77a9b0378a3320f9fd72d67d7cd0109d7e9c66f7b396952eb6"
+  }
+}

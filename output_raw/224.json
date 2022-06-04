@@ -1,0 +1,152 @@
+{
+  "name": "gaia of the cup",
+  "description": "You are a CAT with one too many lives, born amid the restless slumbers of a WITCH. You leave pawprints of silver in your wake. You protect your WITCH from hexes, heartache, and hiccups. You throw mouse bones and read their teachings. BEWARE OF DOGS!",
+  "image": "https://covencats.s3.amazonaws.com/03bec3840f1cd5b521622197516c0210557b87176a56161f3ec8305948e8dc7a.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Flooded Aqua"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Eyepatch (Blue)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aquarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 3,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 224,
+    "name": "gaia of the cup",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT with one too many lives, born amid the restless slumbers of a WITCH.",
+      "magic": "You leave pawprints of silver in your wake.",
+      "acts_of_service": "You protect your WITCH from hexes, heartache, and hiccups.",
+      "belonging": "You throw mouse bones and read their teachings.",
+      "meow": "BEWARE OF DOGS!"
+    },
+    "skills": {
+      "caprice": 2,
+      "caution": 8,
+      "catastrophe": 8,
+      "curiosity": 6,
+      "charisma": 8,
+      "cunning": 3
+    },
+    "birth_chart": {
+      "sun": "capricorn",
+      "moon": "scorpio",
+      "rising": "aquarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lilac"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Flooded Aqua"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      },
+      {
+        "trait_type": "Facewear",
+        "value": "Eyepatch (Blue)"
+      }
+    ],
+    "hash": "03bec3840f1cd5b521622197516c0210557b87176a56161f3ec8305948e8dc7a"
+  }
+}

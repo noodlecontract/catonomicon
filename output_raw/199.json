@@ -1,0 +1,152 @@
+{
+  "name": "nakamoto, the curious",
+  "description": "You are a CAT made of eight crazy nights. Your purrs cast spells of slumber, suspending minds in nightmares and dreams. You provoke your WITCH just because you can. You speak fluent Japanese to the sushi on your plate. LET THEM EAT CAKE!",
+  "image": "https://covencats.s3.amazonaws.com/9844499b96b0e839b9214bb7b474512b6046c809eae38751ce911eb4f0b22bab.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Books"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Scripted Octagon Glasses (Green)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Moon Choker (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Leo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 3,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 199,
+    "name": "nakamoto, the curious",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT made of eight crazy nights.",
+      "magic": "Your purrs cast spells of slumber, suspending minds in nightmares and dreams.",
+      "acts_of_service": "You provoke your WITCH just because you can.",
+      "belonging": "You speak fluent Japanese to the sushi on your plate.",
+      "meow": "LET THEM EAT CAKE!"
+    },
+    "skills": {
+      "caprice": 0,
+      "caution": 6,
+      "catastrophe": 4,
+      "curiosity": 9,
+      "charisma": 4,
+      "cunning": 3
+    },
+    "birth_chart": {
+      "sun": "scorpio",
+      "moon": "aries",
+      "rising": "leo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Sea"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Books"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Scripted Octagon Glasses (Green)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Moon Choker (Silver)"
+      }
+    ],
+    "hash": "9844499b96b0e839b9214bb7b474512b6046c809eae38751ce911eb4f0b22bab"
+  }
+}

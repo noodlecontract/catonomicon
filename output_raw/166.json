@@ -1,0 +1,152 @@
+{
+  "name": "matcha of the winery",
+  "description": "You are a CAT who judges all who cross your path. You crab walk on sofas and run horizontally across walls. You and your WITCH take cat naps in the sun. Birds ask for your fur to create elaborate nests. RUN FOR THE POTION!",
+  "image": "https://covencats.s3.amazonaws.com/8e219e8ac5d1a81a7f9c65376525d14dbd214b18e9d49af7838a5afd1f0f2b58.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Full Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Toadstool"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Chocolate Siamese"
+    },
+    {
+      "trait_type": "Forehead Marking",
+      "value": "Mark of Air (White)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Virgo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 6,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 166,
+    "name": "matcha of the winery",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT who judges all who cross your path.",
+      "magic": "You crab walk on sofas and run horizontally across walls.",
+      "acts_of_service": "You and your WITCH take cat naps in the sun.",
+      "belonging": "Birds ask for your fur to create elaborate nests.",
+      "meow": "RUN FOR THE POTION!"
+    },
+    "skills": {
+      "caprice": 8,
+      "caution": 8,
+      "catastrophe": 2,
+      "curiosity": 3,
+      "charisma": 6,
+      "cunning": 6
+    },
+    "birth_chart": {
+      "sun": "leo",
+      "moon": "pisces",
+      "rising": "virgo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Full Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Toadstool"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Chocolate Siamese"
+      },
+      {
+        "trait_type": "Forehead Marking",
+        "value": "Mark of Air (White)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Green"
+      }
+    ],
+    "hash": "8e219e8ac5d1a81a7f9c65376525d14dbd214b18e9d49af7838a5afd1f0f2b58"
+  }
+}

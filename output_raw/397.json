@@ -1,0 +1,144 @@
+{
+  "name": "garfield, the dazzling",
+  "description": "You are a CAT who collects feathers, fingerprints, and frangipane. You cast spells with a swish of your tail. You remind your WITCH to take deep breaths and drink water. You are the very definition of cat royalty. EAT THE PIZZA!",
+  "image": "https://covencats.s3.amazonaws.com/7b5036aa6b05ef40a364e76480dc090de273bbb4e6d008fd404756d73e6ad439.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Pillow (Cream)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Rolled"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Steel"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Simple Circlet (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Pisces"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 9,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 397,
+    "name": "garfield, the dazzling",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT who collects feathers, fingerprints, and frangipane.",
+      "magic": "You cast spells with a swish of your tail.",
+      "acts_of_service": "You remind your WITCH to take deep breaths and drink water.",
+      "belonging": "You are the very definition of cat royalty.",
+      "meow": "EAT THE PIZZA!"
+    },
+    "skills": {
+      "caprice": 3,
+      "caution": 6,
+      "catastrophe": 2,
+      "curiosity": 3,
+      "charisma": 5,
+      "cunning": 9
+    },
+    "birth_chart": {
+      "sun": "taurus",
+      "moon": "taurus",
+      "rising": "pisces"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Pillow (Cream)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Steel"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Simple Circlet (Silver)"
+      }
+    ],
+    "hash": "7b5036aa6b05ef40a364e76480dc090de273bbb4e6d008fd404756d73e6ad439"
+  }
+}

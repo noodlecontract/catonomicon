@@ -1,0 +1,160 @@
+{
+  "name": "crepe of the solarium",
+  "description": "You are a CAT who swims with sharks. You catch mice in your sleep. You and your WITCH bond over your passion for napping. Butterflies follow you wherever you go. OY VEY!",
+  "image": "https://covencats.s3.amazonaws.com/3c5f7397fa95fadbeacecbf5ee4eeafc8f65163ed4841131049c942f52d1be98.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Basket of Yarn"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Ball of Yarn and Knitting Needles"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Folded"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Starry Cyan"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Bicolor Pink Turquoise"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Gentle Horns"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Scorpio"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 3,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 348,
+    "name": "crepe of the solarium",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT who swims with sharks.",
+      "magic": "You catch mice in your sleep.",
+      "acts_of_service": "You and your WITCH bond over your passion for napping.",
+      "belonging": "Butterflies follow you wherever you go.",
+      "meow": "OY VEY!"
+    },
+    "skills": {
+      "caprice": 7,
+      "caution": 8,
+      "catastrophe": 1,
+      "curiosity": 9,
+      "charisma": 3,
+      "cunning": 3
+    },
+    "birth_chart": {
+      "sun": "gemini",
+      "moon": "aries",
+      "rising": "scorpio"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Sea"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Basket of Yarn"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Ball of Yarn and Knitting Needles"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Folded"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Starry Cyan"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Bicolor Pink Turquoise"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Gentle Horns"
+      }
+    ],
+    "hash": "3c5f7397fa95fadbeacecbf5ee4eeafc8f65163ed4841131049c942f52d1be98"
+  }
+}

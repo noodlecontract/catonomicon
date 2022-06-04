@@ -1,0 +1,152 @@
+{
+  "name": "mazurka",
+  "description": "You are a CAT who hides in the dark. You investigate all mice and spend your days scrutinising their habits and appetites. You protect your WITCH from pencils, pincher bugs, and Pisces. You gaze upon mortals from the highest point of the Tower. BE THERE OR BE SQUARE!",
+  "image": "https://covencats.s3.amazonaws.com/d9d979366f058631f734ad80417a3dab8de0769d5ddb3d0f54e18866e4a41e7d.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Crescent Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Pillow (Purple)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Witch Hat"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Rolled"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Steel"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Capricorn"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 8,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 409,
+    "name": "mazurka",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT who hides in the dark.",
+      "magic": "You investigate all mice and spend your days scrutinising their habits and appetites.",
+      "acts_of_service": "You protect your WITCH from pencils, pincher bugs, and Pisces.",
+      "belonging": "You gaze upon mortals from the highest point of the Tower.",
+      "meow": "BE THERE OR BE SQUARE!"
+    },
+    "skills": {
+      "caprice": 7,
+      "caution": 5,
+      "catastrophe": 8,
+      "curiosity": 2,
+      "charisma": 7,
+      "cunning": 8
+    },
+    "birth_chart": {
+      "sun": "libra",
+      "moon": "aries",
+      "rising": "capricorn"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Taupe"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Crescent Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Pillow (Purple)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Witch Hat"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Steel"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      }
+    ],
+    "hash": "d9d979366f058631f734ad80417a3dab8de0769d5ddb3d0f54e18866e4a41e7d"
+  }
+}

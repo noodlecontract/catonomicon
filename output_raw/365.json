@@ -1,0 +1,152 @@
+{
+  "name": "scherzo of lagos",
+  "description": "You are a CAT who roasts and brews perfect coffee. Your paws dance to silent music. You and your WITCH love a mess. Your meows inspire opera singers and orchestras. SCAMPER BACKWARDS INTO THE SUN!",
+  "image": "https://covencats.s3.amazonaws.com/1b92b853148a76b4c99661e119bc5ae0337615f2e3d283f69324d626b1f9cf9b.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Crescent Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Pillow (Cream)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Floofed"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Babylash"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Simple Circlet (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Capricorn"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 3,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 365,
+    "name": "scherzo of lagos",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT who roasts and brews perfect coffee.",
+      "magic": "Your paws dance to silent music.",
+      "acts_of_service": "You and your WITCH love a mess.",
+      "belonging": "Your meows inspire opera singers and orchestras.",
+      "meow": "SCAMPER BACKWARDS INTO THE SUN!"
+    },
+    "skills": {
+      "caprice": 9,
+      "caution": 3,
+      "catastrophe": 8,
+      "curiosity": 1,
+      "charisma": 8,
+      "cunning": 3
+    },
+    "birth_chart": {
+      "sun": "gemini",
+      "moon": "aries",
+      "rising": "capricorn"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Crescent Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Pillow (Cream)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Babylash"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Simple Circlet (Silver)"
+      }
+    ],
+    "hash": "1b92b853148a76b4c99661e119bc5ae0337615f2e3d283f69324d626b1f9cf9b"
+  }
+}

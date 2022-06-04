@@ -1,0 +1,152 @@
+{
+  "name": "malbec",
+  "description": "You are a CAT with 6 lives, found on the beaches of Accra. You scare away enemies with a swish of your tail. You show your love for your WITCH by stuffing them full of your favorite treats. People travel from lands over to bask in your glory. IT'S TIME TO SWIPE AT BIRDS!",
+  "image": "https://covencats.s3.amazonaws.com/d0eb90526cea8923cd6db23c622f85f9245e7e3af3ee955d00abb858b745be77.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Crescent Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Pillow (Purple)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Rolled"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Platinum"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ethereum Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Capricorn"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 4,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 184,
+    "name": "malbec",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT with 6 lives, found on the beaches of Accra.",
+      "magic": "You scare away enemies with a swish of your tail.",
+      "acts_of_service": "You show your love for your WITCH by stuffing them full of your favorite treats.",
+      "belonging": "People travel from lands over to bask in your glory.",
+      "meow": "IT'S TIME TO SWIPE AT BIRDS!"
+    },
+    "skills": {
+      "caprice": 9,
+      "caution": 1,
+      "catastrophe": 1,
+      "curiosity": 6,
+      "charisma": 9,
+      "cunning": 4
+    },
+    "birth_chart": {
+      "sun": "aries",
+      "moon": "libra",
+      "rising": "capricorn"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Crescent Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Pillow (Purple)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Platinum"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Amber"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ethereum Collar"
+      }
+    ],
+    "hash": "d0eb90526cea8923cd6db23c622f85f9245e7e3af3ee955d00abb858b745be77"
+  }
+}

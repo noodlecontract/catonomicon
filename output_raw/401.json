@@ -1,0 +1,144 @@
+{
+  "name": "mew of the pyramid",
+  "description": "You are a CAT with one too many lives, born amid the restless slumbers of a WITCH. You herd children to and fro. You and your WITCH bond over a mutual respect for Beyonce. You entangle people's destinies with the help of a spider. I AM ALIVE AND I AM DEAD!",
+  "image": "https://covencats.s3.amazonaws.com/4f40aab8720b3689248a1a053aa0d19e2b60d54ff7c56d6f09a887979daffcba.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Genie Lamp (Purple)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Witch Hat"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Floofed"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Libra"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 3,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 401,
+    "name": "mew of the pyramid",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT with one too many lives, born amid the restless slumbers of a WITCH.",
+      "magic": "You herd children to and fro.",
+      "acts_of_service": "You and your WITCH bond over a mutual respect for Beyonce.",
+      "belonging": "You entangle people's destinies with the help of a spider.",
+      "meow": "I AM ALIVE AND I AM DEAD!"
+    },
+    "skills": {
+      "caprice": 8,
+      "caution": 4,
+      "catastrophe": 0,
+      "curiosity": 9,
+      "charisma": 7,
+      "cunning": 3
+    },
+    "birth_chart": {
+      "sun": "sagittarius",
+      "moon": "scorpio",
+      "rising": "libra"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Genie Lamp (Purple)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Witch Hat"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Gold"
+      }
+    ],
+    "hash": "4f40aab8720b3689248a1a053aa0d19e2b60d54ff7c56d6f09a887979daffcba"
+  }
+}

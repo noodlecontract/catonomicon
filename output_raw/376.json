@@ -1,0 +1,144 @@
+{
+  "name": "helios, the sleepy",
+  "description": "You are a CAT with infinite lives, born clinging to the highest branch in the Woods. When you want to be alone, you retreat into the dark recesses of your fur. You and your WITCH make wishes on dandelion fluff. You predict the future by the way your tummy grumbles in the morning. IF IT FITS, SIT!",
+  "image": "https://covencats.s3.amazonaws.com/7933e3c95886656d4902472f87070fcc17c188dd3bd119ec651107dfb07e0408.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Genie Lamp (Purple)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Willow the Gentle"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Reverse Cateye"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Opal"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Libra"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 1,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 376,
+    "name": "helios, the sleepy",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT with infinite lives, born clinging to the highest branch in the Woods.",
+      "magic": "When you want to be alone, you retreat into the dark recesses of your fur.",
+      "acts_of_service": "You and your WITCH make wishes on dandelion fluff.",
+      "belonging": "You predict the future by the way your tummy grumbles in the morning.",
+      "meow": "IF IT FITS, SIT!"
+    },
+    "skills": {
+      "caprice": 4,
+      "caution": 4,
+      "catastrophe": 4,
+      "curiosity": 8,
+      "charisma": 2,
+      "cunning": 1
+    },
+    "birth_chart": {
+      "sun": "libra",
+      "moon": "virgo",
+      "rising": "libra"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Genie Lamp (Purple)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Willow the Gentle"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Reverse Cateye"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Opal"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "7933e3c95886656d4902472f87070fcc17c188dd3bd119ec651107dfb07e0408"
+  }
+}

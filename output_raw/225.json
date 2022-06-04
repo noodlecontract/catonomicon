@@ -1,0 +1,144 @@
+{
+  "name": "oni",
+  "description": "You are a CAT who adores designer sunglasses. Your claws are as sharp as blades. You and your WITCH bond over raindrops on roses. Your best naps happen in a bed of dying flowers. BEWARE OF MICE!",
+  "image": "https://covencats.s3.amazonaws.com/f912953f8ea935b15752f033a92a169f32b1e7525bbb8055b842f10d61dc7650.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Sunbeam"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Gramophone"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Smudged"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Virgo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 1,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 225,
+    "name": "oni",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT who adores designer sunglasses.",
+      "magic": "Your claws are as sharp as blades.",
+      "acts_of_service": "You and your WITCH bond over raindrops on roses.",
+      "belonging": "Your best naps happen in a bed of dying flowers.",
+      "meow": "BEWARE OF MICE!"
+    },
+    "skills": {
+      "caprice": 6,
+      "caution": 5,
+      "catastrophe": 3,
+      "curiosity": 3,
+      "charisma": 6,
+      "cunning": 1
+    },
+    "birth_chart": {
+      "sun": "virgo",
+      "moon": "aquarius",
+      "rising": "virgo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Sea"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Sunbeam"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Gramophone"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Red"
+      }
+    ],
+    "hash": "f912953f8ea935b15752f033a92a169f32b1e7525bbb8055b842f10d61dc7650"
+  }
+}

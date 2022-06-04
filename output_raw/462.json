@@ -1,0 +1,176 @@
+{
+  "name": "uranus of the aquamarine",
+  "description": "You are a CAT sprung from a shower of glitter. You bottle forgotten kisses and fallen dragon scales. You protect your WITCH from sabotage, stir fry, and Scorpios. Your best predictions are made by examining the way the skin crisps on a grilled sardine. RIGHTY-O!",
+  "image": "https://covencats.s3.amazonaws.com/5f10ba72d48a695396a56a822fd9bb31291b073a6f1b7d87b05073c107cb6eb3.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Waxing Crescent"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Crystal Ball"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Sage"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Witch Hat"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Calico"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Shadowed"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Piercing Choker (Blue)"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Blindfold (Night)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 4,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 462,
+    "name": "uranus of the aquamarine",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT sprung from a shower of glitter.",
+      "magic": "You bottle forgotten kisses and fallen dragon scales.",
+      "acts_of_service": "You protect your WITCH from sabotage, stir fry, and Scorpios.",
+      "belonging": "Your best predictions are made by examining the way the skin crisps on a grilled sardine.",
+      "meow": "RIGHTY-O!"
+    },
+    "skills": {
+      "caprice": 3,
+      "caution": 3,
+      "catastrophe": 8,
+      "curiosity": 9,
+      "charisma": 0,
+      "cunning": 4
+    },
+    "birth_chart": {
+      "sun": "gemini",
+      "moon": "aquarius",
+      "rising": "sagittarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Waxing Crescent"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Crystal Ball"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Sage"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Witch Hat"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Calico"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Shadowed"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Piercing Choker (Blue)"
+      },
+      {
+        "trait_type": "Facewear",
+        "value": "Blindfold (Night)"
+      }
+    ],
+    "hash": "5f10ba72d48a695396a56a822fd9bb31291b073a6f1b7d87b05073c107cb6eb3"
+  }
+}

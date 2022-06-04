@@ -1,0 +1,160 @@
+{
+  "name": "sapele, the arcane purr",
+  "description": "You are a CAT whose very existence confounds reason. You scare away enemies with a high-pitched yowl. You win your WITCH's affection by warming their feet and soothing their pains. You visit abandoned cemeteries and converse with the dead on the full moon. READ THE MOON!",
+  "image": "https://covencats.s3.amazonaws.com/2e990faeef23bbc98a7e3ea9fa18777bccca891b8ce945a4bcb62f0d341bc4fb.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Cat Plates"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Red)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Rolled"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mermaid"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Reverse Cateye"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Opal"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 0,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 339,
+    "name": "sapele, the arcane purr",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT whose very existence confounds reason.",
+      "magic": "You scare away enemies with a high-pitched yowl.",
+      "acts_of_service": "You win your WITCH's affection by warming their feet and soothing their pains.",
+      "belonging": "You visit abandoned cemeteries and converse with the dead on the full moon.",
+      "meow": "READ THE MOON!"
+    },
+    "skills": {
+      "caprice": 7,
+      "caution": 8,
+      "catastrophe": 3,
+      "curiosity": 8,
+      "charisma": 9,
+      "cunning": 0
+    },
+    "birth_chart": {
+      "sun": "taurus",
+      "moon": "sagittarius",
+      "rising": "sagittarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Cat Plates"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Red)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mermaid"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Reverse Cateye"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Opal"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "2e990faeef23bbc98a7e3ea9fa18777bccca891b8ce945a4bcb62f0d341bc4fb"
+  }
+}

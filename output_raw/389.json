@@ -1,0 +1,160 @@
+{
+  "name": "lucius, the danger",
+  "description": "You are a CAT who dips challah in honey year-round. You command the elements to do your bidding. You and your WITCH create bouquets with wilted, wild flowers. You embrace chaos like a long lost love. IT'S TIME TO NAP!",
+  "image": "https://covencats.s3.amazonaws.com/e1aaef02349f84a0a577cfe4918232c91ab7d1990ab8492f1a995c00cea0010b.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Spiderwebs (Ethereum)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Floofed"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Grumpy Ash"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Sclera"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Moon Choker (Silver)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Maleficent Horns"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 9,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 389,
+    "name": "lucius, the danger",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT who dips challah in honey year-round.",
+      "magic": "You command the elements to do your bidding.",
+      "acts_of_service": "You and your WITCH create bouquets with wilted, wild flowers.",
+      "belonging": "You embrace chaos like a long lost love.",
+      "meow": "IT'S TIME TO NAP!"
+    },
+    "skills": {
+      "caprice": 5,
+      "caution": 3,
+      "catastrophe": 9,
+      "curiosity": 2,
+      "charisma": 1,
+      "cunning": 9
+    },
+    "birth_chart": {
+      "sun": "gemini",
+      "moon": "leo",
+      "rising": "sagittarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Skull"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Spiderwebs (Ethereum)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Grumpy Ash"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Sclera"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Moon Choker (Silver)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Maleficent Horns"
+      }
+    ],
+    "hash": "e1aaef02349f84a0a577cfe4918232c91ab7d1990ab8492f1a995c00cea0010b"
+  }
+}

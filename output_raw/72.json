@@ -1,0 +1,160 @@
+{
+  "name": "leo, the foretold",
+  "description": "You are a CAT with infinite lives, born clinging to the highest branch in the Woods. You change furs whenever you desire. You and your WITCH bond over spring/summer runway shows. Your visions are always accompanied by the intoxicating smell of seafood. IT'S TIME TO SWIPE AT BIRDS!",
+  "image": "https://covencats.s3.amazonaws.com/785874aa3689933b02b9d503a0e88a568ae493dbf889b872e863f2e2f5828298.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Sunbeam"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Lucky Cat"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Platinum"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey Green"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 2,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 72,
+    "name": "leo, the foretold",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT with infinite lives, born clinging to the highest branch in the Woods.",
+      "magic": "You change furs whenever you desire.",
+      "acts_of_service": "You and your WITCH bond over spring/summer runway shows.",
+      "belonging": "Your visions are always accompanied by the intoxicating smell of seafood.",
+      "meow": "IT'S TIME TO SWIPE AT BIRDS!"
+    },
+    "skills": {
+      "caprice": 5,
+      "caution": 5,
+      "catastrophe": 3,
+      "curiosity": 2,
+      "charisma": 4,
+      "cunning": 2
+    },
+    "birth_chart": {
+      "sun": "taurus",
+      "moon": "cancer",
+      "rising": "sagittarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Sunbeam"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Lucky Cat"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Platinum"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "785874aa3689933b02b9d503a0e88a568ae493dbf889b872e863f2e2f5828298"
+  }
+}

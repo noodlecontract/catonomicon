@@ -1,0 +1,160 @@
+{
+  "name": "juliet, the playful",
+  "description": "You are a CAT who tells no lies. You sniff out the best quality tuna. You and your WITCH share a love story started by catnip. Your whiskers have inspired many a great thinker. IT'S TIME TO EAT FISH!",
+  "image": "https://covencats.s3.amazonaws.com/a4b157684987c2757d2640c2620fb2e9e4439456145260dfb37a987d087faa2b.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Phoenix (White)"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Cat Food (Tuna)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Rolled"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Cancer"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 5,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 226,
+    "name": "juliet, the playful",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT who tells no lies.",
+      "magic": "You sniff out the best quality tuna.",
+      "acts_of_service": "You and your WITCH share a love story started by catnip.",
+      "belonging": "Your whiskers have inspired many a great thinker.",
+      "meow": "IT'S TIME TO EAT FISH!"
+    },
+    "skills": {
+      "caprice": 6,
+      "caution": 7,
+      "catastrophe": 8,
+      "curiosity": 3,
+      "charisma": 3,
+      "cunning": 5
+    },
+    "birth_chart": {
+      "sun": "capricorn",
+      "moon": "aries",
+      "rising": "cancer"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "Phoenix (White)"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Cat Food (Tuna)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "a4b157684987c2757d2640c2620fb2e9e4439456145260dfb37a987d087faa2b"
+  }
+}

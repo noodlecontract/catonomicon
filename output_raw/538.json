@@ -1,0 +1,160 @@
+{
+  "name": "gorgon morte",
+  "description": "You are a CAT who plays devil's advocate. When you want to be alone, you retreat into the dark recesses of your fur. You play with your WITCH while all the other cats fight. Your yowlings guide lost souls home. YOWL AT LUNA!",
+  "image": "https://covencats.s3.amazonaws.com/dbdf3587355a237d66dad202c3f08b90097d98b9676100fa4f354aaa5ca77bf1.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Bumblebees"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Sage"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Babylash"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ring Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Gemini"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 4,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 538,
+    "name": "gorgon morte",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT who plays devil's advocate.",
+      "magic": "When you want to be alone, you retreat into the dark recesses of your fur.",
+      "acts_of_service": "You play with your WITCH while all the other cats fight.",
+      "belonging": "Your yowlings guide lost souls home.",
+      "meow": "YOWL AT LUNA!"
+    },
+    "skills": {
+      "caprice": 8,
+      "caution": 6,
+      "catastrophe": 4,
+      "curiosity": 8,
+      "charisma": 8,
+      "cunning": 4
+    },
+    "birth_chart": {
+      "sun": "taurus",
+      "moon": "gemini",
+      "rising": "gemini"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Bumblebees"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Sage"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Babylash"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ring Collar (Silver)"
+      }
+    ],
+    "hash": "dbdf3587355a237d66dad202c3f08b90097d98b9676100fa4f354aaa5ca77bf1"
+  }
+}

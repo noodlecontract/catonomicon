@@ -1,0 +1,176 @@
+{
+  "name": "kombucha of fall",
+  "description": "You are a CAT with 9 lives, born from the rustle and shimmer of a well-worn silk slip. You sleep on a bed of feathers and dream of chicken dinners. You and your WITCH bond over a fear of missing out. You label mushrooms by scent with the help of your powerful whiskers. BOW BEFORE ME!",
+  "image": "https://covencats.s3.amazonaws.com/e647597702e0203dd25d00b289a67ea194a60c3f3b9609c521a1baf4e85dcafb.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Basket of Yarn"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Broom"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Ball of Yarn (Blue)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Forehead Marking",
+      "value": "Nega Moon Mark (Black)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Fish Collar"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Gentle Horns"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Scorpio"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 1,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 442,
+    "name": "kombucha of fall",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT with 9 lives, born from the rustle and shimmer of a well-worn silk slip.",
+      "magic": "You sleep on a bed of feathers and dream of chicken dinners.",
+      "acts_of_service": "You and your WITCH bond over a fear of missing out.",
+      "belonging": "You label mushrooms by scent with the help of your powerful whiskers.",
+      "meow": "BOW BEFORE ME!"
+    },
+    "skills": {
+      "caprice": 6,
+      "caution": 9,
+      "catastrophe": 8,
+      "curiosity": 6,
+      "charisma": 4,
+      "cunning": 1
+    },
+    "birth_chart": {
+      "sun": "capricorn",
+      "moon": "gemini",
+      "rising": "scorpio"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Basket of Yarn"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Broom"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Ball of Yarn (Blue)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Forehead Marking",
+        "value": "Nega Moon Mark (Black)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Fish Collar"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Gentle Horns"
+      }
+    ],
+    "hash": "e647597702e0203dd25d00b289a67ea194a60c3f3b9609c521a1baf4e85dcafb"
+  }
+}

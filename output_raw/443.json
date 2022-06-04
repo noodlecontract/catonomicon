@@ -1,0 +1,152 @@
+{
+  "name": "linguine of the isle",
+  "description": "You are a CAT come to life from a spell. Your whiskers tingle in the presence of magic. You and your WITCH scale mountains and explore caves together. Your steaming breath keeps wolves warm on long winter nights. MEOW AT THE MOON!",
+  "image": "https://covencats.s3.amazonaws.com/8c8bcde50dbe16012bd161c60d6b00ad4d14fcb86c1f02603b2a81fbbb04ff4d.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Green)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Warm Brown"
+    },
+    {
+      "trait_type": "Forehead Marking",
+      "value": "Mark of the Chained Moon (White)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Alert"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aquarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 4,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 443,
+    "name": "linguine of the isle",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT come to life from a spell.",
+      "magic": "Your whiskers tingle in the presence of magic.",
+      "acts_of_service": "You and your WITCH scale mountains and explore caves together.",
+      "belonging": "Your steaming breath keeps wolves warm on long winter nights.",
+      "meow": "MEOW AT THE MOON!"
+    },
+    "skills": {
+      "caprice": 1,
+      "caution": 7,
+      "catastrophe": 3,
+      "curiosity": 7,
+      "charisma": 6,
+      "cunning": 4
+    },
+    "birth_chart": {
+      "sun": "scorpio",
+      "moon": "sagittarius",
+      "rising": "aquarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Taupe"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Green)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Warm Brown"
+      },
+      {
+        "trait_type": "Forehead Marking",
+        "value": "Mark of the Chained Moon (White)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Alert"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey"
+      }
+    ],
+    "hash": "8c8bcde50dbe16012bd161c60d6b00ad4d14fcb86c1f02603b2a81fbbb04ff4d"
+  }
+}

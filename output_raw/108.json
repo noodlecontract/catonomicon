@@ -1,0 +1,160 @@
+{
+  "name": "ash, the danger",
+  "description": "You are a CAT made of waterfalls, wontons, and wisteria. You sleep on top of books and dream yourself into tales of the Weird Wilds past. You and your WITCH recharge, reflect, and release every full moon. Your fur hides black magic in its darker shades. READ THE MOON!",
+  "image": "https://covencats.s3.amazonaws.com/e487dcd465add3cfe4e99b1c3667a71f86066707818d23baee416a9df8e8bd16.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Waxing Crescent"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Ram's Skull"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Floofed"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Grumpy Ginger"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Claw Marked (Red)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Reverse Cateye"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Glo"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ring Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Pisces"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 7,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 108,
+    "name": "ash, the danger",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT made of waterfalls, wontons, and wisteria.",
+      "magic": "You sleep on top of books and dream yourself into tales of the Weird Wilds past.",
+      "acts_of_service": "You and your WITCH recharge, reflect, and release every full moon.",
+      "belonging": "Your fur hides black magic in its darker shades.",
+      "meow": "READ THE MOON!"
+    },
+    "skills": {
+      "caprice": 3,
+      "caution": 0,
+      "catastrophe": 9,
+      "curiosity": 2,
+      "charisma": 4,
+      "cunning": 7
+    },
+    "birth_chart": {
+      "sun": "taurus",
+      "moon": "capricorn",
+      "rising": "pisces"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Waxing Crescent"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Ram's Skull"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Grumpy Ginger"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Claw Marked (Red)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Reverse Cateye"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Glo"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ring Collar (Silver)"
+      }
+    ],
+    "hash": "e487dcd465add3cfe4e99b1c3667a71f86066707818d23baee416a9df8e8bd16"
+  }
+}

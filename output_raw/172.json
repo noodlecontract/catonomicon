@@ -1,0 +1,160 @@
+{
+  "name": "selene bubble",
+  "description": "You are a CAT who loves dumplings and grandmas. You eat sardines in olive oil and wash your whiskers with the utmost poise. You and your WITCH take cat naps in the sun. Your favorite fish lives inside a WITCH's crystal ball. DO NOT DISTURB!",
+  "image": "https://covencats.s3.amazonaws.com/eb4a6d9d4b6919602de4d94b9984559e5af6a6ec01d64b051024800309761c18.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Full Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Crystal Ball"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Sage"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Warm Brown"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Clear Graphic"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ethereum Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Cancer"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 1,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 172,
+    "name": "selene bubble",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT who loves dumplings and grandmas.",
+      "magic": "You eat sardines in olive oil and wash your whiskers with the utmost poise.",
+      "acts_of_service": "You and your WITCH take cat naps in the sun.",
+      "belonging": "Your favorite fish lives inside a WITCH's crystal ball.",
+      "meow": "DO NOT DISTURB!"
+    },
+    "skills": {
+      "caprice": 8,
+      "caution": 3,
+      "catastrophe": 3,
+      "curiosity": 5,
+      "charisma": 0,
+      "cunning": 1
+    },
+    "birth_chart": {
+      "sun": "taurus",
+      "moon": "libra",
+      "rising": "cancer"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Full Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Crystal Ball"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Sage"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Warm Brown"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Clear Graphic"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ethereum Collar"
+      }
+    ],
+    "hash": "eb4a6d9d4b6919602de4d94b9984559e5af6a6ec01d64b051024800309761c18"
+  }
+}

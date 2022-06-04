@@ -1,0 +1,168 @@
+{
+  "name": "lafayette haiku",
+  "description": "You are a CAT with 2 lives, found on the streets of Madrid. You transfer energy with a high-pitched yowl. You and your WITCH swap spooky stories before bed. You refuse all but the most luxurious of scratching posts. TO THE MILK SAUCER!",
+  "image": "https://covencats.s3.amazonaws.com/b13b1af91535cbae837b26a987eedfaf517a8e18c472d33e2db1cd5e2b3a0f35.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Moths"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Cat Food (Beef with Gravy)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Collar of Pearls"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Sad Girl Tears"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Cancer"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 7,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 262,
+    "name": "lafayette haiku",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT with 2 lives, found on the streets of Madrid.",
+      "magic": "You transfer energy with a high-pitched yowl.",
+      "acts_of_service": "You and your WITCH swap spooky stories before bed.",
+      "belonging": "You refuse all but the most luxurious of scratching posts.",
+      "meow": "TO THE MILK SAUCER!"
+    },
+    "skills": {
+      "caprice": 4,
+      "caution": 1,
+      "catastrophe": 0,
+      "curiosity": 7,
+      "charisma": 9,
+      "cunning": 7
+    },
+    "birth_chart": {
+      "sun": "scorpio",
+      "moon": "aries",
+      "rising": "cancer"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Moths"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Cat Food (Beef with Gravy)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lilac"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Lilac"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Collar of Pearls"
+      },
+      {
+        "trait_type": "Facewear",
+        "value": "Sad Girl Tears"
+      }
+    ],
+    "hash": "b13b1af91535cbae837b26a987eedfaf517a8e18c472d33e2db1cd5e2b3a0f35"
+  }
+}

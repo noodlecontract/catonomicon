@@ -1,0 +1,168 @@
+{
+  "name": "leo breeze",
+  "description": "You are a CAT who imbibes potions of all kinds. You keep cauldrons of pet fish for... reasons. You and your WITCH bond over high-quality tassels. Your future self tells you stories of how humans stumbled upon the Weird Wilds. BEWARE OF DOGS!",
+  "image": "https://covencats.s3.amazonaws.com/bc7169fd8d80a545ea26d53233e625e7854b61f42eeff3509c4a539216dc6d7e.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Sunbeam"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Green)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sphynx"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Tuxedo"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Hoodlondon Hathor (Gold)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Cancer"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 7,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 275,
+    "name": "leo breeze",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT who imbibes potions of all kinds.",
+      "magic": "You keep cauldrons of pet fish for... reasons.",
+      "acts_of_service": "You and your WITCH bond over high-quality tassels.",
+      "belonging": "Your future self tells you stories of how humans stumbled upon the Weird Wilds.",
+      "meow": "BEWARE OF DOGS!"
+    },
+    "skills": {
+      "caprice": 2,
+      "caution": 8,
+      "catastrophe": 8,
+      "curiosity": 9,
+      "charisma": 5,
+      "cunning": 7
+    },
+    "birth_chart": {
+      "sun": "libra",
+      "moon": "sagittarius",
+      "rising": "cancer"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Sunbeam"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Green)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sphynx"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Tuxedo"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Hoodlondon Hathor (Gold)"
+      }
+    ],
+    "hash": "bc7169fd8d80a545ea26d53233e625e7854b61f42eeff3509c4a539216dc6d7e"
+  }
+}

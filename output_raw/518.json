@@ -1,0 +1,152 @@
+{
+  "name": "earth of the pendulum",
+  "description": "You are a CAT with 4 lives, found in the Zocalo. Your form expands or shrinks to exactly fill the space you occupy. You and your WITCH bond over your passion for napping. You entangle people's destinies with the help of a spider. LEARN TO TANGO!",
+  "image": "https://covencats.s3.amazonaws.com/b64522e5539ec7249cf2b52d153e5dc5921ee7215ead76027fe160c9646f8282.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Broom"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Bag of Salt"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Ethereum"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey Green"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Raised Third Eye (Gold)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Cancer"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 3,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 518,
+    "name": "earth of the pendulum",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT with 4 lives, found in the Zocalo.",
+      "magic": "Your form expands or shrinks to exactly fill the space you occupy.",
+      "acts_of_service": "You and your WITCH bond over your passion for napping.",
+      "belonging": "You entangle people's destinies with the help of a spider.",
+      "meow": "LEARN TO TANGO!"
+    },
+    "skills": {
+      "caprice": 6,
+      "caution": 3,
+      "catastrophe": 2,
+      "curiosity": 2,
+      "charisma": 4,
+      "cunning": 3
+    },
+    "birth_chart": {
+      "sun": "scorpio",
+      "moon": "taurus",
+      "rising": "cancer"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Sea"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Broom"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Bag of Salt"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Ethereum"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Raised Third Eye (Gold)"
+      }
+    ],
+    "hash": "b64522e5539ec7249cf2b52d153e5dc5921ee7215ead76027fe160c9646f8282"
+  }
+}

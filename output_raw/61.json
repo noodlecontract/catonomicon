@@ -1,0 +1,160 @@
+{
+  "name": "kappa heisenberg",
+  "description": "You are a CAT with 2 lives, born from the combination of chaos, carbs, and catnip. You cut down trees with a swipe of your claw. You and your WITCH share an iced latte every morning. You are often heard giving cryptography lectures in the Hallowed Halls. ROLL, ROLL, ROLL!",
+  "image": "https://covencats.s3.amazonaws.com/21f07a3edc41ee12845ad55174960a652a4b3d05a6cb0d042b46a94ae27488f5.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Books"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (White)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Witch Hat"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mauve"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Mage Script Melovesmealot (Purple)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Smudged"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Capricorn"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 5,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 61,
+    "name": "kappa heisenberg",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT with 2 lives, born from the combination of chaos, carbs, and catnip.",
+      "magic": "You cut down trees with a swipe of your claw.",
+      "acts_of_service": "You and your WITCH share an iced latte every morning.",
+      "belonging": "You are often heard giving cryptography lectures in the Hallowed Halls.",
+      "meow": "ROLL, ROLL, ROLL!"
+    },
+    "skills": {
+      "caprice": 7,
+      "caution": 9,
+      "catastrophe": 2,
+      "curiosity": 8,
+      "charisma": 3,
+      "cunning": 5
+    },
+    "birth_chart": {
+      "sun": "sagittarius",
+      "moon": "libra",
+      "rising": "capricorn"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Books"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (White)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Witch Hat"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mauve"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Mage Script Melovesmealot (Purple)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Red"
+      }
+    ],
+    "hash": "21f07a3edc41ee12845ad55174960a652a4b3d05a6cb0d042b46a94ae27488f5"
+  }
+}

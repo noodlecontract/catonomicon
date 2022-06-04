@@ -1,0 +1,152 @@
+{
+  "name": "hawking, the brilliant",
+  "description": "You are a CAT drenched in fire. Your fur glows in the dark. You and your WITCH debate the best preparation of chicken. You are often heard giving cryptography lectures in the Hallowed Halls. DYOR!",
+  "image": "https://covencats.s3.amazonaws.com/5b69851481c81c57a6e3b43a869d599c6b584aa147bdef4c563848f7adbaeba7.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Primordial Ooze"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mermaid"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Mage Script Melovesmealot (Purple)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Smudged Monolid"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Gemini"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 5,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 67,
+    "name": "hawking, the brilliant",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT drenched in fire.",
+      "magic": "Your fur glows in the dark.",
+      "acts_of_service": "You and your WITCH debate the best preparation of chicken.",
+      "belonging": "You are often heard giving cryptography lectures in the Hallowed Halls.",
+      "meow": "DYOR!"
+    },
+    "skills": {
+      "caprice": 0,
+      "caution": 7,
+      "catastrophe": 5,
+      "curiosity": 8,
+      "charisma": 3,
+      "cunning": 5
+    },
+    "birth_chart": {
+      "sun": "gemini",
+      "moon": "aries",
+      "rising": "gemini"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Primordial Ooze"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mermaid"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Mage Script Melovesmealot (Purple)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged Monolid"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      }
+    ],
+    "hash": "5b69851481c81c57a6e3b43a869d599c6b584aa147bdef4c563848f7adbaeba7"
+  }
+}

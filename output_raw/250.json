@@ -1,0 +1,152 @@
+{
+  "name": "carbon, the meticulous",
+  "description": "You are a CAT with 4 lives, born from a ritual of the chaos circle. You swat the snoots of nosey dogs. You remind your WITCH to live, laugh, love. You are often heard giving cryptography lectures in the Hallowed Halls. DO AS I SAY, NOT AS I DO!",
+  "image": "https://covencats.s3.amazonaws.com/b64671d9e92350249e958866c84db7e0aa5966082ce8595831aeb3f6c796dbf0.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Books"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Silver)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Steel"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Mage Script Melovesmealot (Green)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Gemini"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 6,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 250,
+    "name": "carbon, the meticulous",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT with 4 lives, born from a ritual of the chaos circle.",
+      "magic": "You swat the snoots of nosey dogs.",
+      "acts_of_service": "You remind your WITCH to live, laugh, love.",
+      "belonging": "You are often heard giving cryptography lectures in the Hallowed Halls.",
+      "meow": "DO AS I SAY, NOT AS I DO!"
+    },
+    "skills": {
+      "caprice": 1,
+      "caution": 9,
+      "catastrophe": 5,
+      "curiosity": 6,
+      "charisma": 8,
+      "cunning": 6
+    },
+    "birth_chart": {
+      "sun": "libra",
+      "moon": "leo",
+      "rising": "gemini"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Books"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Silver)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Steel"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Mage Script Melovesmealot (Green)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      }
+    ],
+    "hash": "b64671d9e92350249e958866c84db7e0aa5966082ce8595831aeb3f6c796dbf0"
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "name": "dancing kombucha",
+  "description": "You are a CAT with 5 lives, connected by a golden pentagram. You scheme to eat fresh fish every day. You and your WITCH collect fallen bird feathers and river rocks. Every day, you tend to the gardens and consult with the bees on the state of your flowers. BEWITCH HUMANS!",
+  "image": "https://covencats.s3.amazonaws.com/4a7fe40ae277ba003e587cf00fbaa71cbde4d23b0f14fbf05a12ea2b05de2a23.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Cross-stitch"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Cat Food (Tuna)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Warm Brown"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Fish Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Gemini"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 2,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 93,
+    "name": "dancing kombucha",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT with 5 lives, connected by a golden pentagram.",
+      "magic": "You scheme to eat fresh fish every day.",
+      "acts_of_service": "You and your WITCH collect fallen bird feathers and river rocks.",
+      "belonging": "Every day, you tend to the gardens and consult with the bees on the state of your flowers.",
+      "meow": "BEWITCH HUMANS!"
+    },
+    "skills": {
+      "caprice": 1,
+      "caution": 9,
+      "catastrophe": 8,
+      "curiosity": 6,
+      "charisma": 1,
+      "cunning": 2
+    },
+    "birth_chart": {
+      "sun": "scorpio",
+      "moon": "sagittarius",
+      "rising": "gemini"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Sea"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Cross-stitch"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Cat Food (Tuna)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Warm Brown"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Hazel"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Fish Collar"
+      }
+    ],
+    "hash": "4a7fe40ae277ba003e587cf00fbaa71cbde4d23b0f14fbf05a12ea2b05de2a23"
+  }
+}

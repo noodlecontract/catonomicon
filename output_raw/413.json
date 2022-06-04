@@ -1,0 +1,152 @@
+{
+  "name": "haco, the hangry prankster",
+  "description": "You are a CAT with 8 lives, born out of the depths of the Void. Your catnaps are the topic of fables told across the Weird Wilds. You love your WITCH and their warm soft cuddles. You steal everything that isn't nailed down and sometimes things that are. SCREAM AT THE CRESCENT MOON!",
+  "image": "https://covencats.s3.amazonaws.com/cfd87ecf574e4d3338472232d02f89e5e5cb075253ef9e474cc5a6b9d852fff1.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Platinum"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Fish Collar"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Halloween Ghost"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Virgo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 9,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 413,
+    "name": "haco, the hangry prankster",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT with 8 lives, born out of the depths of the Void.",
+      "magic": "Your catnaps are the topic of fables told across the Weird Wilds.",
+      "acts_of_service": "You love your WITCH and their warm soft cuddles.",
+      "belonging": "You steal everything that isn't nailed down and sometimes things that are.",
+      "meow": "SCREAM AT THE CRESCENT MOON!"
+    },
+    "skills": {
+      "caprice": 8,
+      "caution": 1,
+      "catastrophe": 5,
+      "curiosity": 8,
+      "charisma": 4,
+      "cunning": 9
+    },
+    "birth_chart": {
+      "sun": "leo",
+      "moon": "pisces",
+      "rising": "virgo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Sea"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Skull"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Platinum"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Hazel"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Fish Collar"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Halloween Ghost"
+      }
+    ],
+    "hash": "cfd87ecf574e4d3338472232d02f89e5e5cb075253ef9e474cc5a6b9d852fff1"
+  }
+}

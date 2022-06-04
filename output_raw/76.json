@@ -1,0 +1,160 @@
+{
+  "name": "eirene strange",
+  "description": "You are a CAT made of charm and contempt. You change furs whenever you desire. You and your WITCH do yoga and pilates every morning. You draw your visions from whiskers, catnip, and mackerel bones. RUN HORIZONTALLY ACROSS THE WALL!",
+  "image": "https://covencats.s3.amazonaws.com/a40349288196421476bdace7553c7f99516675a130cd49e814bf0530a8bedc10.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Spiderwebs (Ethereum)"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Red)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Flooded Cobalt"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Rope Third Eye (Green)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Leo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 3,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 76,
+    "name": "eirene strange",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT made of charm and contempt.",
+      "magic": "You change furs whenever you desire.",
+      "acts_of_service": "You and your WITCH do yoga and pilates every morning.",
+      "belonging": "You draw your visions from whiskers, catnip, and mackerel bones.",
+      "meow": "RUN HORIZONTALLY ACROSS THE WALL!"
+    },
+    "skills": {
+      "caprice": 9,
+      "caution": 7,
+      "catastrophe": 5,
+      "curiosity": 5,
+      "charisma": 3,
+      "cunning": 3
+    },
+    "birth_chart": {
+      "sun": "gemini",
+      "moon": "aquarius",
+      "rising": "leo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Spiderwebs (Ethereum)"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Red)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Flooded Cobalt"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Rope Third Eye (Green)"
+      }
+    ],
+    "hash": "a40349288196421476bdace7553c7f99516675a130cd49e814bf0530a8bedc10"
+  }
+}

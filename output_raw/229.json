@@ -1,0 +1,144 @@
+{
+  "name": "empress baritone",
+  "description": "You are a CAT revered by all. Your purrs inspire composers to craft the most beautiful symphonies. You and your WITCH bond over scorpion pie. You spend your days in fashion houses, watching models strut down the catwalk. BOOP, BOOP, BOOP!",
+  "image": "https://covencats.s3.amazonaws.com/fbf1560e9acf0f122a57cbaf99344ab0f5293e1129ab259eed31f6129ae086d3.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Crescent Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Pillow (Purple)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Rolled"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Leo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 3,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 229,
+    "name": "empress baritone",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT revered by all.",
+      "magic": "Your purrs inspire composers to craft the most beautiful symphonies.",
+      "acts_of_service": "You and your WITCH bond over scorpion pie.",
+      "belonging": "You spend your days in fashion houses, watching models strut down the catwalk.",
+      "meow": "BOOP, BOOP, BOOP!"
+    },
+    "skills": {
+      "caprice": 5,
+      "caution": 8,
+      "catastrophe": 7,
+      "curiosity": 5,
+      "charisma": 9,
+      "cunning": 3
+    },
+    "birth_chart": {
+      "sun": "cancer",
+      "moon": "libra",
+      "rising": "leo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Crescent Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Pillow (Purple)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Green"
+      }
+    ],
+    "hash": "fbf1560e9acf0f122a57cbaf99344ab0f5293e1129ab259eed31f6129ae086d3"
+  }
+}

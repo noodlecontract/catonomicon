@@ -1,0 +1,160 @@
+{
+  "name": "boron lovecraft",
+  "description": "You are a CAT made from lovingly cut fruit. Your catnaps are the topic of fables told across the Weird Wilds. You and your WITCH adopt abandoned animals and nurse them back to health. Your command of arcane languages is unparalleled. IT'S TIME TO EAT FISH!",
+  "image": "https://covencats.s3.amazonaws.com/14a56014c07d5fff2ec6ac3efad75c0a7327ad542ee4b26153cf4bc716b51908.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Primordial Ooze"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "Scripted Circle (Blue)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mauve"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Mark of Tacolin (Silver)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Smudged Monolid"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 0,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 283,
+    "name": "boron lovecraft",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT made from lovingly cut fruit.",
+      "magic": "Your catnaps are the topic of fables told across the Weird Wilds.",
+      "acts_of_service": "You and your WITCH adopt abandoned animals and nurse them back to health.",
+      "belonging": "Your command of arcane languages is unparalleled.",
+      "meow": "IT'S TIME TO EAT FISH!"
+    },
+    "skills": {
+      "caprice": 6,
+      "caution": 5,
+      "catastrophe": 3,
+      "curiosity": 4,
+      "charisma": 1,
+      "cunning": 0
+    },
+    "birth_chart": {
+      "sun": "virgo",
+      "moon": "virgo",
+      "rising": "taurus"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Sea"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Primordial Ooze"
+      },
+      {
+        "trait_type": "Aura",
+        "value": "Scripted Circle (Blue)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mauve"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Mark of Tacolin (Silver)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged Monolid"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "14a56014c07d5fff2ec6ac3efad75c0a7327ad542ee4b26153cf4bc716b51908"
+  }
+}

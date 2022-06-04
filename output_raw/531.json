@@ -1,0 +1,152 @@
+{
+  "name": "tabiche, the meow",
+  "description": "You are a CAT who tells no lies. You tailor clothes with a swish of your tail. You have a telepathic bond with your chosen WITCH. All that you touch is torn asunder. CHASE YOUR TAIL!",
+  "image": "https://covencats.s3.amazonaws.com/c3255370d2f791e61b788d7095dced8a6f0f2368fadb733e70a0cc1c1ab5ab4f.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Ram's Skull"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mermaid"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Claw Marked (Red)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ring Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 3,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 531,
+    "name": "tabiche, the meow",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT who tells no lies.",
+      "magic": "You tailor clothes with a swish of your tail.",
+      "acts_of_service": "You have a telepathic bond with your chosen WITCH.",
+      "belonging": "All that you touch is torn asunder.",
+      "meow": "CHASE YOUR TAIL!"
+    },
+    "skills": {
+      "caprice": 1,
+      "caution": 8,
+      "catastrophe": 3,
+      "curiosity": 8,
+      "charisma": 5,
+      "cunning": 3
+    },
+    "birth_chart": {
+      "sun": "aries",
+      "moon": "taurus",
+      "rising": "sagittarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Ram's Skull"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mermaid"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Claw Marked (Red)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ring Collar (Silver)"
+      }
+    ],
+    "hash": "c3255370d2f791e61b788d7095dced8a6f0f2368fadb733e70a0cc1c1ab5ab4f"
+  }
+}

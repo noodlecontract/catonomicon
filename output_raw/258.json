@@ -1,0 +1,160 @@
+{
+  "name": "thesis, the hush",
+  "description": "You are a CAT who claws at imposters. You plunge into hot baths to catch magic trapped in bubbles. You and your WITCH debate the virtues of decentralization and governance. You have read the Iliad, the Odyssey, and the Aeneid in their original languages. MAKE SPACE FOR MY TAIL!",
+  "image": "https://covencats.s3.amazonaws.com/4440069921684e3c219e282c5006c4374d97c0ae9dd683386f93e27e56f50ff4.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Crescent Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Grimoires"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Potions"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Caracal"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hypnotic"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Virgo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 2,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 258,
+    "name": "thesis, the hush",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT who claws at imposters.",
+      "magic": "You plunge into hot baths to catch magic trapped in bubbles.",
+      "acts_of_service": "You and your WITCH debate the virtues of decentralization and governance.",
+      "belonging": "You have read the Iliad, the Odyssey, and the Aeneid in their original languages.",
+      "meow": "MAKE SPACE FOR MY TAIL!"
+    },
+    "skills": {
+      "caprice": 4,
+      "caution": 9,
+      "catastrophe": 8,
+      "curiosity": 5,
+      "charisma": 2,
+      "cunning": 2
+    },
+    "birth_chart": {
+      "sun": "leo",
+      "moon": "gemini",
+      "rising": "virgo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Crescent Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Grimoires"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Potions"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Caracal"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hypnotic"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "4440069921684e3c219e282c5006c4374d97c0ae9dd683386f93e27e56f50ff4"
+  }
+}

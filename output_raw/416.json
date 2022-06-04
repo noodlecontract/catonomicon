@@ -1,0 +1,152 @@
+{
+  "name": "consonance, the sparkling",
+  "description": "You are a CAT who dips challah in honey year-round. You change furs whenever you desire. You bring your WITCH gifts of mice, birds, and fish. You gaze upon mortals from the highest point of the Tower. PURR, PURR, PURR!",
+  "image": "https://covencats.s3.amazonaws.com/d45f85ebc57c45fda3c614aff7e8d38d538768358b74c03d0dc963325fd3f471.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Coven No.666 Perfume"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Rolled"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mauve"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Babylash"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Virgo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 4,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 416,
+    "name": "consonance, the sparkling",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT who dips challah in honey year-round.",
+      "magic": "You change furs whenever you desire.",
+      "acts_of_service": "You bring your WITCH gifts of mice, birds, and fish.",
+      "belonging": "You gaze upon mortals from the highest point of the Tower.",
+      "meow": "PURR, PURR, PURR!"
+    },
+    "skills": {
+      "caprice": 4,
+      "caution": 2,
+      "catastrophe": 7,
+      "curiosity": 7,
+      "charisma": 9,
+      "cunning": 4
+    },
+    "birth_chart": {
+      "sun": "libra",
+      "moon": "leo",
+      "rising": "virgo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Coven No.666 Perfume"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mauve"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Babylash"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      }
+    ],
+    "hash": "d45f85ebc57c45fda3c614aff7e8d38d538768358b74c03d0dc963325fd3f471"
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "name": "tiramisu of the orchard",
+  "description": "You are a CAT with 5 lives, connected by a golden pentagram. You can leap to the top of the Tower in a single bound. You gift your WITCH rats, bugs, and twigs. The beasts of the Woods quiet in your presence. IT'S TIME TO SNUGGLE!",
+  "image": "https://covencats.s3.amazonaws.com/b941ecbf3da253cc586bc50ec95c256ca0d490e6e8cb74244764b0c17385a623.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Cat Plates"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (White)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Maine Coon Ginger"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Fish Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 5,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 218,
+    "name": "tiramisu of the orchard",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT with 5 lives, connected by a golden pentagram.",
+      "magic": "You can leap to the top of the Tower in a single bound.",
+      "acts_of_service": "You gift your WITCH rats, bugs, and twigs.",
+      "belonging": "The beasts of the Woods quiet in your presence.",
+      "meow": "IT'S TIME TO SNUGGLE!"
+    },
+    "skills": {
+      "caprice": 8,
+      "caution": 7,
+      "catastrophe": 0,
+      "curiosity": 7,
+      "charisma": 9,
+      "cunning": 5
+    },
+    "birth_chart": {
+      "sun": "leo",
+      "moon": "aries",
+      "rising": "taurus"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Cat Plates"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (White)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Maine Coon Ginger"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Hazel"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Fish Collar"
+      }
+    ],
+    "hash": "b941ecbf3da253cc586bc50ec95c256ca0d490e6e8cb74244764b0c17385a623"
+  }
+}

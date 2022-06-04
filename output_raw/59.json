@@ -1,0 +1,152 @@
+{
+  "name": "helios halo",
+  "description": "You are a CAT who seeks the truth. You drink starlight from a saucer. You and your WITCH take cat naps in the sun. Your whiskers can predict the curses of the VOID WITCH. NAP UNDER THE STARS!",
+  "image": "https://covencats.s3.amazonaws.com/3690fae2c0e46dfb6fb5fc6561b26533da0736bf64f462b7d715fe16cb0e69b9.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Lucky Cat"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Floofed"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Starry Silver"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Reverse Cateye"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Glo"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Piercing Choker (Purple)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 3,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 59,
+    "name": "helios halo",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT who seeks the truth.",
+      "magic": "You drink starlight from a saucer.",
+      "acts_of_service": "You and your WITCH take cat naps in the sun.",
+      "belonging": "Your whiskers can predict the curses of the VOID WITCH.",
+      "meow": "NAP UNDER THE STARS!"
+    },
+    "skills": {
+      "caprice": 6,
+      "caution": 9,
+      "catastrophe": 6,
+      "curiosity": 7,
+      "charisma": 3,
+      "cunning": 3
+    },
+    "birth_chart": {
+      "sun": "sagittarius",
+      "moon": "capricorn",
+      "rising": "sagittarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Lucky Cat"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Starry Silver"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Reverse Cateye"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Glo"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Piercing Choker (Purple)"
+      }
+    ],
+    "hash": "3690fae2c0e46dfb6fb5fc6561b26533da0736bf64f462b7d715fe16cb0e69b9"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "name": "daring salmon",
+  "description": "You are a CAT mysterious beyond belief. Your whiskers always point true south. You win your WITCH's affection by warming their feet and soothing their pains. Every day, you tend to the gardens and consult with the bees on the state of your flowers. IT'S TIME TO NAP!",
+  "image": "https://covencats.s3.amazonaws.com/416550c30dc0de252d7f0581cf9f650a8125d86fe6107e12e6ea0b58ca2678d4.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Cross-stitch"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Brown Bengal"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Virgo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 2,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 542,
+    "name": "daring salmon",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT mysterious beyond belief.",
+      "magic": "Your whiskers always point true south.",
+      "acts_of_service": "You win your WITCH's affection by warming their feet and soothing their pains.",
+      "belonging": "Every day, you tend to the gardens and consult with the bees on the state of your flowers.",
+      "meow": "IT'S TIME TO NAP!"
+    },
+    "skills": {
+      "caprice": 8,
+      "caution": 7,
+      "catastrophe": 2,
+      "curiosity": 3,
+      "charisma": 9,
+      "cunning": 2
+    },
+    "birth_chart": {
+      "sun": "cancer",
+      "moon": "taurus",
+      "rising": "virgo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Cross-stitch"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Brown Bengal"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      }
+    ],
+    "hash": "416550c30dc0de252d7f0581cf9f650a8125d86fe6107e12e6ea0b58ca2678d4"
+  }
+}

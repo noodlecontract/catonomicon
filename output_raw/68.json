@@ -1,0 +1,152 @@
+{
+  "name": "phoebe of the onyx",
+  "description": "You are a CAT with 5 lives, born from a secret incantation of the arcane. You creep within the dreams of regents, sowing seeds of distrust and sedition. You and your WITCH bond over hot goss. You predict the tarot cards your WITCH pulls. SCREAM AT THE CRESCENT MOON!",
+  "image": "https://covencats.s3.amazonaws.com/a6940e1cb1efb20091c92ac9be3e52b90204b27a042aaa751dfd5eee7ffb3bb2.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Crescent Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Genie Lamp (Pearl)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Tabby"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Gemini"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 6,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 68,
+    "name": "phoebe of the onyx",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT with 5 lives, born from a secret incantation of the arcane.",
+      "magic": "You creep within the dreams of regents, sowing seeds of distrust and sedition.",
+      "acts_of_service": "You and your WITCH bond over hot goss.",
+      "belonging": "You predict the tarot cards your WITCH pulls.",
+      "meow": "SCREAM AT THE CRESCENT MOON!"
+    },
+    "skills": {
+      "caprice": 6,
+      "caution": 9,
+      "catastrophe": 3,
+      "curiosity": 9,
+      "charisma": 7,
+      "cunning": 6
+    },
+    "birth_chart": {
+      "sun": "sagittarius",
+      "moon": "scorpio",
+      "rising": "gemini"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Crescent Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Genie Lamp (Pearl)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Tabby"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "a6940e1cb1efb20091c92ac9be3e52b90204b27a042aaa751dfd5eee7ffb3bb2"
+  }
+}

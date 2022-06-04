@@ -1,0 +1,168 @@
+{
+  "name": "sweet gin",
+  "description": "You are a CAT who paints portraits of cabbage and hot dogs. You wear witch hats and tap dance from room to room. You and your WITCH make wishes on dandelion fluff. You steal the shoes of everyone you meet. FEED ME!",
+  "image": "https://covencats.s3.amazonaws.com/ea059059414e444cdc0ce6b90c23a9b4bdb110543366f6ad6f18adca5cd5ca2c.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Black)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Witch Hat"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Floofed"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Grumpy Ginger"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Claw Marked (Red)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Demon Bloom"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Fish Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Leo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 5,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 529,
+    "name": "sweet gin",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT who paints portraits of cabbage and hot dogs.",
+      "magic": "You wear witch hats and tap dance from room to room.",
+      "acts_of_service": "You and your WITCH make wishes on dandelion fluff.",
+      "belonging": "You steal the shoes of everyone you meet.",
+      "meow": "FEED ME!"
+    },
+    "skills": {
+      "caprice": 3,
+      "caution": 7,
+      "catastrophe": 9,
+      "curiosity": 0,
+      "charisma": 5,
+      "cunning": 5
+    },
+    "birth_chart": {
+      "sun": "cancer",
+      "moon": "leo",
+      "rising": "leo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Sea"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Black)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Witch Hat"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Grumpy Ginger"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Claw Marked (Red)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Demon Bloom"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Fish Collar"
+      }
+    ],
+    "hash": "ea059059414e444cdc0ce6b90c23a9b4bdb110543366f6ad6f18adca5cd5ca2c"
+  }
+}

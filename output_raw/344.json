@@ -1,0 +1,144 @@
+{
+  "name": "tulip of the isle",
+  "description": "You are a CAT with 5 lives, born from a secret incantation of the arcane. You transfer energy with a high-pitched yowl. You run circles around your WITCH, chasing imaginary butterflies and ladybugs. Your steaming breath keeps wolves warm on long winter nights. READ THE MOON!",
+  "image": "https://covencats.s3.amazonaws.com/ff08aaa82d30c016d3081fd31674750ed39b1707431c5e289b78b381209f7911.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Toadstool"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Cicada"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mauve"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 4,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 344,
+    "name": "tulip of the isle",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT with 5 lives, born from a secret incantation of the arcane.",
+      "magic": "You transfer energy with a high-pitched yowl.",
+      "acts_of_service": "You run circles around your WITCH, chasing imaginary butterflies and ladybugs.",
+      "belonging": "Your steaming breath keeps wolves warm on long winter nights.",
+      "meow": "READ THE MOON!"
+    },
+    "skills": {
+      "caprice": 7,
+      "caution": 9,
+      "catastrophe": 1,
+      "curiosity": 9,
+      "charisma": 3,
+      "cunning": 4
+    },
+    "birth_chart": {
+      "sun": "cancer",
+      "moon": "gemini",
+      "rising": "sagittarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Toadstool"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "Cicada"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mauve"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      }
+    ],
+    "hash": "ff08aaa82d30c016d3081fd31674750ed39b1707431c5e289b78b381209f7911"
+  }
+}

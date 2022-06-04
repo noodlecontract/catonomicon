@@ -1,0 +1,152 @@
+{
+  "name": "congee of the desk",
+  "description": "You are a CAT made of tuna, salmon, and yellowtail. You read Shakespeare's tales on the coldest winter nights. To cat or not to cat? That is the question. You and your WITCH bond over bright copper kettles. The sound of a can of tuna being opened is like music to your ears. PLUNGE INTO THE COLD WATER!",
+  "image": "https://covencats.s3.amazonaws.com/70efdc5e775bb619fa6460a6150c8c2f4dc58e40775beecac38150183e9c2dbe.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Crystals (Amethyst)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Babylash"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Cat Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Pisces"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 5,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 201,
+    "name": "congee of the desk",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT made of tuna, salmon, and yellowtail.",
+      "magic": "You read Shakespeare's tales on the coldest winter nights. To cat or not to cat? That is the question.",
+      "acts_of_service": "You and your WITCH bond over bright copper kettles.",
+      "belonging": "The sound of a can of tuna being opened is like music to your ears.",
+      "meow": "PLUNGE INTO THE COLD WATER!"
+    },
+    "skills": {
+      "caprice": 3,
+      "caution": 7,
+      "catastrophe": 7,
+      "curiosity": 9,
+      "charisma": 7,
+      "cunning": 5
+    },
+    "birth_chart": {
+      "sun": "aries",
+      "moon": "cancer",
+      "rising": "pisces"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Crystals (Amethyst)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Babylash"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Cat Collar"
+      }
+    ],
+    "hash": "70efdc5e775bb619fa6460a6150c8c2f4dc58e40775beecac38150183e9c2dbe"
+  }
+}

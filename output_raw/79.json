@@ -1,0 +1,168 @@
+{
+  "name": "catharsis, the floof",
+  "description": "You are a CAT with 12 lives, found near Westminster Abbey. Your whiskers detect lies and fool's gold. You and your WITCH enjoy boba and bubble baths. You exist between the elements of a periodic table. IT'S TIME TO STALK YOUR PREY!",
+  "image": "https://covencats.s3.amazonaws.com/d111bee6d0a4da1a8aa933e826e7c5b022a4cca7ca7f7bba8637674a85593e8a.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Apothecary Jars (Limes, Forgotten Kisses, Screams)"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "Scripted Circle (Blue)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Caracal"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Mage Script Serpent (Blue)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 1,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 79,
+    "name": "catharsis, the floof",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT with 12 lives, found near Westminster Abbey.",
+      "magic": "Your whiskers detect lies and fool's gold.",
+      "acts_of_service": "You and your WITCH enjoy boba and bubble baths.",
+      "belonging": "You exist between the elements of a periodic table.",
+      "meow": "IT'S TIME TO STALK YOUR PREY!"
+    },
+    "skills": {
+      "caprice": 0,
+      "caution": 3,
+      "catastrophe": 9,
+      "curiosity": 3,
+      "charisma": 4,
+      "cunning": 1
+    },
+    "birth_chart": {
+      "sun": "scorpio",
+      "moon": "aries",
+      "rising": "sagittarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Apothecary Jars (Limes, Forgotten Kisses, Screams)"
+      },
+      {
+        "trait_type": "Aura",
+        "value": "Scripted Circle (Blue)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Caracal"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Mage Script Serpent (Blue)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      }
+    ],
+    "hash": "d111bee6d0a4da1a8aa933e826e7c5b022a4cca7ca7f7bba8637674a85593e8a"
+  }
+}

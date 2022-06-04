@@ -1,0 +1,160 @@
+{
+  "name": "sedna bubble",
+  "description": "You are a CAT with unknown lives, born beneath an auspicious full moon. Your whiskers always point true south. You and your WITCH debate the best preparation of chicken. You see mice, spiders, and days of doom. POUNCE BACKWARDS INTO HELL!",
+  "image": "https://covencats.s3.amazonaws.com/9ba4cd3d0c40b30fbbff76148fa8ce0c4e7419d1166588f3dbd69c146d1edf03.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Lucky Cat"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Reverse Cateye"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Glo"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Blindfold (Night)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Pisces"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 2,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 287,
+    "name": "sedna bubble",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT with unknown lives, born beneath an auspicious full moon.",
+      "magic": "Your whiskers always point true south.",
+      "acts_of_service": "You and your WITCH debate the best preparation of chicken.",
+      "belonging": "You see mice, spiders, and days of doom.",
+      "meow": "POUNCE BACKWARDS INTO HELL!"
+    },
+    "skills": {
+      "caprice": 9,
+      "caution": 8,
+      "catastrophe": 6,
+      "curiosity": 5,
+      "charisma": 0,
+      "cunning": 2
+    },
+    "birth_chart": {
+      "sun": "scorpio",
+      "moon": "leo",
+      "rising": "pisces"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Lucky Cat"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Reverse Cateye"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Glo"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      },
+      {
+        "trait_type": "Facewear",
+        "value": "Blindfold (Night)"
+      }
+    ],
+    "hash": "9ba4cd3d0c40b30fbbff76148fa8ce0c4e7419d1166588f3dbd69c146d1edf03"
+  }
+}

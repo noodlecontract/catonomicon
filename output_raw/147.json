@@ -1,0 +1,168 @@
+{
+  "name": "alto, the stylish",
+  "description": "You are a CAT with 2 lives, found on the streets of Madrid. You steep your paws in moonlight and color your claws with the dust trails of comets. You and your WITCH debate the best preparation of chicken. Your purrs can be heard in the music of Sylv. RUN FOR THE POTION!",
+  "image": "https://covencats.s3.amazonaws.com/66e176dbf81e4e53d27f17e509f796b146e05ce5d86b95aeb239a0bf1fd2e35f.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Moths"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Gold)"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Creepy Yeha Pearls"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Capricorn"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 4,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 147,
+    "name": "alto, the stylish",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT with 2 lives, found on the streets of Madrid.",
+      "magic": "You steep your paws in moonlight and color your claws with the dust trails of comets.",
+      "acts_of_service": "You and your WITCH debate the best preparation of chicken.",
+      "belonging": "Your purrs can be heard in the music of Sylv.",
+      "meow": "RUN FOR THE POTION!"
+    },
+    "skills": {
+      "caprice": 2,
+      "caution": 5,
+      "catastrophe": 5,
+      "curiosity": 8,
+      "charisma": 5,
+      "cunning": 4
+    },
+    "birth_chart": {
+      "sun": "gemini",
+      "moon": "gemini",
+      "rising": "capricorn"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Moths"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Gold)"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Creepy Yeha Pearls"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      }
+    ],
+    "hash": "66e176dbf81e4e53d27f17e509f796b146e05ce5d86b95aeb239a0bf1fd2e35f"
+  }
+}

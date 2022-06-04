@@ -1,0 +1,160 @@
+{
+  "name": "bunny chow of the forest",
+  "description": "You are a CAT who tells only lies. You transfer energy with a high-pitched yowl. You and your WITCH scale mountains and explore caves together. You get lost in the pages of cookbooks. IT'S TIME TO EAT!",
+  "image": "https://covencats.s3.amazonaws.com/fc1ee25c36c3f631c50e7428ecd778dd105dee0926d91178052b7024ffa6c506.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Easel"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Paintbrushes"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Folded"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Steel"
+    },
+    {
+      "trait_type": "Forehead Marking",
+      "value": "Mark of Earth (White)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Babylash"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Cat Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Scorpio"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 3,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 51,
+    "name": "bunny chow of the forest",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT who tells only lies.",
+      "magic": "You transfer energy with a high-pitched yowl.",
+      "acts_of_service": "You and your WITCH scale mountains and explore caves together.",
+      "belonging": "You get lost in the pages of cookbooks.",
+      "meow": "IT'S TIME TO EAT!"
+    },
+    "skills": {
+      "caprice": 4,
+      "caution": 3,
+      "catastrophe": 3,
+      "curiosity": 9,
+      "charisma": 3,
+      "cunning": 3
+    },
+    "birth_chart": {
+      "sun": "capricorn",
+      "moon": "virgo",
+      "rising": "scorpio"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Easel"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Paintbrushes"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Folded"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Steel"
+      },
+      {
+        "trait_type": "Forehead Marking",
+        "value": "Mark of Earth (White)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Babylash"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Cat Collar"
+      }
+    ],
+    "hash": "fc1ee25c36c3f631c50e7428ecd778dd105dee0926d91178052b7024ffa6c506"
+  }
+}

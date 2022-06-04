@@ -1,0 +1,160 @@
+{
+  "name": "shiitake of the hammock",
+  "description": "You are a CAT drenched in fire. You tailor clothes with a swish of your tail. You and your WITCH knit hats and scarves out of the finest spider webs. You chase fireflies in the summer. WIGGLE YOUR BUTT!",
+  "image": "https://covencats.s3.amazonaws.com/bca7c11618385130c5804eebbce7d4fa65577336a77b4c67ba53c06ef7615715.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Easel"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Paintbrushes"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Folded"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Undereye Gems (White)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Leo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 7,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 322,
+    "name": "shiitake of the hammock",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT drenched in fire.",
+      "magic": "You tailor clothes with a swish of your tail.",
+      "acts_of_service": "You and your WITCH knit hats and scarves out of the finest spider webs.",
+      "belonging": "You chase fireflies in the summer.",
+      "meow": "WIGGLE YOUR BUTT!"
+    },
+    "skills": {
+      "caprice": 1,
+      "caution": 9,
+      "catastrophe": 5,
+      "curiosity": 8,
+      "charisma": 4,
+      "cunning": 7
+    },
+    "birth_chart": {
+      "sun": "libra",
+      "moon": "sagittarius",
+      "rising": "leo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Easel"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Paintbrushes"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Folded"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Undereye Gems (White)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "bca7c11618385130c5804eebbce7d4fa65577336a77b4c67ba53c06ef7615715"
+  }
+}

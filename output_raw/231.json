@@ -1,0 +1,176 @@
+{
+  "name": "morte, the lance",
+  "description": "You are a CAT who sleeps on yarn. Your purrs cast spells of slumber, suspending minds in nightmares and dreams. You and your WITCH share a pillow fort and watch movies all day. You prowl the wilds at night, seeking solace in the company of dark spirits. THE UNIVERSE CALLS!",
+  "image": "https://covencats.s3.amazonaws.com/8de937105b3a7627a119cbd267d12a296117aef4f23dad386d7c1a91c7c6967e.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Mirror"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Black)"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Creepy Yeha Pearls"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Rolled"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ring Collar (Silver)"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Sad Girl Tears"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Cancer"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 0,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 231,
+    "name": "morte, the lance",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT who sleeps on yarn.",
+      "magic": "Your purrs cast spells of slumber, suspending minds in nightmares and dreams.",
+      "acts_of_service": "You and your WITCH share a pillow fort and watch movies all day.",
+      "belonging": "You prowl the wilds at night, seeking solace in the company of dark spirits.",
+      "meow": "THE UNIVERSE CALLS!"
+    },
+    "skills": {
+      "caprice": 4,
+      "caution": 5,
+      "catastrophe": 7,
+      "curiosity": 0,
+      "charisma": 4,
+      "cunning": 0
+    },
+    "birth_chart": {
+      "sun": "taurus",
+      "moon": "virgo",
+      "rising": "cancer"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Sea"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Mirror"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Black)"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Creepy Yeha Pearls"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ring Collar (Silver)"
+      },
+      {
+        "trait_type": "Facewear",
+        "value": "Sad Girl Tears"
+      }
+    ],
+    "hash": "8de937105b3a7627a119cbd267d12a296117aef4f23dad386d7c1a91c7c6967e"
+  }
+}

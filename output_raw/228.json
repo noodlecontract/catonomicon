@@ -1,0 +1,160 @@
+{
+  "name": "barbancourt, the mischievous meow",
+  "description": "You are a CAT who paints rainbows in a Parisian loft. You change furs whenever you desire. You are your WITCH create paintings with water magic. You revel in sonic booms. TO THE MILK SAUCER!",
+  "image": "https://covencats.s3.amazonaws.com/53fd9fb5d9f64808a56492c4492428f9de264de5a3651f8731198f50cc73e9a2.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Dragon (Ethereum)"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Cat Food (Tuna)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sphynx"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Tuxedo"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey Green"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Moon Choker (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Libra"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 9,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 228,
+    "name": "barbancourt, the mischievous meow",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT who paints rainbows in a Parisian loft.",
+      "magic": "You change furs whenever you desire.",
+      "acts_of_service": "You are your WITCH create paintings with water magic.",
+      "belonging": "You revel in sonic booms.",
+      "meow": "TO THE MILK SAUCER!"
+    },
+    "skills": {
+      "caprice": 6,
+      "caution": 6,
+      "catastrophe": 9,
+      "curiosity": 2,
+      "charisma": 1,
+      "cunning": 9
+    },
+    "birth_chart": {
+      "sun": "virgo",
+      "moon": "leo",
+      "rising": "libra"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "Dragon (Ethereum)"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Cat Food (Tuna)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sphynx"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Tuxedo"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Moon Choker (Silver)"
+      }
+    ],
+    "hash": "53fd9fb5d9f64808a56492c4492428f9de264de5a3651f8731198f50cc73e9a2"
+  }
+}

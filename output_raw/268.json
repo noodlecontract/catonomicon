@@ -1,0 +1,160 @@
+{
+  "name": "neon steinbeck",
+  "description": "You are a CAT kind beyond reckoning. You cut down trees with a swipe of your claw. You and your WITCH heat your blankets with conjured fire. Your mind lives in an impressionist painting of the Weird Wilds. LIVE EACH LIFE AS IF YOU HAVE ONLY ONE!",
+  "image": "https://covencats.s3.amazonaws.com/2ff74eeeed8c2b01607bfd39b60a43ec4375f2d1c7816bb5bae2c80c13447d0e.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Full Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Grimoires"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Steel"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Mage Script Melovesmealot (Blue)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Smudged"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Virgo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 3,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 268,
+    "name": "neon steinbeck",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT kind beyond reckoning.",
+      "magic": "You cut down trees with a swipe of your claw.",
+      "acts_of_service": "You and your WITCH heat your blankets with conjured fire.",
+      "belonging": "Your mind lives in an impressionist painting of the Weird Wilds.",
+      "meow": "LIVE EACH LIFE AS IF YOU HAVE ONLY ONE!"
+    },
+    "skills": {
+      "caprice": 3,
+      "caution": 4,
+      "catastrophe": 3,
+      "curiosity": 4,
+      "charisma": 0,
+      "cunning": 3
+    },
+    "birth_chart": {
+      "sun": "pisces",
+      "moon": "gemini",
+      "rising": "virgo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Full Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Grimoires"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Steel"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Mage Script Melovesmealot (Blue)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      }
+    ],
+    "hash": "2ff74eeeed8c2b01607bfd39b60a43ec4375f2d1c7816bb5bae2c80c13447d0e"
+  }
+}

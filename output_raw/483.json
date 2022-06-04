@@ -1,0 +1,160 @@
+{
+  "name": "chemosh, the deceptive",
+  "description": "You are a CAT who dances among sunflowers. You weave tapestries with your tail. You and your WITCH bond over hot goss. No one dares cross you and those that do live to regret it. TO BE OR NOT TO BE!",
+  "image": "https://covencats.s3.amazonaws.com/4831b982a4d3759dbf4f3d4e4e8eb5a7a0c23dbcbd1e14c954299f58457c87ba.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Black)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Witch Hat"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sphynx"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Fish Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Pisces"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 6,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 483,
+    "name": "chemosh, the deceptive",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT who dances among sunflowers.",
+      "magic": "You weave tapestries with your tail.",
+      "acts_of_service": "You and your WITCH bond over hot goss.",
+      "belonging": "No one dares cross you and those that do live to regret it.",
+      "meow": "TO BE OR NOT TO BE!"
+    },
+    "skills": {
+      "caprice": 8,
+      "caution": 6,
+      "catastrophe": 8,
+      "curiosity": 6,
+      "charisma": 0,
+      "cunning": 6
+    },
+    "birth_chart": {
+      "sun": "taurus",
+      "moon": "aries",
+      "rising": "pisces"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Taupe"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Black)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Witch Hat"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sphynx"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Fish Collar"
+      }
+    ],
+    "hash": "4831b982a4d3759dbf4f3d4e4e8eb5a7a0c23dbcbd1e14c954299f58457c87ba"
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "name": "nutmeg, the deep",
+  "description": "You are a CAT who swats at flies and stares down dogs. Your claws are as sharp as blades. You sleep on your WITCH's pillow at night. You take naps on the bridge between life and death. BOUNCE OFF THE WALLS!",
+  "image": "https://covencats.s3.amazonaws.com/f1c9456c9a7c5fe8d94d3c79e5500f05c1caaa01ad18d96ce85763a08fbd330e.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Spiderwebs (Black)"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (White)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Rolled"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Platinum"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hypnotic"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Vivetta Paw Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 8,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 100,
+    "name": "nutmeg, the deep",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT who swats at flies and stares down dogs.",
+      "magic": "Your claws are as sharp as blades.",
+      "acts_of_service": "You sleep on your WITCH's pillow at night.",
+      "belonging": "You take naps on the bridge between life and death.",
+      "meow": "BOUNCE OFF THE WALLS!"
+    },
+    "skills": {
+      "caprice": 7,
+      "caution": 9,
+      "catastrophe": 9,
+      "curiosity": 8,
+      "charisma": 6,
+      "cunning": 8
+    },
+    "birth_chart": {
+      "sun": "taurus",
+      "moon": "sagittarius",
+      "rising": "sagittarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Spiderwebs (Black)"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (White)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Platinum"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hypnotic"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Vivetta Paw Collar"
+      }
+    ],
+    "hash": "f1c9456c9a7c5fe8d94d3c79e5500f05c1caaa01ad18d96ce85763a08fbd330e"
+  }
+}

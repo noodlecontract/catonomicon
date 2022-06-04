@@ -1,0 +1,152 @@
+{
+  "name": "alanis of the stars",
+  "description": "You are a CAT who yowls under the new moon. You steep your paws in almond extract and hide almonds within your toes. You protect your WITCH from leeches, lavender, and Leos. You predict the future from the crumbs left on the table. BEWARE OF MICE!",
+  "image": "https://covencats.s3.amazonaws.com/fee01fa8b38c041d4a279400f5ad2314df81ac2e53e561cf324635946b5b6b3b.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Red)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Glo"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Rope Third Eye (Purple)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aquarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 4,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 170,
+    "name": "alanis of the stars",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT who yowls under the new moon.",
+      "magic": "You steep your paws in almond extract and hide almonds within your toes.",
+      "acts_of_service": "You protect your WITCH from leeches, lavender, and Leos.",
+      "belonging": "You predict the future from the crumbs left on the table.",
+      "meow": "BEWARE OF MICE!"
+    },
+    "skills": {
+      "caprice": 5,
+      "caution": 5,
+      "catastrophe": 7,
+      "curiosity": 9,
+      "charisma": 7,
+      "cunning": 4
+    },
+    "birth_chart": {
+      "sun": "scorpio",
+      "moon": "scorpio",
+      "rising": "aquarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Red)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Glo"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Rope Third Eye (Purple)"
+      }
+    ],
+    "hash": "fee01fa8b38c041d4a279400f5ad2314df81ac2e53e561cf324635946b5b6b3b"
+  }
+}

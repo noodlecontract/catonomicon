@@ -1,0 +1,160 @@
+{
+  "name": "galileo strange",
+  "description": "You are a CAT who adores designer sunglasses. You contort your body into impossible shapes, hang from clotheslines, and swing from dusty chandeliers. You and your WITCH bond over warm woolen mittens. You draw your visions from whiskers, catnip, and mackerel bones. SCRATCH THE POST!",
+  "image": "https://covencats.s3.amazonaws.com/e2538d3edf3e8c1a7a0d120f6bf13e9a068b300ca6117a43a7737e35c9c88602.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Waxing Crescent"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Crystal Ball"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Floofed"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Starry Cyan"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Alert"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Piercing Choker (Green)"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Eyepatch (Blue)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Capricorn"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 7,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 227,
+    "name": "galileo strange",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT who adores designer sunglasses.",
+      "magic": "You contort your body into impossible shapes, hang from clotheslines, and swing from dusty chandeliers.",
+      "acts_of_service": "You and your WITCH bond over warm woolen mittens.",
+      "belonging": "You draw your visions from whiskers, catnip, and mackerel bones.",
+      "meow": "SCRATCH THE POST!"
+    },
+    "skills": {
+      "caprice": 5,
+      "caution": 9,
+      "catastrophe": 5,
+      "curiosity": 9,
+      "charisma": 2,
+      "cunning": 7
+    },
+    "birth_chart": {
+      "sun": "taurus",
+      "moon": "aquarius",
+      "rising": "capricorn"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Waxing Crescent"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Crystal Ball"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Starry Cyan"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Alert"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Piercing Choker (Green)"
+      },
+      {
+        "trait_type": "Facewear",
+        "value": "Eyepatch (Blue)"
+      }
+    ],
+    "hash": "e2538d3edf3e8c1a7a0d120f6bf13e9a068b300ca6117a43a7737e35c9c88602"
+  }
+}

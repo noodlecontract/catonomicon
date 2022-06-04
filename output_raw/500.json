@@ -1,0 +1,152 @@
+{
+  "name": "hangry malfoy",
+  "description": "You are a CAT drenched in fire. Your eyes change color with your mood. You cherish your WITCH like you would the rarest gem. You delight in clawing pillows to shreds. WHEN IN DOUBT, YOWL!",
+  "image": "https://covencats.s3.amazonaws.com/5c48c0edbe3fa8881219fbc63147285b387241785c12c2581a35ff49f2056f00.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Broom"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Bag of Salt"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Floofed"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Grumpy Ginger"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Moon Choker (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Libra"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 8,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 500,
+    "name": "hangry malfoy",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT drenched in fire.",
+      "magic": "Your eyes change color with your mood.",
+      "acts_of_service": "You cherish your WITCH like you would the rarest gem.",
+      "belonging": "You delight in clawing pillows to shreds.",
+      "meow": "WHEN IN DOUBT, YOWL!"
+    },
+    "skills": {
+      "caprice": 7,
+      "caution": 6,
+      "catastrophe": 7,
+      "curiosity": 0,
+      "charisma": 5,
+      "cunning": 8
+    },
+    "birth_chart": {
+      "sun": "virgo",
+      "moon": "aquarius",
+      "rising": "libra"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Broom"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Bag of Salt"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Grumpy Ginger"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Moon Choker (Silver)"
+      }
+    ],
+    "hash": "5c48c0edbe3fa8881219fbc63147285b387241785c12c2581a35ff49f2056f00"
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "name": "velvet hyrule",
+  "description": "You are a CAT made of tuna, salmon, and yellowtail. Your purrs inspire composers to craft the most beautiful symphonies. You and your WITCH take long road trips through the Weird Wilds. People appear more beautiful the longer they are in your presence. THE UNIVERSE CALLS!",
+  "image": "https://covencats.s3.amazonaws.com/88e8fbb2044036c126137638b93b0d498470e76ed9b95794e29b85bac22efc19.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Moths"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Crown of Pearls"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Rolled"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Iridescent"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Scorpio"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 3,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 236,
+    "name": "velvet hyrule",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT made of tuna, salmon, and yellowtail.",
+      "magic": "Your purrs inspire composers to craft the most beautiful symphonies.",
+      "acts_of_service": "You and your WITCH take long road trips through the Weird Wilds.",
+      "belonging": "People appear more beautiful the longer they are in your presence.",
+      "meow": "THE UNIVERSE CALLS!"
+    },
+    "skills": {
+      "caprice": 2,
+      "caution": 5,
+      "catastrophe": 5,
+      "curiosity": 4,
+      "charisma": 6,
+      "cunning": 3
+    },
+    "birth_chart": {
+      "sun": "gemini",
+      "moon": "pisces",
+      "rising": "scorpio"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Taupe"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Moths"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Crown of Pearls"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Iridescent"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Amber"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      }
+    ],
+    "hash": "88e8fbb2044036c126137638b93b0d498470e76ed9b95794e29b85bac22efc19"
+  }
+}

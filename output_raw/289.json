@@ -1,0 +1,152 @@
+{
+  "name": "amanita of small spaces",
+  "description": "You are a CAT made from fluffy clouds, feathers, and water magic. Your whiskers tell time. You attend sound baths with your WITCH and bask in the songs of sirens. You ride on fairies and tame dragons. MEOWZEL TOV!",
+  "image": "https://covencats.s3.amazonaws.com/77acbf919c49a672fd3992512546a73b7d404ea1f26ccf61c0acf12a2a6e78e3.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Full Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Toadstool"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Butterfly (Rose Quartz)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Steel"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Gemini"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 3,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 289,
+    "name": "amanita of small spaces",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT made from fluffy clouds, feathers, and water magic.",
+      "magic": "Your whiskers tell time.",
+      "acts_of_service": "You attend sound baths with your WITCH and bask in the songs of sirens.",
+      "belonging": "You ride on fairies and tame dragons.",
+      "meow": "MEOWZEL TOV!"
+    },
+    "skills": {
+      "caprice": 1,
+      "caution": 7,
+      "catastrophe": 8,
+      "curiosity": 7,
+      "charisma": 4,
+      "cunning": 3
+    },
+    "birth_chart": {
+      "sun": "leo",
+      "moon": "virgo",
+      "rising": "gemini"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Full Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Toadstool"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "Butterfly (Rose Quartz)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Steel"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Lilac"
+      }
+    ],
+    "hash": "77acbf919c49a672fd3992512546a73b7d404ea1f26ccf61c0acf12a2a6e78e3"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "name": "pisces of the earth",
+  "description": "You are a CAT who collects gossip, glitter, and gel pens. You stack cats in towers and sleep on top. You and your WITCH commune in the cafeteria. The cards speak to you in the squabbles of birds. IT'S TIME TO TEND TO THE CHICKEN COOP!",
+  "image": "https://covencats.s3.amazonaws.com/00ab35f7d10daeffebb0301ff3b61ae0c9f662cfc4ca4e82df198da13db012a5.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Sunbeam"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Genie Lamp (Purple)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Steel"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Reverse Cateye"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Glo"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Scorpio"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 8,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 23,
+    "name": "pisces of the earth",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT who collects gossip, glitter, and gel pens.",
+      "magic": "You stack cats in towers and sleep on top.",
+      "acts_of_service": "You and your WITCH commune in the cafeteria.",
+      "belonging": "The cards speak to you in the squabbles of birds.",
+      "meow": "IT'S TIME TO TEND TO THE CHICKEN COOP!"
+    },
+    "skills": {
+      "caprice": 9,
+      "caution": 3,
+      "catastrophe": 2,
+      "curiosity": 8,
+      "charisma": 1,
+      "cunning": 8
+    },
+    "birth_chart": {
+      "sun": "aquarius",
+      "moon": "capricorn",
+      "rising": "scorpio"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Sunbeam"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Genie Lamp (Purple)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Steel"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Reverse Cateye"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Glo"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "00ab35f7d10daeffebb0301ff3b61ae0c9f662cfc4ca4e82df198da13db012a5"
+  }
+}

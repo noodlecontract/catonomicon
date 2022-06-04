@@ -1,0 +1,152 @@
+{
+  "name": "palladium, the witty",
+  "description": "You are a CAT come to life from a spell. You sleep on a bed of feathers and dream of chicken dinners. You and your WITCH share a cozy blanket and a good book. You can read and write in hieroglyphics. PLUNGE INTO THE COLD WATER!",
+  "image": "https://covencats.s3.amazonaws.com/90415c1aa4c2888385194566dc3fbedf0090cb021d68acb4be002d700261373f.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Books"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Silver)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Smudged"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aquarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 5,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 198,
+    "name": "palladium, the witty",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT come to life from a spell.",
+      "magic": "You sleep on a bed of feathers and dream of chicken dinners.",
+      "acts_of_service": "You and your WITCH share a cozy blanket and a good book.",
+      "belonging": "You can read and write in hieroglyphics.",
+      "meow": "PLUNGE INTO THE COLD WATER!"
+    },
+    "skills": {
+      "caprice": 6,
+      "caution": 2,
+      "catastrophe": 8,
+      "curiosity": 9,
+      "charisma": 2,
+      "cunning": 5
+    },
+    "birth_chart": {
+      "sun": "cancer",
+      "moon": "taurus",
+      "rising": "aquarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Books"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Silver)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "90415c1aa4c2888385194566dc3fbedf0090cb021d68acb4be002d700261373f"
+  }
+}

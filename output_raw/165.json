@@ -1,0 +1,160 @@
+{
+  "name": "argon vaughn",
+  "description": "You are a CAT who seeks the truth. You stack cats in towers and sleep on top. You have a telepathic bond with your chosen WITCH. You have a deep appreciation for the beauty and mystery of language. PLAY WITH YOUR FOOD!",
+  "image": "https://covencats.s3.amazonaws.com/b083bef300b276e1e103636566cb1289f7a22f35e85579259aa80e82ab531385.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Books"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Scripted Octagon Glasses (Green)"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "Mage Aura (Orange)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Maine Coon Ginger"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Glo"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Capricorn"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 3,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 165,
+    "name": "argon vaughn",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT who seeks the truth.",
+      "magic": "You stack cats in towers and sleep on top.",
+      "acts_of_service": "You have a telepathic bond with your chosen WITCH.",
+      "belonging": "You have a deep appreciation for the beauty and mystery of language.",
+      "meow": "PLAY WITH YOUR FOOD!"
+    },
+    "skills": {
+      "caprice": 7,
+      "caution": 2,
+      "catastrophe": 7,
+      "curiosity": 9,
+      "charisma": 3,
+      "cunning": 3
+    },
+    "birth_chart": {
+      "sun": "virgo",
+      "moon": "gemini",
+      "rising": "capricorn"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Books"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Scripted Octagon Glasses (Green)"
+      },
+      {
+        "trait_type": "Aura",
+        "value": "Mage Aura (Orange)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Maine Coon Ginger"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Glo"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "b083bef300b276e1e103636566cb1289f7a22f35e85579259aa80e82ab531385"
+  }
+}

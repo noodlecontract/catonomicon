@@ -1,0 +1,152 @@
+{
+  "name": "dissonance, the playful",
+  "description": "You are a CAT who moved to Portugal for fresh seafood and no crypto taxes. You change furs whenever you desire. You and your WITCH stay up late on full moon nights to inscribe new spells into magical tomes. You refuse all but the most luxurious of scratching posts. YOWL AT LUNA!",
+  "image": "https://covencats.s3.amazonaws.com/57e6ac40ef5dc1caa784b0c9825f806851b10562c86c3f3d769686068f4038fc.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Pillow (Cream)"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Phoenix (Red)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Rolled"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mermaid"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hypnotic"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ethereum Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 4,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 136,
+    "name": "dissonance, the playful",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT who moved to Portugal for fresh seafood and no crypto taxes.",
+      "magic": "You change furs whenever you desire.",
+      "acts_of_service": "You and your WITCH stay up late on full moon nights to inscribe new spells into magical tomes.",
+      "belonging": "You refuse all but the most luxurious of scratching posts.",
+      "meow": "YOWL AT LUNA!"
+    },
+    "skills": {
+      "caprice": 8,
+      "caution": 3,
+      "catastrophe": 4,
+      "curiosity": 5,
+      "charisma": 9,
+      "cunning": 4
+    },
+    "birth_chart": {
+      "sun": "aquarius",
+      "moon": "leo",
+      "rising": "taurus"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Taupe"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Pillow (Cream)"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "Phoenix (Red)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mermaid"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hypnotic"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ethereum Collar"
+      }
+    ],
+    "hash": "57e6ac40ef5dc1caa784b0c9825f806851b10562c86c3f3d769686068f4038fc"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "name": "lamella satoshi",
+  "description": "You are a CAT who dips challah in honey year-round. Your tail chases you. You and your WITCH commune in the cafeteria. You speak countless languages and read even more. RUN UP THE WALL!",
+  "image": "https://covencats.s3.amazonaws.com/efb9dcc7815ea42d2d77e3c57b5f1b5c7d970a9657d6f1319e4b58270b0587b8.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Books"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Brown Bengal"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Carnelian"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Virgo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 7,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 203,
+    "name": "lamella satoshi",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT who dips challah in honey year-round.",
+      "magic": "Your tail chases you.",
+      "acts_of_service": "You and your WITCH commune in the cafeteria.",
+      "belonging": "You speak countless languages and read even more.",
+      "meow": "RUN UP THE WALL!"
+    },
+    "skills": {
+      "caprice": 3,
+      "caution": 3,
+      "catastrophe": 2,
+      "curiosity": 7,
+      "charisma": 7,
+      "cunning": 7
+    },
+    "birth_chart": {
+      "sun": "scorpio",
+      "moon": "aries",
+      "rising": "virgo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Books"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Brown Bengal"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Carnelian"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      }
+    ],
+    "hash": "efb9dcc7815ea42d2d77e3c57b5f1b5c7d970a9657d6f1319e4b58270b0587b8"
+  }
+}

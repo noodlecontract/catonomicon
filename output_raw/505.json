@@ -1,0 +1,152 @@
+{
+  "name": "poblano, the chaotic nightmare",
+  "description": "You are a CAT who unravels yarn. You tailor clothes with a swish of your tail. You and your WITCH make potions from dried leaves and orange zest. You are a hunter and keeper of bird souls. IT'S TIME TO SLEEP ON THE KEYBOARD!",
+  "image": "https://covencats.s3.amazonaws.com/ad29c60ed45fdacccc427111a033a97f3dae339a03f2a2eb790d52133423d9ba.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Spiderwebs (Ethereum)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Floofed"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Grumpy Steel"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Smudged"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Horns of Aries"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Pisces"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 3,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 505,
+    "name": "poblano, the chaotic nightmare",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT who unravels yarn.",
+      "magic": "You tailor clothes with a swish of your tail.",
+      "acts_of_service": "You and your WITCH make potions from dried leaves and orange zest.",
+      "belonging": "You are a hunter and keeper of bird souls.",
+      "meow": "IT'S TIME TO SLEEP ON THE KEYBOARD!"
+    },
+    "skills": {
+      "caprice": 9,
+      "caution": 5,
+      "catastrophe": 3,
+      "curiosity": 7,
+      "charisma": 1,
+      "cunning": 3
+    },
+    "birth_chart": {
+      "sun": "capricorn",
+      "moon": "virgo",
+      "rising": "pisces"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Spiderwebs (Ethereum)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Grumpy Steel"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Horns of Aries"
+      }
+    ],
+    "hash": "ad29c60ed45fdacccc427111a033a97f3dae339a03f2a2eb790d52133423d9ba"
+  }
+}

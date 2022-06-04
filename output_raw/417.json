@@ -1,0 +1,152 @@
+{
+  "name": "poblano, the innocent",
+  "description": "You are a CAT who judges all who cross your path. You craft carafes and cups out of clay. You and your WITCH bond over scorpion pie. You dance in the rain and yowl at the moon. IT'S TIME TO CHASE THE MOUSE!",
+  "image": "https://covencats.s3.amazonaws.com/efe4123ded9fcda4ca359a18e5dac3eb4e9565b9f62fbbec5197e4937c97441b.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Broom"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Bag of Salt"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Fish Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 3,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 417,
+    "name": "poblano, the innocent",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT who judges all who cross your path.",
+      "magic": "You craft carafes and cups out of clay.",
+      "acts_of_service": "You and your WITCH bond over scorpion pie.",
+      "belonging": "You dance in the rain and yowl at the moon.",
+      "meow": "IT'S TIME TO CHASE THE MOUSE!"
+    },
+    "skills": {
+      "caprice": 3,
+      "caution": 8,
+      "catastrophe": 9,
+      "curiosity": 5,
+      "charisma": 0,
+      "cunning": 3
+    },
+    "birth_chart": {
+      "sun": "capricorn",
+      "moon": "libra",
+      "rising": "sagittarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Broom"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Bag of Salt"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Amber"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Fish Collar"
+      }
+    ],
+    "hash": "efe4123ded9fcda4ca359a18e5dac3eb4e9565b9f62fbbec5197e4937c97441b"
+  }
+}

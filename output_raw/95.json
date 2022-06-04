@@ -1,0 +1,160 @@
+{
+  "name": "kennedy sanderson",
+  "description": "You are a CAT with more ears than the eye can see. Your purrs cast spells of slumber, suspending minds in nightmares and dreams. You and your WITCH share a common enemy. You purr along to jazz and blues while you groom. IF IT FITS, SIT!",
+  "image": "https://covencats.s3.amazonaws.com/7949c43b43fdcdf389c7eb7d4bc8fc42e7185c154199d850fd16d397c2de443c.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Moths"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Creepy Yeha Pearls"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Babylash"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Virgo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 2,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 95,
+    "name": "kennedy sanderson",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT with more ears than the eye can see.",
+      "magic": "Your purrs cast spells of slumber, suspending minds in nightmares and dreams.",
+      "acts_of_service": "You and your WITCH share a common enemy.",
+      "belonging": "You purr along to jazz and blues while you groom.",
+      "meow": "IF IT FITS, SIT!"
+    },
+    "skills": {
+      "caprice": 2,
+      "caution": 7,
+      "catastrophe": 6,
+      "curiosity": 1,
+      "charisma": 6,
+      "cunning": 2
+    },
+    "birth_chart": {
+      "sun": "pisces",
+      "moon": "gemini",
+      "rising": "virgo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Moths"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Creepy Yeha Pearls"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Babylash"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "7949c43b43fdcdf389c7eb7d4bc8fc42e7185c154199d850fd16d397c2de443c"
+  }
+}

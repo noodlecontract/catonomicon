@@ -1,0 +1,160 @@
+{
+  "name": "potato of the winery",
+  "description": "You are a CAT with 6 lives, born from the pounce of a jaguar in the middle of the night. You flick your ears to the beat of the music. You and your WITCH bond over the perfect playlist. Birds sing you to sleep each night. CHASE YOUR TAIL!",
+  "image": "https://covencats.s3.amazonaws.com/8e3a0aa6a065281dcc94c0be7dd60dc29cbcd5edc71d6dea63b2e0340f8e7caa.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Sunbeam"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Toadstool"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Platinum"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Glo"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Fish Collar"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Jeweled Antlers"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aries"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 8,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 46,
+    "name": "potato of the winery",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT with 6 lives, born from the pounce of a jaguar in the middle of the night.",
+      "magic": "You flick your ears to the beat of the music.",
+      "acts_of_service": "You and your WITCH bond over the perfect playlist.",
+      "belonging": "Birds sing you to sleep each night.",
+      "meow": "CHASE YOUR TAIL!"
+    },
+    "skills": {
+      "caprice": 8,
+      "caution": 4,
+      "catastrophe": 5,
+      "curiosity": 9,
+      "charisma": 5,
+      "cunning": 8
+    },
+    "birth_chart": {
+      "sun": "libra",
+      "moon": "sagittarius",
+      "rising": "aries"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Taupe"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Sunbeam"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Toadstool"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Platinum"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Glo"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Fish Collar"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Jeweled Antlers"
+      }
+    ],
+    "hash": "8e3a0aa6a065281dcc94c0be7dd60dc29cbcd5edc71d6dea63b2e0340f8e7caa"
+  }
+}

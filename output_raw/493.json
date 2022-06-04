@@ -1,0 +1,168 @@
+{
+  "name": "aniline, the terror",
+  "description": "You are a CAT who yowls under the new moon. You transfer energy with a high-pitched yowl. You love your WITCH and their warm soft cuddles. Demon mice are your best allies. MOVE FAST OR GET OUT OF THE WAY!",
+  "image": "https://covencats.s3.amazonaws.com/a5ea86ac4aa6785c745af66a9aca12932b2be404905bfe7fab22f8847509eb9c.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Cross-stitch"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Apothecary Jars (Limes, Forgotten Kisses, Screams)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Forehead Marking",
+      "value": "Mark of the Claw"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Alert"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Moon Choker (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Libra"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 8,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 493,
+    "name": "aniline, the terror",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT who yowls under the new moon.",
+      "magic": "You transfer energy with a high-pitched yowl.",
+      "acts_of_service": "You love your WITCH and their warm soft cuddles.",
+      "belonging": "Demon mice are your best allies.",
+      "meow": "MOVE FAST OR GET OUT OF THE WAY!"
+    },
+    "skills": {
+      "caprice": 7,
+      "caution": 1,
+      "catastrophe": 6,
+      "curiosity": 3,
+      "charisma": 3,
+      "cunning": 8
+    },
+    "birth_chart": {
+      "sun": "gemini",
+      "moon": "cancer",
+      "rising": "libra"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Cross-stitch"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Apothecary Jars (Limes, Forgotten Kisses, Screams)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Navy"
+      },
+      {
+        "trait_type": "Forehead Marking",
+        "value": "Mark of the Claw"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Alert"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Moon Choker (Silver)"
+      }
+    ],
+    "hash": "a5ea86ac4aa6785c745af66a9aca12932b2be404905bfe7fab22f8847509eb9c"
+  }
+}

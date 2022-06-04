@@ -1,0 +1,160 @@
+{
+  "name": "fudge of the shopping bag",
+  "description": "You are a CAT who collects feathers, fingerprints, and frangipane. You can leap to the top of the Tower in a single bound. You and your WITCH adopt abandoned animals and nurse them back to health. You get lost in the pages of cookbooks. WEAR YOUR STRIPES!",
+  "image": "https://covencats.s3.amazonaws.com/313c1f0eb501ab34c6d42f87fc496e90bcd2fe9ba10acfc873e8f7a65bc79ebf.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Full Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Toadstool"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Folded"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Platinum"
+    },
+    {
+      "trait_type": "Forehead Marking",
+      "value": "Star Mark (White)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey Green"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Anemone Horns"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 6,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 476,
+    "name": "fudge of the shopping bag",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT who collects feathers, fingerprints, and frangipane.",
+      "magic": "You can leap to the top of the Tower in a single bound.",
+      "acts_of_service": "You and your WITCH adopt abandoned animals and nurse them back to health.",
+      "belonging": "You get lost in the pages of cookbooks.",
+      "meow": "WEAR YOUR STRIPES!"
+    },
+    "skills": {
+      "caprice": 3,
+      "caution": 9,
+      "catastrophe": 3,
+      "curiosity": 6,
+      "charisma": 5,
+      "cunning": 6
+    },
+    "birth_chart": {
+      "sun": "pisces",
+      "moon": "gemini",
+      "rising": "taurus"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Full Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Toadstool"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Folded"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Platinum"
+      },
+      {
+        "trait_type": "Forehead Marking",
+        "value": "Star Mark (White)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey Green"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Anemone Horns"
+      }
+    ],
+    "hash": "313c1f0eb501ab34c6d42f87fc496e90bcd2fe9ba10acfc873e8f7a65bc79ebf"
+  }
+}

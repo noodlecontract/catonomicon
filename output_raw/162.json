@@ -1,0 +1,160 @@
+{
+  "name": "marchioness cadenza",
+  "description": "You are a CAT mischievous beyond reckoning. Your ears wiggle to a silent disco. You predict your WITCH's future. You are the object of desire to many, but you only have eyes for one. PURR, PURR, PURR!",
+  "image": "https://covencats.s3.amazonaws.com/87752c645190f31a8e5692287597d8196e0fb5aa4551e13066f75882479fd0b9.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Cat Food (Chicken)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Crown of Pearls"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Platinum"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Babylash"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Collar of Pearls"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Leo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 6,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 162,
+    "name": "marchioness cadenza",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT mischievous beyond reckoning.",
+      "magic": "Your ears wiggle to a silent disco.",
+      "acts_of_service": "You predict your WITCH's future.",
+      "belonging": "You are the object of desire to many, but you only have eyes for one.",
+      "meow": "PURR, PURR, PURR!"
+    },
+    "skills": {
+      "caprice": 3,
+      "caution": 1,
+      "catastrophe": 4,
+      "curiosity": 5,
+      "charisma": 6,
+      "cunning": 6
+    },
+    "birth_chart": {
+      "sun": "leo",
+      "moon": "virgo",
+      "rising": "leo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Sea"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Cat Food (Chicken)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Crown of Pearls"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Platinum"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Babylash"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Collar of Pearls"
+      }
+    ],
+    "hash": "87752c645190f31a8e5692287597d8196e0fb5aa4551e13066f75882479fd0b9"
+  }
+}

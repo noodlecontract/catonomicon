@@ -1,0 +1,152 @@
+{
+  "name": "nocturne, the somber",
+  "description": "You are a CAT with 7 lives, found in a cenote in the Yucatan. Your paws hide multitudes of wisdom and... almonds. You and your WITCH do yoga and pilates every morning. Your playground is a cemetery and your familiar, a crow. RUN UP THE WALL!",
+  "image": "https://covencats.s3.amazonaws.com/4dac2bfca20b1904c8dd70b68095587c647a95ddb8b73642d101bd2e75ae5a24.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Tombstone"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Spiderwebs (Skull)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Smudged"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Leo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 7,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 216,
+    "name": "nocturne, the somber",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT with 7 lives, found in a cenote in the Yucatan.",
+      "magic": "Your paws hide multitudes of wisdom and... almonds.",
+      "acts_of_service": "You and your WITCH do yoga and pilates every morning.",
+      "belonging": "Your playground is a cemetery and your familiar, a crow.",
+      "meow": "RUN UP THE WALL!"
+    },
+    "skills": {
+      "caprice": 5,
+      "caution": 9,
+      "catastrophe": 6,
+      "curiosity": 6,
+      "charisma": 1,
+      "cunning": 7
+    },
+    "birth_chart": {
+      "sun": "leo",
+      "moon": "pisces",
+      "rising": "leo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Taupe"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Tombstone"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Spiderwebs (Skull)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "4dac2bfca20b1904c8dd70b68095587c647a95ddb8b73642d101bd2e75ae5a24"
+  }
+}

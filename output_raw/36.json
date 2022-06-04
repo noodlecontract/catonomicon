@@ -1,0 +1,160 @@
+{
+  "name": "sweet scuttle",
+  "description": "You are a CAT with one too many lives, born amid the restless slumbers of a WITCH. You swat the snoots of nosey dogs. You sniff your WITCH's hair and fall asleep with the smell of their magic around you. You are often found yowling promises of terror and woe alongside Nyx's incantations. CHASE INVISIBLE ENEMIES!",
+  "image": "https://covencats.s3.amazonaws.com/5f21557904dac76f2e80e10d3ab654013cb3358a0ff7ff6919b44a9a5aafecf8.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Waxing Crescent"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Floofed"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Grumpy Lilac"
+    },
+    {
+      "trait_type": "Forehead Marking",
+      "value": "Darkened Demon Third Eye (Glo)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Glo"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Moon Choker (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Capricorn"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 9,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 36,
+    "name": "sweet scuttle",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT with one too many lives, born amid the restless slumbers of a WITCH.",
+      "magic": "You swat the snoots of nosey dogs.",
+      "acts_of_service": "You sniff your WITCH's hair and fall asleep with the smell of their magic around you.",
+      "belonging": "You are often found yowling promises of terror and woe alongside Nyx's incantations.",
+      "meow": "CHASE INVISIBLE ENEMIES!"
+    },
+    "skills": {
+      "caprice": 4,
+      "caution": 8,
+      "catastrophe": 9,
+      "curiosity": 8,
+      "charisma": 5,
+      "cunning": 9
+    },
+    "birth_chart": {
+      "sun": "aquarius",
+      "moon": "scorpio",
+      "rising": "capricorn"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Waxing Crescent"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Skull"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Grumpy Lilac"
+      },
+      {
+        "trait_type": "Forehead Marking",
+        "value": "Darkened Demon Third Eye (Glo)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Glo"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Moon Choker (Silver)"
+      }
+    ],
+    "hash": "5f21557904dac76f2e80e10d3ab654013cb3358a0ff7ff6919b44a9a5aafecf8"
+  }
+}

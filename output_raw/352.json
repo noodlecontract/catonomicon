@@ -1,0 +1,168 @@
+{
+  "name": "lavash of the scratching post",
+  "description": "You are a CAT who tells no lies. You scare away enemies with a high-pitched yowl. You and your WITCH speak in riddles and puzzles. You get lost in the pages of cookbooks. PURR, PURR, PURR!",
+  "image": "https://covencats.s3.amazonaws.com/cd304ff5cb6c4e90be476e4522e313f086623d74cb7dc4cb065007a97b6a0ff7.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Basket of Yarn"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Bumblebees"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Ball of Yarn (Mustard)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Folded"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Ash"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Gentle Horns"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Leo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 8,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 352,
+    "name": "lavash of the scratching post",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT who tells no lies.",
+      "magic": "You scare away enemies with a high-pitched yowl.",
+      "acts_of_service": "You and your WITCH speak in riddles and puzzles.",
+      "belonging": "You get lost in the pages of cookbooks.",
+      "meow": "PURR, PURR, PURR!"
+    },
+    "skills": {
+      "caprice": 4,
+      "caution": 7,
+      "catastrophe": 6,
+      "curiosity": 5,
+      "charisma": 1,
+      "cunning": 8
+    },
+    "birth_chart": {
+      "sun": "taurus",
+      "moon": "pisces",
+      "rising": "leo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Basket of Yarn"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Bumblebees"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Ball of Yarn (Mustard)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Folded"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Ash"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Lilac"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Gentle Horns"
+      }
+    ],
+    "hash": "cd304ff5cb6c4e90be476e4522e313f086623d74cb7dc4cb065007a97b6a0ff7"
+  }
+}

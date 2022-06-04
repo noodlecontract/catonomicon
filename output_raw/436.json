@@ -1,0 +1,144 @@
+{
+  "name": "ursa minor of the opal",
+  "description": "You are a CAT woven from the petals of peonies. You command the elements to do your bidding. You and your WITCH enjoy fast food and fine dining together. You read human hands and WITCH hearts to learn the future. READ THE STARS!",
+  "image": "https://covencats.s3.amazonaws.com/8fed51ea4557fc778a46f83867dc6204f237e01bd4cac03a57a8ead14bd2505d.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mermaid"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Glo"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Piercing Choker (Purple)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 8,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 436,
+    "name": "ursa minor of the opal",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT woven from the petals of peonies.",
+      "magic": "You command the elements to do your bidding.",
+      "acts_of_service": "You and your WITCH enjoy fast food and fine dining together.",
+      "belonging": "You read human hands and WITCH hearts to learn the future.",
+      "meow": "READ THE STARS!"
+    },
+    "skills": {
+      "caprice": 2,
+      "caution": 9,
+      "catastrophe": 7,
+      "curiosity": 3,
+      "charisma": 6,
+      "cunning": 8
+    },
+    "birth_chart": {
+      "sun": "pisces",
+      "moon": "aries",
+      "rising": "sagittarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Sea"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mermaid"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Glo"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Piercing Choker (Purple)"
+      }
+    ],
+    "hash": "8fed51ea4557fc778a46f83867dc6204f237e01bd4cac03a57a8ead14bd2505d"
+  }
+}

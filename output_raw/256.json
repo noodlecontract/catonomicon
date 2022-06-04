@@ -1,0 +1,160 @@
+{
+  "name": "moonelia cuddlesworth",
+  "description": "You are a CAT revered by all. Your hugs heal ailments and bad dreams. You and your WITCH meet under the stars at the end of a long day. You take down kingdoms with a swipe of your paw. IT'S TIME TO NAP!",
+  "image": "https://covencats.s3.amazonaws.com/2d02b700ac84dbf2a14faa775d26b942004ef412219118f7175953131a796c2e.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Full Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Throne"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Spectral"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Undereye Gems (White)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Babylash"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aries"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 7,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 256,
+    "name": "moonelia cuddlesworth",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT revered by all.",
+      "magic": "Your hugs heal ailments and bad dreams.",
+      "acts_of_service": "You and your WITCH meet under the stars at the end of a long day.",
+      "belonging": "You take down kingdoms with a swipe of your paw.",
+      "meow": "IT'S TIME TO NAP!"
+    },
+    "skills": {
+      "caprice": 5,
+      "caution": 6,
+      "catastrophe": 1,
+      "curiosity": 0,
+      "charisma": 6,
+      "cunning": 7
+    },
+    "birth_chart": {
+      "sun": "capricorn",
+      "moon": "scorpio",
+      "rising": "aries"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Full Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Throne"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Spectral"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Undereye Gems (White)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Babylash"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      }
+    ],
+    "hash": "2d02b700ac84dbf2a14faa775d26b942004ef412219118f7175953131a796c2e"
+  }
+}

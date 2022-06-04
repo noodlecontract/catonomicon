@@ -1,0 +1,160 @@
+{
+  "name": "matcha of the sea",
+  "description": "You are a CAT with 6 lives, found on the beaches of Accra. You scare away enemies with a high-pitched yowl. You and your WITCH swap spooky stories before bed. You share bread with Aradia and meow to the tune of her soundscapes. IT'S TIME TO PLAY!",
+  "image": "https://covencats.s3.amazonaws.com/2fa15d7db907d645a1ac43dbe6c1b7fe31fa05e0f5e586a2896a2f7191ffe5bf.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Cross-stitch"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (White)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Brown Bengal"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Libra"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 7,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 221,
+    "name": "matcha of the sea",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT with 6 lives, found on the beaches of Accra.",
+      "magic": "You scare away enemies with a high-pitched yowl.",
+      "acts_of_service": "You and your WITCH swap spooky stories before bed.",
+      "belonging": "You share bread with Aradia and meow to the tune of her soundscapes.",
+      "meow": "IT'S TIME TO PLAY!"
+    },
+    "skills": {
+      "caprice": 8,
+      "caution": 8,
+      "catastrophe": 3,
+      "curiosity": 9,
+      "charisma": 8,
+      "cunning": 7
+    },
+    "birth_chart": {
+      "sun": "virgo",
+      "moon": "sagittarius",
+      "rising": "libra"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Cross-stitch"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (White)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Brown Bengal"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Amber"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      }
+    ],
+    "hash": "2fa15d7db907d645a1ac43dbe6c1b7fe31fa05e0f5e586a2896a2f7191ffe5bf"
+  }
+}

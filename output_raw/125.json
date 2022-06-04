@@ -1,0 +1,144 @@
+{
+  "name": "mariposa of the windowsill",
+  "description": "You are a CAT who smirks in your sleep. You eat endless amounts of lasagna. You and your WITCH share a hot bowl of soup together on the coldest day of the year. Your fur is perpetually scented with vanilla and cinnamon from all the cookies you bake. IT'S TIME TO NAP!",
+  "image": "https://covencats.s3.amazonaws.com/debfc550101c406671c495ec4c5b9d093552763faf4a41b73a4a8c3998fd885c.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Cross-stitch"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Folded"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Warm Brown"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Glo"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Pisces"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 2,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 125,
+    "name": "mariposa of the windowsill",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT who smirks in your sleep.",
+      "magic": "You eat endless amounts of lasagna.",
+      "acts_of_service": "You and your WITCH share a hot bowl of soup together on the coldest day of the year.",
+      "belonging": "Your fur is perpetually scented with vanilla and cinnamon from all the cookies you bake.",
+      "meow": "IT'S TIME TO NAP!"
+    },
+    "skills": {
+      "caprice": 5,
+      "caution": 9,
+      "catastrophe": 3,
+      "curiosity": 5,
+      "charisma": 2,
+      "cunning": 2
+    },
+    "birth_chart": {
+      "sun": "leo",
+      "moon": "aries",
+      "rising": "pisces"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Taupe"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Cross-stitch"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Folded"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Warm Brown"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Glo"
+      }
+    ],
+    "hash": "debfc550101c406671c495ec4c5b9d093552763faf4a41b73a4a8c3998fd885c"
+  }
+}

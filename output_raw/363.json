@@ -1,0 +1,152 @@
+{
+  "name": "tosto, the startling",
+  "description": "You are a CAT who claws at imposters. You plot, scheme, and craft mischievous plans to get the best pillow in the house. You and your WITCH bond over the perfect playlist. You bewitch humans, bother cats, and bewilder WITCHES. PEER INTO THE UNKNOWN!",
+  "image": "https://covencats.s3.amazonaws.com/657a98aa5fb2d9027e119c4cf8a18fd63c59b41c835ef2036d42c60736d71490.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Moths"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Rolled"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Carnelian"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Pisces"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 6,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 363,
+    "name": "tosto, the startling",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT who claws at imposters.",
+      "magic": "You plot, scheme, and craft mischievous plans to get the best pillow in the house.",
+      "acts_of_service": "You and your WITCH bond over the perfect playlist.",
+      "belonging": "You bewitch humans, bother cats, and bewilder WITCHES.",
+      "meow": "PEER INTO THE UNKNOWN!"
+    },
+    "skills": {
+      "caprice": 8,
+      "caution": 3,
+      "catastrophe": 4,
+      "curiosity": 3,
+      "charisma": 5,
+      "cunning": 6
+    },
+    "birth_chart": {
+      "sun": "scorpio",
+      "moon": "capricorn",
+      "rising": "pisces"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Moths"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Carnelian"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      }
+    ],
+    "hash": "657a98aa5fb2d9027e119c4cf8a18fd63c59b41c835ef2036d42c60736d71490"
+  }
+}

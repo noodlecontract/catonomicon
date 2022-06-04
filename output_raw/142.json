@@ -1,0 +1,144 @@
+{
+  "name": "vesta of the stars",
+  "description": "You are a CAT who paints portraits of pineapples. You can leap to the top of the Tower in a single bound. You protect your WITCH from leftovers, liars, and Libras. You win battles by predicting your enemies' actions. TAKE A NAP!",
+  "image": "https://covencats.s3.amazonaws.com/ccf31473c86565b95e0a9e7ab323b21a8e1ca5fe97f5041bcd838e32969b97ac.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Genie Lamp (Pink)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Shadowed"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Raised Third Eye (Purple)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Gemini"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 8,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 142,
+    "name": "vesta of the stars",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT who paints portraits of pineapples.",
+      "magic": "You can leap to the top of the Tower in a single bound.",
+      "acts_of_service": "You protect your WITCH from leftovers, liars, and Libras.",
+      "belonging": "You win battles by predicting your enemies' actions.",
+      "meow": "TAKE A NAP!"
+    },
+    "skills": {
+      "caprice": 8,
+      "caution": 8,
+      "catastrophe": 6,
+      "curiosity": 4,
+      "charisma": 6,
+      "cunning": 8
+    },
+    "birth_chart": {
+      "sun": "aries",
+      "moon": "taurus",
+      "rising": "gemini"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Genie Lamp (Pink)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Shadowed"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Raised Third Eye (Purple)"
+      }
+    ],
+    "hash": "ccf31473c86565b95e0a9e7ab323b21a8e1ca5fe97f5041bcd838e32969b97ac"
+  }
+}

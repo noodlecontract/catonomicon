@@ -1,0 +1,144 @@
+{
+  "name": "vermouth cumberbatch",
+  "description": "You are a CAT with 15 lives, found at the base of Machu Picchu. Your yowls touch unreachable worlds and send tremors across the Weird Wilds. You and your WITCH do yoga and pilates every morning. The shine of your fur captures the hearts of unsuspecting humans. MAKE SPACE FOR MY TAIL!",
+  "image": "https://covencats.s3.amazonaws.com/8a20f744b17bedde4c73e1b55c1366965024ba76ffd1c5195b6ae8a5da4a1029.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Throne"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 9,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 42,
+    "name": "vermouth cumberbatch",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT with 15 lives, found at the base of Machu Picchu.",
+      "magic": "Your yowls touch unreachable worlds and send tremors across the Weird Wilds.",
+      "acts_of_service": "You and your WITCH do yoga and pilates every morning.",
+      "belonging": "The shine of your fur captures the hearts of unsuspecting humans.",
+      "meow": "MAKE SPACE FOR MY TAIL!"
+    },
+    "skills": {
+      "caprice": 5,
+      "caution": 3,
+      "catastrophe": 5,
+      "curiosity": 0,
+      "charisma": 9,
+      "cunning": 9
+    },
+    "birth_chart": {
+      "sun": "pisces",
+      "moon": "sagittarius",
+      "rising": "sagittarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Throne"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      }
+    ],
+    "hash": "8a20f744b17bedde4c73e1b55c1366965024ba76ffd1c5195b6ae8a5da4a1029"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "name": "iapetus",
+  "description": "You are a CAT made from lovingly cut fruit. You cut down trees with a swipe of your claw. You and your WITCH bond over misplaced modifiers and Oxford commas. You throw mouse bones and read their teachings. BOOP, BOOP, BOOP!",
+  "image": "https://covencats.s3.amazonaws.com/630d42db226f2b1ab801e7ab989e3bf6dc0dfe520e5b205de2fb22f5c461a49d.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Waxing Crescent"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Crystal Ball"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Sage"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Floofed"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mauve"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Bicolor Pink Turquoise"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Scorpio"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 8,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 440,
+    "name": "iapetus",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT made from lovingly cut fruit.",
+      "magic": "You cut down trees with a swipe of your claw.",
+      "acts_of_service": "You and your WITCH bond over misplaced modifiers and Oxford commas.",
+      "belonging": "You throw mouse bones and read their teachings.",
+      "meow": "BOOP, BOOP, BOOP!"
+    },
+    "skills": {
+      "caprice": 4,
+      "caution": 9,
+      "catastrophe": 8,
+      "curiosity": 3,
+      "charisma": 0,
+      "cunning": 8
+    },
+    "birth_chart": {
+      "sun": "sagittarius",
+      "moon": "aquarius",
+      "rising": "scorpio"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Waxing Crescent"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Crystal Ball"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Sage"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mauve"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Bicolor Pink Turquoise"
+      }
+    ],
+    "hash": "630d42db226f2b1ab801e7ab989e3bf6dc0dfe520e5b205de2fb22f5c461a49d"
+  }
+}

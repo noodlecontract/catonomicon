@@ -1,0 +1,168 @@
+{
+  "name": "aniline, the roll",
+  "description": "You are a CAT made from fallen dragon scales. Your wisdom comes from saucers of milk and the smell of ancient books. You and your WITCH hold dance parties every weekend. You delight in the misery of your enemies. READ THE STARS!",
+  "image": "https://covencats.s3.amazonaws.com/5c928be7da4383de34d9d85d8b87ab15b4b2ee7a342ff472b21c3b522075c0f5.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Broom"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Bag of Salt"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Floofed"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Grumpy Platinum"
+    },
+    {
+      "trait_type": "Forehead Marking",
+      "value": "Darkened Demon Third Eye (Sapphire)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Fish Collar"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Horns of Aries"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 5,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 327,
+    "name": "aniline, the roll",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT made from fallen dragon scales.",
+      "magic": "Your wisdom comes from saucers of milk and the smell of ancient books.",
+      "acts_of_service": "You and your WITCH hold dance parties every weekend.",
+      "belonging": "You delight in the misery of your enemies.",
+      "meow": "READ THE STARS!"
+    },
+    "skills": {
+      "caprice": 6,
+      "caution": 1,
+      "catastrophe": 3,
+      "curiosity": 8,
+      "charisma": 2,
+      "cunning": 5
+    },
+    "birth_chart": {
+      "sun": "scorpio",
+      "moon": "libra",
+      "rising": "sagittarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Taupe"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Broom"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Bag of Salt"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Grumpy Platinum"
+      },
+      {
+        "trait_type": "Forehead Marking",
+        "value": "Darkened Demon Third Eye (Sapphire)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Amber"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Fish Collar"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Horns of Aries"
+      }
+    ],
+    "hash": "5c928be7da4383de34d9d85d8b87ab15b4b2ee7a342ff472b21c3b522075c0f5"
+  }
+}

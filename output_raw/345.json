@@ -1,0 +1,152 @@
+{
+  "name": "cantata hyrule",
+  "description": "You are a CAT who collects feathers, fingerprints, and frangipane. You demand watercress, arugula, and wild spinach year-round to appease your discerning palate. You and your WITCH share a common enemy. You refuse all but the most luxurious of scratching posts. HIDE IF YOU DARE!",
+  "image": "https://covencats.s3.amazonaws.com/ab8a0f22f07304a1383399c4cee7683d5e54cf1f685995f8324265518a5b3f80.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Pillow (Cream)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Crown of Pearls"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Rolled"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Iridescent"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey Green"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Pisces"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 9,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 345,
+    "name": "cantata hyrule",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT who collects feathers, fingerprints, and frangipane.",
+      "magic": "You demand watercress, arugula, and wild spinach year-round to appease your discerning palate.",
+      "acts_of_service": "You and your WITCH share a common enemy.",
+      "belonging": "You refuse all but the most luxurious of scratching posts.",
+      "meow": "HIDE IF YOU DARE!"
+    },
+    "skills": {
+      "caprice": 5,
+      "caution": 0,
+      "catastrophe": 7,
+      "curiosity": 3,
+      "charisma": 6,
+      "cunning": 9
+    },
+    "birth_chart": {
+      "sun": "taurus",
+      "moon": "capricorn",
+      "rising": "pisces"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Pillow (Cream)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Crown of Pearls"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Iridescent"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      }
+    ],
+    "hash": "ab8a0f22f07304a1383399c4cee7683d5e54cf1f685995f8324265518a5b3f80"
+  }
+}

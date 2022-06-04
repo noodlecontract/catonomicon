@@ -1,0 +1,144 @@
+{
+  "name": "trellis soul",
+  "description": "You are a CAT with one too many lives, born amid the restless slumbers of a WITCH. Your tail always points true north. You sleep on your WITCH's pillow at night. You feel kinship with all creatures, living and departed. WALK IN SHADOWS!",
+  "image": "https://covencats.s3.amazonaws.com/749f795fe4d1b020b2f87926780a3a0f05d9a3f7b37f221c5e8227e236af7384.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Gramophone"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Babylash"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ring Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Capricorn"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 7,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 415,
+    "name": "trellis soul",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT with one too many lives, born amid the restless slumbers of a WITCH.",
+      "magic": "Your tail always points true north.",
+      "acts_of_service": "You sleep on your WITCH's pillow at night.",
+      "belonging": "You feel kinship with all creatures, living and departed.",
+      "meow": "WALK IN SHADOWS!"
+    },
+    "skills": {
+      "caprice": 2,
+      "caution": 8,
+      "catastrophe": 3,
+      "curiosity": 5,
+      "charisma": 7,
+      "cunning": 7
+    },
+    "birth_chart": {
+      "sun": "sagittarius",
+      "moon": "aquarius",
+      "rising": "capricorn"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Gramophone"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lilac"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Babylash"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ring Collar (Silver)"
+      }
+    ],
+    "hash": "749f795fe4d1b020b2f87926780a3a0f05d9a3f7b37f221c5e8227e236af7384"
+  }
+}

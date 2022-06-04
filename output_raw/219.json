@@ -1,0 +1,152 @@
+{
+  "name": "entropy, the fang",
+  "description": "You are a CAT who collects gossip, glitter, and gel pens. Your ears wiggle to a silent disco. You predict your WITCH's future. You teach demons your mischievous ways. POUNCE BACKWARDS INTO PURGATORY!",
+  "image": "https://covencats.s3.amazonaws.com/30755e13ecee6b41b16548dfab474e9886685df57fb875ae6b371aa4f1ce4cba.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Ram's Skull"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Spiderwebs (Ethereum)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Moon Choker (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aquarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 9,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 219,
+    "name": "entropy, the fang",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT who collects gossip, glitter, and gel pens.",
+      "magic": "Your ears wiggle to a silent disco.",
+      "acts_of_service": "You predict your WITCH's future.",
+      "belonging": "You teach demons your mischievous ways.",
+      "meow": "POUNCE BACKWARDS INTO PURGATORY!"
+    },
+    "skills": {
+      "caprice": 2,
+      "caution": 7,
+      "catastrophe": 5,
+      "curiosity": 2,
+      "charisma": 8,
+      "cunning": 9
+    },
+    "birth_chart": {
+      "sun": "pisces",
+      "moon": "cancer",
+      "rising": "aquarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Ram's Skull"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Spiderwebs (Ethereum)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Lilac"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Moon Choker (Silver)"
+      }
+    ],
+    "hash": "30755e13ecee6b41b16548dfab474e9886685df57fb875ae6b371aa4f1ce4cba"
+  }
+}

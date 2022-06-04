@@ -1,0 +1,152 @@
+{
+  "name": "cepheus whirl",
+  "description": "You are a CAT forged from death. Your form expands or shrinks to exactly fill the space you occupy. You sleep on your WITCH's pillow at night. You inhale catnip and exhale spells that stop time. BEWARE OF DOGS!",
+  "image": "https://covencats.s3.amazonaws.com/a9d82fab46366b5b90fda40d6031ecd270217425a19d416995874a0dc663588e.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Blue)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Calico"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey Green"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Raised Third Eye (Gold)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Leo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 1,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 49,
+    "name": "cepheus whirl",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT forged from death.",
+      "magic": "Your form expands or shrinks to exactly fill the space you occupy.",
+      "acts_of_service": "You sleep on your WITCH's pillow at night.",
+      "belonging": "You inhale catnip and exhale spells that stop time.",
+      "meow": "BEWARE OF DOGS!"
+    },
+    "skills": {
+      "caprice": 3,
+      "caution": 3,
+      "catastrophe": 1,
+      "curiosity": 5,
+      "charisma": 0,
+      "cunning": 1
+    },
+    "birth_chart": {
+      "sun": "taurus",
+      "moon": "aquarius",
+      "rising": "leo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Sea"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Blue)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Calico"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Raised Third Eye (Gold)"
+      }
+    ],
+    "hash": "a9d82fab46366b5b90fda40d6031ecd270217425a19d416995874a0dc663588e"
+  }
+}

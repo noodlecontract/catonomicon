@@ -1,0 +1,152 @@
+{
+  "name": "moonelia, the enchanting",
+  "description": "You are a CAT made of eight crazy nights. You recite poems to put your prey to sleep. You and your WITCH dance under every rainbow. You beguile young WITCHES and toy with their hearts. PLUNGE INTO THE COLD WATER!",
+  "image": "https://covencats.s3.amazonaws.com/485c7785b23a560416c539e18b7c5521db299de264f5b426e6735e9729f0db60.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Coven No.666 Perfume"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Chocolate Siamese"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Collar of Pearls"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aries"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 7,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 447,
+    "name": "moonelia, the enchanting",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT made of eight crazy nights.",
+      "magic": "You recite poems to put your prey to sleep.",
+      "acts_of_service": "You and your WITCH dance under every rainbow.",
+      "belonging": "You beguile young WITCHES and toy with their hearts.",
+      "meow": "PLUNGE INTO THE COLD WATER!"
+    },
+    "skills": {
+      "caprice": 3,
+      "caution": 5,
+      "catastrophe": 2,
+      "curiosity": 0,
+      "charisma": 9,
+      "cunning": 7
+    },
+    "birth_chart": {
+      "sun": "aries",
+      "moon": "libra",
+      "rising": "aries"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Coven No.666 Perfume"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Chocolate Siamese"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Collar of Pearls"
+      }
+    ],
+    "hash": "485c7785b23a560416c539e18b7c5521db299de264f5b426e6735e9729f0db60"
+  }
+}

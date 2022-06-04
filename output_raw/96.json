@@ -1,0 +1,144 @@
+{
+  "name": "catrina, the harrowing hiss",
+  "description": "You are a CAT with 4 lives, found in the Zocalo. Your whiskers tingle in the presence of magic. You and your WITCH bond over scorpion pie. You yowl songs to the dead at the start of a new moon. DO AS I SAY, NOT AS I DO!",
+  "image": "https://covencats.s3.amazonaws.com/09dbef50370589a9acaf854dd40ea9863098da61ed30c86b600e013198487562.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Tombstone"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Rolled"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Iridescent"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Reverse Cateye"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Opal"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Virgo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 4,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 96,
+    "name": "catrina, the harrowing hiss",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT with 4 lives, found in the Zocalo.",
+      "magic": "Your whiskers tingle in the presence of magic.",
+      "acts_of_service": "You and your WITCH bond over scorpion pie.",
+      "belonging": "You yowl songs to the dead at the start of a new moon.",
+      "meow": "DO AS I SAY, NOT AS I DO!"
+    },
+    "skills": {
+      "caprice": 0,
+      "caution": 6,
+      "catastrophe": 5,
+      "curiosity": 3,
+      "charisma": 1,
+      "cunning": 4
+    },
+    "birth_chart": {
+      "sun": "leo",
+      "moon": "cancer",
+      "rising": "virgo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Taupe"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Tombstone"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Iridescent"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Reverse Cateye"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Opal"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "09dbef50370589a9acaf854dd40ea9863098da61ed30c86b600e013198487562"
+  }
+}

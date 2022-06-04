@@ -1,0 +1,160 @@
+{
+  "name": "melody haiku",
+  "description": "You are a CAT who collects feathers, fingerprints, and frangipane. You wear witch hats and tap dance from room to room. You and your WITCH bond over a fear of missing out. You purr along to jazz and blues while you groom. LA LUNA!",
+  "image": "https://covencats.s3.amazonaws.com/94febe3cf36a253bf54d3098a7d0a1b432f1390a6fe3f6618683674bd9921273.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Silver)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Crown of Pearls"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Rolled"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Babylash"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Collar of Pearls"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Virgo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 3,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 44,
+    "name": "melody haiku",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT who collects feathers, fingerprints, and frangipane.",
+      "magic": "You wear witch hats and tap dance from room to room.",
+      "acts_of_service": "You and your WITCH bond over a fear of missing out.",
+      "belonging": "You purr along to jazz and blues while you groom.",
+      "meow": "LA LUNA!"
+    },
+    "skills": {
+      "caprice": 9,
+      "caution": 8,
+      "catastrophe": 6,
+      "curiosity": 3,
+      "charisma": 9,
+      "cunning": 3
+    },
+    "birth_chart": {
+      "sun": "sagittarius",
+      "moon": "cancer",
+      "rising": "virgo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Silver)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Crown of Pearls"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Babylash"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Collar of Pearls"
+      }
+    ],
+    "hash": "94febe3cf36a253bf54d3098a7d0a1b432f1390a6fe3f6618683674bd9921273"
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "name": "francium fable",
+  "description": "You are a CAT with 10 lives, found on Table Mountain. You woo WITCHES with a soft purr and meow. You remind your WITCH to take deep breaths and drink water. You are well-versed in quantum physics, organic chemistry, and solidity. TAKE A NAP!",
+  "image": "https://covencats.s3.amazonaws.com/2b45054c262402c3f7d64a96634c1d109d95ca855d0c6f34115932283d7b2da2.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Apothecary Jars (Limes, Forgotten Kisses, Screams)"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "Scripted Circle (Blue)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Steel"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Mage Script Serpent (Blue)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Reverse Cateye"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Glo"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 8,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 77,
+    "name": "francium fable",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT with 10 lives, found on Table Mountain.",
+      "magic": "You woo WITCHES with a soft purr and meow.",
+      "acts_of_service": "You remind your WITCH to take deep breaths and drink water.",
+      "belonging": "You are well-versed in quantum physics, organic chemistry, and solidity.",
+      "meow": "TAKE A NAP!"
+    },
+    "skills": {
+      "caprice": 0,
+      "caution": 7,
+      "catastrophe": 7,
+      "curiosity": 6,
+      "charisma": 6,
+      "cunning": 8
+    },
+    "birth_chart": {
+      "sun": "scorpio",
+      "moon": "aries",
+      "rising": "taurus"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Apothecary Jars (Limes, Forgotten Kisses, Screams)"
+      },
+      {
+        "trait_type": "Aura",
+        "value": "Scripted Circle (Blue)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Steel"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Mage Script Serpent (Blue)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Reverse Cateye"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Glo"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      }
+    ],
+    "hash": "2b45054c262402c3f7d64a96634c1d109d95ca855d0c6f34115932283d7b2da2"
+  }
+}

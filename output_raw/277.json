@@ -1,0 +1,168 @@
+{
+  "name": "lumpia of the valley",
+  "description": "You are a CAT who paints portraits of pineapples. You hallucinate on mushrooms and talk with your past lives. You and your WITCH take long road trips through the Weird Wilds. You help lost kittens find their homes. BEWARE OF DOGS!",
+  "image": "https://covencats.s3.amazonaws.com/c030100e7fa8b459651303ccd08d7fc02218a65383af013b07272120edd98e07.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Butterfly (Rose Quartz)"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Fishbowl"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Folded"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey Green"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Cat Collar"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Anemone Horns"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Scorpio"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 4,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 277,
+    "name": "lumpia of the valley",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT who paints portraits of pineapples.",
+      "magic": "You hallucinate on mushrooms and talk with your past lives.",
+      "acts_of_service": "You and your WITCH take long road trips through the Weird Wilds.",
+      "belonging": "You help lost kittens find their homes.",
+      "meow": "BEWARE OF DOGS!"
+    },
+    "skills": {
+      "caprice": 6,
+      "caution": 4,
+      "catastrophe": 0,
+      "curiosity": 9,
+      "charisma": 5,
+      "cunning": 4
+    },
+    "birth_chart": {
+      "sun": "scorpio",
+      "moon": "cancer",
+      "rising": "scorpio"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Sea"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "Butterfly (Rose Quartz)"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Fishbowl"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Folded"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lilac"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Cat Collar"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Anemone Horns"
+      }
+    ],
+    "hash": "c030100e7fa8b459651303ccd08d7fc02218a65383af013b07272120edd98e07"
+  }
+}

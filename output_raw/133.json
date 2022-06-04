@@ -1,0 +1,168 @@
+{
+  "name": "camembert of the forest",
+  "description": "You are a CAT with a tail fuzzy beyond belief. You are grumpy, jumpy, and dumpy. You and your WITCH bond over brown paper packages tied up with string. You ride on fairies and tame dragons. OY VEY!",
+  "image": "https://covencats.s3.amazonaws.com/c4990ecb30cab0676bb3f470e6a35d67d08a155201e48f8140a8486f1d5eb86a.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Basket of Yarn"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Moths"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Ball of Yarn (Wine)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Maine Coon White"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Jeweled Antlers"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 8,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 133,
+    "name": "camembert of the forest",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT with a tail fuzzy beyond belief.",
+      "magic": "You are grumpy, jumpy, and dumpy.",
+      "acts_of_service": "You and your WITCH bond over brown paper packages tied up with string.",
+      "belonging": "You ride on fairies and tame dragons.",
+      "meow": "OY VEY!"
+    },
+    "skills": {
+      "caprice": 5,
+      "caution": 4,
+      "catastrophe": 7,
+      "curiosity": 7,
+      "charisma": 8,
+      "cunning": 8
+    },
+    "birth_chart": {
+      "sun": "aries",
+      "moon": "taurus",
+      "rising": "taurus"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Basket of Yarn"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Moths"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Ball of Yarn (Wine)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Maine Coon White"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Lilac"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Jeweled Antlers"
+      }
+    ],
+    "hash": "c4990ecb30cab0676bb3f470e6a35d67d08a155201e48f8140a8486f1d5eb86a"
+  }
+}

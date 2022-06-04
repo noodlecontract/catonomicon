@@ -1,0 +1,152 @@
+{
+  "name": "spruce, the black hole",
+  "description": "You are a CAT who dips challah in honey year-round. You stack cats in towers and sleep on top. You and your WITCH do yoga and pilates every morning. You keep a mischief of ghost mice at your beck and call. DIVE INTO YOUR DREAMS!",
+  "image": "https://covencats.s3.amazonaws.com/1cdfd1a2237a40a4366da64a2b8af706bb8c9a9dc3c078ae6d9cf6494b8b8723.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Tombstone"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Smudged Monolid"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ring Collar (Silver)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Bat Wings"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aries"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 0,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 163,
+    "name": "spruce, the black hole",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT who dips challah in honey year-round.",
+      "magic": "You stack cats in towers and sleep on top.",
+      "acts_of_service": "You and your WITCH do yoga and pilates every morning.",
+      "belonging": "You keep a mischief of ghost mice at your beck and call.",
+      "meow": "DIVE INTO YOUR DREAMS!"
+    },
+    "skills": {
+      "caprice": 5,
+      "caution": 6,
+      "catastrophe": 9,
+      "curiosity": 1,
+      "charisma": 1,
+      "cunning": 0
+    },
+    "birth_chart": {
+      "sun": "taurus",
+      "moon": "taurus",
+      "rising": "aries"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Tombstone"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged Monolid"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ring Collar (Silver)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Bat Wings"
+      }
+    ],
+    "hash": "1cdfd1a2237a40a4366da64a2b8af706bb8c9a9dc3c078ae6d9cf6494b8b8723"
+  }
+}

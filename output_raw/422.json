@@ -1,0 +1,160 @@
+{
+  "name": "fitzgerald, the witty",
+  "description": "You are a CAT made of tuna, salmon, and yellowtail. You conquer kingdoms with a fierce hiss. You and your WITCH commune in the cafeteria. You can read and write in hieroglyphics. IF IT FITS, SIT!",
+  "image": "https://covencats.s3.amazonaws.com/e9bb0b77ffe244d2ec9c4b695da4c6bbbb9e9b7eae29dc73e2e21928e79a8029.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Spiderwebs (Ethereum)"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (White)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Bicolor Pink Turquoise"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Pisces"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 4,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 422,
+    "name": "fitzgerald, the witty",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT made of tuna, salmon, and yellowtail.",
+      "magic": "You conquer kingdoms with a fierce hiss.",
+      "acts_of_service": "You and your WITCH commune in the cafeteria.",
+      "belonging": "You can read and write in hieroglyphics.",
+      "meow": "IF IT FITS, SIT!"
+    },
+    "skills": {
+      "caprice": 0,
+      "caution": 6,
+      "catastrophe": 8,
+      "curiosity": 9,
+      "charisma": 4,
+      "cunning": 4
+    },
+    "birth_chart": {
+      "sun": "cancer",
+      "moon": "virgo",
+      "rising": "pisces"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Spiderwebs (Ethereum)"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (White)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Navy"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Bicolor Pink Turquoise"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "e9bb0b77ffe244d2ec9c4b695da4c6bbbb9e9b7eae29dc73e2e21928e79a8029"
+  }
+}

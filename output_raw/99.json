@@ -1,0 +1,152 @@
+{
+  "name": "ruby de la paw",
+  "description": "You are a CAT who swims with sharks. Your whiskers tell fortunes. You have a telepathic bond with your chosen WITCH. You gaze upon mortals from the highest point of the Tower. IF YOU EAT, EAT WELL!",
+  "image": "https://covencats.s3.amazonaws.com/3fcb3e152ab080b1e8d15ed952eceee665c4f81bea6d9120f0d274a654f64275.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Coven No.666 Perfume"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Rolled"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mauve"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Babylash"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Simple Circlet (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aries"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 5,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 99,
+    "name": "ruby de la paw",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT who swims with sharks.",
+      "magic": "Your whiskers tell fortunes.",
+      "acts_of_service": "You have a telepathic bond with your chosen WITCH.",
+      "belonging": "You gaze upon mortals from the highest point of the Tower.",
+      "meow": "IF YOU EAT, EAT WELL!"
+    },
+    "skills": {
+      "caprice": 7,
+      "caution": 7,
+      "catastrophe": 8,
+      "curiosity": 6,
+      "charisma": 3,
+      "cunning": 5
+    },
+    "birth_chart": {
+      "sun": "scorpio",
+      "moon": "cancer",
+      "rising": "aries"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Coven No.666 Perfume"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mauve"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Babylash"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Simple Circlet (Silver)"
+      }
+    ],
+    "hash": "3fcb3e152ab080b1e8d15ed952eceee665c4f81bea6d9120f0d274a654f64275"
+  }
+}

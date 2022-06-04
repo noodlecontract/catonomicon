@@ -1,0 +1,160 @@
+{
+  "name": "mimas of the statue",
+  "description": "You are a CAT with 15 lives, found at the base of Machu Picchu. You conquer kingdoms with a fierce hiss. You and your WITCH bond over your passion for napping. You predict the future from the crumbs left on the table. IT'S TIME TO SWIPE AT BIRDS!",
+  "image": "https://covencats.s3.amazonaws.com/facadf506a301cf1e997d8e9da3ca2180ea6e6fa41507aa4e40f25789510af77.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Moths"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Genie Lamp (Purple)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Steel"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Eyepatch (Blue)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Libra"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 2,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 300,
+    "name": "mimas of the statue",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT with 15 lives, found at the base of Machu Picchu.",
+      "magic": "You conquer kingdoms with a fierce hiss.",
+      "acts_of_service": "You and your WITCH bond over your passion for napping.",
+      "belonging": "You predict the future from the crumbs left on the table.",
+      "meow": "IT'S TIME TO SWIPE AT BIRDS!"
+    },
+    "skills": {
+      "caprice": 8,
+      "caution": 8,
+      "catastrophe": 2,
+      "curiosity": 8,
+      "charisma": 7,
+      "cunning": 2
+    },
+    "birth_chart": {
+      "sun": "aquarius",
+      "moon": "pisces",
+      "rising": "libra"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Moths"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Genie Lamp (Purple)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Steel"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      },
+      {
+        "trait_type": "Facewear",
+        "value": "Eyepatch (Blue)"
+      }
+    ],
+    "hash": "facadf506a301cf1e997d8e9da3ca2180ea6e6fa41507aa4e40f25789510af77"
+  }
+}

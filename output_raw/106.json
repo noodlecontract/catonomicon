@@ -1,0 +1,160 @@
+{
+  "name": "nickel cacophony",
+  "description": "You are a CAT who hides in the dark. Your fur glows in the dark. You protect your WITCH from tentacles, thorns, and Tauruses. You are often heard giving cryptography lectures in the Hallowed Halls. IT'S TIME TO STALK YOUR PREY!",
+  "image": "https://covencats.s3.amazonaws.com/f1771831391d2aec305b8698d847bf165fa137810b976571a56f670c90395970.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Waxing Crescent"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Grimoires"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Scripted Octagon Glasses (Purple)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Platinum"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Carnelian"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Libra"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 3,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 106,
+    "name": "nickel cacophony",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT who hides in the dark.",
+      "magic": "Your fur glows in the dark.",
+      "acts_of_service": "You protect your WITCH from tentacles, thorns, and Tauruses.",
+      "belonging": "You are often heard giving cryptography lectures in the Hallowed Halls.",
+      "meow": "IT'S TIME TO STALK YOUR PREY!"
+    },
+    "skills": {
+      "caprice": 8,
+      "caution": 4,
+      "catastrophe": 8,
+      "curiosity": 6,
+      "charisma": 2,
+      "cunning": 3
+    },
+    "birth_chart": {
+      "sun": "capricorn",
+      "moon": "capricorn",
+      "rising": "libra"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Waxing Crescent"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Grimoires"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Scripted Octagon Glasses (Purple)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Platinum"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Carnelian"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "f1771831391d2aec305b8698d847bf165fa137810b976571a56f670c90395970"
+  }
+}

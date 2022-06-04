@@ -1,0 +1,160 @@
+{
+  "name": "manganese, the honest",
+  "description": "You are a CAT with 5 lives, found in the Taj Mahal. You inspire chaotic good and dispel chaotic bad. You protect your WITCH from enemies by purring so loudly their heads spin. Your mind lives in an impressionist painting of the Weird Wilds. PICK A POISON, ANY POISON!",
+  "image": "https://covencats.s3.amazonaws.com/6e487b9d335670fba737217575098b03b46db1e8b70df9a5a292a7df7aa5eda0.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Green)"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "Scripted Mage Aura (Blue)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Mage Script Serpent (Blue)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Smudged"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Scorpio"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 7,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 383,
+    "name": "manganese, the honest",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT with 5 lives, found in the Taj Mahal.",
+      "magic": "You inspire chaotic good and dispel chaotic bad.",
+      "acts_of_service": "You protect your WITCH from enemies by purring so loudly their heads spin.",
+      "belonging": "Your mind lives in an impressionist painting of the Weird Wilds.",
+      "meow": "PICK A POISON, ANY POISON!"
+    },
+    "skills": {
+      "caprice": 3,
+      "caution": 3,
+      "catastrophe": 2,
+      "curiosity": 9,
+      "charisma": 8,
+      "cunning": 7
+    },
+    "birth_chart": {
+      "sun": "gemini",
+      "moon": "taurus",
+      "rising": "scorpio"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Green)"
+      },
+      {
+        "trait_type": "Aura",
+        "value": "Scripted Mage Aura (Blue)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Mage Script Serpent (Blue)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Gold"
+      }
+    ],
+    "hash": "6e487b9d335670fba737217575098b03b46db1e8b70df9a5a292a7df7aa5eda0"
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "name": "samantha, the playful",
+  "description": "You are a CAT made of melodies and meowing. Your ears always point true north. You and your WITCH bond over California rolls. You are the object of desire to many, but you only have eyes for one. EAT THE PIZZA!",
+  "image": "https://covencats.s3.amazonaws.com/9fbcc289c5a5b0119283e53e97190d6cc5f2dd8ebdeac40b19c93948b1bb212a.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Crescent Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Pillow (Purple)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Crown of Pearls"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lilac Siamese"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Glo"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Libra"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 4,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 167,
+    "name": "samantha, the playful",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT made of melodies and meowing.",
+      "magic": "Your ears always point true north.",
+      "acts_of_service": "You and your WITCH bond over California rolls.",
+      "belonging": "You are the object of desire to many, but you only have eyes for one.",
+      "meow": "EAT THE PIZZA!"
+    },
+    "skills": {
+      "caprice": 9,
+      "caution": 5,
+      "catastrophe": 6,
+      "curiosity": 3,
+      "charisma": 7,
+      "cunning": 4
+    },
+    "birth_chart": {
+      "sun": "taurus",
+      "moon": "aries",
+      "rising": "libra"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Crescent Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Pillow (Purple)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Crown of Pearls"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lilac Siamese"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Glo"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      }
+    ],
+    "hash": "9fbcc289c5a5b0119283e53e97190d6cc5f2dd8ebdeac40b19c93948b1bb212a"
+  }
+}

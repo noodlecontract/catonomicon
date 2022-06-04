@@ -1,0 +1,160 @@
+{
+  "name": "trope, the witty",
+  "description": "You are a CAT with 4 lives, found in the kitchen enjoying a succulent tuna pie. You drink dew from the petals of flowers and paint your whiskers with the light of the stars. You and your WITCH share a blanket and watch the stars. You make sure all the stars are in their correct places each night. DO AS I SAY, NOT AS I DO!",
+  "image": "https://covencats.s3.amazonaws.com/7545678440db75b998e704afb8ba280bbcc07ebf2b756d595bd5174607c1855f.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "Scripted Mage Aura (Gold)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Mage Script Serpent (Gold)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Clear Graphic"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Leo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 3,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 353,
+    "name": "trope, the witty",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT with 4 lives, found in the kitchen enjoying a succulent tuna pie.",
+      "magic": "You drink dew from the petals of flowers and paint your whiskers with the light of the stars.",
+      "acts_of_service": "You and your WITCH share a blanket and watch the stars.",
+      "belonging": "You make sure all the stars are in their correct places each night.",
+      "meow": "DO AS I SAY, NOT AS I DO!"
+    },
+    "skills": {
+      "caprice": 6,
+      "caution": 9,
+      "catastrophe": 3,
+      "curiosity": 9,
+      "charisma": 3,
+      "cunning": 3
+    },
+    "birth_chart": {
+      "sun": "pisces",
+      "moon": "cancer",
+      "rising": "leo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Aura",
+        "value": "Scripted Mage Aura (Gold)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Mage Script Serpent (Gold)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Clear Graphic"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      }
+    ],
+    "hash": "7545678440db75b998e704afb8ba280bbcc07ebf2b756d595bd5174607c1855f"
+  }
+}

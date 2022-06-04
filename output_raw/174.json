@@ -1,0 +1,160 @@
+{
+  "name": "hojicha of the keyboard",
+  "description": "You are a CAT with 5 lives, born from a secret incantation of the arcane. Your whiskers tell time. You provoke your WITCH just because you can. You help lost kittens find their homes. MEOW AT THE SUN!",
+  "image": "https://covencats.s3.amazonaws.com/13b1b20daabafdcd4395122781aa2666423fbfa72ecdb597f28035a172810bed.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Broom"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Bag of Salt"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Calico Mirror"
+    },
+    {
+      "trait_type": "Forehead Marking",
+      "value": "Mark of the Chained Moon (White)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aquarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 7,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 174,
+    "name": "hojicha of the keyboard",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT with 5 lives, born from a secret incantation of the arcane.",
+      "magic": "Your whiskers tell time.",
+      "acts_of_service": "You provoke your WITCH just because you can.",
+      "belonging": "You help lost kittens find their homes.",
+      "meow": "MEOW AT THE SUN!"
+    },
+    "skills": {
+      "caprice": 8,
+      "caution": 6,
+      "catastrophe": 8,
+      "curiosity": 4,
+      "charisma": 5,
+      "cunning": 7
+    },
+    "birth_chart": {
+      "sun": "pisces",
+      "moon": "gemini",
+      "rising": "aquarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Broom"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Bag of Salt"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Calico Mirror"
+      },
+      {
+        "trait_type": "Forehead Marking",
+        "value": "Mark of the Chained Moon (White)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Amber"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "13b1b20daabafdcd4395122781aa2666423fbfa72ecdb597f28035a172810bed"
+  }
+}

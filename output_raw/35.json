@@ -1,0 +1,160 @@
+{
+  "name": "ophelia exu",
+  "description": "You are a CAT with 10 lives, found on Table Mountain. Your claws are as sharp as blades. You write lore with your WITCH every Saturday morning. Souls of prey fear your presence. PLAY WITH YOUR FOOD!",
+  "image": "https://covencats.s3.amazonaws.com/a17dae73ce7eeb1484a8a72e51acbd6bcc66f17a581405a5eabc7e55d91f750e.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Sunbeam"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Dragon (Ethereum)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Rolled"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey Green"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Leo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 8,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 35,
+    "name": "ophelia exu",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT with 10 lives, found on Table Mountain.",
+      "magic": "Your claws are as sharp as blades.",
+      "acts_of_service": "You write lore with your WITCH every Saturday morning.",
+      "belonging": "Souls of prey fear your presence.",
+      "meow": "PLAY WITH YOUR FOOD!"
+    },
+    "skills": {
+      "caprice": 4,
+      "caution": 4,
+      "catastrophe": 4,
+      "curiosity": 2,
+      "charisma": 1,
+      "cunning": 8
+    },
+    "birth_chart": {
+      "sun": "sagittarius",
+      "moon": "aquarius",
+      "rising": "leo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Sea"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Sunbeam"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "Dragon (Ethereum)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      }
+    ],
+    "hash": "a17dae73ce7eeb1484a8a72e51acbd6bcc66f17a581405a5eabc7e55d91f750e"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "name": "moonelia kensington",
+  "description": "You are a CAT with 4 lives, found in the kitchen enjoying a succulent tuna pie. You light candles with a single thought. You and your WITCH do yoga and pilates every morning. You refuse all but the most luxurious of scratching posts. CHASE YOUR TAIL!",
+  "image": "https://covencats.s3.amazonaws.com/39ef37421e706347766cbbd34a12974be4cf009778de7d07dba5e67da776003f.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Crescent Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Pillow (Purple)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Crown of Pearls"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Virgo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 9,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 361,
+    "name": "moonelia kensington",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT with 4 lives, found in the kitchen enjoying a succulent tuna pie.",
+      "magic": "You light candles with a single thought.",
+      "acts_of_service": "You and your WITCH do yoga and pilates every morning.",
+      "belonging": "You refuse all but the most luxurious of scratching posts.",
+      "meow": "CHASE YOUR TAIL!"
+    },
+    "skills": {
+      "caprice": 9,
+      "caution": 2,
+      "catastrophe": 5,
+      "curiosity": 3,
+      "charisma": 5,
+      "cunning": 9
+    },
+    "birth_chart": {
+      "sun": "cancer",
+      "moon": "scorpio",
+      "rising": "virgo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Taupe"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Crescent Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Pillow (Purple)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Crown of Pearls"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Gold"
+      }
+    ],
+    "hash": "39ef37421e706347766cbbd34a12974be4cf009778de7d07dba5e67da776003f"
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "name": "selene of the citrine",
+  "description": "You are a CAT with 8 lives, found on Mount Kilimanjaro. You scare away enemies with a high-pitched yowl. You and your WITCH play fetch with almonds. Your visions are always accompanied by the intoxicating smell of seafood. MAKE ALL AWARE OF YOUR NINE LIVES!",
+  "image": "https://covencats.s3.amazonaws.com/484f03ab9b1aadfe787f036d1767df852646f863ce495aa1454ad610702e756f.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Crescent Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Crystal Ball"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Sage"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Witch Hat"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hypnotic"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 7,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 491,
+    "name": "selene of the citrine",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT with 8 lives, found on Mount Kilimanjaro.",
+      "magic": "You scare away enemies with a high-pitched yowl.",
+      "acts_of_service": "You and your WITCH play fetch with almonds.",
+      "belonging": "Your visions are always accompanied by the intoxicating smell of seafood.",
+      "meow": "MAKE ALL AWARE OF YOUR NINE LIVES!"
+    },
+    "skills": {
+      "caprice": 9,
+      "caution": 4,
+      "catastrophe": 2,
+      "curiosity": 9,
+      "charisma": 4,
+      "cunning": 7
+    },
+    "birth_chart": {
+      "sun": "pisces",
+      "moon": "gemini",
+      "rising": "sagittarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Taupe"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Crescent Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Crystal Ball"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Sage"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Witch Hat"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hypnotic"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      }
+    ],
+    "hash": "484f03ab9b1aadfe787f036d1767df852646f863ce495aa1454ad610702e756f"
+  }
+}

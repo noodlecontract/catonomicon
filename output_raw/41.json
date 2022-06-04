@@ -1,0 +1,152 @@
+{
+  "name": "slipperwort, the lance",
+  "description": "You are a CAT with 9 lives, born from the rustle and shimmer of a well-worn silk slip. You stack cats in towers and sleep on top. You and your WITCH create bouquets with wilted, wild flowers. You keep ghosts and lost souls as pets. IT'S TIME TO PLAY!",
+  "image": "https://covencats.s3.amazonaws.com/bc80d81b04a731948b677f83afd2c8a39da81971f1e08ac02bac52fa9eff78cb.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Bag of Salt"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Bumblebees"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Fish Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Virgo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 8,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 41,
+    "name": "slipperwort, the lance",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT with 9 lives, born from the rustle and shimmer of a well-worn silk slip.",
+      "magic": "You stack cats in towers and sleep on top.",
+      "acts_of_service": "You and your WITCH create bouquets with wilted, wild flowers.",
+      "belonging": "You keep ghosts and lost souls as pets.",
+      "meow": "IT'S TIME TO PLAY!"
+    },
+    "skills": {
+      "caprice": 7,
+      "caution": 6,
+      "catastrophe": 9,
+      "curiosity": 8,
+      "charisma": 3,
+      "cunning": 8
+    },
+    "birth_chart": {
+      "sun": "sagittarius",
+      "moon": "leo",
+      "rising": "virgo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Bag of Salt"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Bumblebees"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lilac"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Fish Collar"
+      }
+    ],
+    "hash": "bc80d81b04a731948b677f83afd2c8a39da81971f1e08ac02bac52fa9eff78cb"
+  }
+}

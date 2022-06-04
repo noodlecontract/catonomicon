@@ -1,0 +1,160 @@
+{
+  "name": "endrin, the meddler",
+  "description": "You are a CAT with 17 lives, found on the streets of Canggu. You sniff out the best quality tuna. You advise your WITCH to decide what's rare. You whisper demonic meows into the ears of sleeping humans. BOOP, BOOP, BOOP!",
+  "image": "https://covencats.s3.amazonaws.com/8f2f006112227aab7c7ea2e21dfe1ea8b833a530ebdbd00be1a85f9f0198a7dd.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Broom"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Bag of Salt"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Tabby"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Claw Marked (Purple)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Smudged Monolid"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ring Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Libra"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 5,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 239,
+    "name": "endrin, the meddler",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT with 17 lives, found on the streets of Canggu.",
+      "magic": "You sniff out the best quality tuna.",
+      "acts_of_service": "You advise your WITCH to decide what's rare.",
+      "belonging": "You whisper demonic meows into the ears of sleeping humans.",
+      "meow": "BOOP, BOOP, BOOP!"
+    },
+    "skills": {
+      "caprice": 3,
+      "caution": 8,
+      "catastrophe": 9,
+      "curiosity": 5,
+      "charisma": 1,
+      "cunning": 5
+    },
+    "birth_chart": {
+      "sun": "aries",
+      "moon": "gemini",
+      "rising": "libra"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Broom"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Bag of Salt"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Tabby"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Claw Marked (Purple)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged Monolid"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ring Collar (Silver)"
+      }
+    ],
+    "hash": "8f2f006112227aab7c7ea2e21dfe1ea8b833a530ebdbd00be1a85f9f0198a7dd"
+  }
+}

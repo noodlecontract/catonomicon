@@ -1,0 +1,160 @@
+{
+  "name": "chives of the windowsill",
+  "description": "You are a CAT who paints rainbows in a Parisian loft. Your form expands or shrinks to exactly fill the space you occupy. You protect your WITCH from unrequited love. Your steaming breath keeps wolves warm on long winter nights. YOWL AT LUNA!",
+  "image": "https://covencats.s3.amazonaws.com/ec46c32c6360c76d575480170449356b04db32c9a234883d6a35013fe8db0ac3.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Apothecary Jars (Forgotten Kisses, Limes, Dragon Scales)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Witch Hat"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Folded"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Forehead Marking",
+      "value": "Star Mark (White)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Virgo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 6,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 309,
+    "name": "chives of the windowsill",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT who paints rainbows in a Parisian loft.",
+      "magic": "Your form expands or shrinks to exactly fill the space you occupy.",
+      "acts_of_service": "You protect your WITCH from unrequited love.",
+      "belonging": "Your steaming breath keeps wolves warm on long winter nights.",
+      "meow": "YOWL AT LUNA!"
+    },
+    "skills": {
+      "caprice": 7,
+      "caution": 3,
+      "catastrophe": 0,
+      "curiosity": 8,
+      "charisma": 3,
+      "cunning": 6
+    },
+    "birth_chart": {
+      "sun": "aries",
+      "moon": "capricorn",
+      "rising": "virgo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Apothecary Jars (Forgotten Kisses, Limes, Dragon Scales)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Witch Hat"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Folded"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Forehead Marking",
+        "value": "Star Mark (White)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Lilac"
+      }
+    ],
+    "hash": "ec46c32c6360c76d575480170449356b04db32c9a234883d6a35013fe8db0ac3"
+  }
+}

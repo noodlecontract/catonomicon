@@ -1,0 +1,160 @@
+{
+  "name": "margarita, the innocent",
+  "description": "You are a CAT who steals sips of small-batch craft beer. You command the elements to do your bidding. You show your love for your WITCH by stuffing them full of your favorite treats. Your soul is black and your fur shines like moonlight. FATE IS NOTHING BUT A PLAYTHING!",
+  "image": "https://covencats.s3.amazonaws.com/e76aa109ec143b4217ffa618c0febf1a0829ad4eafc8804d447fb741efd31214.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Silver)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Sclera"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Fish Collar"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Flame Horns"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 7,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 461,
+    "name": "margarita, the innocent",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT who steals sips of small-batch craft beer.",
+      "magic": "You command the elements to do your bidding.",
+      "acts_of_service": "You show your love for your WITCH by stuffing them full of your favorite treats.",
+      "belonging": "Your soul is black and your fur shines like moonlight.",
+      "meow": "FATE IS NOTHING BUT A PLAYTHING!"
+    },
+    "skills": {
+      "caprice": 3,
+      "caution": 5,
+      "catastrophe": 6,
+      "curiosity": 5,
+      "charisma": 2,
+      "cunning": 7
+    },
+    "birth_chart": {
+      "sun": "gemini",
+      "moon": "taurus",
+      "rising": "sagittarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Skull"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Silver)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Sclera"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Fish Collar"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Flame Horns"
+      }
+    ],
+    "hash": "e76aa109ec143b4217ffa618c0febf1a0829ad4eafc8804d447fb741efd31214"
+  }
+}

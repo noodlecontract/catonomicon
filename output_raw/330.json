@@ -1,0 +1,152 @@
+{
+  "name": "frou-frou of charlottenburg",
+  "description": "You are a CAT who speaks in haikus. You contort your body into impossible shapes, hang from clotheslines, and swing from dusty chandeliers. You love your WITCH like a mouse loves cheese. You answer to no one--except your own furry little heart. WALK IN SHADOWS!",
+  "image": "https://covencats.s3.amazonaws.com/80c068860f5f20580a8651c80f7c252da60a518161dbaa0233e5c536957a82e6.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Throne"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Crown of Pearls"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Calico Mirror"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Babylash"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Gemini"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 9,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 330,
+    "name": "frou-frou of charlottenburg",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT who speaks in haikus.",
+      "magic": "You contort your body into impossible shapes, hang from clotheslines, and swing from dusty chandeliers.",
+      "acts_of_service": "You love your WITCH like a mouse loves cheese.",
+      "belonging": "You answer to no one--except your own furry little heart.",
+      "meow": "WALK IN SHADOWS!"
+    },
+    "skills": {
+      "caprice": 5,
+      "caution": 2,
+      "catastrophe": 5,
+      "curiosity": 0,
+      "charisma": 3,
+      "cunning": 9
+    },
+    "birth_chart": {
+      "sun": "scorpio",
+      "moon": "pisces",
+      "rising": "gemini"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Throne"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Crown of Pearls"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Calico Mirror"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Babylash"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      }
+    ],
+    "hash": "80c068860f5f20580a8651c80f7c252da60a518161dbaa0233e5c536957a82e6"
+  }
+}

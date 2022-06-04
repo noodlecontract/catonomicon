@@ -1,0 +1,160 @@
+{
+  "name": "patchouli, the reaper",
+  "description": "You are a CAT with 8 lives, born out of the depths of the Void. You steep your paws in almond extract and hide almonds within your toes. You and your WITCH bond over kittens wearing little top hats. Souls of prey fear your presence. MAKE BISCUITS!",
+  "image": "https://covencats.s3.amazonaws.com/78bfe385202d1bca6fe115dae8a6ad63e6c1a881c9a39ce9ba3c375790861694.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Spiderwebs (Black)"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Cat Food (Salmon)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mauve"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aries"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 7,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 522,
+    "name": "patchouli, the reaper",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT with 8 lives, born out of the depths of the Void.",
+      "magic": "You steep your paws in almond extract and hide almonds within your toes.",
+      "acts_of_service": "You and your WITCH bond over kittens wearing little top hats.",
+      "belonging": "Souls of prey fear your presence.",
+      "meow": "MAKE BISCUITS!"
+    },
+    "skills": {
+      "caprice": 2,
+      "caution": 7,
+      "catastrophe": 9,
+      "curiosity": 0,
+      "charisma": 1,
+      "cunning": 7
+    },
+    "birth_chart": {
+      "sun": "taurus",
+      "moon": "libra",
+      "rising": "aries"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Spiderwebs (Black)"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Cat Food (Salmon)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mauve"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "78bfe385202d1bca6fe115dae8a6ad63e6c1a881c9a39ce9ba3c375790861694"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "name": "fettucini of the lily pads",
+  "description": "You are a CAT with 8 lives, born out of the depths of the Void. Your paws hide multitudes of wisdom and... almonds. You and your WITCH bond over brown paper packages tied up with string. You sleep on a bed of eternal grass and conjure the scent of warm spring mornings on cold winter nights. POUNCE BACKWARDS INTO HELL!",
+  "image": "https://covencats.s3.amazonaws.com/f741e5941857463eddd125bfdcedd6c884c6f152976bff4211e5c9ea34f40689.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Full Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Toadstool"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Folded"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Ash"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Pisces"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 7,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 334,
+    "name": "fettucini of the lily pads",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT with 8 lives, born out of the depths of the Void.",
+      "magic": "Your paws hide multitudes of wisdom and... almonds.",
+      "acts_of_service": "You and your WITCH bond over brown paper packages tied up with string.",
+      "belonging": "You sleep on a bed of eternal grass and conjure the scent of warm spring mornings on cold winter nights.",
+      "meow": "POUNCE BACKWARDS INTO HELL!"
+    },
+    "skills": {
+      "caprice": 7,
+      "caution": 6,
+      "catastrophe": 0,
+      "curiosity": 9,
+      "charisma": 6,
+      "cunning": 7
+    },
+    "birth_chart": {
+      "sun": "scorpio",
+      "moon": "libra",
+      "rising": "pisces"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Full Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Toadstool"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Folded"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Ash"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Gold"
+      }
+    ],
+    "hash": "f741e5941857463eddd125bfdcedd6c884c6f152976bff4211e5c9ea34f40689"
+  }
+}

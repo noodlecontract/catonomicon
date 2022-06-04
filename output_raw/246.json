@@ -1,0 +1,160 @@
+{
+  "name": "champagne, the dazzling",
+  "description": "You are a CAT kind beyond reckoning. You stack cats in towers and sleep on top. You gift your WITCH rats, bugs, and twigs. You purr along to jazz and blues while you groom. FLOURISH MY FRIEND!",
+  "image": "https://covencats.s3.amazonaws.com/ffcc81c02a390f841c0fae0d38fb693b6cba1af6231b3418d3681f11aae96993.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Phoenix (Red)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey Green"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ethereum Collar"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Pearl Veil"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Gemini"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 8,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 246,
+    "name": "champagne, the dazzling",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT kind beyond reckoning.",
+      "magic": "You stack cats in towers and sleep on top.",
+      "acts_of_service": "You gift your WITCH rats, bugs, and twigs.",
+      "belonging": "You purr along to jazz and blues while you groom.",
+      "meow": "FLOURISH MY FRIEND!"
+    },
+    "skills": {
+      "caprice": 2,
+      "caution": 1,
+      "catastrophe": 5,
+      "curiosity": 5,
+      "charisma": 4,
+      "cunning": 8
+    },
+    "birth_chart": {
+      "sun": "taurus",
+      "moon": "gemini",
+      "rising": "gemini"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "Phoenix (Red)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ethereum Collar"
+      },
+      {
+        "trait_type": "Facewear",
+        "value": "Pearl Veil"
+      }
+    ],
+    "hash": "ffcc81c02a390f841c0fae0d38fb693b6cba1af6231b3418d3681f11aae96993"
+  }
+}

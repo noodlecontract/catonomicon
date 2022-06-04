@@ -1,0 +1,144 @@
+{
+  "name": "kalinda puff",
+  "description": "You are a CAT with more ears than the eye can see. You flick your ears to the beat of the music. You and your WITCH bond over perfectly-brewed cups of coffee. The cards speak to you in the squabbles of birds. THROW CAUTION TO THE WIND!",
+  "image": "https://covencats.s3.amazonaws.com/72f6f1c060e2b744130d0e4b8cbf77db13a82ab8b9f61952619e701041c45a8d.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Genie Lamp (Pearl)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Platinum"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Alert"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Piercing Choker (Purple)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Leo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 1,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 468,
+    "name": "kalinda puff",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT with more ears than the eye can see.",
+      "magic": "You flick your ears to the beat of the music.",
+      "acts_of_service": "You and your WITCH bond over perfectly-brewed cups of coffee.",
+      "belonging": "The cards speak to you in the squabbles of birds.",
+      "meow": "THROW CAUTION TO THE WIND!"
+    },
+    "skills": {
+      "caprice": 9,
+      "caution": 7,
+      "catastrophe": 1,
+      "curiosity": 2,
+      "charisma": 6,
+      "cunning": 1
+    },
+    "birth_chart": {
+      "sun": "aquarius",
+      "moon": "capricorn",
+      "rising": "leo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Genie Lamp (Pearl)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Platinum"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Alert"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Piercing Choker (Purple)"
+      }
+    ],
+    "hash": "72f6f1c060e2b744130d0e4b8cbf77db13a82ab8b9f61952619e701041c45a8d"
+  }
+}

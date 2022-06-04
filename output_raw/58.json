@@ -1,0 +1,144 @@
+{
+  "name": "elemi, the ghastly",
+  "description": "You are a CAT who collects gossip, glitter, and gel pens. You eat sardines in olive oil and wash your whiskers with the utmost poise. You and your WITCH ponder the fastest ways to derail a conversation. You keep ghosts and lost souls as pets. EAT THE PIZZA!",
+  "image": "https://covencats.s3.amazonaws.com/11c83ce521649f56c3bad65d70e1b884c60486bf43cd53111237a84062b728c3.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Gramophone"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Sclera"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Scorpio"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 5,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 58,
+    "name": "elemi, the ghastly",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT who collects gossip, glitter, and gel pens.",
+      "magic": "You eat sardines in olive oil and wash your whiskers with the utmost poise.",
+      "acts_of_service": "You and your WITCH ponder the fastest ways to derail a conversation.",
+      "belonging": "You keep ghosts and lost souls as pets.",
+      "meow": "EAT THE PIZZA!"
+    },
+    "skills": {
+      "caprice": 1,
+      "caution": 8,
+      "catastrophe": 8,
+      "curiosity": 2,
+      "charisma": 4,
+      "cunning": 5
+    },
+    "birth_chart": {
+      "sun": "virgo",
+      "moon": "cancer",
+      "rising": "scorpio"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Gramophone"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Sclera"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "11c83ce521649f56c3bad65d70e1b884c60486bf43cd53111237a84062b728c3"
+  }
+}

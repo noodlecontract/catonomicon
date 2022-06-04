@@ -1,0 +1,160 @@
+{
+  "name": "hyperion dusk",
+  "description": "You are a CAT who collects feathers, fingerprints, and frangipane. You tie the strongest knots from the weakest links. You protect your WITCH from gluten, peanuts, and shellfish. You win battles by predicting your enemies' actions. LEARN TO TANGO!",
+  "image": "https://covencats.s3.amazonaws.com/418447a99f5d03790c2b616239d14c7e18b45942d51f6dc62daebeaf2d2741f0.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Spiderwebs (Black)"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Crystals (Amethyst)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Maine Coon White"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey Green"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 3,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 445,
+    "name": "hyperion dusk",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT who collects feathers, fingerprints, and frangipane.",
+      "magic": "You tie the strongest knots from the weakest links.",
+      "acts_of_service": "You protect your WITCH from gluten, peanuts, and shellfish.",
+      "belonging": "You win battles by predicting your enemies' actions.",
+      "meow": "LEARN TO TANGO!"
+    },
+    "skills": {
+      "caprice": 2,
+      "caution": 4,
+      "catastrophe": 7,
+      "curiosity": 6,
+      "charisma": 0,
+      "cunning": 3
+    },
+    "birth_chart": {
+      "sun": "scorpio",
+      "moon": "gemini",
+      "rising": "taurus"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Spiderwebs (Black)"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Crystals (Amethyst)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Maine Coon White"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "418447a99f5d03790c2b616239d14c7e18b45942d51f6dc62daebeaf2d2741f0"
+  }
+}

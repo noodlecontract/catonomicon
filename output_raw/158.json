@@ -1,0 +1,152 @@
+{
+  "name": "azar, the adorable terror",
+  "description": "You are a CAT with 13 lives, found in Timbuktu. Your ears wiggle to a silent disco. You protect your WITCH from tourist traps and delayed flights. You embrace chaos like a long lost love. SWING FROM THE CURTAINS!",
+  "image": "https://covencats.s3.amazonaws.com/5742479f9d38dabb490f000629a8e186f3a01d73831494d63fcff5358718755d.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Waxing Crescent"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Ram's Skull"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Floofed"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Grumpy Lilac"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Smudged"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Fish Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Pisces"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 3,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 158,
+    "name": "azar, the adorable terror",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT with 13 lives, found in Timbuktu.",
+      "magic": "Your ears wiggle to a silent disco.",
+      "acts_of_service": "You protect your WITCH from tourist traps and delayed flights.",
+      "belonging": "You embrace chaos like a long lost love.",
+      "meow": "SWING FROM THE CURTAINS!"
+    },
+    "skills": {
+      "caprice": 1,
+      "caution": 2,
+      "catastrophe": 9,
+      "curiosity": 1,
+      "charisma": 7,
+      "cunning": 3
+    },
+    "birth_chart": {
+      "sun": "cancer",
+      "moon": "aquarius",
+      "rising": "pisces"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Waxing Crescent"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Ram's Skull"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Grumpy Lilac"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Fish Collar"
+      }
+    ],
+    "hash": "5742479f9d38dabb490f000629a8e186f3a01d73831494d63fcff5358718755d"
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "name": "loch omolu",
+  "description": "You are a CAT with 5 lives, connected by a golden pentagram. You transfer energy with a high-pitched yowl. You and your WITCH bond over kittens wearing little top hats. You yowl songs to the dead at the start of a new moon. FEED ME!",
+  "image": "https://covencats.s3.amazonaws.com/3c80c3d01550f9f600c168ecced5f923f33a47a711e7d840564841c90d4fedc0.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Bumblebees"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Apothecary Jars (Starlight, Screams)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Chocolate Siamese"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Sclera"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Gemini"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 2,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 24,
+    "name": "loch omolu",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT with 5 lives, connected by a golden pentagram.",
+      "magic": "You transfer energy with a high-pitched yowl.",
+      "acts_of_service": "You and your WITCH bond over kittens wearing little top hats.",
+      "belonging": "You yowl songs to the dead at the start of a new moon.",
+      "meow": "FEED ME!"
+    },
+    "skills": {
+      "caprice": 2,
+      "caution": 9,
+      "catastrophe": 8,
+      "curiosity": 5,
+      "charisma": 7,
+      "cunning": 2
+    },
+    "birth_chart": {
+      "sun": "libra",
+      "moon": "capricorn",
+      "rising": "gemini"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Bumblebees"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Apothecary Jars (Starlight, Screams)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Chocolate Siamese"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Sclera"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "3c80c3d01550f9f600c168ecced5f923f33a47a711e7d840564841c90d4fedc0"
+  }
+}

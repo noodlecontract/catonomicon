@@ -1,0 +1,136 @@
+{
+  "name": "mozzarella",
+  "description": "You are a CAT forged from Ethereum. You recite poems to put your prey to sleep. You sleep on your WITCH's pillow at night. You make your home out of almonds and marshmallows. LOVE ME FIERCE AND LOVE ME TENDER!",
+  "image": "https://covencats.s3.amazonaws.com/693fbe4c1a26c9251a2ab8cb3ad46a1f8b6211e705216a0d5eb10599da943c66.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Easel"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Steel"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Babylash"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 2,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 537,
+    "name": "mozzarella",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT forged from Ethereum.",
+      "magic": "You recite poems to put your prey to sleep.",
+      "acts_of_service": "You sleep on your WITCH's pillow at night.",
+      "belonging": "You make your home out of almonds and marshmallows.",
+      "meow": "LOVE ME FIERCE AND LOVE ME TENDER!"
+    },
+    "skills": {
+      "caprice": 0,
+      "caution": 5,
+      "catastrophe": 1,
+      "curiosity": 3,
+      "charisma": 8,
+      "cunning": 2
+    },
+    "birth_chart": {
+      "sun": "aquarius",
+      "moon": "capricorn",
+      "rising": "taurus"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Easel"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Steel"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Babylash"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Green"
+      }
+    ],
+    "hash": "693fbe4c1a26c9251a2ab8cb3ad46a1f8b6211e705216a0d5eb10599da943c66"
+  }
+}

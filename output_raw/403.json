@@ -1,0 +1,152 @@
+{
+  "name": "epsilon chronicle",
+  "description": "You are a CAT revered by all. You wield knives and guard thresholds. You protect your WITCH from gluten, peanuts, and shellfish. You make sure all the stars are in their correct places each night. LOVE ME FIERCE AND LOVE ME TENDER!",
+  "image": "https://covencats.s3.amazonaws.com/0d88b01d7a7e2413064d9922c1d1eb767ec8a5dbb07a612872fb30dff50a67ed.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Books"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Mage Script Melovesmealot (Gold)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Babylash"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 3,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 403,
+    "name": "epsilon chronicle",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT revered by all.",
+      "magic": "You wield knives and guard thresholds.",
+      "acts_of_service": "You protect your WITCH from gluten, peanuts, and shellfish.",
+      "belonging": "You make sure all the stars are in their correct places each night.",
+      "meow": "LOVE ME FIERCE AND LOVE ME TENDER!"
+    },
+    "skills": {
+      "caprice": 5,
+      "caution": 2,
+      "catastrophe": 3,
+      "curiosity": 7,
+      "charisma": 1,
+      "cunning": 3
+    },
+    "birth_chart": {
+      "sun": "aries",
+      "moon": "leo",
+      "rising": "taurus"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Books"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Mage Script Melovesmealot (Gold)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Babylash"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      }
+    ],
+    "hash": "0d88b01d7a7e2413064d9922c1d1eb767ec8a5dbb07a612872fb30dff50a67ed"
+  }
+}

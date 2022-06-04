@@ -1,0 +1,168 @@
+{
+  "name": "dancing salmon",
+  "description": "You are a CAT who speaks in haikus. You eat endless amounts of lasagna. You and your WITCH share a love story started by catnip. You nibble on the arugula from your WITCH's greenest salads. THROW CAUTION TO THE WIND!",
+  "image": "https://covencats.s3.amazonaws.com/d77c3ba535b4c4a0d1381512c6ca28aba360cdb50429abc3dfa722a823ea2cda.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Toadstool"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Bumblebees"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Witch Hat"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Folded"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Platinum"
+    },
+    {
+      "trait_type": "Forehead Marking",
+      "value": "Mark of Air (White)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hypnotic"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Fish Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 2,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 534,
+    "name": "dancing salmon",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT who speaks in haikus.",
+      "magic": "You eat endless amounts of lasagna.",
+      "acts_of_service": "You and your WITCH share a love story started by catnip.",
+      "belonging": "You nibble on the arugula from your WITCH's greenest salads.",
+      "meow": "THROW CAUTION TO THE WIND!"
+    },
+    "skills": {
+      "caprice": 6,
+      "caution": 3,
+      "catastrophe": 6,
+      "curiosity": 9,
+      "charisma": 9,
+      "cunning": 2
+    },
+    "birth_chart": {
+      "sun": "sagittarius",
+      "moon": "pisces",
+      "rising": "taurus"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Toadstool"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Bumblebees"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Witch Hat"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Folded"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Platinum"
+      },
+      {
+        "trait_type": "Forehead Marking",
+        "value": "Mark of Air (White)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hypnotic"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Fish Collar"
+      }
+    ],
+    "hash": "d77c3ba535b4c4a0d1381512c6ca28aba360cdb50429abc3dfa722a823ea2cda"
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "name": "tigris, the shadow",
+  "description": "You are a CAT made of matzah crumbs and shank bone. Your ears always point true north. You and your WITCH bond over warm woolen mittens. Your playground is a cemetery and your familiar, a crow. BE STILL; BE FREE; BE MINE!",
+  "image": "https://covencats.s3.amazonaws.com/c7c7b12991389a304200979db25b2168186193ca816ee569cb5904a66c368d62.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Dragon (Ethereum)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ring Collar (Silver)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Horns of Taurus"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Libra"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 1,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 527,
+    "name": "tigris, the shadow",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT made of matzah crumbs and shank bone.",
+      "magic": "Your ears always point true north.",
+      "acts_of_service": "You and your WITCH bond over warm woolen mittens.",
+      "belonging": "Your playground is a cemetery and your familiar, a crow.",
+      "meow": "BE STILL; BE FREE; BE MINE!"
+    },
+    "skills": {
+      "caprice": 2,
+      "caution": 4,
+      "catastrophe": 5,
+      "curiosity": 5,
+      "charisma": 9,
+      "cunning": 1
+    },
+    "birth_chart": {
+      "sun": "leo",
+      "moon": "leo",
+      "rising": "libra"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Sea"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "Dragon (Ethereum)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ring Collar (Silver)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Horns of Taurus"
+      }
+    ],
+    "hash": "c7c7b12991389a304200979db25b2168186193ca816ee569cb5904a66c368d62"
+  }
+}

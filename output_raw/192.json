@@ -1,0 +1,152 @@
+{
+  "name": "sonata meowingham",
+  "description": "You are a CAT with 16 lives, found on the streets of Mumbai. You cut down trees with a swipe of your claw. You protect your WITCH from vixens, vampires, and Virgos. People appear more beautiful the longer they are in your presence. DO AS I SAY, NOT AS I DO!",
+  "image": "https://covencats.s3.amazonaws.com/94045f38ee544b6e084441a8e828cde55a7c99438d1db49c521080297445a437.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Moths"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Creepy Yeha Pearls"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Rolled"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mermaid"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Glo"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Cancer"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 6,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 192,
+    "name": "sonata meowingham",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT with 16 lives, found on the streets of Mumbai.",
+      "magic": "You cut down trees with a swipe of your claw.",
+      "acts_of_service": "You protect your WITCH from vixens, vampires, and Virgos.",
+      "belonging": "People appear more beautiful the longer they are in your presence.",
+      "meow": "DO AS I SAY, NOT AS I DO!"
+    },
+    "skills": {
+      "caprice": 5,
+      "caution": 8,
+      "catastrophe": 0,
+      "curiosity": 7,
+      "charisma": 9,
+      "cunning": 6
+    },
+    "birth_chart": {
+      "sun": "capricorn",
+      "moon": "sagittarius",
+      "rising": "cancer"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Moths"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Creepy Yeha Pearls"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mermaid"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Glo"
+      }
+    ],
+    "hash": "94045f38ee544b6e084441a8e828cde55a7c99438d1db49c521080297445a437"
+  }
+}

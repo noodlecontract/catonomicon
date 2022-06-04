@@ -1,0 +1,152 @@
+{
+  "name": "giuseppe",
+  "description": "You are a CAT with 7 lives, found in a cenote in the Yucatan. Your eyes change color with your mood. You protect your WITCH from leftovers, liars, and Libras. You delight in the subtlety of deception. WATCH AND LEARN!",
+  "image": "https://covencats.s3.amazonaws.com/9d241897cf31da3c94476e340cb58da68dd93a43c16803521d38088e8088509d.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Crescent Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Pillow (Cream)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Collar of Pearls"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Pisces"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 9,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 161,
+    "name": "giuseppe",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT with 7 lives, found in a cenote in the Yucatan.",
+      "magic": "Your eyes change color with your mood.",
+      "acts_of_service": "You protect your WITCH from leftovers, liars, and Libras.",
+      "belonging": "You delight in the subtlety of deception.",
+      "meow": "WATCH AND LEARN!"
+    },
+    "skills": {
+      "caprice": 4,
+      "caution": 1,
+      "catastrophe": 8,
+      "curiosity": 2,
+      "charisma": 3,
+      "cunning": 9
+    },
+    "birth_chart": {
+      "sun": "libra",
+      "moon": "capricorn",
+      "rising": "pisces"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Crescent Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Pillow (Cream)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Collar of Pearls"
+      }
+    ],
+    "hash": "9d241897cf31da3c94476e340cb58da68dd93a43c16803521d38088e8088509d"
+  }
+}

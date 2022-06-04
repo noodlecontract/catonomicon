@@ -1,0 +1,152 @@
+{
+  "name": "andromeda of the amethyst",
+  "description": "You are a CAT with infinite lives, born clinging to the highest branch in the Woods. You hatch schemes while you nap and spend your days clawing them into existence. You sniff your WITCH's hair and fall asleep with the smell of their magic around you. The cards speak to you in the squeakings of mice. MAKE BISCUITS!",
+  "image": "https://covencats.s3.amazonaws.com/462c0f11f65dc8286e5ce7be1701b5e54b967181e3545ef59b2325bacc1a52a0.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Full Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Crystal Ball"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Glo"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Raised Third Eye (Blue)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Leo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 7,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 535,
+    "name": "andromeda of the amethyst",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT with infinite lives, born clinging to the highest branch in the Woods.",
+      "magic": "You hatch schemes while you nap and spend your days clawing them into existence.",
+      "acts_of_service": "You sniff your WITCH's hair and fall asleep with the smell of their magic around you.",
+      "belonging": "The cards speak to you in the squeakings of mice.",
+      "meow": "MAKE BISCUITS!"
+    },
+    "skills": {
+      "caprice": 4,
+      "caution": 7,
+      "catastrophe": 7,
+      "curiosity": 9,
+      "charisma": 4,
+      "cunning": 7
+    },
+    "birth_chart": {
+      "sun": "gemini",
+      "moon": "gemini",
+      "rising": "leo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Full Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Crystal Ball"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Glo"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Raised Third Eye (Blue)"
+      }
+    ],
+    "hash": "462c0f11f65dc8286e5ce7be1701b5e54b967181e3545ef59b2325bacc1a52a0"
+  }
+}

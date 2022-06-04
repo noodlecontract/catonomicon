@@ -1,0 +1,144 @@
+{
+  "name": "sarin, the perilous nightmare",
+  "description": "You are a CAT who claws at imposters. You yowl at the stars and they whisper back their secrets. You and your WITCH share a blanket and watch the stars. You delight in everlasting flames. IT'S TIME TO SNUGGLE!",
+  "image": "https://covencats.s3.amazonaws.com/56f343ebf6daa09e4447f0b88c41d243bb1c6dd11bea3b95245977915c7865e0.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Full Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Ram's Skull"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Floofed"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Grumpy Lilac"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Reverse Cateye"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Glo"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Scorpio"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 9,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 530,
+    "name": "sarin, the perilous nightmare",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT who claws at imposters.",
+      "magic": "You yowl at the stars and they whisper back their secrets.",
+      "acts_of_service": "You and your WITCH share a blanket and watch the stars.",
+      "belonging": "You delight in everlasting flames.",
+      "meow": "IT'S TIME TO SNUGGLE!"
+    },
+    "skills": {
+      "caprice": 2,
+      "caution": 5,
+      "catastrophe": 9,
+      "curiosity": 8,
+      "charisma": 6,
+      "cunning": 9
+    },
+    "birth_chart": {
+      "sun": "cancer",
+      "moon": "cancer",
+      "rising": "scorpio"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Sea"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Full Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Ram's Skull"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Grumpy Lilac"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Reverse Cateye"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Glo"
+      }
+    ],
+    "hash": "56f343ebf6daa09e4447f0b88c41d243bb1c6dd11bea3b95245977915c7865e0"
+  }
+}

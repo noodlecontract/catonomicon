@@ -1,0 +1,152 @@
+{
+  "name": "countess velvet california",
+  "description": "You are a CAT who imbibes potions of all kinds. You recite poems to put your prey to sleep. You love your WITCH like a mouse loves cheese. You charm your way into the most exclusive clubs. IT'S TIME TO SNUGGLE!",
+  "image": "https://covencats.s3.amazonaws.com/7ac50de189627df832314fd4283598a5f689ca9b33eeba57522a545d75108590.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Moths"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Rolled"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mermaid"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Babylash"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Cancer"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 8,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 340,
+    "name": "countess velvet california",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT who imbibes potions of all kinds.",
+      "magic": "You recite poems to put your prey to sleep.",
+      "acts_of_service": "You love your WITCH like a mouse loves cheese.",
+      "belonging": "You charm your way into the most exclusive clubs.",
+      "meow": "IT'S TIME TO SNUGGLE!"
+    },
+    "skills": {
+      "caprice": 4,
+      "caution": 8,
+      "catastrophe": 7,
+      "curiosity": 6,
+      "charisma": 9,
+      "cunning": 8
+    },
+    "birth_chart": {
+      "sun": "scorpio",
+      "moon": "libra",
+      "rising": "cancer"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Moths"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mermaid"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Babylash"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      }
+    ],
+    "hash": "7ac50de189627df832314fd4283598a5f689ca9b33eeba57522a545d75108590"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "name": "baguette of the bean bag",
+  "description": "You are a CAT with a tail fuzzy beyond belief. You scratch the sofa, the curtains, and the bed to express your love (and ownership of this house). You gift your WITCH rats, bugs, and twigs. You smell like lavender and salmon--the very best combination of smells, in your opinion. RUN UP THE WALL!",
+  "image": "https://covencats.s3.amazonaws.com/9afc140429bf63656f259836468aa69bcec026fb73b827e628f97cae58263229.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Toadstool"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Bumblebees"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Steel"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey Green"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Fish Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Virgo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 4,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 62,
+    "name": "baguette of the bean bag",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT with a tail fuzzy beyond belief.",
+      "magic": "You scratch the sofa, the curtains, and the bed to express your love (and ownership of this house).",
+      "acts_of_service": "You gift your WITCH rats, bugs, and twigs.",
+      "belonging": "You smell like lavender and salmon--the very best combination of smells, in your opinion.",
+      "meow": "RUN UP THE WALL!"
+    },
+    "skills": {
+      "caprice": 5,
+      "caution": 7,
+      "catastrophe": 3,
+      "curiosity": 6,
+      "charisma": 8,
+      "cunning": 4
+    },
+    "birth_chart": {
+      "sun": "scorpio",
+      "moon": "gemini",
+      "rising": "virgo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Toadstool"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Bumblebees"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Steel"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Fish Collar"
+      }
+    ],
+    "hash": "9afc140429bf63656f259836468aa69bcec026fb73b827e628f97cae58263229"
+  }
+}

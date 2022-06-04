@@ -1,0 +1,160 @@
+{
+  "name": "sparks, the sly",
+  "description": "You are a CAT who makes homes out of forgotten places. You hallucinate on mushrooms and talk with your past lives. You and your WITCH drink Earl Grey tea together every morning. You've developed the optimal method for catching mice. IF IT FITS, SIT!",
+  "image": "https://covencats.s3.amazonaws.com/b81dccf56e77e36ba593a83ba0f8b959f20c7c4b33a10a21ee33ec9237d36621.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Potions"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Snow Bengal"
+    },
+    {
+      "trait_type": "Forehead Marking",
+      "value": "Mage Mark Moon (Blue)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Smudged Monolid"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Moon Choker (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 4,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 194,
+    "name": "sparks, the sly",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT who makes homes out of forgotten places.",
+      "magic": "You hallucinate on mushrooms and talk with your past lives.",
+      "acts_of_service": "You and your WITCH drink Earl Grey tea together every morning.",
+      "belonging": "You've developed the optimal method for catching mice.",
+      "meow": "IF IT FITS, SIT!"
+    },
+    "skills": {
+      "caprice": 7,
+      "caution": 6,
+      "catastrophe": 6,
+      "curiosity": 9,
+      "charisma": 7,
+      "cunning": 4
+    },
+    "birth_chart": {
+      "sun": "aries",
+      "moon": "gemini",
+      "rising": "taurus"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Potions"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Snow Bengal"
+      },
+      {
+        "trait_type": "Forehead Marking",
+        "value": "Mage Mark Moon (Blue)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged Monolid"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Moon Choker (Silver)"
+      }
+    ],
+    "hash": "b81dccf56e77e36ba593a83ba0f8b959f20c7c4b33a10a21ee33ec9237d36621"
+  }
+}

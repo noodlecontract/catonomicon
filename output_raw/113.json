@@ -1,0 +1,160 @@
+{
+  "name": "comet, the perceptive",
+  "description": "You are a CAT with 19 lives, found on the streets of Amsterdam. Your magic smells like a storm brewing, dark and full of potential. You protect your WITCH from pencils, pincher bugs, and Pisces. You see mice, spiders, and days of doom. JUST EXIST!",
+  "image": "https://covencats.s3.amazonaws.com/e31b3d784db24dae9f05447d472999ed35bbd8227664ad59d3e0db878621b23c.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Crescent Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Crystal Ball"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Sage"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Floofed"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Starry Silver"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Piercing Choker (Red)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Leo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 7,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 113,
+    "name": "comet, the perceptive",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT with 19 lives, found on the streets of Amsterdam.",
+      "magic": "Your magic smells like a storm brewing, dark and full of potential.",
+      "acts_of_service": "You protect your WITCH from pencils, pincher bugs, and Pisces.",
+      "belonging": "You see mice, spiders, and days of doom.",
+      "meow": "JUST EXIST!"
+    },
+    "skills": {
+      "caprice": 4,
+      "caution": 5,
+      "catastrophe": 5,
+      "curiosity": 9,
+      "charisma": 4,
+      "cunning": 7
+    },
+    "birth_chart": {
+      "sun": "libra",
+      "moon": "pisces",
+      "rising": "leo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Crescent Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Crystal Ball"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Sage"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Starry Silver"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Amber"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Piercing Choker (Red)"
+      }
+    ],
+    "hash": "e31b3d784db24dae9f05447d472999ed35bbd8227664ad59d3e0db878621b23c"
+  }
+}

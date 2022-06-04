@@ -1,0 +1,160 @@
+{
+  "name": "deimos haze",
+  "description": "You are a CAT who tells many truths and few lies. You herd corgis in your sleep. You and your WITCH share a love language. You stay up all night watching the moon and stars travel the night sky. IT'S TIME TO STALK YOUR PREY!",
+  "image": "https://covencats.s3.amazonaws.com/c8ecbd465ef2fbdb499cb752d7030f8d1ca8b06f54048b21306212b49220a984.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Crystal Ball"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Sage"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Snow Bengal"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Raised Third Eye (Pink)"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Blindfold (Aquamarine)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 5,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 379,
+    "name": "deimos haze",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT who tells many truths and few lies.",
+      "magic": "You herd corgis in your sleep.",
+      "acts_of_service": "You and your WITCH share a love language.",
+      "belonging": "You stay up all night watching the moon and stars travel the night sky.",
+      "meow": "IT'S TIME TO STALK YOUR PREY!"
+    },
+    "skills": {
+      "caprice": 7,
+      "caution": 7,
+      "catastrophe": 2,
+      "curiosity": 2,
+      "charisma": 3,
+      "cunning": 5
+    },
+    "birth_chart": {
+      "sun": "aries",
+      "moon": "capricorn",
+      "rising": "taurus"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Crystal Ball"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Sage"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Snow Bengal"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Raised Third Eye (Pink)"
+      },
+      {
+        "trait_type": "Facewear",
+        "value": "Blindfold (Aquamarine)"
+      }
+    ],
+    "hash": "c8ecbd465ef2fbdb499cb752d7030f8d1ca8b06f54048b21306212b49220a984"
+  }
+}

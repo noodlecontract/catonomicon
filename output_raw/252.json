@@ -1,0 +1,152 @@
+{
+  "name": "jupiter of the sword",
+  "description": "You are a CAT with 19 lives, found on the streets of Amsterdam. You scratch the sofa, the curtains, and the bed to express your love (and ownership of this house). You and your WITCH bond over a fear of missing out. You predict the tarot cards your WITCH pulls. IT'S TIME TO STALK YOUR PREY!",
+  "image": "https://covencats.s3.amazonaws.com/238986bef14bb3b559b3d057fb8eb37962b79a56d4833526b74561f39cb4c823.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Waxing Crescent"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Genie Lamp (Pink)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Floofed"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Starry Silver"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Leo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 5,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 252,
+    "name": "jupiter of the sword",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT with 19 lives, found on the streets of Amsterdam.",
+      "magic": "You scratch the sofa, the curtains, and the bed to express your love (and ownership of this house).",
+      "acts_of_service": "You and your WITCH bond over a fear of missing out.",
+      "belonging": "You predict the tarot cards your WITCH pulls.",
+      "meow": "IT'S TIME TO STALK YOUR PREY!"
+    },
+    "skills": {
+      "caprice": 7,
+      "caution": 4,
+      "catastrophe": 6,
+      "curiosity": 5,
+      "charisma": 6,
+      "cunning": 5
+    },
+    "birth_chart": {
+      "sun": "aquarius",
+      "moon": "pisces",
+      "rising": "leo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Waxing Crescent"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Genie Lamp (Pink)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Starry Silver"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Hazel"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "238986bef14bb3b559b3d057fb8eb37962b79a56d4833526b74561f39cb4c823"
+  }
+}

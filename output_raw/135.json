@@ -1,0 +1,152 @@
+{
+  "name": "orion, the wanderer",
+  "description": "You are a CAT made from lovingly cut fruit. You hallucinate on mushrooms and talk with your past lives. You love your WITCH like a mouse loves cheese. Your best predictions are made by examining the way the skin crisps on a grilled sardine. MAKE BISCUITS!",
+  "image": "https://covencats.s3.amazonaws.com/7bf16014cd3a71a2b8cf0c97dd08c1100727f98ab90247ea7a8c14348be0c052.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Lucky Cat"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Flooded Glo"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Libra"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 8,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 135,
+    "name": "orion, the wanderer",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT made from lovingly cut fruit.",
+      "magic": "You hallucinate on mushrooms and talk with your past lives.",
+      "acts_of_service": "You love your WITCH like a mouse loves cheese.",
+      "belonging": "Your best predictions are made by examining the way the skin crisps on a grilled sardine.",
+      "meow": "MAKE BISCUITS!"
+    },
+    "skills": {
+      "caprice": 9,
+      "caution": 5,
+      "catastrophe": 7,
+      "curiosity": 5,
+      "charisma": 3,
+      "cunning": 8
+    },
+    "birth_chart": {
+      "sun": "virgo",
+      "moon": "aries",
+      "rising": "libra"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Lucky Cat"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Flooded Glo"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "7bf16014cd3a71a2b8cf0c97dd08c1100727f98ab90247ea7a8c14348be0c052"
+  }
+}

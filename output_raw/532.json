@@ -1,0 +1,152 @@
+{
+  "name": "lacerta sky",
+  "description": "You are a CAT with 1 life, born from an unravelling ball of yarn. Your purrs cast spells of slumber, suspending minds in nightmares and dreams. You and your WITCH commune in the cafeteria. Your future self tells you stories of how humans stumbled upon the Weird Wilds. NAP!",
+  "image": "https://covencats.s3.amazonaws.com/5e173ce6aef3464402076acfc8e5226447942cb01d325fab2062d5115780f8ac.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Full Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Crystal Ball"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Maine Coon Tuxedo"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Flooded Cobalt"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Raised Third Eye (Gold)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Gemini"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 5,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 532,
+    "name": "lacerta sky",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT with 1 life, born from an unravelling ball of yarn.",
+      "magic": "Your purrs cast spells of slumber, suspending minds in nightmares and dreams.",
+      "acts_of_service": "You and your WITCH commune in the cafeteria.",
+      "belonging": "Your future self tells you stories of how humans stumbled upon the Weird Wilds.",
+      "meow": "NAP!"
+    },
+    "skills": {
+      "caprice": 6,
+      "caution": 4,
+      "catastrophe": 7,
+      "curiosity": 9,
+      "charisma": 4,
+      "cunning": 5
+    },
+    "birth_chart": {
+      "sun": "pisces",
+      "moon": "capricorn",
+      "rising": "gemini"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Full Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Crystal Ball"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Maine Coon Tuxedo"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Flooded Cobalt"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Raised Third Eye (Gold)"
+      }
+    ],
+    "hash": "5e173ce6aef3464402076acfc8e5226447942cb01d325fab2062d5115780f8ac"
+  }
+}

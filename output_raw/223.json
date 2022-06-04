@@ -1,0 +1,168 @@
+{
+  "name": "ravioli of the bark",
+  "description": "You are a CAT with 9 lives, born from the rustle and shimmer of a well-worn silk slip. You drink gallons of milk every day. You protect your WITCH from making poor deals at the Demon Market. You live your best life savouring French cuisine. IT'S TIME TO STALK YOUR PREY!",
+  "image": "https://covencats.s3.amazonaws.com/74e7d4128e4e0f2e8128f8982bfbff6e3ab154f0713da73a866f6b775f677a59.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Moths"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Easel"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Paintbrushes"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Forehead Marking",
+      "value": "Star Mark (White)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Babylash"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aries"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 6,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 223,
+    "name": "ravioli of the bark",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT with 9 lives, born from the rustle and shimmer of a well-worn silk slip.",
+      "magic": "You drink gallons of milk every day.",
+      "acts_of_service": "You protect your WITCH from making poor deals at the Demon Market.",
+      "belonging": "You live your best life savouring French cuisine.",
+      "meow": "IT'S TIME TO STALK YOUR PREY!"
+    },
+    "skills": {
+      "caprice": 6,
+      "caution": 3,
+      "catastrophe": 6,
+      "curiosity": 8,
+      "charisma": 1,
+      "cunning": 6
+    },
+    "birth_chart": {
+      "sun": "aries",
+      "moon": "pisces",
+      "rising": "aries"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Moths"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Easel"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Paintbrushes"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Forehead Marking",
+        "value": "Star Mark (White)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Babylash"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "74e7d4128e4e0f2e8128f8982bfbff6e3ab154f0713da73a866f6b775f677a59"
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "name": "caipiroska, the nefarious",
+  "description": "You are a CAT with 6 lives, found on the beaches of Accra. You drink piping hot tea in all seasons, at all hours of the day. You and your WITCH braid challah together on Friday nights. You are often found yowling promises of terror and woe alongside Nyx's incantations. RIGHTY-O!",
+  "image": "https://covencats.s3.amazonaws.com/d6bc8612dd2dbed8afe6f10324b7fe0bab2d4bd76861a8cb28f27da62e6de1ef.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Crescent Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Ram's Skull"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Steel"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Demon"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Fish Collar"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Horns of Taurus"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Scorpio"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 9,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 323,
+    "name": "caipiroska, the nefarious",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT with 6 lives, found on the beaches of Accra.",
+      "magic": "You drink piping hot tea in all seasons, at all hours of the day.",
+      "acts_of_service": "You and your WITCH braid challah together on Friday nights.",
+      "belonging": "You are often found yowling promises of terror and woe alongside Nyx's incantations.",
+      "meow": "RIGHTY-O!"
+    },
+    "skills": {
+      "caprice": 8,
+      "caution": 2,
+      "catastrophe": 8,
+      "curiosity": 5,
+      "charisma": 2,
+      "cunning": 9
+    },
+    "birth_chart": {
+      "sun": "cancer",
+      "moon": "libra",
+      "rising": "scorpio"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Sea"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Crescent Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Ram's Skull"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Steel"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Demon"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Fish Collar"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Horns of Taurus"
+      }
+    ],
+    "hash": "d6bc8612dd2dbed8afe6f10324b7fe0bab2d4bd76861a8cb28f27da62e6de1ef"
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "name": "espresso of the glade",
+  "description": "You are a CAT come to life from a potion. You tie the strongest knots from the weakest links. You often nap atop your WITCH's head, hidden beneath their hat. You smell like lavender and salmon--the very best combination of smells, in your opinion. IT'S TIME TO SLEEP ON THE KEYBOARD!",
+  "image": "https://covencats.s3.amazonaws.com/32a48f94f4798a3d2ab9435125bda01886b81708cf82c9b71f1fa5226c75c1b1.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Sunbeam"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Easel"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Folded"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Mark of Moon Tears (White)"
+    },
+    {
+      "trait_type": "Forehead Marking",
+      "value": "Nega Moon Mark (Black)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Carnelian"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Cat Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Gemini"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 1,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 509,
+    "name": "espresso of the glade",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT come to life from a potion.",
+      "magic": "You tie the strongest knots from the weakest links.",
+      "acts_of_service": "You often nap atop your WITCH's head, hidden beneath their hat.",
+      "belonging": "You smell like lavender and salmon--the very best combination of smells, in your opinion.",
+      "meow": "IT'S TIME TO SLEEP ON THE KEYBOARD!"
+    },
+    "skills": {
+      "caprice": 2,
+      "caution": 8,
+      "catastrophe": 0,
+      "curiosity": 4,
+      "charisma": 5,
+      "cunning": 1
+    },
+    "birth_chart": {
+      "sun": "gemini",
+      "moon": "libra",
+      "rising": "gemini"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Sunbeam"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Easel"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Folded"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Mark of Moon Tears (White)"
+      },
+      {
+        "trait_type": "Forehead Marking",
+        "value": "Nega Moon Mark (Black)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Carnelian"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Cat Collar"
+      }
+    ],
+    "hash": "32a48f94f4798a3d2ab9435125bda01886b81708cf82c9b71f1fa5226c75c1b1"
+  }
+}

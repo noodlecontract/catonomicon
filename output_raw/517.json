@@ -1,0 +1,168 @@
+{
+  "name": "firestorm, the devious",
+  "description": "You are a CAT with 4 lives, found in the kitchen enjoying a succulent tuna pie. You plot, scheme, and craft mischievous plans to get the best pillow in the house. You and your WITCH enjoy boba and bubble baths. You steal everything that isn't nailed down and sometimes things that are. IT'S TIME TO SNUGGLE!",
+  "image": "https://covencats.s3.amazonaws.com/6b7cf235b3706ba68642a4202e5bdd8c2e5d829d25204b49f7df35a97c7b5aa0.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Sunbeam"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Cat Food (Tuna)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Smudged"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ring Collar (Silver)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Horns of Aries"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aquarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 4,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 517,
+    "name": "firestorm, the devious",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT with 4 lives, found in the kitchen enjoying a succulent tuna pie.",
+      "magic": "You plot, scheme, and craft mischievous plans to get the best pillow in the house.",
+      "acts_of_service": "You and your WITCH enjoy boba and bubble baths.",
+      "belonging": "You steal everything that isn't nailed down and sometimes things that are.",
+      "meow": "IT'S TIME TO SNUGGLE!"
+    },
+    "skills": {
+      "caprice": 6,
+      "caution": 8,
+      "catastrophe": 6,
+      "curiosity": 1,
+      "charisma": 3,
+      "cunning": 4
+    },
+    "birth_chart": {
+      "sun": "virgo",
+      "moon": "libra",
+      "rising": "aquarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Sunbeam"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Cat Food (Tuna)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ring Collar (Silver)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Horns of Aries"
+      }
+    ],
+    "hash": "6b7cf235b3706ba68642a4202e5bdd8c2e5d829d25204b49f7df35a97c7b5aa0"
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "name": "belle de la paw",
+  "description": "You are a CAT with 9 lives, found in an alley. You plot, scheme, and craft mischievous plans to get the best pillow in the house. You and your WITCH collect fallen bird feathers and river rocks. Your purrs can be heard in the music of Sylv. WALTZ AWAY!",
+  "image": "https://covencats.s3.amazonaws.com/611b07a1bb5430d4861c3b929753370b7c08fd7d6d2ac073830ac77cb555380e.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Phoenix (White)"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Cat Food (Chicken)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Floofed"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Starry Purple"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Babylash"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 3,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 304,
+    "name": "belle de la paw",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT with 9 lives, found in an alley.",
+      "magic": "You plot, scheme, and craft mischievous plans to get the best pillow in the house.",
+      "acts_of_service": "You and your WITCH collect fallen bird feathers and river rocks.",
+      "belonging": "Your purrs can be heard in the music of Sylv.",
+      "meow": "WALTZ AWAY!"
+    },
+    "skills": {
+      "caprice": 6,
+      "caution": 7,
+      "catastrophe": 6,
+      "curiosity": 4,
+      "charisma": 3,
+      "cunning": 3
+    },
+    "birth_chart": {
+      "sun": "leo",
+      "moon": "virgo",
+      "rising": "taurus"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "Phoenix (White)"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Cat Food (Chicken)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Starry Purple"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Babylash"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "611b07a1bb5430d4861c3b929753370b7c08fd7d6d2ac073830ac77cb555380e"
+  }
+}

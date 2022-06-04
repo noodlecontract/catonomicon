@@ -1,0 +1,152 @@
+{
+  "name": "spook, the scythe",
+  "description": "You are a CAT who seeks the truth. You hallucinate on mushrooms and talk with your past lives. You and your WITCH bond over perfectly-brewed cups of coffee. You decorate your house with skeletons and bats. SCREAM AT THE CRESCENT MOON!",
+  "image": "https://covencats.s3.amazonaws.com/9f12d733cc20b6033c4ba578a7758db378d2bf6956e7d1c915ac9a26d6fb48bf.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Bag of Salt"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Cicada"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Capricorn"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 7,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 448,
+    "name": "spook, the scythe",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT who seeks the truth.",
+      "magic": "You hallucinate on mushrooms and talk with your past lives.",
+      "acts_of_service": "You and your WITCH bond over perfectly-brewed cups of coffee.",
+      "belonging": "You decorate your house with skeletons and bats.",
+      "meow": "SCREAM AT THE CRESCENT MOON!"
+    },
+    "skills": {
+      "caprice": 1,
+      "caution": 4,
+      "catastrophe": 8,
+      "curiosity": 7,
+      "charisma": 3,
+      "cunning": 7
+    },
+    "birth_chart": {
+      "sun": "taurus",
+      "moon": "aries",
+      "rising": "capricorn"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Bag of Salt"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "Cicada"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "9f12d733cc20b6033c4ba578a7758db378d2bf6956e7d1c915ac9a26d6fb48bf"
+  }
+}

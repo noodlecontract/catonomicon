@@ -1,0 +1,144 @@
+{
+  "name": "valentine niagara",
+  "description": "You are a CAT forged from Ethereum. You transfer energy with a high-pitched yowl. You and your WITCH dance under every rainbow. People travel from lands over to bask in your glory. DO NOT DISTURB!",
+  "image": "https://covencats.s3.amazonaws.com/a0abbee5ccfb6c5336b87d5ecef98912ca79a8d7bb9f6d9eab430c1b964289ab.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Pillow (Cream)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Rolled"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mermaid"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Clear Graphic"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Simple Circlet (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Scorpio"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 5,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 47,
+    "name": "valentine niagara",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT forged from Ethereum.",
+      "magic": "You transfer energy with a high-pitched yowl.",
+      "acts_of_service": "You and your WITCH dance under every rainbow.",
+      "belonging": "People travel from lands over to bask in your glory.",
+      "meow": "DO NOT DISTURB!"
+    },
+    "skills": {
+      "caprice": 4,
+      "caution": 0,
+      "catastrophe": 6,
+      "curiosity": 4,
+      "charisma": 9,
+      "cunning": 5
+    },
+    "birth_chart": {
+      "sun": "leo",
+      "moon": "leo",
+      "rising": "scorpio"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Pillow (Cream)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mermaid"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Clear Graphic"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Simple Circlet (Silver)"
+      }
+    ],
+    "hash": "a0abbee5ccfb6c5336b87d5ecef98912ca79a8d7bb9f6d9eab430c1b964289ab"
+  }
+}

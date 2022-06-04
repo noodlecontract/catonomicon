@@ -1,0 +1,152 @@
+{
+  "name": "amelia of the quilt",
+  "description": "You are a CAT who collects feathers, fingerprints, and frangipane. Your magic leaves the scent of roasted chicken and crispy potatoes in its wake. You remind your WITCH to take deep breaths and drink water. Birds ask for your fur to create elaborate nests. IT'S TIME TO EAT!",
+  "image": "https://covencats.s3.amazonaws.com/1845ebc6e4f7445ef160d3a4990ad0fecc64c7898757ff9522fa0c3baca4b2e8.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Easel"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Forehead Marking",
+      "value": "Mark of Air (White)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Carnelian"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 2,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 321,
+    "name": "amelia of the quilt",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT who collects feathers, fingerprints, and frangipane.",
+      "magic": "Your magic leaves the scent of roasted chicken and crispy potatoes in its wake.",
+      "acts_of_service": "You remind your WITCH to take deep breaths and drink water.",
+      "belonging": "Birds ask for your fur to create elaborate nests.",
+      "meow": "IT'S TIME TO EAT!"
+    },
+    "skills": {
+      "caprice": 4,
+      "caution": 9,
+      "catastrophe": 1,
+      "curiosity": 9,
+      "charisma": 9,
+      "cunning": 2
+    },
+    "birth_chart": {
+      "sun": "capricorn",
+      "moon": "sagittarius",
+      "rising": "taurus"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Taupe"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Easel"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Emerald"
+      },
+      {
+        "trait_type": "Forehead Marking",
+        "value": "Mark of Air (White)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Carnelian"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "1845ebc6e4f7445ef160d3a4990ad0fecc64c7898757ff9522fa0c3baca4b2e8"
+  }
+}

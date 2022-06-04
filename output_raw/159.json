@@ -1,0 +1,152 @@
+{
+  "name": "soleil of the onyx",
+  "description": "You are a CAT who dips challah in honey year-round. You sniff out catnip from nations away. You win your WITCH's affection by warming their feet and soothing their pains. You draw your visions from whiskers, catnip, and mackerel bones. POUNCE BACKWARDS INTO PURGATORY!",
+  "image": "https://covencats.s3.amazonaws.com/0746725b6ae27e671559e27dd20e1739fdcba582abfc9db00929435c3f8597d7.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Crescent Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Genie Lamp (Purple)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Flooded Glo"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Rope Third Eye (Green)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Pisces"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 8,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 159,
+    "name": "soleil of the onyx",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT who dips challah in honey year-round.",
+      "magic": "You sniff out catnip from nations away.",
+      "acts_of_service": "You win your WITCH's affection by warming their feet and soothing their pains.",
+      "belonging": "You draw your visions from whiskers, catnip, and mackerel bones.",
+      "meow": "POUNCE BACKWARDS INTO PURGATORY!"
+    },
+    "skills": {
+      "caprice": 9,
+      "caution": 5,
+      "catastrophe": 8,
+      "curiosity": 3,
+      "charisma": 3,
+      "cunning": 8
+    },
+    "birth_chart": {
+      "sun": "leo",
+      "moon": "capricorn",
+      "rising": "pisces"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Crescent Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Genie Lamp (Purple)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Flooded Glo"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Rope Third Eye (Green)"
+      }
+    ],
+    "hash": "0746725b6ae27e671559e27dd20e1739fdcba582abfc9db00929435c3f8597d7"
+  }
+}

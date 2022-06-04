@@ -1,0 +1,144 @@
+{
+  "name": "dione delusion",
+  "description": "You are a CAT sprung from a shower of glitter. Your fur is a map of the night sky. You and your WITCH share a love language. Your best predictions are made by examining the way the skin crisps on a grilled sardine. WALK IN SHADOWS!",
+  "image": "https://covencats.s3.amazonaws.com/e7819c907ca9974b1567c9e30d213d5fa6a6f93ff9b9c67a03c0c971eefa94f4.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Genie Lamp (Pink)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Steel"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Glo"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Cancer"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 4,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 425,
+    "name": "dione delusion",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT sprung from a shower of glitter.",
+      "magic": "Your fur is a map of the night sky.",
+      "acts_of_service": "You and your WITCH share a love language.",
+      "belonging": "Your best predictions are made by examining the way the skin crisps on a grilled sardine.",
+      "meow": "WALK IN SHADOWS!"
+    },
+    "skills": {
+      "caprice": 2,
+      "caution": 9,
+      "catastrophe": 6,
+      "curiosity": 4,
+      "charisma": 2,
+      "cunning": 4
+    },
+    "birth_chart": {
+      "sun": "leo",
+      "moon": "sagittarius",
+      "rising": "cancer"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Taupe"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Genie Lamp (Pink)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Steel"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Glo"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "e7819c907ca9974b1567c9e30d213d5fa6a6f93ff9b9c67a03c0c971eefa94f4"
+  }
+}

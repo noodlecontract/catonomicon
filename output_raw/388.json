@@ -1,0 +1,144 @@
+{
+  "name": "indium, the abstract",
+  "description": "You are a CAT forged from Ethereum. You drink piping hot tea in all seasons, at all hours of the day. You support your WITCH in all things. Your command of arcane languages is unparalleled. IT'S TIME TO TORMENT THE DOG!",
+  "image": "https://covencats.s3.amazonaws.com/c868fc005f58ec024ffdc434a5ea4ce75e4dc4b514a69d680f520109ca39b3bc.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hypnotic"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Moon Choker (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 2,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 388,
+    "name": "indium, the abstract",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT forged from Ethereum.",
+      "magic": "You drink piping hot tea in all seasons, at all hours of the day.",
+      "acts_of_service": "You support your WITCH in all things.",
+      "belonging": "Your command of arcane languages is unparalleled.",
+      "meow": "IT'S TIME TO TORMENT THE DOG!"
+    },
+    "skills": {
+      "caprice": 5,
+      "caution": 7,
+      "catastrophe": 6,
+      "curiosity": 4,
+      "charisma": 0,
+      "cunning": 2
+    },
+    "birth_chart": {
+      "sun": "leo",
+      "moon": "scorpio",
+      "rising": "taurus"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hypnotic"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Moon Choker (Silver)"
+      }
+    ],
+    "hash": "c868fc005f58ec024ffdc434a5ea4ce75e4dc4b514a69d680f520109ca39b3bc"
+  }
+}

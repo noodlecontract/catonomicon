@@ -1,0 +1,152 @@
+{
+  "name": "cadmium einstein",
+  "description": "You are a CAT who paints rainbows in a Parisian loft. You craft carafes and cups out of clay. Your anger shields your WITCH from enemy spells. You make sure all the stars are in their correct places each night. FLUFF AROUND AND FIND OUT!",
+  "image": "https://covencats.s3.amazonaws.com/76c019cab0042b66b49fbde31581893fe4b5c9343982e7bd323b699463783f97.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Sunbeam"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Moon Choker (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Libra"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 1,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 368,
+    "name": "cadmium einstein",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT who paints rainbows in a Parisian loft.",
+      "magic": "You craft carafes and cups out of clay.",
+      "acts_of_service": "Your anger shields your WITCH from enemy spells.",
+      "belonging": "You make sure all the stars are in their correct places each night.",
+      "meow": "FLUFF AROUND AND FIND OUT!"
+    },
+    "skills": {
+      "caprice": 3,
+      "caution": 7,
+      "catastrophe": 4,
+      "curiosity": 9,
+      "charisma": 8,
+      "cunning": 1
+    },
+    "birth_chart": {
+      "sun": "cancer",
+      "moon": "libra",
+      "rising": "libra"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Sunbeam"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lilac"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Moon Choker (Silver)"
+      }
+    ],
+    "hash": "76c019cab0042b66b49fbde31581893fe4b5c9343982e7bd323b699463783f97"
+  }
+}

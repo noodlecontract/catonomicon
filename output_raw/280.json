@@ -1,0 +1,152 @@
+{
+  "name": "infinite, the exact",
+  "description": "You are a CAT forged from Ethereum. You dance between the lines of sheet music, whirl around the notes. You and your WITCH drink Earl Grey tea together every morning. You research the best places to catch fish. IT'S TIME TO CHASE THE MOUSE!",
+  "image": "https://covencats.s3.amazonaws.com/aee43181992352e5f40c87a40f4e7d42990363dd4849fa8d54fe0d7d15de9c1f.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Books"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Mage Script Melovesmealot (Blue)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Moon Choker (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Capricorn"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 5,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 280,
+    "name": "infinite, the exact",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT forged from Ethereum.",
+      "magic": "You dance between the lines of sheet music, whirl around the notes.",
+      "acts_of_service": "You and your WITCH drink Earl Grey tea together every morning.",
+      "belonging": "You research the best places to catch fish.",
+      "meow": "IT'S TIME TO CHASE THE MOUSE!"
+    },
+    "skills": {
+      "caprice": 4,
+      "caution": 7,
+      "catastrophe": 6,
+      "curiosity": 6,
+      "charisma": 5,
+      "cunning": 5
+    },
+    "birth_chart": {
+      "sun": "gemini",
+      "moon": "taurus",
+      "rising": "capricorn"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Books"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Mage Script Melovesmealot (Blue)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Hazel"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Moon Choker (Silver)"
+      }
+    ],
+    "hash": "aee43181992352e5f40c87a40f4e7d42990363dd4849fa8d54fe0d7d15de9c1f"
+  }
+}

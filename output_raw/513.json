@@ -1,0 +1,136 @@
+{
+  "name": "dame canzona",
+  "description": "You are a CAT with 15 lives, found at the base of Machu Picchu. Your wisdom comes from saucers of milk and the smell of ancient books. You and your WITCH enjoy fast food and fine dining together. Your favorite pastime is urging your WITCH to wear more Mugler. BEWARE OF DOGS!",
+  "image": "https://covencats.s3.amazonaws.com/d5716a2f64ea6eafe448b6f8de03788a42e236544eb968728db416d8b9c98d29.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Throne"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Tabby"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Shadowed"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aquarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 4,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 513,
+    "name": "dame canzona",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT with 15 lives, found at the base of Machu Picchu.",
+      "magic": "Your wisdom comes from saucers of milk and the smell of ancient books.",
+      "acts_of_service": "You and your WITCH enjoy fast food and fine dining together.",
+      "belonging": "Your favorite pastime is urging your WITCH to wear more Mugler.",
+      "meow": "BEWARE OF DOGS!"
+    },
+    "skills": {
+      "caprice": 9,
+      "caution": 5,
+      "catastrophe": 5,
+      "curiosity": 0,
+      "charisma": 8,
+      "cunning": 4
+    },
+    "birth_chart": {
+      "sun": "libra",
+      "moon": "pisces",
+      "rising": "aquarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Throne"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Tabby"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Shadowed"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Purple"
+      }
+    ],
+    "hash": "d5716a2f64ea6eafe448b6f8de03788a42e236544eb968728db416d8b9c98d29"
+  }
+}

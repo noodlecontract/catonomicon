@@ -1,0 +1,144 @@
+{
+  "name": "howl baroque",
+  "description": "You are a CAT who claws at imposters. You conduct orchestras of singing birds and croaking frogs. You and your WITCH braid challah together on Friday nights. People travel from lands over to bring you gifts of fresh fish. IT'S TIME TO TORMENT THE DOG!",
+  "image": "https://covencats.s3.amazonaws.com/2c837764e05ad80dd73982768fa334b1fbb8079c97f23c5b70bb7e5c74759770.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Rolled"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Alert"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Simple Circlet (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Capricorn"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 6,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 292,
+    "name": "howl baroque",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT who claws at imposters.",
+      "magic": "You conduct orchestras of singing birds and croaking frogs.",
+      "acts_of_service": "You and your WITCH braid challah together on Friday nights.",
+      "belonging": "People travel from lands over to bring you gifts of fresh fish.",
+      "meow": "IT'S TIME TO TORMENT THE DOG!"
+    },
+    "skills": {
+      "caprice": 8,
+      "caution": 6,
+      "catastrophe": 0,
+      "curiosity": 4,
+      "charisma": 9,
+      "cunning": 6
+    },
+    "birth_chart": {
+      "sun": "capricorn",
+      "moon": "virgo",
+      "rising": "capricorn"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Alert"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Simple Circlet (Silver)"
+      }
+    ],
+    "hash": "2c837764e05ad80dd73982768fa334b1fbb8079c97f23c5b70bb7e5c74759770"
+  }
+}

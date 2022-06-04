@@ -1,0 +1,152 @@
+{
+  "name": "phoebe, the languid",
+  "description": "You are a CAT who smirks in your sleep. You can leap to the top of the Tower in a single bound. You protect your WITCH from ashes, ambiguity, and Aries. You drink salmon potions to awaken your spirit guides. MAKE ALL AWARE OF YOUR PURR!",
+  "image": "https://covencats.s3.amazonaws.com/8bcd02ca2c2a25f4445a82ffb18bd74ae77e79330c3559dda7415704822de01c.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Crystal Ball"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Floofed"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Starry Silver"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Reverse Cateye"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Glo"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Raised Third Eye (Gold)"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Eyepatch (Blue)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Capricorn"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 8,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 73,
+    "name": "phoebe, the languid",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT who smirks in your sleep.",
+      "magic": "You can leap to the top of the Tower in a single bound.",
+      "acts_of_service": "You protect your WITCH from ashes, ambiguity, and Aries.",
+      "belonging": "You drink salmon potions to awaken your spirit guides.",
+      "meow": "MAKE ALL AWARE OF YOUR PURR!"
+    },
+    "skills": {
+      "caprice": 2,
+      "caution": 5,
+      "catastrophe": 1,
+      "curiosity": 9,
+      "charisma": 7,
+      "cunning": 8
+    },
+    "birth_chart": {
+      "sun": "taurus",
+      "moon": "cancer",
+      "rising": "capricorn"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Crystal Ball"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Starry Silver"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Reverse Cateye"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Glo"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Raised Third Eye (Gold)"
+      },
+      {
+        "trait_type": "Facewear",
+        "value": "Eyepatch (Blue)"
+      }
+    ],
+    "hash": "8bcd02ca2c2a25f4445a82ffb18bd74ae77e79330c3559dda7415704822de01c"
+  }
+}

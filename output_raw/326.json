@@ -1,0 +1,160 @@
+{
+  "name": "fuji of the air",
+  "description": "You are a CAT with 4 lives, born from a ritual of the chaos circle. Your wisdom comes from saucers of milk and the smell of ancient books. You and your WITCH float on lily pads and drink milk together. Your visions are always accompanied by the intoxicating smell of seafood. BE THERE OR BE SQUARE!",
+  "image": "https://covencats.s3.amazonaws.com/1d1d7915ca9bbbed4ed7b8fb482187e868904adc4ad22aea9f5b96f481f469a7.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Spiderwebs (Black)"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Lucky Cat"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Floofed"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Starry Silver"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Liquid Metal"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Bronze"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Cancer"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 7,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 326,
+    "name": "fuji of the air",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT with 4 lives, born from a ritual of the chaos circle.",
+      "magic": "Your wisdom comes from saucers of milk and the smell of ancient books.",
+      "acts_of_service": "You and your WITCH float on lily pads and drink milk together.",
+      "belonging": "Your visions are always accompanied by the intoxicating smell of seafood.",
+      "meow": "BE THERE OR BE SQUARE!"
+    },
+    "skills": {
+      "caprice": 6,
+      "caution": 4,
+      "catastrophe": 6,
+      "curiosity": 8,
+      "charisma": 2,
+      "cunning": 7
+    },
+    "birth_chart": {
+      "sun": "sagittarius",
+      "moon": "sagittarius",
+      "rising": "cancer"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Spiderwebs (Black)"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Lucky Cat"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Starry Silver"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Liquid Metal"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Bronze"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "1d1d7915ca9bbbed4ed7b8fb482187e868904adc4ad22aea9f5b96f481f469a7"
+  }
+}

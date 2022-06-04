@@ -1,0 +1,160 @@
+{
+  "name": "lupin izanami",
+  "description": "You are a CAT with 8 lives, found on Mount Kilimanjaro. You change furs whenever you desire. You and your WITCH bond over high-quality tassels. You love chasing ghost mice at the Demon Market. DIVE INTO THE ABYSS!",
+  "image": "https://covencats.s3.amazonaws.com/94d0b93c9496cffcdc6201b94bcc32d406d2680df4e89297eebee37ca14a3e8a.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Sage"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Steel"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Halloween Ghost"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aquarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 2,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 354,
+    "name": "lupin izanami",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT with 8 lives, found on Mount Kilimanjaro.",
+      "magic": "You change furs whenever you desire.",
+      "acts_of_service": "You and your WITCH bond over high-quality tassels.",
+      "belonging": "You love chasing ghost mice at the Demon Market.",
+      "meow": "DIVE INTO THE ABYSS!"
+    },
+    "skills": {
+      "caprice": 3,
+      "caution": 4,
+      "catastrophe": 9,
+      "curiosity": 5,
+      "charisma": 2,
+      "cunning": 2
+    },
+    "birth_chart": {
+      "sun": "gemini",
+      "moon": "aquarius",
+      "rising": "aquarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Sage"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Steel"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Halloween Ghost"
+      }
+    ],
+    "hash": "94d0b93c9496cffcdc6201b94bcc32d406d2680df4e89297eebee37ca14a3e8a"
+  }
+}

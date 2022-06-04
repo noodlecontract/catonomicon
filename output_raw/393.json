@@ -1,0 +1,168 @@
+{
+  "name": "tempest, the roll",
+  "description": "You are a CAT with more ears than the eye can see. You spin on record players and meow with the music. You and your WITCH bond over raindrops on roses. You dance with the VOID WITCH in the deepest dark of the Weird Wilds. BOUNCE OFF THE WALLS!",
+  "image": "https://covencats.s3.amazonaws.com/487dff55b98b364611c9e15c5fe94bcfd5cad02bc90ab8e0b20d22a523628d99.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Sunbeam"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Cat Food (Salmon)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Floofed"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Grumpy Mermaid"
+    },
+    {
+      "trait_type": "Forehead Marking",
+      "value": "Darkened Demon Third Eye (Glo)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ring Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 8,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 393,
+    "name": "tempest, the roll",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT with more ears than the eye can see.",
+      "magic": "You spin on record players and meow with the music.",
+      "acts_of_service": "You and your WITCH bond over raindrops on roses.",
+      "belonging": "You dance with the VOID WITCH in the deepest dark of the Weird Wilds.",
+      "meow": "BOUNCE OFF THE WALLS!"
+    },
+    "skills": {
+      "caprice": 5,
+      "caution": 8,
+      "catastrophe": 9,
+      "curiosity": 8,
+      "charisma": 8,
+      "cunning": 8
+    },
+    "birth_chart": {
+      "sun": "scorpio",
+      "moon": "leo",
+      "rising": "sagittarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Sunbeam"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Cat Food (Salmon)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Grumpy Mermaid"
+      },
+      {
+        "trait_type": "Forehead Marking",
+        "value": "Darkened Demon Third Eye (Glo)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "White"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ring Collar (Silver)"
+      }
+    ],
+    "hash": "487dff55b98b364611c9e15c5fe94bcfd5cad02bc90ab8e0b20d22a523628d99"
+  }
+}

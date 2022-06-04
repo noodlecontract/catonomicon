@@ -1,0 +1,168 @@
+{
+  "name": "silk, the nonchalant",
+  "description": "You are a CAT made of candles, clay, and credit cards. You nurture plants into the shapes of cats. You and your WITCH make dreamcatchers from willow branches and feathers. In a room full of CATS, you are the one who stands out most. BOW BEFORE ME!",
+  "image": "https://covencats.s3.amazonaws.com/c3e04ea4d54af9492269bf514adafa89daa9a584e0406190253fe6bee8682cd6.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Sunbeam"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Ethereum)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mauve"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Reverse Cateye"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Opal"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ethereum Collar"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Hoodlondon Hathor (Gold)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Libra"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 9,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 359,
+    "name": "silk, the nonchalant",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT made of candles, clay, and credit cards.",
+      "magic": "You nurture plants into the shapes of cats.",
+      "acts_of_service": "You and your WITCH make dreamcatchers from willow branches and feathers.",
+      "belonging": "In a room full of CATS, you are the one who stands out most.",
+      "meow": "BOW BEFORE ME!"
+    },
+    "skills": {
+      "caprice": 7,
+      "caution": 5,
+      "catastrophe": 5,
+      "curiosity": 0,
+      "charisma": 4,
+      "cunning": 9
+    },
+    "birth_chart": {
+      "sun": "scorpio",
+      "moon": "aquarius",
+      "rising": "libra"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Sunbeam"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Ethereum)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mauve"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Reverse Cateye"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Opal"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ethereum Collar"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Hoodlondon Hathor (Gold)"
+      }
+    ],
+    "hash": "c3e04ea4d54af9492269bf514adafa89daa9a584e0406190253fe6bee8682cd6"
+  }
+}

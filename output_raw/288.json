@@ -1,0 +1,136 @@
+{
+  "name": "valerian of the crypt",
+  "description": "You are a CAT with 18 lives, found in a karaoke bar in Tokyo. You bottle tears from witches and skeletons. You and your WITCH bond over wordle starting words. Your playground is a cemetery and your familiar, a crow. RUN FOR THE POTION!",
+  "image": "https://covencats.s3.amazonaws.com/344481cb31bd0bea604764e7bf7fdb85ebc700935dbfbe8b56accc52c38090e6.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Gramophone"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Rolled"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Platinum"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Smudged"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 0,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 288,
+    "name": "valerian of the crypt",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT with 18 lives, found in a karaoke bar in Tokyo.",
+      "magic": "You bottle tears from witches and skeletons.",
+      "acts_of_service": "You and your WITCH bond over wordle starting words.",
+      "belonging": "Your playground is a cemetery and your familiar, a crow.",
+      "meow": "RUN FOR THE POTION!"
+    },
+    "skills": {
+      "caprice": 3,
+      "caution": 6,
+      "catastrophe": 5,
+      "curiosity": 7,
+      "charisma": 2,
+      "cunning": 0
+    },
+    "birth_chart": {
+      "sun": "sagittarius",
+      "moon": "leo",
+      "rising": "taurus"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Gramophone"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Platinum"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Gold"
+      }
+    ],
+    "hash": "344481cb31bd0bea604764e7bf7fdb85ebc700935dbfbe8b56accc52c38090e6"
+  }
+}

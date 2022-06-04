@@ -1,0 +1,152 @@
+{
+  "name": "rhea of the cup",
+  "description": "You are a CAT who tells many truths and few lies. You drink starlight from a saucer. You and your WITCH share a pillow fort and watch movies all day. You see mice, spiders, and days of doom. IT'S TIME TO TEND TO THE CHICKEN COOP!",
+  "image": "https://covencats.s3.amazonaws.com/073b414a05b8988493f1e7359f6c136dd48f2238e414629381543faa0f226d5e.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Crystals (Glo)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mermaid"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey Green"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aries"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 7,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 355,
+    "name": "rhea of the cup",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT who tells many truths and few lies.",
+      "magic": "You drink starlight from a saucer.",
+      "acts_of_service": "You and your WITCH share a pillow fort and watch movies all day.",
+      "belonging": "You see mice, spiders, and days of doom.",
+      "meow": "IT'S TIME TO TEND TO THE CHICKEN COOP!"
+    },
+    "skills": {
+      "caprice": 7,
+      "caution": 3,
+      "catastrophe": 5,
+      "curiosity": 6,
+      "charisma": 0,
+      "cunning": 7
+    },
+    "birth_chart": {
+      "sun": "gemini",
+      "moon": "libra",
+      "rising": "aries"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Crystals (Glo)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mermaid"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "073b414a05b8988493f1e7359f6c136dd48f2238e414629381543faa0f226d5e"
+  }
+}

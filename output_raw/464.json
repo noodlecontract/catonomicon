@@ -1,0 +1,144 @@
+{
+  "name": "kerberos mist",
+  "description": "You are a CAT with more ears than the eye can see. Your claws are as sharp as blades. You and your WITCH dance under every rainbow. You predict the tarot cards your WITCH pulls. PLAY WITH YOUR FOOD!",
+  "image": "https://covencats.s3.amazonaws.com/0a719f13584633282c407cdb61119967a24c608750b72429d3c5b2bec4bbbd64.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Cat Food (Tuna)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Floofed"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aries"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 8,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 464,
+    "name": "kerberos mist",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT with more ears than the eye can see.",
+      "magic": "Your claws are as sharp as blades.",
+      "acts_of_service": "You and your WITCH dance under every rainbow.",
+      "belonging": "You predict the tarot cards your WITCH pulls.",
+      "meow": "PLAY WITH YOUR FOOD!"
+    },
+    "skills": {
+      "caprice": 3,
+      "caution": 4,
+      "catastrophe": 2,
+      "curiosity": 9,
+      "charisma": 1,
+      "cunning": 8
+    },
+    "birth_chart": {
+      "sun": "virgo",
+      "moon": "gemini",
+      "rising": "aries"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Cat Food (Tuna)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Green"
+      }
+    ],
+    "hash": "0a719f13584633282c407cdb61119967a24c608750b72429d3c5b2bec4bbbd64"
+  }
+}

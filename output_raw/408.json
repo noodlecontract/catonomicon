@@ -1,0 +1,168 @@
+{
+  "name": "vela whirl",
+  "description": "You are a CAT with 3 lives, born from earth once sculpted by a WITCH. You scare away enemies with a high-pitched yowl. You protect your WITCH from pencils, pincher bugs, and Pisces. You predict the future by the way your tummy grumbles in the morning. WALK IN SHADOWS!",
+  "image": "https://covencats.s3.amazonaws.com/39618fd929e5acb5fa80a8bcf298ae66d5458a905884197258a326cc8f0ce6f3.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Waxing Crescent"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Genie Lamp (Pink)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mauve"
+    },
+    {
+      "trait_type": "Forehead Marking",
+      "value": "Mark of Leon"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Reverse Cateye"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Raised Third Eye (Red)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Hoodlondon Hathor (Gold)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Virgo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 4,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 408,
+    "name": "vela whirl",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT with 3 lives, born from earth once sculpted by a WITCH.",
+      "magic": "You scare away enemies with a high-pitched yowl.",
+      "acts_of_service": "You protect your WITCH from pencils, pincher bugs, and Pisces.",
+      "belonging": "You predict the future by the way your tummy grumbles in the morning.",
+      "meow": "WALK IN SHADOWS!"
+    },
+    "skills": {
+      "caprice": 4,
+      "caution": 5,
+      "catastrophe": 5,
+      "curiosity": 4,
+      "charisma": 0,
+      "cunning": 4
+    },
+    "birth_chart": {
+      "sun": "gemini",
+      "moon": "leo",
+      "rising": "virgo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Waxing Crescent"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Genie Lamp (Pink)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mauve"
+      },
+      {
+        "trait_type": "Forehead Marking",
+        "value": "Mark of Leon"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Reverse Cateye"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Raised Third Eye (Red)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Hoodlondon Hathor (Gold)"
+      }
+    ],
+    "hash": "39618fd929e5acb5fa80a8bcf298ae66d5458a905884197258a326cc8f0ce6f3"
+  }
+}

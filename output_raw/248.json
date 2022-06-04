@@ -1,0 +1,152 @@
+{
+  "name": "scorpius of the altar",
+  "description": "You are a CAT made of tuna, salmon, and yellowtail. You snuggle close to the fireplace and dream of epic adventures. You and your WITCH bond over California rolls. The cards speak to you in the squabbles of birds. SCREAM AT THE CRESCENT MOON!",
+  "image": "https://covencats.s3.amazonaws.com/96f344e94a5ef0a0893a5f6a0d6e9c546104266f29e85c0185473fc77f32324f.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Broom"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Bag of Salt"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Gemini"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 7,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 248,
+    "name": "scorpius of the altar",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT made of tuna, salmon, and yellowtail.",
+      "magic": "You snuggle close to the fireplace and dream of epic adventures.",
+      "acts_of_service": "You and your WITCH bond over California rolls.",
+      "belonging": "The cards speak to you in the squabbles of birds.",
+      "meow": "SCREAM AT THE CRESCENT MOON!"
+    },
+    "skills": {
+      "caprice": 2,
+      "caution": 9,
+      "catastrophe": 7,
+      "curiosity": 2,
+      "charisma": 6,
+      "cunning": 7
+    },
+    "birth_chart": {
+      "sun": "capricorn",
+      "moon": "gemini",
+      "rising": "gemini"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Broom"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Bag of Salt"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "96f344e94a5ef0a0893a5f6a0d6e9c546104266f29e85c0185473fc77f32324f"
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "name": "iridium dante",
+  "description": "You are a CAT who adores designer sunglasses. You nurture plants into the shapes of cats. You and your WITCH heat your blankets with conjured fire. You are an expert in the anatomy of mackerels. SAY HELLO TO THE STARS!",
+  "image": "https://covencats.s3.amazonaws.com/fbde1ef14ff01c398aafc11e4c72ceea0b2a0c37e25646895cbf3a846700fadf.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Full Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Grimoires"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Scripted Octagon Glasses (Purple)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lilac Siamese"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Mage Script Melovesmealot (Purple)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Smudged"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Cancer"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 5,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 141,
+    "name": "iridium dante",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT who adores designer sunglasses.",
+      "magic": "You nurture plants into the shapes of cats.",
+      "acts_of_service": "You and your WITCH heat your blankets with conjured fire.",
+      "belonging": "You are an expert in the anatomy of mackerels.",
+      "meow": "SAY HELLO TO THE STARS!"
+    },
+    "skills": {
+      "caprice": 7,
+      "caution": 8,
+      "catastrophe": 7,
+      "curiosity": 7,
+      "charisma": 2,
+      "cunning": 5
+    },
+    "birth_chart": {
+      "sun": "cancer",
+      "moon": "cancer",
+      "rising": "cancer"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Sea"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Full Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Grimoires"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Scripted Octagon Glasses (Purple)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lilac Siamese"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Mage Script Melovesmealot (Purple)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Red"
+      }
+    ],
+    "hash": "fbde1ef14ff01c398aafc11e4c72ceea0b2a0c37e25646895cbf3a846700fadf"
+  }
+}

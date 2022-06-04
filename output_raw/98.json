@@ -1,0 +1,152 @@
+{
+  "name": "ephedra",
+  "description": "You are a CAT who swims with sharks. Your ears wiggle to a silent disco. You play with your WITCH while all the other cats fight. Your visions come to you in the form of delicious aromas. FLUFF AROUND AND FIND OUT!",
+  "image": "https://covencats.s3.amazonaws.com/3a303cbdb5ea827182409dd8d1ccd1062b76b5e1ca1ad5e94c5032b91bf82ab1.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Sunbeam"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Crystal Ball"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Floofed"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Starry Silver"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Carnelian"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Raised Third Eye (Red)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Scorpio"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 0,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 98,
+    "name": "ephedra",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT who swims with sharks.",
+      "magic": "Your ears wiggle to a silent disco.",
+      "acts_of_service": "You play with your WITCH while all the other cats fight.",
+      "belonging": "Your visions come to you in the form of delicious aromas.",
+      "meow": "FLUFF AROUND AND FIND OUT!"
+    },
+    "skills": {
+      "caprice": 6,
+      "caution": 3,
+      "catastrophe": 2,
+      "curiosity": 7,
+      "charisma": 5,
+      "cunning": 0
+    },
+    "birth_chart": {
+      "sun": "libra",
+      "moon": "aries",
+      "rising": "scorpio"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Sunbeam"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Crystal Ball"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Starry Silver"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Carnelian"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Raised Third Eye (Red)"
+      }
+    ],
+    "hash": "3a303cbdb5ea827182409dd8d1ccd1062b76b5e1ca1ad5e94c5032b91bf82ab1"
+  }
+}

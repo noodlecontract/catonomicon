@@ -1,0 +1,160 @@
+{
+  "name": "sibyl dusk",
+  "description": "You are a CAT made of almonds. You craft carafes and cups out of clay. You protect your WITCH from demons, dogs, and dry ice. You inhale catnip and exhale spells that stop time. MAKE ALL AWARE OF YOUR PURR!",
+  "image": "https://covencats.s3.amazonaws.com/01d459f25ad0c90388af28a95e16a73137e3b4eae67981326e501759f0d806be.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Sunbeam"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Crystal Ball"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Clear Graphic"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ethereum Collar"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Eyepatch (Gold)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Pisces"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 0,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 328,
+    "name": "sibyl dusk",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT made of almonds.",
+      "magic": "You craft carafes and cups out of clay.",
+      "acts_of_service": "You protect your WITCH from demons, dogs, and dry ice.",
+      "belonging": "You inhale catnip and exhale spells that stop time.",
+      "meow": "MAKE ALL AWARE OF YOUR PURR!"
+    },
+    "skills": {
+      "caprice": 4,
+      "caution": 4,
+      "catastrophe": 0,
+      "curiosity": 2,
+      "charisma": 2,
+      "cunning": 0
+    },
+    "birth_chart": {
+      "sun": "aquarius",
+      "moon": "virgo",
+      "rising": "pisces"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Sunbeam"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Crystal Ball"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lilac"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Clear Graphic"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ethereum Collar"
+      },
+      {
+        "trait_type": "Facewear",
+        "value": "Eyepatch (Gold)"
+      }
+    ],
+    "hash": "01d459f25ad0c90388af28a95e16a73137e3b4eae67981326e501759f0d806be"
+  }
+}

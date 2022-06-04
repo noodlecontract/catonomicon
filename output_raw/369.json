@@ -1,0 +1,152 @@
+{
+  "name": "vesta, the precious",
+  "description": "You are a CAT with 11 lives, found in the souks of Marrakech. You craft carafes and cups out of clay. You protect your WITCH from leeches, lavender, and Leos. You predict the future from the movements of your whiskers. PLUNGE INTO THE DARKNESS!",
+  "image": "https://covencats.s3.amazonaws.com/2fa40ed8a3a1e5832fc50d7bd9780412f25326830e6fafbf8363729c3518cc79.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Cat Food (Tuna)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Flooded Red"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Raised Third Eye (Purple)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 6,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 369,
+    "name": "vesta, the precious",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT with 11 lives, found in the souks of Marrakech.",
+      "magic": "You craft carafes and cups out of clay.",
+      "acts_of_service": "You protect your WITCH from leeches, lavender, and Leos.",
+      "belonging": "You predict the future from the movements of your whiskers.",
+      "meow": "PLUNGE INTO THE DARKNESS!"
+    },
+    "skills": {
+      "caprice": 9,
+      "caution": 9,
+      "catastrophe": 8,
+      "curiosity": 7,
+      "charisma": 7,
+      "cunning": 6
+    },
+    "birth_chart": {
+      "sun": "scorpio",
+      "moon": "gemini",
+      "rising": "sagittarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Cat Food (Tuna)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Flooded Red"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Raised Third Eye (Purple)"
+      }
+    ],
+    "hash": "2fa40ed8a3a1e5832fc50d7bd9780412f25326830e6fafbf8363729c3518cc79"
+  }
+}

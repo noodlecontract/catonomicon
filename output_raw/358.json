@@ -1,0 +1,160 @@
+{
+  "name": "hojicha",
+  "description": "You are a CAT with 3 lives, found on the streets of Lucerne. You hallucinate on mushrooms and talk with your past lives. You and your WITCH create bouquets with wilted, wild flowers. You sleep on a bed of eternal grass and conjure the scent of warm spring mornings on cold winter nights. POUNCE BACKWARDS INTO HELL!",
+  "image": "https://covencats.s3.amazonaws.com/bb6d6f359b72d8aa55a601f0ae17346c1f6299b96198261607ed1e49c7f0a26d.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Basket of Yarn"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Butterfly (Emerald)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Maine Coon Smoke"
+    },
+    {
+      "trait_type": "Forehead Marking",
+      "value": "Moon Mark (White)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Fish Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Leo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 0,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 358,
+    "name": "hojicha",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT with 3 lives, found on the streets of Lucerne.",
+      "magic": "You hallucinate on mushrooms and talk with your past lives.",
+      "acts_of_service": "You and your WITCH create bouquets with wilted, wild flowers.",
+      "belonging": "You sleep on a bed of eternal grass and conjure the scent of warm spring mornings on cold winter nights.",
+      "meow": "POUNCE BACKWARDS INTO HELL!"
+    },
+    "skills": {
+      "caprice": 8,
+      "caution": 9,
+      "catastrophe": 8,
+      "curiosity": 4,
+      "charisma": 7,
+      "cunning": 0
+    },
+    "birth_chart": {
+      "sun": "aries",
+      "moon": "cancer",
+      "rising": "leo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Taupe"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Basket of Yarn"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "Butterfly (Emerald)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Maine Coon Smoke"
+      },
+      {
+        "trait_type": "Forehead Marking",
+        "value": "Moon Mark (White)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Amber"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Fish Collar"
+      }
+    ],
+    "hash": "bb6d6f359b72d8aa55a601f0ae17346c1f6299b96198261607ed1e49c7f0a26d"
+  }
+}

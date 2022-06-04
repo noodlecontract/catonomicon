@@ -1,0 +1,152 @@
+{
+  "name": "cinquain",
+  "description": "You are a CAT who makes homes out of forgotten places. You can sense the presence of others, no matter how well they are hidden. You and your WITCH speak in riddles and puzzles. You have a vast knowledge of all types of cheese. FLUFF AROUND AND FIND OUT!",
+  "image": "https://covencats.s3.amazonaws.com/f4fa7fa30e267beb42c2cc82a49398c23f111eaf840bd618541d24bfde90b354.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Primordial Ooze"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "Scripted Mage Aura (Blue)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Mark of Tacolin (Silver)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 8,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 110,
+    "name": "cinquain",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT who makes homes out of forgotten places.",
+      "magic": "You can sense the presence of others, no matter how well they are hidden.",
+      "acts_of_service": "You and your WITCH speak in riddles and puzzles.",
+      "belonging": "You have a vast knowledge of all types of cheese.",
+      "meow": "FLUFF AROUND AND FIND OUT!"
+    },
+    "skills": {
+      "caprice": 6,
+      "caution": 8,
+      "catastrophe": 4,
+      "curiosity": 9,
+      "charisma": 8,
+      "cunning": 8
+    },
+    "birth_chart": {
+      "sun": "scorpio",
+      "moon": "libra",
+      "rising": "taurus"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Primordial Ooze"
+      },
+      {
+        "trait_type": "Aura",
+        "value": "Scripted Mage Aura (Blue)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Mark of Tacolin (Silver)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Lilac"
+      }
+    ],
+    "hash": "f4fa7fa30e267beb42c2cc82a49398c23f111eaf840bd618541d24bfde90b354"
+  }
+}

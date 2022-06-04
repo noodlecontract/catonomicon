@@ -1,0 +1,136 @@
+{
+  "name": "spaghetti of summer",
+  "description": "You are a CAT with 9 lives, born from the rustle and shimmer of a well-worn silk slip. Your yowls touch unreachable worlds and send tremors across the Weird Wilds. Your anger shields your WITCH from enemy spells. Birds and fairies dream of riding on your back. SLEEP IN THE SHADOWS!",
+  "image": "https://covencats.s3.amazonaws.com/23e39183dcd85d81be6d0ad85b36d9d9d33f6e7d6c64bb6060091ad6430afc51.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Toadstool"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Maine Coon White"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Pisces"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 1,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 52,
+    "name": "spaghetti of summer",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT with 9 lives, born from the rustle and shimmer of a well-worn silk slip.",
+      "magic": "Your yowls touch unreachable worlds and send tremors across the Weird Wilds.",
+      "acts_of_service": "Your anger shields your WITCH from enemy spells.",
+      "belonging": "Birds and fairies dream of riding on your back.",
+      "meow": "SLEEP IN THE SHADOWS!"
+    },
+    "skills": {
+      "caprice": 0,
+      "caution": 9,
+      "catastrophe": 5,
+      "curiosity": 3,
+      "charisma": 4,
+      "cunning": 1
+    },
+    "birth_chart": {
+      "sun": "pisces",
+      "moon": "pisces",
+      "rising": "pisces"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Toadstool"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Maine Coon White"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Amber"
+      }
+    ],
+    "hash": "23e39183dcd85d81be6d0ad85b36d9d9d33f6e7d6c64bb6060091ad6430afc51"
+  }
+}

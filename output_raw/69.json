@@ -1,0 +1,168 @@
+{
+  "name": "inferno, the spicy",
+  "description": "You are a CAT with 6 lives, born from the pounce of a jaguar in the middle of the night. You scare away enemies with a swish of your tail. You remind your WITCH to live, laugh, love. You delight in clawing pillows to shreds. BEWITCH HUMANS!",
+  "image": "https://covencats.s3.amazonaws.com/91083ba96038f9c5fcf0e04e607ea0a92bdfbee8574723e69cadd384f7e50c8d.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Sunbeam"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Dragon (Ethereum)"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Cat Food (Chicken)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lilac Siamese"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Darkened Demon Bloom"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Ruby"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Moon Choker (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Cancer"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 7,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 69,
+    "name": "inferno, the spicy",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT with 6 lives, born from the pounce of a jaguar in the middle of the night.",
+      "magic": "You scare away enemies with a swish of your tail.",
+      "acts_of_service": "You remind your WITCH to live, laugh, love.",
+      "belonging": "You delight in clawing pillows to shreds.",
+      "meow": "BEWITCH HUMANS!"
+    },
+    "skills": {
+      "caprice": 1,
+      "caution": 3,
+      "catastrophe": 9,
+      "curiosity": 2,
+      "charisma": 3,
+      "cunning": 7
+    },
+    "birth_chart": {
+      "sun": "taurus",
+      "moon": "libra",
+      "rising": "cancer"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Sea"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Sunbeam"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "Dragon (Ethereum)"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Cat Food (Chicken)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lilac Siamese"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Darkened Demon Bloom"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Ruby"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Moon Choker (Silver)"
+      }
+    ],
+    "hash": "91083ba96038f9c5fcf0e04e607ea0a92bdfbee8574723e69cadd384f7e50c8d"
+  }
+}

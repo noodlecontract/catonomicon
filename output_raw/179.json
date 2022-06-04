@@ -1,0 +1,168 @@
+{
+  "name": "kanna wind",
+  "description": "You are a CAT mischievous beyond reckoning. Your magic smells like a storm brewing, dark and full of potential. You and your WITCH braid challah together on Friday nights. You throw mouse bones and read their teachings. PICK A POISON, ANY POISON!",
+  "image": "https://covencats.s3.amazonaws.com/b00bdc717099f58d3e05917a6f4846361d9dbf2b9432455fafb10aeb9180ab07.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Full Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Crystal Ball"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Sage"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Floofed"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Starry Purple"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Eyepatch (Black)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Capricorn"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 8,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 179,
+    "name": "kanna wind",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT mischievous beyond reckoning.",
+      "magic": "Your magic smells like a storm brewing, dark and full of potential.",
+      "acts_of_service": "You and your WITCH braid challah together on Friday nights.",
+      "belonging": "You throw mouse bones and read their teachings.",
+      "meow": "PICK A POISON, ANY POISON!"
+    },
+    "skills": {
+      "caprice": 9,
+      "caution": 6,
+      "catastrophe": 7,
+      "curiosity": 9,
+      "charisma": 3,
+      "cunning": 8
+    },
+    "birth_chart": {
+      "sun": "sagittarius",
+      "moon": "sagittarius",
+      "rising": "capricorn"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Full Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Crystal Ball"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Sage"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Starry Purple"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      },
+      {
+        "trait_type": "Facewear",
+        "value": "Eyepatch (Black)"
+      }
+    ],
+    "hash": "b00bdc717099f58d3e05917a6f4846361d9dbf2b9432455fafb10aeb9180ab07"
+  }
+}

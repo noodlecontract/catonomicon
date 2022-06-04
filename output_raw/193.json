@@ -1,0 +1,152 @@
+{
+  "name": "tenor baroque",
+  "description": "You are a CAT who moved to Portugal for fresh seafood and no crypto taxes. Your paws dance to silent music. You write lore with your WITCH every Saturday morning. You refuse all but the most luxurious of scratching posts. LET THEM EAT CAKE!",
+  "image": "https://covencats.s3.amazonaws.com/62fd30785deb1728d6460a9350fd2fce5783f18a10464e7ea7f4e455057f7be6.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Pillow (Cream)"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Phoenix (Rainbow)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Rolled"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mermaid"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Babylash"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ethereum Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Virgo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 9,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 193,
+    "name": "tenor baroque",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT who moved to Portugal for fresh seafood and no crypto taxes.",
+      "magic": "Your paws dance to silent music.",
+      "acts_of_service": "You write lore with your WITCH every Saturday morning.",
+      "belonging": "You refuse all but the most luxurious of scratching posts.",
+      "meow": "LET THEM EAT CAKE!"
+    },
+    "skills": {
+      "caprice": 2,
+      "caution": 3,
+      "catastrophe": 7,
+      "curiosity": 5,
+      "charisma": 4,
+      "cunning": 9
+    },
+    "birth_chart": {
+      "sun": "scorpio",
+      "moon": "gemini",
+      "rising": "virgo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Pillow (Cream)"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "Phoenix (Rainbow)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mermaid"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Babylash"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ethereum Collar"
+      }
+    ],
+    "hash": "62fd30785deb1728d6460a9350fd2fce5783f18a10464e7ea7f4e455057f7be6"
+  }
+}

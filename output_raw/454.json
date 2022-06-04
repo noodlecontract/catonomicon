@@ -1,0 +1,144 @@
+{
+  "name": "melisma of seoul",
+  "description": "You are a CAT with 3 lives, born from earth once sculpted by a WITCH. You leave pawprints of silver in your wake. You and your WITCH discuss how to make friends as smart as you. You spend your days in fashion houses, watching models strut down the catwalk. STEAL THE TUNA!",
+  "image": "https://covencats.s3.amazonaws.com/fb90ec2b5387d5aed6ae9e602774d6968adb051156cbe7dcf07aef757677014d.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Throne"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Rolled"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mauve"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Reverse Cateye"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Opal"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aries"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 3,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 454,
+    "name": "melisma of seoul",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT with 3 lives, born from earth once sculpted by a WITCH.",
+      "magic": "You leave pawprints of silver in your wake.",
+      "acts_of_service": "You and your WITCH discuss how to make friends as smart as you.",
+      "belonging": "You spend your days in fashion houses, watching models strut down the catwalk.",
+      "meow": "STEAL THE TUNA!"
+    },
+    "skills": {
+      "caprice": 9,
+      "caution": 1,
+      "catastrophe": 1,
+      "curiosity": 6,
+      "charisma": 9,
+      "cunning": 3
+    },
+    "birth_chart": {
+      "sun": "taurus",
+      "moon": "scorpio",
+      "rising": "aries"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Taupe"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Throne"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mauve"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Reverse Cateye"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Opal"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      }
+    ],
+    "hash": "fb90ec2b5387d5aed6ae9e602774d6968adb051156cbe7dcf07aef757677014d"
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "name": "silver morrison",
+  "description": "You are a CAT who sleeps in hard-to-reach places. You plot, scheme, and craft mischievous plans to get the best pillow in the house. You protect your WITCH from ashes, ambiguity, and Aries. You can read and write in hieroglyphics. DIVE INTO YOUR DREAMS!",
+  "image": "https://covencats.s3.amazonaws.com/4461c88a0955b3d495ef3612ae3aeb0ed8be4b8efd5784216b1568797c9eca04.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Cross-stitch"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "Scripted Mage Aura (Purple)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lilac Siamese"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Carnelian"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Capricorn"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 0,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 516,
+    "name": "silver morrison",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT who sleeps in hard-to-reach places.",
+      "magic": "You plot, scheme, and craft mischievous plans to get the best pillow in the house.",
+      "acts_of_service": "You protect your WITCH from ashes, ambiguity, and Aries.",
+      "belonging": "You can read and write in hieroglyphics.",
+      "meow": "DIVE INTO YOUR DREAMS!"
+    },
+    "skills": {
+      "caprice": 6,
+      "caution": 7,
+      "catastrophe": 2,
+      "curiosity": 5,
+      "charisma": 5,
+      "cunning": 0
+    },
+    "birth_chart": {
+      "sun": "sagittarius",
+      "moon": "aquarius",
+      "rising": "capricorn"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Sea"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Cross-stitch"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Aura",
+        "value": "Scripted Mage Aura (Purple)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lilac Siamese"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Carnelian"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      }
+    ],
+    "hash": "4461c88a0955b3d495ef3612ae3aeb0ed8be4b8efd5784216b1568797c9eca04"
+  }
+}

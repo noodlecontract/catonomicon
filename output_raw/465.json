@@ -1,0 +1,144 @@
+{
+  "name": "vermouth",
+  "description": "You are a CAT who yowls under the new moon. You scale mountains that take you high above the clouds. You protect your WITCH from chaos, candles, and Capricorns. Your purrs can be heard in the music of Sylv. IT'S TIME TO EAT FISH!",
+  "image": "https://covencats.s3.amazonaws.com/579c6e1dee6cc14f89b82be3294239ca9e9d9d6d8fee5b6500887d0b236ba2c1.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Pillow (Cream)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Willow the Gentle"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Collar of Pearls"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Capricorn"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 7,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 465,
+    "name": "vermouth",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT who yowls under the new moon.",
+      "magic": "You scale mountains that take you high above the clouds.",
+      "acts_of_service": "You protect your WITCH from chaos, candles, and Capricorns.",
+      "belonging": "Your purrs can be heard in the music of Sylv.",
+      "meow": "IT'S TIME TO EAT FISH!"
+    },
+    "skills": {
+      "caprice": 8,
+      "caution": 0,
+      "catastrophe": 3,
+      "curiosity": 6,
+      "charisma": 9,
+      "cunning": 7
+    },
+    "birth_chart": {
+      "sun": "capricorn",
+      "moon": "capricorn",
+      "rising": "capricorn"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Pillow (Cream)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Willow the Gentle"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Collar of Pearls"
+      }
+    ],
+    "hash": "579c6e1dee6cc14f89b82be3294239ca9e9d9d6d8fee5b6500887d0b236ba2c1"
+  }
+}

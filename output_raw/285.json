@@ -1,0 +1,152 @@
+{
+  "name": "countess melisma",
+  "description": "You are a CAT with 9 lives, found in an alley. Your magic leaves the scent of roasted chicken and crispy potatoes in its wake. You and your WITCH create moodboards for every occasion. Creatures of the Weird Wilds compete for your favours, and you revel in the attention. ONTO THE NEXT LIFE!",
+  "image": "https://covencats.s3.amazonaws.com/6c65eeb941c618c2381316fa9893ce03b62db60ace514b335ddd915b480633e1.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Full Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Throne"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Rolled"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Platinum"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aquarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 7,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 285,
+    "name": "countess melisma",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT with 9 lives, found in an alley.",
+      "magic": "Your magic leaves the scent of roasted chicken and crispy potatoes in its wake.",
+      "acts_of_service": "You and your WITCH create moodboards for every occasion.",
+      "belonging": "Creatures of the Weird Wilds compete for your favours, and you revel in the attention.",
+      "meow": "ONTO THE NEXT LIFE!"
+    },
+    "skills": {
+      "caprice": 7,
+      "caution": 1,
+      "catastrophe": 4,
+      "curiosity": 7,
+      "charisma": 4,
+      "cunning": 7
+    },
+    "birth_chart": {
+      "sun": "pisces",
+      "moon": "cancer",
+      "rising": "aquarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Taupe"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Full Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Throne"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Platinum"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Hazel"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      }
+    ],
+    "hash": "6c65eeb941c618c2381316fa9893ce03b62db60ace514b335ddd915b480633e1"
+  }
+}

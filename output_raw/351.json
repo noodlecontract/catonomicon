@@ -1,0 +1,160 @@
+{
+  "name": "pyrene, the nightmare",
+  "description": "You are a CAT with 10 lives, found on Table Mountain. You make your bed in the softest of clover fields. You and your WITCH share an iced latte every morning. You steal everything that isn't nailed down and sometimes things that are. BEWITCH HUMANS!",
+  "image": "https://covencats.s3.amazonaws.com/3d31b635ab4f84fd5f44311c2c76c0c4be4328b15f4701c087150999f575d722.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Bumblebees"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Silver)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Auburn"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Darkened Demon Bloom"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Glo"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Fish Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 9,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 351,
+    "name": "pyrene, the nightmare",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT with 10 lives, found on Table Mountain.",
+      "magic": "You make your bed in the softest of clover fields.",
+      "acts_of_service": "You and your WITCH share an iced latte every morning.",
+      "belonging": "You steal everything that isn't nailed down and sometimes things that are.",
+      "meow": "BEWITCH HUMANS!"
+    },
+    "skills": {
+      "caprice": 3,
+      "caution": 7,
+      "catastrophe": 7,
+      "curiosity": 6,
+      "charisma": 7,
+      "cunning": 9
+    },
+    "birth_chart": {
+      "sun": "cancer",
+      "moon": "pisces",
+      "rising": "sagittarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Skull"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Bumblebees"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Silver)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Auburn"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Darkened Demon Bloom"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Glo"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Fish Collar"
+      }
+    ],
+    "hash": "3d31b635ab4f84fd5f44311c2c76c0c4be4328b15f4701c087150999f575d722"
+  }
+}

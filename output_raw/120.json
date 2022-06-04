@@ -1,0 +1,144 @@
+{
+  "name": "pearl, the nonchalant",
+  "description": "You are a CAT come to life from a potion. You conduct orchestras of singing birds and croaking frogs. You and your WITCH debate philosophy with foxes. You are the object of desire to many, but you only have eyes for one. PURR A LULLABY!",
+  "image": "https://covencats.s3.amazonaws.com/7d45b53ec227e17352242706c6eb2fb53fceee5d5c03072574b393ebd9afe9a1.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Pillow (Cream)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Rolled"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Steel"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Pearl Veil"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Libra"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 9,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 120,
+    "name": "pearl, the nonchalant",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT come to life from a potion.",
+      "magic": "You conduct orchestras of singing birds and croaking frogs.",
+      "acts_of_service": "You and your WITCH debate philosophy with foxes.",
+      "belonging": "You are the object of desire to many, but you only have eyes for one.",
+      "meow": "PURR A LULLABY!"
+    },
+    "skills": {
+      "caprice": 3,
+      "caution": 5,
+      "catastrophe": 7,
+      "curiosity": 6,
+      "charisma": 7,
+      "cunning": 9
+    },
+    "birth_chart": {
+      "sun": "pisces",
+      "moon": "virgo",
+      "rising": "libra"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Pillow (Cream)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Steel"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Lilac"
+      },
+      {
+        "trait_type": "Facewear",
+        "value": "Pearl Veil"
+      }
+    ],
+    "hash": "7d45b53ec227e17352242706c6eb2fb53fceee5d5c03072574b393ebd9afe9a1"
+  }
+}

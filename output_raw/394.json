@@ -1,0 +1,152 @@
+{
+  "name": "cumari, the spicy",
+  "description": "You are a CAT with 16 lives, found on the streets of Mumbai. You leap through the night sky, race against the shooting stars. You and your WITCH speak in riddles and puzzles. You whisper demonic meows into the ears of sleeping humans. BOUNCE OFF THE WALLS!",
+  "image": "https://covencats.s3.amazonaws.com/0c9ce78261349d19f4c3149180b649e926c0f95b6da8628dac9ea1d6546a5ea1.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Ram's Skull"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Steel"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Darkened Demon Bloom"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Ruby"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Moon Choker (Silver)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Gentle Horns"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 7,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 394,
+    "name": "cumari, the spicy",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT with 16 lives, found on the streets of Mumbai.",
+      "magic": "You leap through the night sky, race against the shooting stars.",
+      "acts_of_service": "You and your WITCH speak in riddles and puzzles.",
+      "belonging": "You whisper demonic meows into the ears of sleeping humans.",
+      "meow": "BOUNCE OFF THE WALLS!"
+    },
+    "skills": {
+      "caprice": 4,
+      "caution": 0,
+      "catastrophe": 9,
+      "curiosity": 1,
+      "charisma": 7,
+      "cunning": 7
+    },
+    "birth_chart": {
+      "sun": "leo",
+      "moon": "cancer",
+      "rising": "sagittarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Ram's Skull"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Steel"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Darkened Demon Bloom"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Ruby"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Moon Choker (Silver)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Gentle Horns"
+      }
+    ],
+    "hash": "0c9ce78261349d19f4c3149180b649e926c0f95b6da8628dac9ea1d6546a5ea1"
+  }
+}

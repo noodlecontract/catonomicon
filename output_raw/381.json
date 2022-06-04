@@ -1,0 +1,152 @@
+{
+  "name": "giuseppe, the quick",
+  "description": "You are a CAT who pounces on shiny objects. You wear witch hats and tap dance from room to room. You rate your WITCH's outfit of the day every morning. In a room full of CATS, you are the one who stands out most. JUST EXIST!",
+  "image": "https://covencats.s3.amazonaws.com/b388c0a88854f56e806db5e36270858436ecdb716f16cf61fe8a8293363375a5.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Cat Food (Beef with Gravy)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Rolled"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Steel"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hypnotic"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Collar of Pearls"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 9,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 381,
+    "name": "giuseppe, the quick",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT who pounces on shiny objects.",
+      "magic": "You wear witch hats and tap dance from room to room.",
+      "acts_of_service": "You rate your WITCH's outfit of the day every morning.",
+      "belonging": "In a room full of CATS, you are the one who stands out most.",
+      "meow": "JUST EXIST!"
+    },
+    "skills": {
+      "caprice": 7,
+      "caution": 2,
+      "catastrophe": 1,
+      "curiosity": 1,
+      "charisma": 8,
+      "cunning": 9
+    },
+    "birth_chart": {
+      "sun": "gemini",
+      "moon": "gemini",
+      "rising": "taurus"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Cat Food (Beef with Gravy)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Steel"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hypnotic"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Collar of Pearls"
+      }
+    ],
+    "hash": "b388c0a88854f56e806db5e36270858436ecdb716f16cf61fe8a8293363375a5"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "name": "achene dickinson",
+  "description": "You are a CAT who loves French toast, French fries, and French horns. You hallucinate on mushrooms and talk with your past lives. You pull tarot cards for your WITCH. You are the world's leading expert in pillow fort construction. MAKE ALL AWARE OF YOUR NINE LIVES!",
+  "image": "https://covencats.s3.amazonaws.com/f57e4b0e5b68d2cfa951cb8ba1bd192adf9ae8ea350e882fdeac5cfce249a772.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Primordial Ooze"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Spectral"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Mage Script Melovesmealot (Gold)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Carnelian"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Virgo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 6,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 131,
+    "name": "achene dickinson",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT who loves French toast, French fries, and French horns.",
+      "magic": "You hallucinate on mushrooms and talk with your past lives.",
+      "acts_of_service": "You pull tarot cards for your WITCH.",
+      "belonging": "You are the world's leading expert in pillow fort construction.",
+      "meow": "MAKE ALL AWARE OF YOUR NINE LIVES!"
+    },
+    "skills": {
+      "caprice": 7,
+      "caution": 5,
+      "catastrophe": 2,
+      "curiosity": 4,
+      "charisma": 2,
+      "cunning": 6
+    },
+    "birth_chart": {
+      "sun": "virgo",
+      "moon": "aries",
+      "rising": "virgo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Primordial Ooze"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Spectral"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Mage Script Melovesmealot (Gold)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Carnelian"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      }
+    ],
+    "hash": "f57e4b0e5b68d2cfa951cb8ba1bd192adf9ae8ea350e882fdeac5cfce249a772"
+  }
+}

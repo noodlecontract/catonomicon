@@ -1,0 +1,152 @@
+{
+  "name": "nova of the air",
+  "description": "You are a CAT with 17 lives, found on the streets of Canggu. You nurture plants into the shapes of cats. You and your WITCH hold dance parties every weekend. You drink salmon potions to awaken your spirit guides. WHEN IN DOUBT, YOWL!",
+  "image": "https://covencats.s3.amazonaws.com/42b5b622a49e07ee70a4ad0580965734b22acba94d8a8b6d761a14db07ddf94e.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Cat Food (Chicken)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mauve"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Rope Third Eye (Green)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Leo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 3,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 178,
+    "name": "nova of the air",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT with 17 lives, found on the streets of Canggu.",
+      "magic": "You nurture plants into the shapes of cats.",
+      "acts_of_service": "You and your WITCH hold dance parties every weekend.",
+      "belonging": "You drink salmon potions to awaken your spirit guides.",
+      "meow": "WHEN IN DOUBT, YOWL!"
+    },
+    "skills": {
+      "caprice": 9,
+      "caution": 9,
+      "catastrophe": 7,
+      "curiosity": 3,
+      "charisma": 3,
+      "cunning": 3
+    },
+    "birth_chart": {
+      "sun": "gemini",
+      "moon": "taurus",
+      "rising": "leo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Taupe"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Cat Food (Chicken)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mauve"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "White"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Rope Third Eye (Green)"
+      }
+    ],
+    "hash": "42b5b622a49e07ee70a4ad0580965734b22acba94d8a8b6d761a14db07ddf94e"
+  }
+}

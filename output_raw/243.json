@@ -1,0 +1,152 @@
+{
+  "name": "carme of the amber",
+  "description": "You are a CAT who lurks just behind the corner. You recite poems to put your prey to sleep. You and your WITCH take cat naps in the sun. You foresee impending doom with every hair on your body. IT'S TIME TO SWIPE AT BIRDS!",
+  "image": "https://covencats.s3.amazonaws.com/9340d324229a598f0f9b4f5fe867744f7f3eb7fe98e7dab7f7d569baa49f1d3f.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Genie Lamp (Purple)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Witch Hat"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Floofed"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Birman"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Liquid Metal"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Bronze"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Piercing Choker (Green)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aquarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 6,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 243,
+    "name": "carme of the amber",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT who lurks just behind the corner.",
+      "magic": "You recite poems to put your prey to sleep.",
+      "acts_of_service": "You and your WITCH take cat naps in the sun.",
+      "belonging": "You foresee impending doom with every hair on your body.",
+      "meow": "IT'S TIME TO SWIPE AT BIRDS!"
+    },
+    "skills": {
+      "caprice": 2,
+      "caution": 7,
+      "catastrophe": 3,
+      "curiosity": 7,
+      "charisma": 3,
+      "cunning": 6
+    },
+    "birth_chart": {
+      "sun": "pisces",
+      "moon": "pisces",
+      "rising": "aquarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Taupe"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Genie Lamp (Purple)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Witch Hat"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Birman"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Liquid Metal"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Bronze"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Piercing Choker (Green)"
+      }
+    ],
+    "hash": "9340d324229a598f0f9b4f5fe867744f7f3eb7fe98e7dab7f7d569baa49f1d3f"
+  }
+}

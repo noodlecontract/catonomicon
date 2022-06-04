@@ -1,0 +1,152 @@
+{
+  "name": "ceres of the eclipse",
+  "description": "You are a CAT feared by dogs the land over. Your whiskers tell time. You protect your WITCH from demons, dogs, and dry ice. You stay up all night watching the moon and stars travel the night sky. PURR, PURR, PURR!",
+  "image": "https://covencats.s3.amazonaws.com/ce4e9e1762003f259175123131befecff55e9ba1236a081bda825e1384c605c1.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Broom"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Bag of Salt"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Brown Bengal"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Flooded Cobalt"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Piercing Choker (Pink)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Pisces"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 5,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 526,
+    "name": "ceres of the eclipse",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT feared by dogs the land over.",
+      "magic": "Your whiskers tell time.",
+      "acts_of_service": "You protect your WITCH from demons, dogs, and dry ice.",
+      "belonging": "You stay up all night watching the moon and stars travel the night sky.",
+      "meow": "PURR, PURR, PURR!"
+    },
+    "skills": {
+      "caprice": 9,
+      "caution": 8,
+      "catastrophe": 8,
+      "curiosity": 3,
+      "charisma": 3,
+      "cunning": 5
+    },
+    "birth_chart": {
+      "sun": "capricorn",
+      "moon": "pisces",
+      "rising": "pisces"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Broom"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Bag of Salt"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Brown Bengal"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Flooded Cobalt"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Piercing Choker (Pink)"
+      }
+    ],
+    "hash": "ce4e9e1762003f259175123131befecff55e9ba1236a081bda825e1384c605c1"
+  }
+}

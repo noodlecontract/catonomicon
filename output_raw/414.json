@@ -1,0 +1,152 @@
+{
+  "name": "carme of the pentacles",
+  "description": "You are a CAT drawn into existence. You command the elements to do your bidding. You sniff your WITCH's hair and fall asleep with the smell of their magic around you. Your best predictions are made by examining the way the skin crisps on a grilled sardine. EAT THE PIZZA!",
+  "image": "https://covencats.s3.amazonaws.com/cac11bda1424f3ebf4be219b12a29d0dd4d1612203cac7575442ba8bf4c8a9f5.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Ethereum)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Floofed"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Starry Cyan"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Liquid Metal"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Bronze"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Piercing Choker (Red)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Gemini"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 1,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 414,
+    "name": "carme of the pentacles",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT drawn into existence.",
+      "magic": "You command the elements to do your bidding.",
+      "acts_of_service": "You sniff your WITCH's hair and fall asleep with the smell of their magic around you.",
+      "belonging": "Your best predictions are made by examining the way the skin crisps on a grilled sardine.",
+      "meow": "EAT THE PIZZA!"
+    },
+    "skills": {
+      "caprice": 9,
+      "caution": 8,
+      "catastrophe": 5,
+      "curiosity": 9,
+      "charisma": 6,
+      "cunning": 1
+    },
+    "birth_chart": {
+      "sun": "scorpio",
+      "moon": "sagittarius",
+      "rising": "gemini"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Ethereum)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Starry Cyan"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Liquid Metal"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Bronze"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Piercing Choker (Red)"
+      }
+    ],
+    "hash": "cac11bda1424f3ebf4be219b12a29d0dd4d1612203cac7575442ba8bf4c8a9f5"
+  }
+}

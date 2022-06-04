@@ -1,0 +1,144 @@
+{
+  "name": "jubilee baudelaire",
+  "description": "You are a CAT who swats at flies and stares down dogs. You nurture plants into the shapes of cats. You and your WITCH bond over raindrops on roses. The term 'catwalk' was invented after you took your first steps. WATCH AND LEARN!",
+  "image": "https://covencats.s3.amazonaws.com/46d6a0e19c15a6b119aeb9d406098549799e9f992d4371fd37d6ff360e433b2d.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Rolled"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Virgo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 5,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 274,
+    "name": "jubilee baudelaire",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT who swats at flies and stares down dogs.",
+      "magic": "You nurture plants into the shapes of cats.",
+      "acts_of_service": "You and your WITCH bond over raindrops on roses.",
+      "belonging": "The term 'catwalk' was invented after you took your first steps.",
+      "meow": "WATCH AND LEARN!"
+    },
+    "skills": {
+      "caprice": 5,
+      "caution": 6,
+      "catastrophe": 0,
+      "curiosity": 8,
+      "charisma": 8,
+      "cunning": 5
+    },
+    "birth_chart": {
+      "sun": "libra",
+      "moon": "pisces",
+      "rising": "virgo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Lilac"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      }
+    ],
+    "hash": "46d6a0e19c15a6b119aeb9d406098549799e9f992d4371fd37d6ff360e433b2d"
+  }
+}

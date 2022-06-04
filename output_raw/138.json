@@ -1,0 +1,152 @@
+{
+  "name": "gaia of the amulet",
+  "description": "You are a CAT with 3 lives, found on the streets of Lucerne. You catch mice in your sleep. You and your WITCH swap spooky stories before bed. Your visions are always accompanied by the intoxicating smell of seafood. SLEEP IN THE SHADOWS!",
+  "image": "https://covencats.s3.amazonaws.com/45d23d3db6aa1bf8c5fa98e9c9e01f4e11e2723e7f88d90c2b58faacf7c66baa.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Crystal Ball"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ethereum Collar"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Blindfold (Maroon)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 6,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 138,
+    "name": "gaia of the amulet",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT with 3 lives, found on the streets of Lucerne.",
+      "magic": "You catch mice in your sleep.",
+      "acts_of_service": "You and your WITCH swap spooky stories before bed.",
+      "belonging": "Your visions are always accompanied by the intoxicating smell of seafood.",
+      "meow": "SLEEP IN THE SHADOWS!"
+    },
+    "skills": {
+      "caprice": 3,
+      "caution": 8,
+      "catastrophe": 7,
+      "curiosity": 2,
+      "charisma": 2,
+      "cunning": 6
+    },
+    "birth_chart": {
+      "sun": "libra",
+      "moon": "virgo",
+      "rising": "sagittarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Sea"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Crystal Ball"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Emerald"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ethereum Collar"
+      },
+      {
+        "trait_type": "Facewear",
+        "value": "Blindfold (Maroon)"
+      }
+    ],
+    "hash": "45d23d3db6aa1bf8c5fa98e9c9e01f4e11e2723e7f88d90c2b58faacf7c66baa"
+  }
+}

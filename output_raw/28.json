@@ -1,0 +1,152 @@
+{
+  "name": "iapetus, the languid",
+  "description": "You are a CAT made of melodies and meowing. Your whiskers tell fortunes. You and your WITCH make dreamcatchers from willow branches and feathers. You inhale catnip and exhale spells that stop time. WHEN IN DOUBT, YOWL!",
+  "image": "https://covencats.s3.amazonaws.com/56b089b3b63a3a0eb1e3f9be5f5d08f3dd93a3c73bfe4a963c0d771caa542438.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Crystals (Glo)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Floofed"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Birman"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hypnotic"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Raised Third Eye (Purple)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aries"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 5,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 28,
+    "name": "iapetus, the languid",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT made of melodies and meowing.",
+      "magic": "Your whiskers tell fortunes.",
+      "acts_of_service": "You and your WITCH make dreamcatchers from willow branches and feathers.",
+      "belonging": "You inhale catnip and exhale spells that stop time.",
+      "meow": "WHEN IN DOUBT, YOWL!"
+    },
+    "skills": {
+      "caprice": 3,
+      "caution": 6,
+      "catastrophe": 7,
+      "curiosity": 6,
+      "charisma": 8,
+      "cunning": 5
+    },
+    "birth_chart": {
+      "sun": "scorpio",
+      "moon": "libra",
+      "rising": "aries"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Crystals (Glo)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Birman"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hypnotic"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Raised Third Eye (Purple)"
+      }
+    ],
+    "hash": "56b089b3b63a3a0eb1e3f9be5f5d08f3dd93a3c73bfe4a963c0d771caa542438"
+  }
+}

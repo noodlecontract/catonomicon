@@ -1,0 +1,160 @@
+{
+  "name": "dybbuk, the secret",
+  "description": "You are a CAT who solves riddles for prizes. You scale the walls of your enemies, parkour off ancient artifacts, and leave chaos in your wake. You and your WITCH bond over kittens wearing little top hats. You sit at the gates of hell and watch as kings beg for forgiveness. THE CAT IS OUT OF THE BAG!",
+  "image": "https://covencats.s3.amazonaws.com/94780aea848e411cbf944ed83a82361f537d11eb2344311db7a35f081f9b1960.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Valkyrie (Dark)"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Ghost Mice"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Smudged Monolid"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ring Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Libra"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 8,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 124,
+    "name": "dybbuk, the secret",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT who solves riddles for prizes.",
+      "magic": "You scale the walls of your enemies, parkour off ancient artifacts, and leave chaos in your wake.",
+      "acts_of_service": "You and your WITCH bond over kittens wearing little top hats.",
+      "belonging": "You sit at the gates of hell and watch as kings beg for forgiveness.",
+      "meow": "THE CAT IS OUT OF THE BAG!"
+    },
+    "skills": {
+      "caprice": 5,
+      "caution": 8,
+      "catastrophe": 7,
+      "curiosity": 3,
+      "charisma": 8,
+      "cunning": 8
+    },
+    "birth_chart": {
+      "sun": "libra",
+      "moon": "sagittarius",
+      "rising": "libra"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "Valkyrie (Dark)"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Ghost Mice"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Navy"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged Monolid"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ring Collar (Silver)"
+      }
+    ],
+    "hash": "94780aea848e411cbf944ed83a82361f537d11eb2344311db7a35f081f9b1960"
+  }
+}

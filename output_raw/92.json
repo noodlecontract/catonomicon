@@ -1,0 +1,144 @@
+{
+  "name": "amelia of the hammock",
+  "description": "You are a CAT who sleeps in hard-to-reach places. You are grumpy, jumpy, and dumpy. You and your WITCH bond over warm woolen mittens. You weave tapestries depicting your many lives. OY VEY!",
+  "image": "https://covencats.s3.amazonaws.com/1def4ae05d51401fccce49ee27f068709239aae64ae94de265ae0fd101b7d2ea.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Basket of Yarn"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Ball of Yarn (Moss)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Glo"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 1,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 92,
+    "name": "amelia of the hammock",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT who sleeps in hard-to-reach places.",
+      "magic": "You are grumpy, jumpy, and dumpy.",
+      "acts_of_service": "You and your WITCH bond over warm woolen mittens.",
+      "belonging": "You weave tapestries depicting your many lives.",
+      "meow": "OY VEY!"
+    },
+    "skills": {
+      "caprice": 1,
+      "caution": 4,
+      "catastrophe": 8,
+      "curiosity": 6,
+      "charisma": 6,
+      "cunning": 1
+    },
+    "birth_chart": {
+      "sun": "capricorn",
+      "moon": "capricorn",
+      "rising": "taurus"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Taupe"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Basket of Yarn"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Ball of Yarn (Moss)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Emerald"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Glo"
+      }
+    ],
+    "hash": "1def4ae05d51401fccce49ee27f068709239aae64ae94de265ae0fd101b7d2ea"
+  }
+}
