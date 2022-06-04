@@ -1,0 +1,63 @@
+---
+layout: base.liquid
+pagination:
+    data: cats
+    size: 1
+    alias: cat
+permalink: "cats/{{ cat.id }}/"
+---
+
+<div style="display: flex; flex-direction: column; align-items: center;">
+    <div style="max-width: 1000px; display: flex; flex-direction: column; row-gap: 16px;">
+        <h1>{{cat.name}} (#{{cat.id}})</h1>
+        <div>
+          <img src="{{"/assets/img/cat" | url}}/{{cat.id}}.png" style="border-radius: 6px; border: 1px solid rgba(255, 255, 255, 0.4);"></img>
+        </div>
+        <div>
+            <h3>Archetype</h3>
+            <div class="text-gray">{{cat.archetype}}</div>
+        </div>
+        <div>
+            <h3>Caticulation</h3>
+            <div class="text-gray">{{cat.description}}</div>
+        </div>
+        <div>
+            <h3>Astrological Chart</h3>
+            <div class="text-gray">☼ {{cat.sun}}, ☾ {{cat.moon}}, ↑ {{cat.rising}}</div>
+        </div>
+        <div style="max-width: 600px;">
+            <h3>Cattunements</h3>
+            <div style="display: grid; grid-template-columns: repeat(6, minmax(0, 1fr))">
+                <div style="grid-column: span 3 / span 3">
+                    Charisma: <span class="text-gray">{{cat.charisma}}</span>
+                </div>
+                <div style="grid-column: span 3 / span 3">
+                    Caprice: <span class="text-gray">{{cat.caprice}}</span>
+                </div>
+                <div style="grid-column: span 3 / span 3">
+                    Catastrophe: <span class="text-gray">{{cat.catastrophe}}</span>
+                </div>
+                <div style="grid-column: span 3 / span 3">
+                    Caution: <span class="text-gray">{{cat.caution}}</span>
+                </div>
+                <div style="grid-column: span 3 / span 3">
+                    Cunning: <span class="text-gray">{{cat.cunning}}</span>
+                </div>
+                <div style="grid-column: span 3 / span 3">
+                    Curiosity: <span class="text-gray">{{cat.curiosity}}</span>
+                </div>
+            </div>
+        </div>
+        <div>
+            <h3>Aspects</h3>
+            <div>
+                {% assign attributes = cat.attributes | sort: "trait_type" %}
+                {% for attr in attributes %}
+                    <div>
+                        {{attr.trait_type}}: <span class="text-gray">{{attr.value}}</span>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>

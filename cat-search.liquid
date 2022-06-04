@@ -1,0 +1,30 @@
+---
+layout: base.liquid
+permalink: "/"
+---
+
+<div style="display: flex; flex-direction: column; align-items: center;">
+    <div style="min-width: 600px; max-width: 600px">
+        <div style="margin-bottom: 32px;">
+            <input type="search" placeholder="Search..." id="search-field" />
+        </div>
+
+        <div id="search-results" style="display: flex; flex-direction: column; row-gap: 24px;"/>
+    </div>
+</div>
+
+<script src="https://unpkg.com/lunr/lunr.js"></script>
+<script src="{{ "/assets/js/search.js" | url }}"></script>
+<script>
+(function (window, document) {
+  fetch("{{ "/assets/cat_index.json" | url }}").then((indexResponse) => {
+    indexResponse.json().then((rawIndex) => {
+      fetch("{{ "/assets/short_cats.json" | url }}").then((catsResponse) => {
+        catsResponse.json().then((catsById) => {
+          initSearch(rawIndex, catsById, "{{ "/cats" | url }}", "{{ "/assets/img/cat" | url }}");
+        })
+      })
+    })
+  });
+})(window, document);
+</script>
