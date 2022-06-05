@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Catonomicon</title>
-    <link rel="stylesheet" href="/assets/css/reset.css">
+    <link rel="stylesheet" href="/catonomicon/assets/css/reset.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Averia+Libre:wght@300;400;700&family=IM+Fell+DW+Pica&display=swap">
@@ -49,14 +49,14 @@
 </div>
 
 <script src="https://unpkg.com/lunr/lunr.js"></script>
-<script src="/assets/js/search.js"></script>
+<script src="/catonomicon/assets/js/search.js"></script>
 <script>
 (function (window, document) {
-  fetch("/assets/cat_index.json").then((indexResponse) => {
+  fetch("/catonomicon/assets/cat_index.json").then((indexResponse) => {
     indexResponse.json().then((rawIndex) => {
-      fetch("/assets/short_cats.json").then((catsResponse) => {
+      fetch("/catonomicon/assets/short_cats.json").then((catsResponse) => {
         catsResponse.json().then((catsById) => {
-          initSearch(rawIndex, catsById, "/cats", "/assets/img/cat");
+          initSearch(rawIndex, catsById, "/catonomicon/cats", "/catonomicon/assets/img/cat");
         })
       })
     })
