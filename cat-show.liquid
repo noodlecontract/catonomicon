@@ -5,6 +5,8 @@ pagination:
     size: 1
     alias: cat
 permalink: "cats/{{ cat.id }}/"
+eleventyComputed:
+    title: "#{{ cat.id }} {{ cat.name }} | Catonomicon"
 ---
 
 <div style="display: flex; flex-direction: column; align-items: center;">
