@@ -4,24 +4,37 @@ function initSearch(rawIndex, catsById, catProfileBaseUrl, catImgBaseUrl) {
   const searchInputEl = document.getElementById("search-field");
   const searchResultsEl = document.getElementById("search-results");
 
-  renderCats(pickRandom(catsById, 20), searchResultsEl, catProfileBaseUrl, catImgBaseUrl);
+  const existingQuery = searchInputEl.value;
+  if (existingQuery) {
+    const matchingCats = search(existingQuery, index, catsById);
+    renderCats(matchingCats, searchResultsEl, catProfileBaseUrl, catImgBaseUrl);
+  } else {
+    // for serendipity!
+    renderCats(pickRandom(catsById, 20), searchResultsEl, catProfileBaseUrl, catImgBaseUrl);
+  }
 
   searchInputEl.addEventListener("input", debounce((e) => {
     if (e.target.value) {
       searchResultsEl.innerHTML = "";
-      const results = index.search(e.target.value);
-      const ids = results.map(r => r.ref);
-      const matchingCats = ids.map(id => catsById[id]);
-      if (matchingCats.length > 0) {
-        renderCats(matchingCats, searchResultsEl, catProfileBaseUrl, catImgBaseUrl);
-      } else {
-        searchResultsEl.innerHTML = "CATS are nowhere to be found..."
-      }
+      const matchingCats = search(e.target.value, index, catsById);
+      renderCats(matchingCats, searchResultsEl, catProfileBaseUrl, catImgBaseUrl);
     }
   }), 500);
 }
 
+function search(query, index, catsById) {
+  const results = index.search(query);
+  const ids = results.map(r => r.ref);
+  return ids.map(id => catsById[id]);
+}
+
+// should prob be replaced by safer/saner template system
 function renderCats(cats, parentEl, catProfileBaseUrl, catImgBaseUrl) {
+  if (cats.length == 0) {
+    parentEl.innerHTML = "CATS are nowhere to be found...";
+    return;
+  }
+
   cats.forEach((cat) => {
     const {
       id: id,
@@ -33,17 +46,22 @@ function renderCats(cats, parentEl, catProfileBaseUrl, catImgBaseUrl) {
       sr: rising,
     } = cat;
 
+    const catUrl = `${catProfileBaseUrl}/${id}`;
+
     const catDiv = document.createElement("div");
     catDiv.setAttribute("style", "display: flex;");
 
     const photo = document.createElement("div");
     photo.setAttribute("style", "min-width: 150px; margin-top: 8px;");
-    photo.innerHTML = `<img src="${catImgBaseUrl}/${id}.png" style="border-radius: 6px; border: 1px solid rgba(255, 255, 255, 0.4);"></img>`
+    photo.innerHTML = `
+      <a href="${catUrl}">
+        <img src="${catImgBaseUrl}/${id}.png" style="border-radius: 6px; border: 1px solid rgba(255, 255, 255, 0.4);"></img>
+      </a>
+    `
     catDiv.appendChild(photo);
 
     const profileDiv = document.createElement("div");
     const head = document.createElement("h3");
-    const catUrl = `${catProfileBaseUrl}/${id}`;
     head.innerHTML = `#${id} <a style="color: rgb(223, 179, 128)" href="${catUrl}">${name}</a>`
     profileDiv.appendChild(head);
     catDiv.appendChild(profileDiv);
