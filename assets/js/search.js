@@ -62,7 +62,19 @@ function renderCats(cats, parentEl, catProfileBaseUrl, catImgBaseUrl) {
 
     const profileDiv = document.createElement("div");
     const head = document.createElement("h3");
-    head.innerHTML = `#${id} <a style="color: rgb(223, 179, 128)" href="${catUrl}">${name}</a>`
+    head.innerHTML = `
+    <div style="display: flex; justify-content: space-between; align-items: baseline;">
+      <div>#${id} <a style="color: rgb(223, 179, 128)" href="${catUrl}">${name}</a></div>
+      <div style="font-size: 0.8rem; color: rgb(223, 179, 128)">
+        (<a
+          href="https://opensea.io/assets/ethereum/0x29b4d6c1d5ebedb62e5913f1c47b6b0421f1ec38/${id}"
+          target="_blank"
+          rel="noopener noreferrer"
+          style="text-decoration: underline;"
+        >opensea</a>)
+      </div>
+    </div>
+    `
     profileDiv.appendChild(head);
     catDiv.appendChild(profileDiv);
 
