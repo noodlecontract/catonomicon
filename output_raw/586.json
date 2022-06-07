@@ -1,7 +1,160 @@
 {
-  "description": "something familiar comes this way...",
+  "name": "thistle of the hammock",
+  "description": "You are a CAT made from lovingly cut fruit. You eat endless amounts of lasagna. You protect your WITCH from making poor deals at the Demon Market. Birds ask for your fur to create elaborate nests. PEER INTO THE UNKNOWN!",
+  "image": "https://covencats.s3.amazonaws.com/05a64f81e82bdf1ca82af2384ae6d26b26367d92afe28fd32e370c2e737f6ade.png",
   "external_url": "https://www.covencats.xyz/",
-  "image": "https://covencats.s3.amazonaws.com/placeholder.png",
-  "name": "CAT",
-  "attributes": []
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Potions (Peace, Luck)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Chocolate Siamese"
+    },
+    {
+      "trait_type": "Forehead Marking",
+      "value": "Moon Mark (White)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Virgo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 1,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 586,
+    "name": "thistle of the hammock",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT made from lovingly cut fruit.",
+      "magic": "You eat endless amounts of lasagna.",
+      "acts_of_service": "You protect your WITCH from making poor deals at the Demon Market.",
+      "belonging": "Birds ask for your fur to create elaborate nests.",
+      "meow": "PEER INTO THE UNKNOWN!"
+    },
+    "skills": {
+      "caprice": 2,
+      "caution": 9,
+      "catastrophe": 8,
+      "curiosity": 5,
+      "charisma": 3,
+      "cunning": 1
+    },
+    "birth_chart": {
+      "sun": "cancer",
+      "moon": "leo",
+      "rising": "virgo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Potions (Peace, Luck)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Chocolate Siamese"
+      },
+      {
+        "trait_type": "Forehead Marking",
+        "value": "Moon Mark (White)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Amber"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "05a64f81e82bdf1ca82af2384ae6d26b26367d92afe28fd32e370c2e737f6ade"
+  }
 }

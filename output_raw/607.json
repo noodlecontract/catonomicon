@@ -1,7 +1,152 @@
 {
-  "description": "something familiar comes this way...",
+  "name": "melody, the luxurious",
+  "description": "You are a CAT who cracks cases at the Weird Wilds Detective Agency. You craft carafes and cups out of clay. You keep your WITCH safe while they sleep. Creatures of the Weird Wilds compete for your favours, and you revel in the attention. LET THEM EAT CAKE!",
+  "image": "https://covencats.s3.amazonaws.com/15b29215a5f572330d11df18800ff89211a3c9639d67a00a9b25c5979ac16e52.png",
   "external_url": "https://www.covencats.xyz/",
-  "image": "https://covencats.s3.amazonaws.com/placeholder.png",
-  "name": "CAT",
-  "attributes": []
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Waxing Crescent"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Throne"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Tabby"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Babylash"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aries"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 9,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 607,
+    "name": "melody, the luxurious",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT who cracks cases at the Weird Wilds Detective Agency.",
+      "magic": "You craft carafes and cups out of clay.",
+      "acts_of_service": "You keep your WITCH safe while they sleep.",
+      "belonging": "Creatures of the Weird Wilds compete for your favours, and you revel in the attention.",
+      "meow": "LET THEM EAT CAKE!"
+    },
+    "skills": {
+      "caprice": 4,
+      "caution": 5,
+      "catastrophe": 4,
+      "curiosity": 0,
+      "charisma": 9,
+      "cunning": 9
+    },
+    "birth_chart": {
+      "sun": "aquarius",
+      "moon": "aries",
+      "rising": "aries"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Waxing Crescent"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Throne"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Tabby"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Babylash"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      }
+    ],
+    "hash": "15b29215a5f572330d11df18800ff89211a3c9639d67a00a9b25c5979ac16e52"
+  }
 }
