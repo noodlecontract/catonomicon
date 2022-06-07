@@ -25,7 +25,8 @@ function initSearch(rawIndex, catsById, catProfileBaseUrl, catImgBaseUrl) {
 function search(query, index, catsById) {
   const results = index.search(query);
   const ids = results.map(r => r.ref);
-  return ids.map(id => catsById[id]);
+  // TODO: tune limit + return cutesy message wen too many CATS
+  return ids.map(id => catsById[id]).slice(444);
 }
 
 // should prob be replaced by safer/saner template system
