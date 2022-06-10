@@ -1,7 +1,152 @@
 {
-  "description": "something familiar comes this way...",
+  "name": "suzani, the hidden",
+  "description": "You are a CAT made of almonds. You recite poems to put your prey to sleep. You fend off snakes, shellfish, and silence for your WITCH. You summon spirits to debate the best lasagna recipe. MAKE SPACE FOR MY TAIL!",
+  "image": "https://covencats.s3.amazonaws.com/6b91a35588c320453bb6cea5d1f1f00be2f922db1ef8942e45b30f6a00f9b7e7.png",
   "external_url": "https://www.covencats.xyz/",
-  "image": "https://covencats.s3.amazonaws.com/placeholder.png",
-  "name": "CAT",
-  "attributes": []
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Cat Plates"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Smudged"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 0,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 881,
+    "name": "suzani, the hidden",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT made of almonds.",
+      "magic": "You recite poems to put your prey to sleep.",
+      "acts_of_service": "You fend off snakes, shellfish, and silence for your WITCH.",
+      "belonging": "You summon spirits to debate the best lasagna recipe.",
+      "meow": "MAKE SPACE FOR MY TAIL!"
+    },
+    "skills": {
+      "caprice": 6,
+      "caution": 6,
+      "catastrophe": 8,
+      "curiosity": 2,
+      "charisma": 6,
+      "cunning": 0
+    },
+    "birth_chart": {
+      "sun": "pisces",
+      "moon": "sagittarius",
+      "rising": "sagittarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Cat Plates"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      }
+    ],
+    "hash": "6b91a35588c320453bb6cea5d1f1f00be2f922db1ef8942e45b30f6a00f9b7e7"
+  }
 }

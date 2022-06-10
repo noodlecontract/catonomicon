@@ -1,0 +1,136 @@
+{
+  "name": "andromeda of the garnet",
+  "description": "You are a CAT who speaks in haikus. You scare away enemies with a high-pitched yowl. You and your WITCH play fetch with almonds. You spend this life figuring out how to see into your next life. SAY HELLO!",
+  "image": "https://covencats.s3.amazonaws.com/fa0a228659f36c6983caa57c405567908939e46c4b9f35c3f4854f3d230be560.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Genie Lamp (Pearl)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Floofed"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Birman"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Scorpio"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 1,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 1017,
+    "name": "andromeda of the garnet",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT who speaks in haikus.",
+      "magic": "You scare away enemies with a high-pitched yowl.",
+      "acts_of_service": "You and your WITCH play fetch with almonds.",
+      "belonging": "You spend this life figuring out how to see into your next life.",
+      "meow": "SAY HELLO!"
+    },
+    "skills": {
+      "caprice": 3,
+      "caution": 8,
+      "catastrophe": 6,
+      "curiosity": 7,
+      "charisma": 2,
+      "cunning": 1
+    },
+    "birth_chart": {
+      "sun": "aries",
+      "moon": "gemini",
+      "rising": "scorpio"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Sea"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Genie Lamp (Pearl)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Birman"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Gold"
+      }
+    ],
+    "hash": "fa0a228659f36c6983caa57c405567908939e46c4b9f35c3f4854f3d230be560"
+  }
+}

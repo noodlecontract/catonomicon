@@ -1,0 +1,160 @@
+{
+  "name": "demeton",
+  "description": "You are a CAT with 5 lives, born from a secret incantation of the arcane. You can leap to the top of the Tower in a single bound. You and your WITCH bond over scorpion pie. You dance among flames without a care in the world. SWISH, SWISH, SWISH!",
+  "image": "https://covencats.s3.amazonaws.com/c68cdc8fe4852c0171022e54b32940668a109a006ce66c9da97ba555330e9697.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Blue)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Floofed"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Grumpy Steel"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Carnelian"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Fish Collar"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Horns of Aries"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Pisces"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 6,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 936,
+    "name": "demeton",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT with 5 lives, born from a secret incantation of the arcane.",
+      "magic": "You can leap to the top of the Tower in a single bound.",
+      "acts_of_service": "You and your WITCH bond over scorpion pie.",
+      "belonging": "You dance among flames without a care in the world.",
+      "meow": "SWISH, SWISH, SWISH!"
+    },
+    "skills": {
+      "caprice": 5,
+      "caution": 2,
+      "catastrophe": 7,
+      "curiosity": 4,
+      "charisma": 2,
+      "cunning": 6
+    },
+    "birth_chart": {
+      "sun": "sagittarius",
+      "moon": "sagittarius",
+      "rising": "pisces"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Blue)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Grumpy Steel"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Carnelian"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Fish Collar"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Horns of Aries"
+      }
+    ],
+    "hash": "c68cdc8fe4852c0171022e54b32940668a109a006ce66c9da97ba555330e9697"
+  }
+}

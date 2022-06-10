@@ -1,0 +1,160 @@
+{
+  "name": "demeton, the wily meddler",
+  "description": "You are a CAT with 9 lives, found in an alley. You plunge into hot baths to catch magic trapped in bubbles. You protect your WITCH from enemies by purring so loudly their heads spin. You delight in a chaotic battle of wits. CHASE INVISIBLE ENEMIES!",
+  "image": "https://covencats.s3.amazonaws.com/fd89b8ae63d335526f6d0a2228712813cb792ddfbb121fa3003b18ad26de4c29.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Spiderwebs (Skull)"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Cat Food (Tuna)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Smudged"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ring Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Capricorn"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 5,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 966,
+    "name": "demeton, the wily meddler",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT with 9 lives, found in an alley.",
+      "magic": "You plunge into hot baths to catch magic trapped in bubbles.",
+      "acts_of_service": "You protect your WITCH from enemies by purring so loudly their heads spin.",
+      "belonging": "You delight in a chaotic battle of wits.",
+      "meow": "CHASE INVISIBLE ENEMIES!"
+    },
+    "skills": {
+      "caprice": 6,
+      "caution": 0,
+      "catastrophe": 8,
+      "curiosity": 8,
+      "charisma": 8,
+      "cunning": 5
+    },
+    "birth_chart": {
+      "sun": "aquarius",
+      "moon": "cancer",
+      "rising": "capricorn"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Spiderwebs (Skull)"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Cat Food (Tuna)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ring Collar (Silver)"
+      }
+    ],
+    "hash": "fd89b8ae63d335526f6d0a2228712813cb792ddfbb121fa3003b18ad26de4c29"
+  }
+}

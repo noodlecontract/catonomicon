@@ -1,7 +1,160 @@
 {
-  "description": "something familiar comes this way...",
+  "name": "hemlock, the somber",
+  "description": "You are a CAT with 19 lives, found on the streets of Amsterdam. You stack cats in towers and sleep on top. You watch over your WITCH's potions. Ghosts beg you for forgiveness. I AM ALIVE AND I AM DEAD!",
+  "image": "https://covencats.s3.amazonaws.com/989210bfa4cb6ae001f674de1e234cfc16db444a59137ddba712b5cf098820e7.png",
   "external_url": "https://www.covencats.xyz/",
-  "image": "https://covencats.s3.amazonaws.com/placeholder.png",
-  "name": "CAT",
-  "attributes": []
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Sunbeam"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Gramophone"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Ethereum"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ring Collar (Silver)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Horns of Taurus"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aries"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 2,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 884,
+    "name": "hemlock, the somber",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT with 19 lives, found on the streets of Amsterdam.",
+      "magic": "You stack cats in towers and sleep on top.",
+      "acts_of_service": "You watch over your WITCH's potions.",
+      "belonging": "Ghosts beg you for forgiveness.",
+      "meow": "I AM ALIVE AND I AM DEAD!"
+    },
+    "skills": {
+      "caprice": 3,
+      "caution": 8,
+      "catastrophe": 9,
+      "curiosity": 2,
+      "charisma": 9,
+      "cunning": 2
+    },
+    "birth_chart": {
+      "sun": "leo",
+      "moon": "aries",
+      "rising": "aries"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Taupe"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Sunbeam"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Gramophone"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Ethereum"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Amber"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ring Collar (Silver)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Horns of Taurus"
+      }
+    ],
+    "hash": "989210bfa4cb6ae001f674de1e234cfc16db444a59137ddba712b5cf098820e7"
+  }
 }

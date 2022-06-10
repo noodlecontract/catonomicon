@@ -1,0 +1,160 @@
+{
+  "name": "serrano, the trap",
+  "description": "You are a CAT who writes poetry and paints in the desert. You sleep on top of books and dream yourself into tales of the Weird Wilds past. You and your WITCH share an iced latte every morning. You play with Xuannu's code until it's utterly tangled in void function calls and false variables. LET THEM EAT CAKE!",
+  "image": "https://covencats.s3.amazonaws.com/19db45c79e93c99f4b57c550a5fb8c32befebbbd213af792bc3fd64663dcfe4b.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Bumblebees"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Red)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sphynx"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Fish Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aries"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 9,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 992,
+    "name": "serrano, the trap",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT who writes poetry and paints in the desert.",
+      "magic": "You sleep on top of books and dream yourself into tales of the Weird Wilds past.",
+      "acts_of_service": "You and your WITCH share an iced latte every morning.",
+      "belonging": "You play with Xuannu's code until it's utterly tangled in void function calls and false variables.",
+      "meow": "LET THEM EAT CAKE!"
+    },
+    "skills": {
+      "caprice": 7,
+      "caution": 1,
+      "catastrophe": 9,
+      "curiosity": 0,
+      "charisma": 4,
+      "cunning": 9
+    },
+    "birth_chart": {
+      "sun": "pisces",
+      "moon": "scorpio",
+      "rising": "aries"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Skull"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Bumblebees"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Red)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sphynx"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Fish Collar"
+      }
+    ],
+    "hash": "19db45c79e93c99f4b57c550a5fb8c32befebbbd213af792bc3fd64663dcfe4b"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "name": "fontina of the rocking chair",
+  "description": "You are a CAT who hides in the dark. You cast spells with a swish of your tail. You remind your WITCH to live, laugh, love. The beasts of the Woods quiet in your presence. FLICK AND FLOUNCE!",
+  "image": "https://covencats.s3.amazonaws.com/028dbcabe392067341517744bf3c2264a7f2340e7c89995587a262976284a21d.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Toadstool"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey Green"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Leo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 3,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 929,
+    "name": "fontina of the rocking chair",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT who hides in the dark.",
+      "magic": "You cast spells with a swish of your tail.",
+      "acts_of_service": "You remind your WITCH to live, laugh, love.",
+      "belonging": "The beasts of the Woods quiet in your presence.",
+      "meow": "FLICK AND FLOUNCE!"
+    },
+    "skills": {
+      "caprice": 2,
+      "caution": 8,
+      "catastrophe": 3,
+      "curiosity": 7,
+      "charisma": 7,
+      "cunning": 3
+    },
+    "birth_chart": {
+      "sun": "gemini",
+      "moon": "taurus",
+      "rising": "leo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Sea"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Toadstool"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lilac"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "028dbcabe392067341517744bf3c2264a7f2340e7c89995587a262976284a21d"
+  }
+}

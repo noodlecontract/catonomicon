@@ -1,0 +1,144 @@
+{
+  "name": "gorgonzola of the couch cushions",
+  "description": "You are a CAT who judges all who cross your path. Your whiskers tingle in the presence of magic. You love your WITCH like a mouse loves cheese. You live your best life savouring French cuisine. DREAM A LITTLE DREAM!",
+  "image": "https://covencats.s3.amazonaws.com/c2e2bf28632fc21601a43579bad0ac3e29122377e7c1682624bcc558ce8462fc.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Waxing Crescent"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Toadstool"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Gemini"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 6,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 960,
+    "name": "gorgonzola of the couch cushions",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT who judges all who cross your path.",
+      "magic": "Your whiskers tingle in the presence of magic.",
+      "acts_of_service": "You love your WITCH like a mouse loves cheese.",
+      "belonging": "You live your best life savouring French cuisine.",
+      "meow": "DREAM A LITTLE DREAM!"
+    },
+    "skills": {
+      "caprice": 8,
+      "caution": 9,
+      "catastrophe": 2,
+      "curiosity": 4,
+      "charisma": 4,
+      "cunning": 6
+    },
+    "birth_chart": {
+      "sun": "libra",
+      "moon": "leo",
+      "rising": "gemini"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Waxing Crescent"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Toadstool"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lilac"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      }
+    ],
+    "hash": "c2e2bf28632fc21601a43579bad0ac3e29122377e7c1682624bcc558ce8462fc"
+  }
+}

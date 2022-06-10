@@ -1,0 +1,160 @@
+{
+  "name": "andesite, the arcane purr",
+  "description": "You are a CAT with 9 lives, born from the rustle and shimmer of a well-worn silk slip. Your whiskers tell fortunes. You have a telepathic bond with your chosen WITCH. You capture the last breaths of the dying and use them to hone your deepest meows. RUN HORIZONTALLY ACROSS THE WALL!",
+  "image": "https://covencats.s3.amazonaws.com/2fefffaa2c3a109aec0d0676519a2dff83dcfa6736c58b31fa4ecddb44a8939d.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Moths"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Steel"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ring Collar (Silver)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Horns of Taurus"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Scorpio"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 2,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 939,
+    "name": "andesite, the arcane purr",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT with 9 lives, born from the rustle and shimmer of a well-worn silk slip.",
+      "magic": "Your whiskers tell fortunes.",
+      "acts_of_service": "You have a telepathic bond with your chosen WITCH.",
+      "belonging": "You capture the last breaths of the dying and use them to hone your deepest meows.",
+      "meow": "RUN HORIZONTALLY ACROSS THE WALL!"
+    },
+    "skills": {
+      "caprice": 5,
+      "caution": 7,
+      "catastrophe": 7,
+      "curiosity": 5,
+      "charisma": 7,
+      "cunning": 2
+    },
+    "birth_chart": {
+      "sun": "libra",
+      "moon": "aries",
+      "rising": "scorpio"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Moths"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Steel"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ring Collar (Silver)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Horns of Taurus"
+      }
+    ],
+    "hash": "2fefffaa2c3a109aec0d0676519a2dff83dcfa6736c58b31fa4ecddb44a8939d"
+  }
+}

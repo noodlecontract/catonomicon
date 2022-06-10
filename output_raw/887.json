@@ -1,7 +1,176 @@
 {
-  "description": "something familiar comes this way...",
+  "name": "entropy, the meow",
+  "description": "You are a CAT called from the shadows. You light candles with a single thought. You protect your WITCH from ashes, ambiguity, and Aries. You whisper demonic meows into the ears of sleeping humans. CHASE INVISIBLE ENEMIES!",
+  "image": "https://covencats.s3.amazonaws.com/e489298ef42d87364720f5d9706ba56b6c438282e954b6a01bf75ae0c2ae7d5e.png",
   "external_url": "https://www.covencats.xyz/",
-  "image": "https://covencats.s3.amazonaws.com/placeholder.png",
-  "name": "CAT",
-  "attributes": []
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Full Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Ram's Skull"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Dragon (Ethereum)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Auburn"
+    },
+    {
+      "trait_type": "Forehead Marking",
+      "value": "Demon Third Eye (Black)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Smudged"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ring Collar (Silver)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Bat Wings"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Virgo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 5,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 887,
+    "name": "entropy, the meow",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT called from the shadows.",
+      "magic": "You light candles with a single thought.",
+      "acts_of_service": "You protect your WITCH from ashes, ambiguity, and Aries.",
+      "belonging": "You whisper demonic meows into the ears of sleeping humans.",
+      "meow": "CHASE INVISIBLE ENEMIES!"
+    },
+    "skills": {
+      "caprice": 6,
+      "caution": 1,
+      "catastrophe": 4,
+      "curiosity": 8,
+      "charisma": 0,
+      "cunning": 5
+    },
+    "birth_chart": {
+      "sun": "leo",
+      "moon": "leo",
+      "rising": "virgo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Full Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Ram's Skull"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "Dragon (Ethereum)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Auburn"
+      },
+      {
+        "trait_type": "Forehead Marking",
+        "value": "Demon Third Eye (Black)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ring Collar (Silver)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Bat Wings"
+      }
+    ],
+    "hash": "e489298ef42d87364720f5d9706ba56b6c438282e954b6a01bf75ae0c2ae7d5e"
+  }
 }

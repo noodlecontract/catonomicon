@@ -1,0 +1,144 @@
+{
+  "name": "chi, the discerning",
+  "description": "You are a CAT who yowls under the new moon. You fight dragons and demons in your dreams. You and your WITCH collect fallen bird feathers and river rocks. You speak countless languages and read even more. RIGHTY-O!",
+  "image": "https://covencats.s3.amazonaws.com/90356965b6bc3da5782902eeedca9842b359f4f7d650cc4bb856ffbbd8b53e91.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Books"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mauve"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Babylash"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Moon Choker (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Capricorn"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 8,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 976,
+    "name": "chi, the discerning",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT who yowls under the new moon.",
+      "magic": "You fight dragons and demons in your dreams.",
+      "acts_of_service": "You and your WITCH collect fallen bird feathers and river rocks.",
+      "belonging": "You speak countless languages and read even more.",
+      "meow": "RIGHTY-O!"
+    },
+    "skills": {
+      "caprice": 6,
+      "caution": 8,
+      "catastrophe": 2,
+      "curiosity": 9,
+      "charisma": 4,
+      "cunning": 8
+    },
+    "birth_chart": {
+      "sun": "taurus",
+      "moon": "cancer",
+      "rising": "capricorn"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Books"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mauve"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Babylash"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Moon Choker (Silver)"
+      }
+    ],
+    "hash": "90356965b6bc3da5782902eeedca9842b359f4f7d650cc4bb856ffbbd8b53e91"
+  }
+}

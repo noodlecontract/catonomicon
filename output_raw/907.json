@@ -1,0 +1,160 @@
+{
+  "name": "gentle merino",
+  "description": "You are a CAT with 5 lives, found in the Taj Mahal. You scare away enemies with a swish of your tail. You and your WITCH bond over warm woolen mittens. Birds and fairies dream of riding on your back. PLAY WITH YOUR FOOD!",
+  "image": "https://covencats.s3.amazonaws.com/d77fdd0a79b1ba4280ef4072f422bdbf716f44e45f419ec7bbcfe205221b862f.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Basket of Yarn"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Butterfly"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Ball of Yarn (Blue)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Platinum"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Babylash"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Anemone Horns"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 0,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 907,
+    "name": "gentle merino",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT with 5 lives, found in the Taj Mahal.",
+      "magic": "You scare away enemies with a swish of your tail.",
+      "acts_of_service": "You and your WITCH bond over warm woolen mittens.",
+      "belonging": "Birds and fairies dream of riding on your back.",
+      "meow": "PLAY WITH YOUR FOOD!"
+    },
+    "skills": {
+      "caprice": 6,
+      "caution": 6,
+      "catastrophe": 6,
+      "curiosity": 5,
+      "charisma": 6,
+      "cunning": 0
+    },
+    "birth_chart": {
+      "sun": "taurus",
+      "moon": "leo",
+      "rising": "sagittarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Basket of Yarn"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Butterfly"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Ball of Yarn (Blue)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Platinum"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Babylash"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Anemone Horns"
+      }
+    ],
+    "hash": "d77fdd0a79b1ba4280ef4072f422bdbf716f44e45f419ec7bbcfe205221b862f"
+  }
+}

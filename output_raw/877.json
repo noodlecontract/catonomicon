@@ -1,7 +1,152 @@
 {
-  "description": "something familiar comes this way...",
+  "name": "consonance accra",
+  "description": "You are a CAT drawn into existence. Your whiskers tingle in the presence of magic. You delight in your WITCH's spellcasting experiments. People travel from lands over to bask in your glory. THE UNIVERSE CALLS!",
+  "image": "https://covencats.s3.amazonaws.com/2424662b55ed1841d4777b0d778137f250db9832ec9244731445fadba5cea6e5.png",
   "external_url": "https://www.covencats.xyz/",
-  "image": "https://covencats.s3.amazonaws.com/placeholder.png",
-  "name": "CAT",
-  "attributes": []
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Moths"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Coven No.666 Perfume"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Babylash"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 4,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 877,
+    "name": "consonance accra",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT drawn into existence.",
+      "magic": "Your whiskers tingle in the presence of magic.",
+      "acts_of_service": "You delight in your WITCH's spellcasting experiments.",
+      "belonging": "People travel from lands over to bask in your glory.",
+      "meow": "THE UNIVERSE CALLS!"
+    },
+    "skills": {
+      "caprice": 5,
+      "caution": 2,
+      "catastrophe": 5,
+      "curiosity": 4,
+      "charisma": 8,
+      "cunning": 4
+    },
+    "birth_chart": {
+      "sun": "aries",
+      "moon": "taurus",
+      "rising": "taurus"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Moths"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Coven No.666 Perfume"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Navy"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Babylash"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Blue"
+      }
+    ],
+    "hash": "2424662b55ed1841d4777b0d778137f250db9832ec9244731445fadba5cea6e5"
+  }
 }

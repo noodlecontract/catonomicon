@@ -1,0 +1,152 @@
+{
+  "name": "carbon aristotle",
+  "description": "You are a CAT with 17 lives, found on the streets of Canggu. You cast spells with a swish of your tail. You and your WITCH bond over perfectly-brewed cups of coffee. You count in prime numbers and only prime numbers. IT'S TIME TO EAT FISH!",
+  "image": "https://covencats.s3.amazonaws.com/ee6fd6e0ec9236c72a0274d3a341a088e811850adecfa993994280ee1013b4fa.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Cat Plates"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Sage"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Platinum"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 5,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 964,
+    "name": "carbon aristotle",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT with 17 lives, found on the streets of Canggu.",
+      "magic": "You cast spells with a swish of your tail.",
+      "acts_of_service": "You and your WITCH bond over perfectly-brewed cups of coffee.",
+      "belonging": "You count in prime numbers and only prime numbers.",
+      "meow": "IT'S TIME TO EAT FISH!"
+    },
+    "skills": {
+      "caprice": 1,
+      "caution": 8,
+      "catastrophe": 2,
+      "curiosity": 5,
+      "charisma": 8,
+      "cunning": 5
+    },
+    "birth_chart": {
+      "sun": "aquarius",
+      "moon": "cancer",
+      "rising": "taurus"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Cat Plates"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Sage"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Platinum"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Gold"
+      }
+    ],
+    "hash": "ee6fd6e0ec9236c72a0274d3a341a088e811850adecfa993994280ee1013b4fa"
+  }
+}

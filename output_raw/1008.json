@@ -1,0 +1,160 @@
+{
+  "name": "caviar of the garden",
+  "description": "You are a CAT who speaks in haikus. You wield knives and guard thresholds. You and your WITCH scream into the Void. Butterflies follow you wherever you go. PLUNGE INTO YOUR DREAMS!",
+  "image": "https://covencats.s3.amazonaws.com/13e186e30b0a4cce997bf1dc6769e7aec55c9efd25453653a9028fee64b8cc7d.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Cat Plates"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Red)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Folded"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Ash"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Shadowed"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Gemini"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 8,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 1008,
+    "name": "caviar of the garden",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT who speaks in haikus.",
+      "magic": "You wield knives and guard thresholds.",
+      "acts_of_service": "You and your WITCH scream into the Void.",
+      "belonging": "Butterflies follow you wherever you go.",
+      "meow": "PLUNGE INTO YOUR DREAMS!"
+    },
+    "skills": {
+      "caprice": 4,
+      "caution": 9,
+      "catastrophe": 1,
+      "curiosity": 9,
+      "charisma": 7,
+      "cunning": 8
+    },
+    "birth_chart": {
+      "sun": "aquarius",
+      "moon": "libra",
+      "rising": "gemini"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Cat Plates"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Red)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Folded"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Ash"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Shadowed"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      }
+    ],
+    "hash": "13e186e30b0a4cce997bf1dc6769e7aec55c9efd25453653a9028fee64b8cc7d"
+  }
+}

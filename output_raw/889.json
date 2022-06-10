@@ -1,7 +1,168 @@
 {
-  "description": "something familiar comes this way...",
+  "name": "envy",
+  "description": "You are a CAT who roasts and brews perfect coffee. You weave tapestries with your tail. You love your WITCH and their warm soft cuddles. Your sharp claws carve hexes into people's souls. MAKE WAY!",
+  "image": "https://covencats.s3.amazonaws.com/aa1f1700340d80d58b976ff4ceaaf6bd6beba2982e1aa602f18a2d32c513458c.png",
   "external_url": "https://www.covencats.xyz/",
-  "image": "https://covencats.s3.amazonaws.com/placeholder.png",
-  "name": "CAT",
-  "attributes": []
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Sunbeam"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Steel"
+    },
+    {
+      "trait_type": "Forehead Marking",
+      "value": "Mark of the Claw"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Flooded Aqua"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Moon Choker (Silver)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Horns of Taurus"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Virgo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 9,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 889,
+    "name": "envy",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT who roasts and brews perfect coffee.",
+      "magic": "You weave tapestries with your tail.",
+      "acts_of_service": "You love your WITCH and their warm soft cuddles.",
+      "belonging": "Your sharp claws carve hexes into people's souls.",
+      "meow": "MAKE WAY!"
+    },
+    "skills": {
+      "caprice": 7,
+      "caution": 2,
+      "catastrophe": 6,
+      "curiosity": 0,
+      "charisma": 6,
+      "cunning": 9
+    },
+    "birth_chart": {
+      "sun": "leo",
+      "moon": "libra",
+      "rising": "virgo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Sea"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Sunbeam"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Skull"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Steel"
+      },
+      {
+        "trait_type": "Forehead Marking",
+        "value": "Mark of the Claw"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Flooded Aqua"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Moon Choker (Silver)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Horns of Taurus"
+      }
+    ],
+    "hash": "aa1f1700340d80d58b976ff4ceaaf6bd6beba2982e1aa602f18a2d32c513458c"
+  }
 }

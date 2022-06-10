@@ -1,7 +1,144 @@
 {
-  "description": "something familiar comes this way...",
+  "name": "maeve izanami",
+  "description": "You are a CAT drawn into existence. You make your bed in the softest of clover fields. You and your WITCH collect fallen bird feathers and river rocks. Your playground is a cemetery and your familiar, a crow. NAP UNDER THE STARS!",
+  "image": "https://covencats.s3.amazonaws.com/8ea1e99d37b13c63db0b5924a986b83fd60f0af9f08af2bfa52e81a973af2fe9.png",
   "external_url": "https://www.covencats.xyz/",
-  "image": "https://covencats.s3.amazonaws.com/placeholder.png",
-  "name": "CAT",
-  "attributes": []
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Red)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Rolled"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Smudged"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Cancer"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 4,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 894,
+    "name": "maeve izanami",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT drawn into existence.",
+      "magic": "You make your bed in the softest of clover fields.",
+      "acts_of_service": "You and your WITCH collect fallen bird feathers and river rocks.",
+      "belonging": "Your playground is a cemetery and your familiar, a crow.",
+      "meow": "NAP UNDER THE STARS!"
+    },
+    "skills": {
+      "caprice": 7,
+      "caution": 4,
+      "catastrophe": 8,
+      "curiosity": 4,
+      "charisma": 4,
+      "cunning": 4
+    },
+    "birth_chart": {
+      "sun": "aries",
+      "moon": "gemini",
+      "rising": "cancer"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Taupe"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Red)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Red"
+      }
+    ],
+    "hash": "8ea1e99d37b13c63db0b5924a986b83fd60f0af9f08af2bfa52e81a973af2fe9"
+  }
 }

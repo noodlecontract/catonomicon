@@ -1,0 +1,152 @@
+{
+  "name": "bootes, the dreamy",
+  "description": "You are a CAT with 4 lives, found in the kitchen enjoying a succulent tuna pie. You wield knives and guard thresholds. You and your WITCH bond over warm woolen mittens. Your whiskers can predict the curses of the VOID WITCH. CHASE INVISIBLE ENEMIES!",
+  "image": "https://covencats.s3.amazonaws.com/7a8060ae8ca1a0477469565a4f8e29dbf63d1c8c204b7e1bea6e7e16cf71d889.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Crescent Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Crystal Ball"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Floofed"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Birman"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ethereum Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Virgo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 8,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 919,
+    "name": "bootes, the dreamy",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT with 4 lives, found in the kitchen enjoying a succulent tuna pie.",
+      "magic": "You wield knives and guard thresholds.",
+      "acts_of_service": "You and your WITCH bond over warm woolen mittens.",
+      "belonging": "Your whiskers can predict the curses of the VOID WITCH.",
+      "meow": "CHASE INVISIBLE ENEMIES!"
+    },
+    "skills": {
+      "caprice": 3,
+      "caution": 9,
+      "catastrophe": 7,
+      "curiosity": 4,
+      "charisma": 4,
+      "cunning": 8
+    },
+    "birth_chart": {
+      "sun": "leo",
+      "moon": "aquarius",
+      "rising": "virgo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Crescent Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Crystal Ball"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Birman"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ethereum Collar"
+      }
+    ],
+    "hash": "7a8060ae8ca1a0477469565a4f8e29dbf63d1c8c204b7e1bea6e7e16cf71d889"
+  }
+}

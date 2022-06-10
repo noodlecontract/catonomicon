@@ -1,0 +1,160 @@
+{
+  "name": "eidolon catrina",
+  "description": "You are a CAT come to life from a spell. You inspire chaotic good and dispel chaotic bad. You and your WITCH make potions from dried leaves and orange zest. Your best naps happen in a bed of dying flowers. MEOW AT THE SUN!",
+  "image": "https://covencats.s3.amazonaws.com/20483ff66a6cd6112a5320b62d3a98825ebd86baa02c7e29eb6f2870c0da5d05.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Blue)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Platinum"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hypnotic"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Horns of Taurus"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Virgo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 7,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 938,
+    "name": "eidolon catrina",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT come to life from a spell.",
+      "magic": "You inspire chaotic good and dispel chaotic bad.",
+      "acts_of_service": "You and your WITCH make potions from dried leaves and orange zest.",
+      "belonging": "Your best naps happen in a bed of dying flowers.",
+      "meow": "MEOW AT THE SUN!"
+    },
+    "skills": {
+      "caprice": 2,
+      "caution": 3,
+      "catastrophe": 5,
+      "curiosity": 4,
+      "charisma": 8,
+      "cunning": 7
+    },
+    "birth_chart": {
+      "sun": "libra",
+      "moon": "libra",
+      "rising": "virgo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Blue)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Platinum"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hypnotic"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Horns of Taurus"
+      }
+    ],
+    "hash": "20483ff66a6cd6112a5320b62d3a98825ebd86baa02c7e29eb6f2870c0da5d05"
+  }
+}

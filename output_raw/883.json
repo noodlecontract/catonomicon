@@ -1,7 +1,160 @@
 {
-  "description": "something familiar comes this way...",
+  "name": "caramel of the meadow",
+  "description": "You are a CAT who speaks in haikus. You do your own research and trust no one. You and your WITCH dance under every rainbow. You make your home out of acorns and sticks. EAT THE PIZZA!",
+  "image": "https://covencats.s3.amazonaws.com/afc7739a418dfc6363f2e31ce8c2929109c01205e46c31129d2422a4cab03037.png",
   "external_url": "https://www.covencats.xyz/",
-  "image": "https://covencats.s3.amazonaws.com/placeholder.png",
-  "name": "CAT",
-  "attributes": []
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Basket of Yarn"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Bumblebees"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Ball of Yarn (Wine)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Ethereum"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Babylash"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Cat Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Leo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 4,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 883,
+    "name": "caramel of the meadow",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT who speaks in haikus.",
+      "magic": "You do your own research and trust no one.",
+      "acts_of_service": "You and your WITCH dance under every rainbow.",
+      "belonging": "You make your home out of acorns and sticks.",
+      "meow": "EAT THE PIZZA!"
+    },
+    "skills": {
+      "caprice": 7,
+      "caution": 3,
+      "catastrophe": 4,
+      "curiosity": 9,
+      "charisma": 7,
+      "cunning": 4
+    },
+    "birth_chart": {
+      "sun": "libra",
+      "moon": "pisces",
+      "rising": "leo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Basket of Yarn"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Bumblebees"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Ball of Yarn (Wine)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Ethereum"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Babylash"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Cat Collar"
+      }
+    ],
+    "hash": "afc7739a418dfc6363f2e31ce8c2929109c01205e46c31129d2422a4cab03037"
+  }
 }

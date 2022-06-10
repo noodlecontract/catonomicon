@@ -1,0 +1,152 @@
+{
+  "name": "staccato of london",
+  "description": "You are a CAT made of bread, noodles, and rice. You creep within the dreams of regents, sowing seeds of distrust and sedition. You and your WITCH find doppelgangers across the Weird Wilds and beyond. Few can resist your charm, and all are captivated by your beauty. LOOK AT ME!",
+  "image": "https://covencats.s3.amazonaws.com/a087d72ac51e4e659ec360aa0b333c738da0aa052c0c87b553a06e308a63becc.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (White)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Rolled"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Glo"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Simple Circlet (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Scorpio"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 5,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 1014,
+    "name": "staccato of london",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT made of bread, noodles, and rice.",
+      "magic": "You creep within the dreams of regents, sowing seeds of distrust and sedition.",
+      "acts_of_service": "You and your WITCH find doppelgangers across the Weird Wilds and beyond.",
+      "belonging": "Few can resist your charm, and all are captivated by your beauty.",
+      "meow": "LOOK AT ME!"
+    },
+    "skills": {
+      "caprice": 5,
+      "caution": 1,
+      "catastrophe": 7,
+      "curiosity": 6,
+      "charisma": 3,
+      "cunning": 5
+    },
+    "birth_chart": {
+      "sun": "virgo",
+      "moon": "aries",
+      "rising": "scorpio"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (White)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Glo"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Simple Circlet (Silver)"
+      }
+    ],
+    "hash": "a087d72ac51e4e659ec360aa0b333c738da0aa052c0c87b553a06e308a63becc"
+  }
+}

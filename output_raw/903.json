@@ -1,0 +1,160 @@
+{
+  "name": "spike, the menacing",
+  "description": "You are a CAT with 5 lives, connected by a golden pentagram. You creep within the dreams of regents, sowing seeds of distrust and sedition. You and your WITCH dance together during every new moon. You dance in flames and take catnaps on ice. NAP UNDER THE STARS!",
+  "image": "https://covencats.s3.amazonaws.com/0e4384ae7a0f8ad4e4879a67bb794f4198656e3badc2fac29710c8dd2367ed64.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (White)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sphynx"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Claw Marked (Black)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Fish Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Virgo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 6,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 903,
+    "name": "spike, the menacing",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT with 5 lives, connected by a golden pentagram.",
+      "magic": "You creep within the dreams of regents, sowing seeds of distrust and sedition.",
+      "acts_of_service": "You and your WITCH dance together during every new moon.",
+      "belonging": "You dance in flames and take catnaps on ice.",
+      "meow": "NAP UNDER THE STARS!"
+    },
+    "skills": {
+      "caprice": 9,
+      "caution": 0,
+      "catastrophe": 6,
+      "curiosity": 0,
+      "charisma": 8,
+      "cunning": 6
+    },
+    "birth_chart": {
+      "sun": "libra",
+      "moon": "aquarius",
+      "rising": "virgo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Taupe"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Skull"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (White)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sphynx"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lilac"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Claw Marked (Black)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Fish Collar"
+      }
+    ],
+    "hash": "0e4384ae7a0f8ad4e4879a67bb794f4198656e3badc2fac29710c8dd2367ed64"
+  }
+}

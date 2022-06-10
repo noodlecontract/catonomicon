@@ -1,7 +1,152 @@
 {
-  "description": "something familiar comes this way...",
+  "name": "cepheus of the turquoise",
+  "description": "You are a CAT made of bread, noodles, and rice. You are grumpy, jumpy, and dumpy. You and your WITCH enjoy the finer things in life. Your whiskers can predict the curses of the VOID WITCH. IT'S TIME TO SWIPE AT BIRDS!",
+  "image": "https://covencats.s3.amazonaws.com/b6747f5f2d8e0d0b43521a580173dde2f05a24c79f84261bc46ffb96d9f896e4.png",
   "external_url": "https://www.covencats.xyz/",
-  "image": "https://covencats.s3.amazonaws.com/placeholder.png",
-  "name": "CAT",
-  "attributes": []
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Sunbeam"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Crystal Ball"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ethereum Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 4,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 893,
+    "name": "cepheus of the turquoise",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT made of bread, noodles, and rice.",
+      "magic": "You are grumpy, jumpy, and dumpy.",
+      "acts_of_service": "You and your WITCH enjoy the finer things in life.",
+      "belonging": "Your whiskers can predict the curses of the VOID WITCH.",
+      "meow": "IT'S TIME TO SWIPE AT BIRDS!"
+    },
+    "skills": {
+      "caprice": 8,
+      "caution": 7,
+      "catastrophe": 8,
+      "curiosity": 6,
+      "charisma": 6,
+      "cunning": 4
+    },
+    "birth_chart": {
+      "sun": "sagittarius",
+      "moon": "capricorn",
+      "rising": "taurus"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Sunbeam"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Crystal Ball"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ethereum Collar"
+      }
+    ],
+    "hash": "b6747f5f2d8e0d0b43521a580173dde2f05a24c79f84261bc46ffb96d9f896e4"
+  }
 }

@@ -1,0 +1,152 @@
+{
+  "name": "staccato, the pampered",
+  "description": "You are a CAT with one too many lives, born amid the restless slumbers of a WITCH. You sniff out catnip from nations away. You protect your WITCH from leeches, lavender, and Leos. You purr along to jazz and blues while you groom. IF IT FITS, SIT!",
+  "image": "https://covencats.s3.amazonaws.com/c48b7dfd99c640754662818f836cf3202f6045df03338085d461a53cd2b3c3a0.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Full Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Throne"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Rolled"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Iridescent"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Shadowed"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ethereum Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aries"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 2,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 920,
+    "name": "staccato, the pampered",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT with one too many lives, born amid the restless slumbers of a WITCH.",
+      "magic": "You sniff out catnip from nations away.",
+      "acts_of_service": "You protect your WITCH from leeches, lavender, and Leos.",
+      "belonging": "You purr along to jazz and blues while you groom.",
+      "meow": "IF IT FITS, SIT!"
+    },
+    "skills": {
+      "caprice": 8,
+      "caution": 3,
+      "catastrophe": 4,
+      "curiosity": 3,
+      "charisma": 3,
+      "cunning": 2
+    },
+    "birth_chart": {
+      "sun": "virgo",
+      "moon": "capricorn",
+      "rising": "aries"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Full Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Throne"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Iridescent"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Shadowed"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ethereum Collar"
+      }
+    ],
+    "hash": "c48b7dfd99c640754662818f836cf3202f6045df03338085d461a53cd2b3c3a0"
+  }
+}

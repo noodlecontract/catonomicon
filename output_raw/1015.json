@@ -1,0 +1,152 @@
+{
+  "name": "dodona",
+  "description": "You are a CAT with 15 lives, found at the base of Machu Picchu. You leave pawprints of silver in your wake. You and your WITCH harvest mushrooms, fallen antlers, and misshapen twigs. You win battles by predicting your enemies' actions. SAY HELLO TO THE STARS!",
+  "image": "https://covencats.s3.amazonaws.com/914efdb266530ca635a8740f4f10f684cae6b96a655a47478d7c4af9b683a90c.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Crystals (Amethyst)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mauve"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Glo"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Piercing Choker (Pink)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Capricorn"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 2,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 1015,
+    "name": "dodona",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT with 15 lives, found at the base of Machu Picchu.",
+      "magic": "You leave pawprints of silver in your wake.",
+      "acts_of_service": "You and your WITCH harvest mushrooms, fallen antlers, and misshapen twigs.",
+      "belonging": "You win battles by predicting your enemies' actions.",
+      "meow": "SAY HELLO TO THE STARS!"
+    },
+    "skills": {
+      "caprice": 5,
+      "caution": 9,
+      "catastrophe": 8,
+      "curiosity": 2,
+      "charisma": 0,
+      "cunning": 2
+    },
+    "birth_chart": {
+      "sun": "cancer",
+      "moon": "scorpio",
+      "rising": "capricorn"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Crystals (Amethyst)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mauve"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Glo"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Piercing Choker (Pink)"
+      }
+    ],
+    "hash": "914efdb266530ca635a8740f4f10f684cae6b96a655a47478d7c4af9b683a90c"
+  }
+}

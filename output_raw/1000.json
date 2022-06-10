@@ -1,0 +1,152 @@
+{
+  "name": "apple of the vineyard",
+  "description": "You are a CAT who pounces on shiny objects. You do your own research and trust no one. You and your WITCH bond over high-quality tassels. Every morning, you greet the flowers with soft meows. TO THE MILK SAUCER!",
+  "image": "https://covencats.s3.amazonaws.com/648e9f468495b93883bc0b9a6870243ffe31b2dd3acc7bf2e8ce8b8f1bd244b3.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Ethereum"
+    },
+    {
+      "trait_type": "Forehead Marking",
+      "value": "Mark of the Chained Moon (White)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Alert"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aquarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 3,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 1000,
+    "name": "apple of the vineyard",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT who pounces on shiny objects.",
+      "magic": "You do your own research and trust no one.",
+      "acts_of_service": "You and your WITCH bond over high-quality tassels.",
+      "belonging": "Every morning, you greet the flowers with soft meows.",
+      "meow": "TO THE MILK SAUCER!"
+    },
+    "skills": {
+      "caprice": 6,
+      "caution": 9,
+      "catastrophe": 7,
+      "curiosity": 9,
+      "charisma": 9,
+      "cunning": 3
+    },
+    "birth_chart": {
+      "sun": "aries",
+      "moon": "capricorn",
+      "rising": "aquarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Ethereum"
+      },
+      {
+        "trait_type": "Forehead Marking",
+        "value": "Mark of the Chained Moon (White)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Alert"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "648e9f468495b93883bc0b9a6870243ffe31b2dd3acc7bf2e8ce8b8f1bd244b3"
+  }
+}

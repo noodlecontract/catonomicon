@@ -1,0 +1,160 @@
+{
+  "name": "alcatraz, the merciless eater",
+  "description": "You are a CAT with 5 lives, born from a secret incantation of the arcane. Your whiskers always point true south. You and your WITCH share a pillow fort and watch movies all day. You craft potions of tuna to turn your enemies into lost dogs. TAKE A NAP!",
+  "image": "https://covencats.s3.amazonaws.com/0839d5d3b9ea3ab517b7bed024438a9bb3f4c68c866c67345de125c03d5b833d.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Tombstone"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Spiderwebs (Black)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Platinum"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Demon"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Fish Collar"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Sad Girl Tears"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aquarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 8,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 943,
+    "name": "alcatraz, the merciless eater",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT with 5 lives, born from a secret incantation of the arcane.",
+      "magic": "Your whiskers always point true south.",
+      "acts_of_service": "You and your WITCH share a pillow fort and watch movies all day.",
+      "belonging": "You craft potions of tuna to turn your enemies into lost dogs.",
+      "meow": "TAKE A NAP!"
+    },
+    "skills": {
+      "caprice": 8,
+      "caution": 9,
+      "catastrophe": 9,
+      "curiosity": 0,
+      "charisma": 8,
+      "cunning": 8
+    },
+    "birth_chart": {
+      "sun": "scorpio",
+      "moon": "aries",
+      "rising": "aquarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Tombstone"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Spiderwebs (Black)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Platinum"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Demon"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Fish Collar"
+      },
+      {
+        "trait_type": "Facewear",
+        "value": "Sad Girl Tears"
+      }
+    ],
+    "hash": "0839d5d3b9ea3ab517b7bed024438a9bb3f4c68c866c67345de125c03d5b833d"
+  }
+}

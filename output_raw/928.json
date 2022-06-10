@@ -1,0 +1,144 @@
+{
+  "name": "kalinda wind",
+  "description": "You are a CAT who collects gossip, glitter, and gel pens. Your purrs cast spells of slumber, suspending minds in nightmares and dreams. You and your WITCH bond over raindrops on roses. You predict the future by the way your tummy grumbles in the morning. BEWARE OF MICE!",
+  "image": "https://covencats.s3.amazonaws.com/e0d365b7e75ba94a505f4de5d4cff05865e3a20a00332cc55494b2ec5d5ed15d.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Sunbeam"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Genie Lamp (Pearl)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Glo"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Capricorn"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 2,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 928,
+    "name": "kalinda wind",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT who collects gossip, glitter, and gel pens.",
+      "magic": "Your purrs cast spells of slumber, suspending minds in nightmares and dreams.",
+      "acts_of_service": "You and your WITCH bond over raindrops on roses.",
+      "belonging": "You predict the future by the way your tummy grumbles in the morning.",
+      "meow": "BEWARE OF MICE!"
+    },
+    "skills": {
+      "caprice": 3,
+      "caution": 4,
+      "catastrophe": 0,
+      "curiosity": 7,
+      "charisma": 3,
+      "cunning": 2
+    },
+    "birth_chart": {
+      "sun": "cancer",
+      "moon": "cancer",
+      "rising": "capricorn"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Sunbeam"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Genie Lamp (Pearl)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Glo"
+      }
+    ],
+    "hash": "e0d365b7e75ba94a505f4de5d4cff05865e3a20a00332cc55494b2ec5d5ed15d"
+  }
+}

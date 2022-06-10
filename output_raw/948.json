@@ -1,0 +1,152 @@
+{
+  "name": "malfoy, the trap",
+  "description": "You are a CAT who is also a loaf. Your catnaps are the topic of fables told across the Weird Wilds. You rate your WITCH's outfit of the day every morning. You delight in clawing pillows to shreds. FLICK AND FLOUNCE!",
+  "image": "https://covencats.s3.amazonaws.com/e8fd553cea318a7fa976f1c5585d6ad1931310e62fcb345b9d3ac0a695332528.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Bumblebees"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Floofed"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Smudged Monolid"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Fish Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Scorpio"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 5,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 948,
+    "name": "malfoy, the trap",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT who is also a loaf.",
+      "magic": "Your catnaps are the topic of fables told across the Weird Wilds.",
+      "acts_of_service": "You rate your WITCH's outfit of the day every morning.",
+      "belonging": "You delight in clawing pillows to shreds.",
+      "meow": "FLICK AND FLOUNCE!"
+    },
+    "skills": {
+      "caprice": 6,
+      "caution": 5,
+      "catastrophe": 8,
+      "curiosity": 5,
+      "charisma": 1,
+      "cunning": 5
+    },
+    "birth_chart": {
+      "sun": "sagittarius",
+      "moon": "aries",
+      "rising": "scorpio"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Sea"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Bumblebees"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged Monolid"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Fish Collar"
+      }
+    ],
+    "hash": "e8fd553cea318a7fa976f1c5585d6ad1931310e62fcb345b9d3ac0a695332528"
+  }
+}

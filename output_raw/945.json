@@ -1,0 +1,144 @@
+{
+  "name": "carme of the amulet",
+  "description": "You are a CAT who swims with sharks. You tailor clothes with a swish of your tail. You and your WITCH bond over perfectly-brewed cups of coffee. Your eyes are crystal balls that see the future. SCAMPER BACKWARDS INTO THE SUN!",
+  "image": "https://covencats.s3.amazonaws.com/b5b2c73d98405d09cf5e2df3b93f9a34e3a0ee007c0976f1d9adfddb82eb93da.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Blue)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Tortie"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Reverse Cateye"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Opal"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Leo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 8,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 945,
+    "name": "carme of the amulet",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT who swims with sharks.",
+      "magic": "You tailor clothes with a swish of your tail.",
+      "acts_of_service": "You and your WITCH bond over perfectly-brewed cups of coffee.",
+      "belonging": "Your eyes are crystal balls that see the future.",
+      "meow": "SCAMPER BACKWARDS INTO THE SUN!"
+    },
+    "skills": {
+      "caprice": 8,
+      "caution": 5,
+      "catastrophe": 3,
+      "curiosity": 9,
+      "charisma": 5,
+      "cunning": 8
+    },
+    "birth_chart": {
+      "sun": "virgo",
+      "moon": "gemini",
+      "rising": "leo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Sea"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Blue)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Tortie"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Reverse Cateye"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Opal"
+      }
+    ],
+    "hash": "b5b2c73d98405d09cf5e2df3b93f9a34e3a0ee007c0976f1d9adfddb82eb93da"
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "name": "shishito, the subtle",
+  "description": "You are a CAT with 12 lives, found near Westminster Abbey. You jump from kitchen table to counter to cabinet top in a blink of an eye. You and your WITCH make potions from dried leaves and orange zest. You steal the hats of people walking by. FATE IS NOTHING BUT A PLAYTHING!",
+  "image": "https://covencats.s3.amazonaws.com/1cae781d47c630524551d22a2e3f5bb76ddee3ac94b707bd2e97c26b326bc5a6.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Cross-stitch"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Green)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Tabby"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ring Collar (Silver)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Maleficent Horns"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 3,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 916,
+    "name": "shishito, the subtle",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT with 12 lives, found near Westminster Abbey.",
+      "magic": "You jump from kitchen table to counter to cabinet top in a blink of an eye.",
+      "acts_of_service": "You and your WITCH make potions from dried leaves and orange zest.",
+      "belonging": "You steal the hats of people walking by.",
+      "meow": "FATE IS NOTHING BUT A PLAYTHING!"
+    },
+    "skills": {
+      "caprice": 3,
+      "caution": 4,
+      "catastrophe": 9,
+      "curiosity": 3,
+      "charisma": 3,
+      "cunning": 3
+    },
+    "birth_chart": {
+      "sun": "scorpio",
+      "moon": "aquarius",
+      "rising": "taurus"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Cross-stitch"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Green)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Tabby"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Hazel"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ring Collar (Silver)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Maleficent Horns"
+      }
+    ],
+    "hash": "1cae781d47c630524551d22a2e3f5bb76ddee3ac94b707bd2e97c26b326bc5a6"
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "name": "sidious, the hangry trap",
+  "description": "You are a CAT with 19 lives, found on the streets of Amsterdam. You travel across lands by jumping from treetop to treetop. You and your WITCH float on lily pads and drink milk together. You revel in sonic booms. IT'S TIME TO PLAY!",
+  "image": "https://covencats.s3.amazonaws.com/48c3226858d279f2e451224e2ce05d3cb422deb33cfc4e9f8c348d3a53664cf7.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Cross-stitch"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Apothecary Jars (Starlight, Screams)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Calico Mirror"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Moon Choker (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Capricorn"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 4,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 994,
+    "name": "sidious, the hangry trap",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT with 19 lives, found on the streets of Amsterdam.",
+      "magic": "You travel across lands by jumping from treetop to treetop.",
+      "acts_of_service": "You and your WITCH float on lily pads and drink milk together.",
+      "belonging": "You revel in sonic booms.",
+      "meow": "IT'S TIME TO PLAY!"
+    },
+    "skills": {
+      "caprice": 7,
+      "caution": 1,
+      "catastrophe": 5,
+      "curiosity": 7,
+      "charisma": 4,
+      "cunning": 4
+    },
+    "birth_chart": {
+      "sun": "leo",
+      "moon": "cancer",
+      "rising": "capricorn"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Sea"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Cross-stitch"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Apothecary Jars (Starlight, Screams)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Calico Mirror"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Moon Choker (Silver)"
+      }
+    ],
+    "hash": "48c3226858d279f2e451224e2ce05d3cb422deb33cfc4e9f8c348d3a53664cf7"
+  }
+}

@@ -1,7 +1,160 @@
 {
-  "description": "something familiar comes this way...",
+  "name": "upsilon knoop",
+  "description": "You are a CAT made from fallen dragon scales. Your claws are as sharp as blades. You bring your WITCH gifts of mice, birds, and fish. You know all the constellations and can name every star. CATNIP!",
+  "image": "https://covencats.s3.amazonaws.com/45aeb544a1ef15d1792fa1399c7b4bd65c8fe391d5e841a640e6cf6bacb6cdb9.png",
   "external_url": "https://www.covencats.xyz/",
-  "image": "https://covencats.s3.amazonaws.com/placeholder.png",
-  "name": "CAT",
-  "attributes": []
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Crescent Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Grimoires"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Mage Script Serpent (Green)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Reverse Cateye"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Moon Choker (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 2,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 900,
+    "name": "upsilon knoop",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT made from fallen dragon scales.",
+      "magic": "Your claws are as sharp as blades.",
+      "acts_of_service": "You bring your WITCH gifts of mice, birds, and fish.",
+      "belonging": "You know all the constellations and can name every star.",
+      "meow": "CATNIP!"
+    },
+    "skills": {
+      "caprice": 3,
+      "caution": 5,
+      "catastrophe": 8,
+      "curiosity": 9,
+      "charisma": 6,
+      "cunning": 2
+    },
+    "birth_chart": {
+      "sun": "sagittarius",
+      "moon": "aries",
+      "rising": "sagittarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Crescent Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Grimoires"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Mage Script Serpent (Green)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Reverse Cateye"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Moon Choker (Silver)"
+      }
+    ],
+    "hash": "45aeb544a1ef15d1792fa1399c7b4bd65c8fe391d5e841a640e6cf6bacb6cdb9"
+  }
 }

@@ -1,0 +1,160 @@
+{
+  "name": "oleander of the demon market",
+  "description": "You are a CAT with 11 lives, found in the souks of Marrakech. You bottle forgotten kisses and fallen dragon scales. You protect your WITCH from gluten, peanuts, and shellfish. Your yowlings guide lost souls home. SAY HELLO TO THE STARS!",
+  "image": "https://covencats.s3.amazonaws.com/0d55050a1ac7240958214e16c1a6414cf91969cc05e0ea784b9e9d3dd830b660.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Full Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Tombstone"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Witch Hat"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Gemini"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 5,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 963,
+    "name": "oleander of the demon market",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT with 11 lives, found in the souks of Marrakech.",
+      "magic": "You bottle forgotten kisses and fallen dragon scales.",
+      "acts_of_service": "You protect your WITCH from gluten, peanuts, and shellfish.",
+      "belonging": "Your yowlings guide lost souls home.",
+      "meow": "SAY HELLO TO THE STARS!"
+    },
+    "skills": {
+      "caprice": 4,
+      "caution": 3,
+      "catastrophe": 4,
+      "curiosity": 3,
+      "charisma": 5,
+      "cunning": 5
+    },
+    "birth_chart": {
+      "sun": "virgo",
+      "moon": "gemini",
+      "rising": "gemini"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Full Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Tombstone"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Witch Hat"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Hazel"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "0d55050a1ac7240958214e16c1a6414cf91969cc05e0ea784b9e9d3dd830b660"
+  }
+}

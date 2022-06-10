@@ -14,8 +14,8 @@ max=${1:-20}
 # Download from ipfs
 # ==========================================
 mkdir -p output_raw
-# base_url="cloudflare-ipfs.com/ipfs/Qmdbto5EXSFX659mDbRSgQr3T8RjqTFfH3oFB8mCbNJdab"
-base_url="https://opensea.mypinata.cloud/ipfs/Qmdbto5EXSFX659mDbRSgQr3T8RjqTFfH3oFB8mCbNJdab"
+# base_url="cloudflare-ipfs.com/ipfs/Qmf27LwCSVnG9ahrAVan4p1Z5Qqo7pBpZrdfbjp3F4gfYD"
+base_url="https://opensea.mypinata.cloud/ipfs/Qmf27LwCSVnG9ahrAVan4p1Z5Qqo7pBpZrdfbjp3F4gfYD"
 # lots of pomp + circumstance for light parallelism + "only download if entry does not exist or is unrevealed"
 seq 1 $max | xargs -P 4 -I {} sh -c "((test ! -e output_raw/{}.json) || grep -q 'placeholder.png' output_raw/{}.json) && (echo 'pulling {}'; curl --silent $base_url/{}.json | jq > output_raw/{}.json) || exit 0";
 

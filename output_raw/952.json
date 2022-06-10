@@ -1,0 +1,152 @@
+{
+  "name": "austen, the witty",
+  "description": "You are a CAT with infinite lives, born clinging to the highest branch in the Woods. You sniff out catnip from nations away. You remind your WITCH to touch grass. Your mind lives in an impressionist painting of the Weird Wilds. ROLL, ROLL, ROLL!",
+  "image": "https://covencats.s3.amazonaws.com/ebcb857c98fee50cc26bb3d6991d75d209984870208d2e6184dc06ce926dc513.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Cross-stitch"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Smudged"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Cancer"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 5,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 952,
+    "name": "austen, the witty",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT with infinite lives, born clinging to the highest branch in the Woods.",
+      "magic": "You sniff out catnip from nations away.",
+      "acts_of_service": "You remind your WITCH to touch grass.",
+      "belonging": "Your mind lives in an impressionist painting of the Weird Wilds.",
+      "meow": "ROLL, ROLL, ROLL!"
+    },
+    "skills": {
+      "caprice": 4,
+      "caution": 2,
+      "catastrophe": 5,
+      "curiosity": 3,
+      "charisma": 7,
+      "cunning": 5
+    },
+    "birth_chart": {
+      "sun": "leo",
+      "moon": "scorpio",
+      "rising": "cancer"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Cross-stitch"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      }
+    ],
+    "hash": "ebcb857c98fee50cc26bb3d6991d75d209984870208d2e6184dc06ce926dc513"
+  }
+}

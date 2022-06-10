@@ -1,0 +1,160 @@
+{
+  "name": "jasper of the tiger's eye",
+  "description": "You are a CAT with 14 lives, found in Zagreb. You steep your paws in almond extract and hide almonds within your toes. You protect your WITCH from leftovers, liars, and Libras. Your meows call out prophecies of wisdom and woe. READ THE MOON!",
+  "image": "https://covencats.s3.amazonaws.com/03a4db258398b7cb86af79417dd42e7423d82a60c094e048a536bf9336ce8f69.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Crystals (Glo)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Platinum"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Alert"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Piercing Choker (Red)"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Eyepatch (Blue)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Libra"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 0,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 990,
+    "name": "jasper of the tiger's eye",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT with 14 lives, found in Zagreb.",
+      "magic": "You steep your paws in almond extract and hide almonds within your toes.",
+      "acts_of_service": "You protect your WITCH from leftovers, liars, and Libras.",
+      "belonging": "Your meows call out prophecies of wisdom and woe.",
+      "meow": "READ THE MOON!"
+    },
+    "skills": {
+      "caprice": 9,
+      "caution": 5,
+      "catastrophe": 8,
+      "curiosity": 8,
+      "charisma": 6,
+      "cunning": 0
+    },
+    "birth_chart": {
+      "sun": "aries",
+      "moon": "capricorn",
+      "rising": "libra"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Crystals (Glo)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Platinum"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Alert"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Piercing Choker (Red)"
+      },
+      {
+        "trait_type": "Facewear",
+        "value": "Eyepatch (Blue)"
+      }
+    ],
+    "hash": "03a4db258398b7cb86af79417dd42e7423d82a60c094e048a536bf9336ce8f69"
+  }
+}

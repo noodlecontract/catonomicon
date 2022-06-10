@@ -1,0 +1,168 @@
+{
+  "name": "sarin, the ruthless nightmare",
+  "description": "You are a CAT who imbibes potions of all kinds. You demand watercress, arugula, and wild spinach year-round to appease your discerning palate. You protect your WITCH from tourist traps and delayed flights. You delight in the macabre and the monstrous. ROLL, ROLL, ROLL!",
+  "image": "https://covencats.s3.amazonaws.com/ce747dc64c2fbaea83278f345311af24e37b50ce5f5ae3bc3ba37066e3573cc6.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Cross-stitch"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Green)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Platinum"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Demon"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Moon Choker (Silver)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Bat Wings"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 9,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 913,
+    "name": "sarin, the ruthless nightmare",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT who imbibes potions of all kinds.",
+      "magic": "You demand watercress, arugula, and wild spinach year-round to appease your discerning palate.",
+      "acts_of_service": "You protect your WITCH from tourist traps and delayed flights.",
+      "belonging": "You delight in the macabre and the monstrous.",
+      "meow": "ROLL, ROLL, ROLL!"
+    },
+    "skills": {
+      "caprice": 6,
+      "caution": 1,
+      "catastrophe": 9,
+      "curiosity": 3,
+      "charisma": 0,
+      "cunning": 9
+    },
+    "birth_chart": {
+      "sun": "aries",
+      "moon": "capricorn",
+      "rising": "taurus"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Cross-stitch"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Green)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Platinum"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Demon"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Moon Choker (Silver)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Bat Wings"
+      }
+    ],
+    "hash": "ce747dc64c2fbaea83278f345311af24e37b50ce5f5ae3bc3ba37066e3573cc6"
+  }
+}

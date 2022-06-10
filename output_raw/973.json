@@ -1,0 +1,144 @@
+{
+  "name": "maeve, the ruse",
+  "description": "You are a CAT who unravels yarn. You inspire chaotic good and dispel chaotic bad. You and your WITCH drink Earl Grey tea together every morning. You feel kinship with all creatures, living and departed. MOVE FAST OR GET OUT OF THE WAY!",
+  "image": "https://covencats.s3.amazonaws.com/277a22ee82108340ac68ca6ae17349c1c857d61b4ef5f6814b445622895b579f.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Tombstone"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Virgo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 7,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 973,
+    "name": "maeve, the ruse",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT who unravels yarn.",
+      "magic": "You inspire chaotic good and dispel chaotic bad.",
+      "acts_of_service": "You and your WITCH drink Earl Grey tea together every morning.",
+      "belonging": "You feel kinship with all creatures, living and departed.",
+      "meow": "MOVE FAST OR GET OUT OF THE WAY!"
+    },
+    "skills": {
+      "caprice": 0,
+      "caution": 8,
+      "catastrophe": 6,
+      "curiosity": 0,
+      "charisma": 6,
+      "cunning": 7
+    },
+    "birth_chart": {
+      "sun": "pisces",
+      "moon": "taurus",
+      "rising": "virgo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Tombstone"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Lilac"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "277a22ee82108340ac68ca6ae17349c1c857d61b4ef5f6814b445622895b579f"
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "name": "magna granger",
+  "description": "You are a CAT made of charm and contempt. You contort your body into impossible shapes, hang from clotheslines, and swing from dusty chandeliers. You sleep on your WITCH's pillow at night. You know all the constellations and can name every star. CHASE YOUR TAIL!",
+  "image": "https://covencats.s3.amazonaws.com/c2f3cb9069b7fde7a4286e25078c99ea3df2eb139e280be892a3e5d24783775f.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Waxing Crescent"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Grimoires"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Blue)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Witch Hat"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mermaid"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Mage Script Melovesmealot (Purple)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Babylash"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Leo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 0,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 999,
+    "name": "magna granger",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT made of charm and contempt.",
+      "magic": "You contort your body into impossible shapes, hang from clotheslines, and swing from dusty chandeliers.",
+      "acts_of_service": "You sleep on your WITCH's pillow at night.",
+      "belonging": "You know all the constellations and can name every star.",
+      "meow": "CHASE YOUR TAIL!"
+    },
+    "skills": {
+      "caprice": 0,
+      "caution": 9,
+      "catastrophe": 7,
+      "curiosity": 3,
+      "charisma": 2,
+      "cunning": 0
+    },
+    "birth_chart": {
+      "sun": "capricorn",
+      "moon": "virgo",
+      "rising": "leo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Waxing Crescent"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Grimoires"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Blue)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Witch Hat"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mermaid"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Mage Script Melovesmealot (Purple)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Babylash"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      }
+    ],
+    "hash": "c2f3cb9069b7fde7a4286e25078c99ea3df2eb139e280be892a3e5d24783775f"
+  }
+}

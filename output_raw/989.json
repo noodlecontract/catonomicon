@@ -1,0 +1,160 @@
+{
+  "name": "sweet villanelle",
+  "description": "You are a CAT who tells many lies and few truths. Your claws are as sharp as blades. You and your WITCH share a love language. You revel in sonic booms. TO THE MOON!",
+  "image": "https://covencats.s3.amazonaws.com/195fb1f9c75aacb7e0b5906cfe6b0e194b3747113b510caceb17a295d2385d9a.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Cat Food (Chicken)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sphynx"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey Green"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Fish Collar"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Horns of Aries"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Gemini"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 7,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 989,
+    "name": "sweet villanelle",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT who tells many lies and few truths.",
+      "magic": "Your claws are as sharp as blades.",
+      "acts_of_service": "You and your WITCH share a love language.",
+      "belonging": "You revel in sonic booms.",
+      "meow": "TO THE MOON!"
+    },
+    "skills": {
+      "caprice": 8,
+      "caution": 5,
+      "catastrophe": 4,
+      "curiosity": 0,
+      "charisma": 7,
+      "cunning": 7
+    },
+    "birth_chart": {
+      "sun": "cancer",
+      "moon": "leo",
+      "rising": "gemini"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Cat Food (Chicken)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sphynx"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Fish Collar"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Horns of Aries"
+      }
+    ],
+    "hash": "195fb1f9c75aacb7e0b5906cfe6b0e194b3747113b510caceb17a295d2385d9a"
+  }
+}

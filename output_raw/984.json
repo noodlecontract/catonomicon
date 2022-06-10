@@ -1,0 +1,160 @@
+{
+  "name": "plutonium, the eager",
+  "description": "You are a CAT forged from death. You catch mice in your sleep. You and your WITCH share a love story started by catnip. You are a wordsmith, a code-breaker, and a puzzle-solver. WALK IN SHADOWS!",
+  "image": "https://covencats.s3.amazonaws.com/5b40396b9d36bb7c1794eec411bb62d703f4c58e40c4779c6a8dac68dfa840b0.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Full Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Grimoires"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Tortie"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Mage Script Serpent (Gold)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hypnotic"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Moon Choker (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aries"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 0,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 984,
+    "name": "plutonium, the eager",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT forged from death.",
+      "magic": "You catch mice in your sleep.",
+      "acts_of_service": "You and your WITCH share a love story started by catnip.",
+      "belonging": "You are a wordsmith, a code-breaker, and a puzzle-solver.",
+      "meow": "WALK IN SHADOWS!"
+    },
+    "skills": {
+      "caprice": 7,
+      "caution": 9,
+      "catastrophe": 7,
+      "curiosity": 3,
+      "charisma": 6,
+      "cunning": 0
+    },
+    "birth_chart": {
+      "sun": "libra",
+      "moon": "aries",
+      "rising": "aries"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Full Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Grimoires"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Tortie"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Mage Script Serpent (Gold)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hypnotic"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Moon Choker (Silver)"
+      }
+    ],
+    "hash": "5b40396b9d36bb7c1794eec411bb62d703f4c58e40c4779c6a8dac68dfa840b0"
+  }
+}

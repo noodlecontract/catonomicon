@@ -1,0 +1,160 @@
+{
+  "name": "pyrene, the devious prankster",
+  "description": "You are a CAT who makes homes out of forgotten places. You keep cauldrons of pet fish for... reasons. You beat your WITCH in pictionary and charades every time. Your soul is black and your fur shines like moonlight. PLUNGE INTO THE COLD WATER!",
+  "image": "https://covencats.s3.amazonaws.com/8252850e4fac7faffc86b714bc5fe686f3ade449d5473eab391729d2a33db2b5.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Sunbeam"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Red)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Steel"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hypnotic"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ring Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Cancer"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 9,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 954,
+    "name": "pyrene, the devious prankster",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT who makes homes out of forgotten places.",
+      "magic": "You keep cauldrons of pet fish for... reasons.",
+      "acts_of_service": "You beat your WITCH in pictionary and charades every time.",
+      "belonging": "Your soul is black and your fur shines like moonlight.",
+      "meow": "PLUNGE INTO THE COLD WATER!"
+    },
+    "skills": {
+      "caprice": 2,
+      "caution": 7,
+      "catastrophe": 8,
+      "curiosity": 4,
+      "charisma": 2,
+      "cunning": 9
+    },
+    "birth_chart": {
+      "sun": "scorpio",
+      "moon": "pisces",
+      "rising": "cancer"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Sunbeam"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Red)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Steel"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hypnotic"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ring Collar (Silver)"
+      }
+    ],
+    "hash": "8252850e4fac7faffc86b714bc5fe686f3ade449d5473eab391729d2a33db2b5"
+  }
+}

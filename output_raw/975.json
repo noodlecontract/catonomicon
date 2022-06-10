@@ -1,0 +1,160 @@
+{
+  "name": "draco",
+  "description": "You are a CAT come to life from a dream. Your form expands or shrinks to exactly fill the space you occupy. You and your WITCH share a blanket and watch the stars. Your tail is a powerful scrying tool. CHASE YOUR TAIL!",
+  "image": "https://covencats.s3.amazonaws.com/ebc87e2fa3cc62c9b5917af4665eee0fafd931514dfebe247b3c359ee59e0e83.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Sunbeam"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Floofed"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Starry Silver"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Undereye Gems (White)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Flooded Red"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aries"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 6,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 975,
+    "name": "draco",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT come to life from a dream.",
+      "magic": "Your form expands or shrinks to exactly fill the space you occupy.",
+      "acts_of_service": "You and your WITCH share a blanket and watch the stars.",
+      "belonging": "Your tail is a powerful scrying tool.",
+      "meow": "CHASE YOUR TAIL!"
+    },
+    "skills": {
+      "caprice": 6,
+      "caution": 6,
+      "catastrophe": 0,
+      "curiosity": 9,
+      "charisma": 8,
+      "cunning": 6
+    },
+    "birth_chart": {
+      "sun": "scorpio",
+      "moon": "virgo",
+      "rising": "aries"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Sunbeam"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Starry Silver"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Undereye Gems (White)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Flooded Red"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "ebc87e2fa3cc62c9b5917af4665eee0fafd931514dfebe247b3c359ee59e0e83"
+  }
+}

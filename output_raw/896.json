@@ -1,7 +1,152 @@
 {
-  "description": "something familiar comes this way...",
+  "name": "charcoal, the somber",
+  "description": "You are a CAT woven from the petals of peonies. You are as sweet as the chord that ends a happy song. You and your WITCH bond over laser light shows. You love chasing ghost mice at the Demon Market. POUNCE!",
+  "image": "https://covencats.s3.amazonaws.com/a1300c83e876964a608a96da643fb2ca5e0f90a40f226241e9d0e17d1939b171.png",
   "external_url": "https://www.covencats.xyz/",
-  "image": "https://covencats.s3.amazonaws.com/placeholder.png",
-  "name": "CAT",
-  "attributes": []
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Ghost Mice"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Rolled"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mermaid"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Babylash"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ring Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Gemini"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 2,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 896,
+    "name": "charcoal, the somber",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT woven from the petals of peonies.",
+      "magic": "You are as sweet as the chord that ends a happy song.",
+      "acts_of_service": "You and your WITCH bond over laser light shows.",
+      "belonging": "You love chasing ghost mice at the Demon Market.",
+      "meow": "POUNCE!"
+    },
+    "skills": {
+      "caprice": 7,
+      "caution": 6,
+      "catastrophe": 9,
+      "curiosity": 7,
+      "charisma": 4,
+      "cunning": 2
+    },
+    "birth_chart": {
+      "sun": "scorpio",
+      "moon": "scorpio",
+      "rising": "gemini"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Ghost Mice"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mermaid"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Babylash"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ring Collar (Silver)"
+      }
+    ],
+    "hash": "a1300c83e876964a608a96da643fb2ca5e0f90a40f226241e9d0e17d1939b171"
+  }
 }

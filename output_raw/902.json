@@ -1,0 +1,176 @@
+{
+  "name": "merkle, the inquisitive",
+  "description": "You are a CAT who is also a loaf. You hallucinate on mushrooms and talk with your past lives. You and your WITCH bond over laser light shows. Your best naps are taken inside structures that are perfect isosceles triangles. READ THE STARS!",
+  "image": "https://covencats.s3.amazonaws.com/618d81a9ba68ea3c1af63d72119531f8b6a929083f5293bb6da24ccaa86ed3a1.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Blue)"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "Scripted Mage Aura (Green)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Mage Script Serpent (Gold)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Smudged"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Bat Wings"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Leo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 6,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 902,
+    "name": "merkle, the inquisitive",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT who is also a loaf.",
+      "magic": "You hallucinate on mushrooms and talk with your past lives.",
+      "acts_of_service": "You and your WITCH bond over laser light shows.",
+      "belonging": "Your best naps are taken inside structures that are perfect isosceles triangles.",
+      "meow": "READ THE STARS!"
+    },
+    "skills": {
+      "caprice": 5,
+      "caution": 8,
+      "catastrophe": 8,
+      "curiosity": 6,
+      "charisma": 6,
+      "cunning": 6
+    },
+    "birth_chart": {
+      "sun": "virgo",
+      "moon": "gemini",
+      "rising": "leo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Blue)"
+      },
+      {
+        "trait_type": "Aura",
+        "value": "Scripted Mage Aura (Green)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Mage Script Serpent (Gold)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Bat Wings"
+      }
+    ],
+    "hash": "618d81a9ba68ea3c1af63d72119531f8b6a929083f5293bb6da24ccaa86ed3a1"
+  }
+}

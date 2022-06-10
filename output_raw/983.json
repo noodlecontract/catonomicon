@@ -1,0 +1,152 @@
+{
+  "name": "geoffrey of osaka",
+  "description": "You are a CAT with unknown lives, born beneath an auspicious full moon. You plunge into hot baths to catch magic trapped in bubbles. You and your WITCH stay up late on full moon nights to inscribe new spells into magical tomes. You are the very definition of cat royalty. PLUNGE INTO THE DARKNESS!",
+  "image": "https://covencats.s3.amazonaws.com/1351a655a1d1e01fa0b52fb26aae88bd8d3589faab7a9ddfa45a11a1d140a94f.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Mirror"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Rolled"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mauve"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Alert"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ethereum Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aries"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 6,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 983,
+    "name": "geoffrey of osaka",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT with unknown lives, born beneath an auspicious full moon.",
+      "magic": "You plunge into hot baths to catch magic trapped in bubbles.",
+      "acts_of_service": "You and your WITCH stay up late on full moon nights to inscribe new spells into magical tomes.",
+      "belonging": "You are the very definition of cat royalty.",
+      "meow": "PLUNGE INTO THE DARKNESS!"
+    },
+    "skills": {
+      "caprice": 3,
+      "caution": 6,
+      "catastrophe": 4,
+      "curiosity": 3,
+      "charisma": 8,
+      "cunning": 6
+    },
+    "birth_chart": {
+      "sun": "scorpio",
+      "moon": "pisces",
+      "rising": "aries"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Mirror"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mauve"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Alert"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ethereum Collar"
+      }
+    ],
+    "hash": "1351a655a1d1e01fa0b52fb26aae88bd8d3589faab7a9ddfa45a11a1d140a94f"
+  }
+}

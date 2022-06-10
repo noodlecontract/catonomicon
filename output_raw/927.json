@@ -1,0 +1,160 @@
+{
+  "name": "maleficent, the spicy",
+  "description": "You are a CAT with 3 lives, born from earth once sculpted by a WITCH. You drink dew from the petals of flowers and paint your whiskers with the light of the stars. You and your WITCH bake cat-shaped treats together, which you happily devour for dinner. You steal everything that isn't nailed down and sometimes things that are. MEOW AT THE STARS!",
+  "image": "https://covencats.s3.amazonaws.com/d393096fbe81362a9cdfe24eef2140c76e01e92792e5b665df8ca0d8fa6d33c8.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Waxing Crescent"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Ram's Skull"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Floofed"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Moon Choker (Silver)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Horns of Taurus"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Pisces"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 9,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 927,
+    "name": "maleficent, the spicy",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT with 3 lives, born from earth once sculpted by a WITCH.",
+      "magic": "You drink dew from the petals of flowers and paint your whiskers with the light of the stars.",
+      "acts_of_service": "You and your WITCH bake cat-shaped treats together, which you happily devour for dinner.",
+      "belonging": "You steal everything that isn't nailed down and sometimes things that are.",
+      "meow": "MEOW AT THE STARS!"
+    },
+    "skills": {
+      "caprice": 8,
+      "caution": 5,
+      "catastrophe": 9,
+      "curiosity": 6,
+      "charisma": 1,
+      "cunning": 9
+    },
+    "birth_chart": {
+      "sun": "aries",
+      "moon": "leo",
+      "rising": "pisces"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Waxing Crescent"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Ram's Skull"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Moon Choker (Silver)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Horns of Taurus"
+      }
+    ],
+    "hash": "d393096fbe81362a9cdfe24eef2140c76e01e92792e5b665df8ca0d8fa6d33c8"
+  }
+}

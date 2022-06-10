@@ -1,0 +1,160 @@
+{
+  "name": "amaretto, the menacing trap",
+  "description": "You are a CAT who paints portraits of pineapples. You swat the snoots of nosey dogs. You grant your WITCH the gift of your attention... most days. You dance in flames and take catnaps on ice. PICK A POISON, ANY POISON!",
+  "image": "https://covencats.s3.amazonaws.com/ea0889675e2b428a22d45bd7e0f9bfe8f54a9c637ef9c015a14636c1cd8463ce.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Dragon (Black)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Floofed"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Smudged"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ring Collar (Silver)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Horns of Taurus"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aries"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 9,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 1012,
+    "name": "amaretto, the menacing trap",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT who paints portraits of pineapples.",
+      "magic": "You swat the snoots of nosey dogs.",
+      "acts_of_service": "You grant your WITCH the gift of your attention... most days.",
+      "belonging": "You dance in flames and take catnaps on ice.",
+      "meow": "PICK A POISON, ANY POISON!"
+    },
+    "skills": {
+      "caprice": 9,
+      "caution": 3,
+      "catastrophe": 9,
+      "curiosity": 8,
+      "charisma": 0,
+      "cunning": 9
+    },
+    "birth_chart": {
+      "sun": "virgo",
+      "moon": "scorpio",
+      "rising": "aries"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Taupe"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Skull"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "Dragon (Black)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ring Collar (Silver)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Horns of Taurus"
+      }
+    ],
+    "hash": "ea0889675e2b428a22d45bd7e0f9bfe8f54a9c637ef9c015a14636c1cd8463ce"
+  }
+}

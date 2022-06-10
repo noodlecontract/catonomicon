@@ -1,0 +1,144 @@
+{
+  "name": "aristotle, the shady",
+  "description": "You are a CAT made of charm and contempt. You recite poems to put your prey to sleep. You protect your WITCH from unrequited love. You are an expert in the anatomy of mackerels. CATNIP!",
+  "image": "https://covencats.s3.amazonaws.com/9a753f00d1b532f308272213f7a99e74c261ad087aebfee324873d8e6b784b95.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Books"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Moon Choker (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Gemini"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 0,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 1005,
+    "name": "aristotle, the shady",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT made of charm and contempt.",
+      "magic": "You recite poems to put your prey to sleep.",
+      "acts_of_service": "You protect your WITCH from unrequited love.",
+      "belonging": "You are an expert in the anatomy of mackerels.",
+      "meow": "CATNIP!"
+    },
+    "skills": {
+      "caprice": 5,
+      "caution": 9,
+      "catastrophe": 9,
+      "curiosity": 9,
+      "charisma": 8,
+      "cunning": 0
+    },
+    "birth_chart": {
+      "sun": "capricorn",
+      "moon": "leo",
+      "rising": "gemini"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Sea"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Books"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Hazel"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Moon Choker (Silver)"
+      }
+    ],
+    "hash": "9a753f00d1b532f308272213f7a99e74c261ad087aebfee324873d8e6b784b95"
+  }
+}

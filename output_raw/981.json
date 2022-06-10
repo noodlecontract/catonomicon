@@ -1,0 +1,176 @@
+{
+  "name": "oyster of the take-out box",
+  "description": "You are a CAT with 5 lives, found in the Taj Mahal. You plot, scheme, and craft mischievous plans to get the best pillow in the house. You protect your WITCH from tourist traps and delayed flights. You step on four-leaf clovers to make wishes. POUNCE BACKWARDS INTO THE SUN!",
+  "image": "https://covencats.s3.amazonaws.com/79aa1db80a9f375e7536f42d88ec2c08f9bd82745010be15bf0858c662d57fe9.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Cross-stitch"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Ball of Yarn and Knitting Needles"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Mark of Moon Tears (White)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Glo"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Cat Collar"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Jeweled Antlers"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Pisces"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 2,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 981,
+    "name": "oyster of the take-out box",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT with 5 lives, found in the Taj Mahal.",
+      "magic": "You plot, scheme, and craft mischievous plans to get the best pillow in the house.",
+      "acts_of_service": "You protect your WITCH from tourist traps and delayed flights.",
+      "belonging": "You step on four-leaf clovers to make wishes.",
+      "meow": "POUNCE BACKWARDS INTO THE SUN!"
+    },
+    "skills": {
+      "caprice": 7,
+      "caution": 5,
+      "catastrophe": 7,
+      "curiosity": 9,
+      "charisma": 1,
+      "cunning": 2
+    },
+    "birth_chart": {
+      "sun": "libra",
+      "moon": "scorpio",
+      "rising": "pisces"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Cross-stitch"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Ball of Yarn and Knitting Needles"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Mark of Moon Tears (White)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Glo"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Cat Collar"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Jeweled Antlers"
+      }
+    ],
+    "hash": "79aa1db80a9f375e7536f42d88ec2c08f9bd82745010be15bf0858c662d57fe9"
+  }
+}

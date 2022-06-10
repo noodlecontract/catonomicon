@@ -1,0 +1,160 @@
+{
+  "name": "macaroni of the garden",
+  "description": "You are a CAT with 16 lives, found on the streets of Mumbai. You spin on record players and meow with the music. You and your WITCH ponder the fastest ways to derail a conversation. You weave tapestries depicting your many lives. JUST EXIST!",
+  "image": "https://covencats.s3.amazonaws.com/7fafbfb87d5cfa2647b88092a78936fc39a3d98a647c3b0a8cafa502a1260e95.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Toadstool"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Lacewing"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Forehead Marking",
+      "value": "Mark of the Chained Moon (White)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Carnelian"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Scorpio"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 7,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 904,
+    "name": "macaroni of the garden",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT with 16 lives, found on the streets of Mumbai.",
+      "magic": "You spin on record players and meow with the music.",
+      "acts_of_service": "You and your WITCH ponder the fastest ways to derail a conversation.",
+      "belonging": "You weave tapestries depicting your many lives.",
+      "meow": "JUST EXIST!"
+    },
+    "skills": {
+      "caprice": 4,
+      "caution": 8,
+      "catastrophe": 4,
+      "curiosity": 7,
+      "charisma": 8,
+      "cunning": 7
+    },
+    "birth_chart": {
+      "sun": "aquarius",
+      "moon": "pisces",
+      "rising": "scorpio"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Taupe"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Toadstool"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "Lacewing"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Forehead Marking",
+        "value": "Mark of the Chained Moon (White)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Carnelian"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "7fafbfb87d5cfa2647b88092a78936fc39a3d98a647c3b0a8cafa502a1260e95"
+  }
+}

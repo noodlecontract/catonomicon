@@ -1,0 +1,144 @@
+{
+  "name": "corvus of the citrine",
+  "description": "You are a CAT who makes homes out of forgotten places. You nurture plants into the shapes of cats. You protect your WITCH from leeches, lavender, and Leos. You stay up all night watching the moon and stars travel the night sky. WHEN IN DOUBT, YOWL!",
+  "image": "https://covencats.s3.amazonaws.com/9f2ba4938fc1861a917eb57f6786e47c20747fb964d940f7beee9a6eca72d92d.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Crystal Ball"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Sage"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 1,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 921,
+    "name": "corvus of the citrine",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT who makes homes out of forgotten places.",
+      "magic": "You nurture plants into the shapes of cats.",
+      "acts_of_service": "You protect your WITCH from leeches, lavender, and Leos.",
+      "belonging": "You stay up all night watching the moon and stars travel the night sky.",
+      "meow": "WHEN IN DOUBT, YOWL!"
+    },
+    "skills": {
+      "caprice": 5,
+      "caution": 3,
+      "catastrophe": 4,
+      "curiosity": 9,
+      "charisma": 7,
+      "cunning": 1
+    },
+    "birth_chart": {
+      "sun": "sagittarius",
+      "moon": "taurus",
+      "rising": "taurus"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Crystal Ball"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Sage"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Gold"
+      }
+    ],
+    "hash": "9f2ba4938fc1861a917eb57f6786e47c20747fb964d940f7beee9a6eca72d92d"
+  }
+}

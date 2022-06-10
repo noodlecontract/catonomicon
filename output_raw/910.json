@@ -1,0 +1,144 @@
+{
+  "name": "juliet, the romantic",
+  "description": "You are a CAT who paints portraits of pineapples. Your fur is a map of the night sky. You and your WITCH enjoy the finer things in life. You charm your way into the most exclusive clubs. PURR YOUR WAY TO HEAVEN!",
+  "image": "https://covencats.s3.amazonaws.com/61a61d918ce6a2f0ae69c9d28268e1c37f34b8884dbdb0480bc6ddea3894127f.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Pillow (Cream)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Steel"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Simple Circlet (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Virgo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 9,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 910,
+    "name": "juliet, the romantic",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT who paints portraits of pineapples.",
+      "magic": "Your fur is a map of the night sky.",
+      "acts_of_service": "You and your WITCH enjoy the finer things in life.",
+      "belonging": "You charm your way into the most exclusive clubs.",
+      "meow": "PURR YOUR WAY TO HEAVEN!"
+    },
+    "skills": {
+      "caprice": 9,
+      "caution": 5,
+      "catastrophe": 0,
+      "curiosity": 5,
+      "charisma": 4,
+      "cunning": 9
+    },
+    "birth_chart": {
+      "sun": "aquarius",
+      "moon": "capricorn",
+      "rising": "virgo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Pillow (Cream)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Steel"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Hazel"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Simple Circlet (Silver)"
+      }
+    ],
+    "hash": "61a61d918ce6a2f0ae69c9d28268e1c37f34b8884dbdb0480bc6ddea3894127f"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "name": "ikat, the silent",
+  "description": "You are a CAT feared by dogs the land over. You cast spells with a swish of your tail. You protect your WITCH from unrequited love. You summon spirits to play with you on the full moon. BE STILL!",
+  "image": "https://covencats.s3.amazonaws.com/e66e520e2e675ef7284813057b47e2dbed1695824ce7b690bfde3e334d52827c.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Gramophone"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Libra"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 6,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 925,
+    "name": "ikat, the silent",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT feared by dogs the land over.",
+      "magic": "You cast spells with a swish of your tail.",
+      "acts_of_service": "You protect your WITCH from unrequited love.",
+      "belonging": "You summon spirits to play with you on the full moon.",
+      "meow": "BE STILL!"
+    },
+    "skills": {
+      "caprice": 5,
+      "caution": 5,
+      "catastrophe": 7,
+      "curiosity": 7,
+      "charisma": 2,
+      "cunning": 6
+    },
+    "birth_chart": {
+      "sun": "libra",
+      "moon": "leo",
+      "rising": "libra"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Gramophone"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Lilac"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "e66e520e2e675ef7284813057b47e2dbed1695824ce7b690bfde3e334d52827c"
+  }
+}

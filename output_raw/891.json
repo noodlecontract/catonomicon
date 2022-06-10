@@ -1,7 +1,160 @@
 {
-  "description": "something familiar comes this way...",
+  "name": "rigatoni of the keyboard",
+  "description": "You are a CAT who tangoes with your prey. You scratch the sofa, the curtains, and the bed to express your love (and ownership of this house). You protect your WITCH from chaos, candles, and Capricorns. You smell like lavender and salmon--the very best combination of smells, in your opinion. MEOW AT THE STARS!",
+  "image": "https://covencats.s3.amazonaws.com/350bddf1deefd7bed878b0fe488c16838de4645929a862a560b2b3b8828a90be.png",
   "external_url": "https://www.covencats.xyz/",
-  "image": "https://covencats.s3.amazonaws.com/placeholder.png",
-  "name": "CAT",
-  "attributes": []
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Basket of Yarn"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Broom"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Ball of Yarn (Blue)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Folded"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Fish Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Capricorn"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 2,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 891,
+    "name": "rigatoni of the keyboard",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT who tangoes with your prey.",
+      "magic": "You scratch the sofa, the curtains, and the bed to express your love (and ownership of this house).",
+      "acts_of_service": "You protect your WITCH from chaos, candles, and Capricorns.",
+      "belonging": "You smell like lavender and salmon--the very best combination of smells, in your opinion.",
+      "meow": "MEOW AT THE STARS!"
+    },
+    "skills": {
+      "caprice": 6,
+      "caution": 9,
+      "catastrophe": 2,
+      "curiosity": 4,
+      "charisma": 2,
+      "cunning": 2
+    },
+    "birth_chart": {
+      "sun": "virgo",
+      "moon": "aquarius",
+      "rising": "capricorn"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Basket of Yarn"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Broom"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Ball of Yarn (Blue)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Folded"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Lilac"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Fish Collar"
+      }
+    ],
+    "hash": "350bddf1deefd7bed878b0fe488c16838de4645929a862a560b2b3b8828a90be"
+  }
 }

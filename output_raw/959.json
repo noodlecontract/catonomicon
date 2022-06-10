@@ -1,0 +1,144 @@
+{
+  "name": "sphinx rin",
+  "description": "You are a CAT with 6 lives, born from the pounce of a jaguar in the middle of the night. Your claws are dipped in the venom of a spiteful spirit. You and your WITCH share a hot bowl of soup together on the coldest day of the year. You help lost souls cross over the planes of the living to the dead. FEED ME!",
+  "image": "https://covencats.s3.amazonaws.com/a63e715fdc39b7f3de5586d7599fc11ed21c147563db01ff0cfc0f3e391266a3.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Bag of Salt"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Bumblebees"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Carnelian"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 1,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 959,
+    "name": "sphinx rin",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT with 6 lives, born from the pounce of a jaguar in the middle of the night.",
+      "magic": "Your claws are dipped in the venom of a spiteful spirit.",
+      "acts_of_service": "You and your WITCH share a hot bowl of soup together on the coldest day of the year.",
+      "belonging": "You help lost souls cross over the planes of the living to the dead.",
+      "meow": "FEED ME!"
+    },
+    "skills": {
+      "caprice": 6,
+      "caution": 6,
+      "catastrophe": 4,
+      "curiosity": 7,
+      "charisma": 5,
+      "cunning": 1
+    },
+    "birth_chart": {
+      "sun": "leo",
+      "moon": "cancer",
+      "rising": "sagittarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Bag of Salt"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Bumblebees"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Carnelian"
+      }
+    ],
+    "hash": "a63e715fdc39b7f3de5586d7599fc11ed21c147563db01ff0cfc0f3e391266a3"
+  }
+}

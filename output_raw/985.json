@@ -1,0 +1,152 @@
+{
+  "name": "butterscotch of the take-out box",
+  "description": "You are a CAT who thrives in obscurity and grey areas. You transfer energy with a high-pitched yowl. You and your WITCH adopt abandoned animals and nurse them back to health. You nibble on the arugula from your WITCH's greenest salads. HOLD YOUR TONGUE!",
+  "image": "https://covencats.s3.amazonaws.com/21b7de14fce16f08c349ecf45f9eae8acb05e04a3ce107d9fb78f2554911e983.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Easel"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Paintbrushes"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Folded"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Alert"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Leo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 2,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 985,
+    "name": "butterscotch of the take-out box",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT who thrives in obscurity and grey areas.",
+      "magic": "You transfer energy with a high-pitched yowl.",
+      "acts_of_service": "You and your WITCH adopt abandoned animals and nurse them back to health.",
+      "belonging": "You nibble on the arugula from your WITCH's greenest salads.",
+      "meow": "HOLD YOUR TONGUE!"
+    },
+    "skills": {
+      "caprice": 7,
+      "caution": 8,
+      "catastrophe": 8,
+      "curiosity": 8,
+      "charisma": 8,
+      "cunning": 2
+    },
+    "birth_chart": {
+      "sun": "gemini",
+      "moon": "cancer",
+      "rising": "leo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Easel"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Paintbrushes"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Folded"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Alert"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      }
+    ],
+    "hash": "21b7de14fce16f08c349ecf45f9eae8acb05e04a3ce107d9fb78f2554911e983"
+  }
+}

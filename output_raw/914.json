@@ -1,0 +1,160 @@
+{
+  "name": "angy omori",
+  "description": "You are a CAT who tangoes with your prey. Everywhere you go, you leave a trail of stories behind you. You attend sound baths with your WITCH and bask in the songs of sirens. You embrace chaos like a long lost love. DANCE TO THE MUSIC!",
+  "image": "https://covencats.s3.amazonaws.com/f028a05966ddc848df5f45cc03f4e6c01aa2ba6b301763e1acf40fa695e4b503.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Ram's Skull"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Dragon (Ethereum)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Floofed"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Grumpy Ash"
+    },
+    {
+      "trait_type": "Forehead Marking",
+      "value": "Darkened Demon Third Eye (Sapphire)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Smudged"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Fish Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 3,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 914,
+    "name": "angy omori",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT who tangoes with your prey.",
+      "magic": "Everywhere you go, you leave a trail of stories behind you.",
+      "acts_of_service": "You attend sound baths with your WITCH and bask in the songs of sirens.",
+      "belonging": "You embrace chaos like a long lost love.",
+      "meow": "DANCE TO THE MUSIC!"
+    },
+    "skills": {
+      "caprice": 1,
+      "caution": 2,
+      "catastrophe": 8,
+      "curiosity": 3,
+      "charisma": 4,
+      "cunning": 3
+    },
+    "birth_chart": {
+      "sun": "taurus",
+      "moon": "virgo",
+      "rising": "taurus"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Ram's Skull"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "Dragon (Ethereum)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Grumpy Ash"
+      },
+      {
+        "trait_type": "Forehead Marking",
+        "value": "Darkened Demon Third Eye (Sapphire)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Fish Collar"
+      }
+    ],
+    "hash": "f028a05966ddc848df5f45cc03f4e6c01aa2ba6b301763e1acf40fa695e4b503"
+  }
+}

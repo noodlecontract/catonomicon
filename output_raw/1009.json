@@ -1,0 +1,168 @@
+{
+  "name": "cascabella, the yowl",
+  "description": "You are a CAT with more ears than the eye can see. Your tail always points true north. You grant your WITCH the gift of your attention... most days. You whisper demonic meows into the ears of sleeping humans. AHAHAHAHA... I WIN!",
+  "image": "https://covencats.s3.amazonaws.com/5e7c155f7907a3361dce34f540659cb3694a961d56b4499234ddedb63dd6ee6e.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Crescent Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Green)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Glo"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ring Collar (Silver)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Horns of Taurus"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Leo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 9,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 1009,
+    "name": "cascabella, the yowl",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT with more ears than the eye can see.",
+      "magic": "Your tail always points true north.",
+      "acts_of_service": "You grant your WITCH the gift of your attention... most days.",
+      "belonging": "You whisper demonic meows into the ears of sleeping humans.",
+      "meow": "AHAHAHAHA... I WIN!"
+    },
+    "skills": {
+      "caprice": 5,
+      "caution": 8,
+      "catastrophe": 7,
+      "curiosity": 5,
+      "charisma": 7,
+      "cunning": 9
+    },
+    "birth_chart": {
+      "sun": "aries",
+      "moon": "leo",
+      "rising": "leo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Crescent Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Skull"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Green)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Glo"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ring Collar (Silver)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Horns of Taurus"
+      }
+    ],
+    "hash": "5e7c155f7907a3361dce34f540659cb3694a961d56b4499234ddedb63dd6ee6e"
+  }
+}

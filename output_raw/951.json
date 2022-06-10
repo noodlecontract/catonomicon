@@ -1,0 +1,160 @@
+{
+  "name": "rocotillo",
+  "description": "You are a CAT who sleeps on yarn. You scare away enemies with a bat of your eyes. You cherish your WITCH like you would the rarest gem. You steal the hats of people walking by. FEED ME!",
+  "image": "https://covencats.s3.amazonaws.com/303cc2024ab64173abf5573bb458b2edc17a464a40ee90991d4b1090577a05f0.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Ram's Skull"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Bumblebees"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mauve"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Darkened Demon Bloom"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Glo"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ring Collar (Silver)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Bat Wings"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Libra"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 6,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 951,
+    "name": "rocotillo",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT who sleeps on yarn.",
+      "magic": "You scare away enemies with a bat of your eyes.",
+      "acts_of_service": "You cherish your WITCH like you would the rarest gem.",
+      "belonging": "You steal the hats of people walking by.",
+      "meow": "FEED ME!"
+    },
+    "skills": {
+      "caprice": 8,
+      "caution": 7,
+      "catastrophe": 9,
+      "curiosity": 2,
+      "charisma": 8,
+      "cunning": 6
+    },
+    "birth_chart": {
+      "sun": "libra",
+      "moon": "aquarius",
+      "rising": "libra"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Ram's Skull"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Bumblebees"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mauve"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Darkened Demon Bloom"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Glo"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ring Collar (Silver)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Bat Wings"
+      }
+    ],
+    "hash": "303cc2024ab64173abf5573bb458b2edc17a464a40ee90991d4b1090577a05f0"
+  }
+}

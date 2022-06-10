@@ -1,7 +1,136 @@
 {
-  "description": "something familiar comes this way...",
+  "name": "patchouli, the guide",
+  "description": "You are a CAT with one too many lives, born amid the restless slumbers of a WITCH. Your wisdom comes from saucers of milk and the smell of ancient books. You and your WITCH bond over hot goss. You take naps on the bridge between life and death. PURR A LULLABY!",
+  "image": "https://covencats.s3.amazonaws.com/f12338063fc044a5cd7684e4749c7b05c1989657971a94cdacc66982a28526ea.png",
   "external_url": "https://www.covencats.xyz/",
-  "image": "https://covencats.s3.amazonaws.com/placeholder.png",
-  "name": "CAT",
-  "attributes": []
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Tombstone"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Rolled"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Pisces"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 8,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 892,
+    "name": "patchouli, the guide",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT with one too many lives, born amid the restless slumbers of a WITCH.",
+      "magic": "Your wisdom comes from saucers of milk and the smell of ancient books.",
+      "acts_of_service": "You and your WITCH bond over hot goss.",
+      "belonging": "You take naps on the bridge between life and death.",
+      "meow": "PURR A LULLABY!"
+    },
+    "skills": {
+      "caprice": 3,
+      "caution": 9,
+      "catastrophe": 3,
+      "curiosity": 1,
+      "charisma": 8,
+      "cunning": 8
+    },
+    "birth_chart": {
+      "sun": "capricorn",
+      "moon": "libra",
+      "rising": "pisces"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Tombstone"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Hazel"
+      }
+    ],
+    "hash": "f12338063fc044a5cd7684e4749c7b05c1989657971a94cdacc66982a28526ea"
+  }
 }

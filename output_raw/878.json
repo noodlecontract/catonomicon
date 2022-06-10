@@ -1,7 +1,152 @@
 {
-  "description": "something familiar comes this way...",
+  "name": "fondue",
+  "description": "You are a CAT who yowls under the new moon. You scare away enemies with a bat of your eyes. You remind your WITCH to touch grass. The scent of fresh fish and catnip makes you purr loudly. OY VEY!",
+  "image": "https://covencats.s3.amazonaws.com/1f46a5431ec0093c8930021084226d076a5f6e3d3d33857ab92ae84d19f646b9.png",
   "external_url": "https://www.covencats.xyz/",
-  "image": "https://covencats.s3.amazonaws.com/placeholder.png",
-  "name": "CAT",
-  "attributes": []
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Toadstool"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Folded"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Starry Cyan"
+    },
+    {
+      "trait_type": "Forehead Marking",
+      "value": "Star Mark (White)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Fish Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 4,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 878,
+    "name": "fondue",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT who yowls under the new moon.",
+      "magic": "You scare away enemies with a bat of your eyes.",
+      "acts_of_service": "You remind your WITCH to touch grass.",
+      "belonging": "The scent of fresh fish and catnip makes you purr loudly.",
+      "meow": "OY VEY!"
+    },
+    "skills": {
+      "caprice": 0,
+      "caution": 9,
+      "catastrophe": 5,
+      "curiosity": 9,
+      "charisma": 6,
+      "cunning": 4
+    },
+    "birth_chart": {
+      "sun": "taurus",
+      "moon": "virgo",
+      "rising": "taurus"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Taupe"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Toadstool"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Folded"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Starry Cyan"
+      },
+      {
+        "trait_type": "Forehead Marking",
+        "value": "Star Mark (White)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Hazel"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Fish Collar"
+      }
+    ],
+    "hash": "1f46a5431ec0093c8930021084226d076a5f6e3d3d33857ab92ae84d19f646b9"
+  }
 }

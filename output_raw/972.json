@@ -1,0 +1,168 @@
+{
+  "name": "tempo, the startling",
+  "description": "You are a CAT made from fallen dragon scales. You can leap to the top of the Tower in a single bound. You and your WITCH love brisk walks through the Woods. You tell stories of your conquests, and none can tell the difference between truth and fiction. FEED ME!",
+  "image": "https://covencats.s3.amazonaws.com/8ada4c07b1832fd011e7112d577c3763ac1c5cdafd1be7c7560bb0fb2cb533c8.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Butterfly"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Pillow (Cream)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Crown of Pearls"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Rolled"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Steel"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Sad Girl Tears"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 7,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 972,
+    "name": "tempo, the startling",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT made from fallen dragon scales.",
+      "magic": "You can leap to the top of the Tower in a single bound.",
+      "acts_of_service": "You and your WITCH love brisk walks through the Woods.",
+      "belonging": "You tell stories of your conquests, and none can tell the difference between truth and fiction.",
+      "meow": "FEED ME!"
+    },
+    "skills": {
+      "caprice": 4,
+      "caution": 7,
+      "catastrophe": 7,
+      "curiosity": 5,
+      "charisma": 9,
+      "cunning": 7
+    },
+    "birth_chart": {
+      "sun": "leo",
+      "moon": "pisces",
+      "rising": "sagittarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Butterfly"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Pillow (Cream)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Crown of Pearls"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Steel"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      },
+      {
+        "trait_type": "Facewear",
+        "value": "Sad Girl Tears"
+      }
+    ],
+    "hash": "8ada4c07b1832fd011e7112d577c3763ac1c5cdafd1be7c7560bb0fb2cb533c8"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "name": "caipiroska, the chaotic",
+  "description": "You are a CAT with unknown lives, born beneath an auspicious full moon. You drink dew from the petals of flowers and paint your whiskers with the light of the stars. You and your WITCH find doppelgangers across the Weird Wilds and beyond. Your sharp claws carve hexes into people's souls. BE STILL; BE FREE; BE MINE!",
+  "image": "https://covencats.s3.amazonaws.com/c288035a0ae169a83ca3bcaae269a04bf8d9d2deefe5896855aa612cfce45227.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Ram's Skull"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Spiderwebs (Skull)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mermaid"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Fish Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 8,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 1004,
+    "name": "caipiroska, the chaotic",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT with unknown lives, born beneath an auspicious full moon.",
+      "magic": "You drink dew from the petals of flowers and paint your whiskers with the light of the stars.",
+      "acts_of_service": "You and your WITCH find doppelgangers across the Weird Wilds and beyond.",
+      "belonging": "Your sharp claws carve hexes into people's souls.",
+      "meow": "BE STILL; BE FREE; BE MINE!"
+    },
+    "skills": {
+      "caprice": 7,
+      "caution": 7,
+      "catastrophe": 6,
+      "curiosity": 4,
+      "charisma": 0,
+      "cunning": 8
+    },
+    "birth_chart": {
+      "sun": "pisces",
+      "moon": "pisces",
+      "rising": "sagittarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Ram's Skull"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Spiderwebs (Skull)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mermaid"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Fish Collar"
+      }
+    ],
+    "hash": "c288035a0ae169a83ca3bcaae269a04bf8d9d2deefe5896855aa612cfce45227"
+  }
+}

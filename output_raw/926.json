@@ -1,0 +1,160 @@
+{
+  "name": "allegro of cairo",
+  "description": "You are a CAT who tracks down WITCHES in the Weird Wilds. Your paws hide multitudes of wisdom and... almonds. You protect your WITCH from unrequited love. In a room full of CATS, you are the one who stands out most. YOWL AT LUNA!",
+  "image": "https://covencats.s3.amazonaws.com/6309d30c7ae252ecc98bdcce1d343b38cafe090fca3cf47d5558b29fbd1f81e7.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Mirror"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Apothecary Jars (Starlight, Dewdrops, ETH)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mermaid"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Bicolor Blue Gold"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Hoodlondon Hathor (Gold)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 8,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 926,
+    "name": "allegro of cairo",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT who tracks down WITCHES in the Weird Wilds.",
+      "magic": "Your paws hide multitudes of wisdom and... almonds.",
+      "acts_of_service": "You protect your WITCH from unrequited love.",
+      "belonging": "In a room full of CATS, you are the one who stands out most.",
+      "meow": "YOWL AT LUNA!"
+    },
+    "skills": {
+      "caprice": 6,
+      "caution": 5,
+      "catastrophe": 4,
+      "curiosity": 3,
+      "charisma": 7,
+      "cunning": 8
+    },
+    "birth_chart": {
+      "sun": "gemini",
+      "moon": "cancer",
+      "rising": "taurus"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Mirror"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Apothecary Jars (Starlight, Dewdrops, ETH)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mermaid"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Bicolor Blue Gold"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Hoodlondon Hathor (Gold)"
+      }
+    ],
+    "hash": "6309d30c7ae252ecc98bdcce1d343b38cafe090fca3cf47d5558b29fbd1f81e7"
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "name": "bread of the brewery",
+  "description": "You are a CAT who speaks in haikus. You craft carafes and cups out of clay. You and your WITCH create moodboards for every occasion. You share bread with Aradia and meow to the tune of her soundscapes. IT'S TIME TO SWIPE AT BIRDS!",
+  "image": "https://covencats.s3.amazonaws.com/6261a69a5d786650c6e97cdbd0fdcb213a50d3df26bab5fd4cf6080221312805.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Moths"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Lucky Cat"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Alert"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Jeweled Antlers"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aquarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 2,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 998,
+    "name": "bread of the brewery",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT who speaks in haikus.",
+      "magic": "You craft carafes and cups out of clay.",
+      "acts_of_service": "You and your WITCH create moodboards for every occasion.",
+      "belonging": "You share bread with Aradia and meow to the tune of her soundscapes.",
+      "meow": "IT'S TIME TO SWIPE AT BIRDS!"
+    },
+    "skills": {
+      "caprice": 7,
+      "caution": 9,
+      "catastrophe": 3,
+      "curiosity": 9,
+      "charisma": 4,
+      "cunning": 2
+    },
+    "birth_chart": {
+      "sun": "sagittarius",
+      "moon": "gemini",
+      "rising": "aquarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Moths"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Lucky Cat"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Alert"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Jeweled Antlers"
+      }
+    ],
+    "hash": "6261a69a5d786650c6e97cdbd0fdcb213a50d3df26bab5fd4cf6080221312805"
+  }
+}

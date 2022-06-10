@@ -1,0 +1,176 @@
+{
+  "name": "blazar, the nightmare",
+  "description": "You are a CAT with 3 lives, born from earth once sculpted by a WITCH. You are grumpy, jumpy, and dumpy. You protect your WITCH from unrequited love. You summon chaos from the seventh circle of hell. SWISH, SWISH, SWISH!",
+  "image": "https://covencats.s3.amazonaws.com/a7be02d80e2c799171ebefc00a72249f82457b3b541268ba630574371f56e559.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Cross-stitch"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Apothecary Jars (Limes, Forgotten Kisses, Screams)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Claw Marked (Blue)"
+    },
+    {
+      "trait_type": "Forehead Marking",
+      "value": "Darkened Demon Third Eye (Ruby)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Smudged"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Fish Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Leo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 6,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 979,
+    "name": "blazar, the nightmare",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT with 3 lives, born from earth once sculpted by a WITCH.",
+      "magic": "You are grumpy, jumpy, and dumpy.",
+      "acts_of_service": "You protect your WITCH from unrequited love.",
+      "belonging": "You summon chaos from the seventh circle of hell.",
+      "meow": "SWISH, SWISH, SWISH!"
+    },
+    "skills": {
+      "caprice": 6,
+      "caution": 1,
+      "catastrophe": 5,
+      "curiosity": 1,
+      "charisma": 2,
+      "cunning": 6
+    },
+    "birth_chart": {
+      "sun": "leo",
+      "moon": "gemini",
+      "rising": "leo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Cross-stitch"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Apothecary Jars (Limes, Forgotten Kisses, Screams)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Claw Marked (Blue)"
+      },
+      {
+        "trait_type": "Forehead Marking",
+        "value": "Darkened Demon Third Eye (Ruby)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Fish Collar"
+      }
+    ],
+    "hash": "a7be02d80e2c799171ebefc00a72249f82457b3b541268ba630574371f56e559"
+  }
+}

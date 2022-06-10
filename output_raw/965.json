@@ -1,0 +1,152 @@
+{
+  "name": "carme of the monastery",
+  "description": "You are a CAT who solves riddles for prizes. Your whiskers detect lies and fool's gold. You and your WITCH bond over a mutual respect for Beyonce. You divine what will happen by licking spilt milk off the floor. IT'S TIME TO TEND TO THE CHICKEN COOP!",
+  "image": "https://covencats.s3.amazonaws.com/a27fc1edca2a3cc3b2b5d0697e1eca69c1c9386d28e2f410119fb085ac25eaa5.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Green)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Willow the Gentle"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hypnotic"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Blindfold (Aquamarine)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Capricorn"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 3,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 965,
+    "name": "carme of the monastery",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT who solves riddles for prizes.",
+      "magic": "Your whiskers detect lies and fool's gold.",
+      "acts_of_service": "You and your WITCH bond over a mutual respect for Beyonce.",
+      "belonging": "You divine what will happen by licking spilt milk off the floor.",
+      "meow": "IT'S TIME TO TEND TO THE CHICKEN COOP!"
+    },
+    "skills": {
+      "caprice": 8,
+      "caution": 9,
+      "catastrophe": 4,
+      "curiosity": 2,
+      "charisma": 2,
+      "cunning": 3
+    },
+    "birth_chart": {
+      "sun": "sagittarius",
+      "moon": "cancer",
+      "rising": "capricorn"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Sea"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Green)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Willow the Gentle"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hypnotic"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Facewear",
+        "value": "Blindfold (Aquamarine)"
+      }
+    ],
+    "hash": "a27fc1edca2a3cc3b2b5d0697e1eca69c1c9386d28e2f410119fb085ac25eaa5"
+  }
+}

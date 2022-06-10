@@ -1,0 +1,160 @@
+{
+  "name": "tremolo of osaka",
+  "description": "You are a CAT who sleeps on bags of chips. You change furs whenever you desire. You and your WITCH meet under the stars at the end of a long day. Your whiskers have inspired many a great thinker. TO THE MOON!",
+  "image": "https://covencats.s3.amazonaws.com/13be1c82812db2708f4f3fdb6a8b5e6e1e7f812b405b8e277915e7947837eb88.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Mirror"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Coven No.666 Perfume"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Floofed"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Babylash"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Collar of Pearls"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Gemini"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 4,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 944,
+    "name": "tremolo of osaka",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT who sleeps on bags of chips.",
+      "magic": "You change furs whenever you desire.",
+      "acts_of_service": "You and your WITCH meet under the stars at the end of a long day.",
+      "belonging": "Your whiskers have inspired many a great thinker.",
+      "meow": "TO THE MOON!"
+    },
+    "skills": {
+      "caprice": 9,
+      "caution": 8,
+      "catastrophe": 3,
+      "curiosity": 7,
+      "charisma": 8,
+      "cunning": 4
+    },
+    "birth_chart": {
+      "sun": "leo",
+      "moon": "taurus",
+      "rising": "gemini"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Mirror"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Coven No.666 Perfume"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Babylash"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Collar of Pearls"
+      }
+    ],
+    "hash": "13be1c82812db2708f4f3fdb6a8b5e6e1e7f812b405b8e277915e7947837eb88"
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "name": "skelly, the chaotic",
+  "description": "You are a CAT drenched in fire. You cut down trees with a swipe of your claw. You and your WITCH bond over a mutual respect for Beyonce. Your sharp claws carve hexes into people's souls. WALK IN SHADOWS!",
+  "image": "https://covencats.s3.amazonaws.com/1b59145feb681b433ff424d729cedd0f1648fc7caac9bfef4e4bd60200cc7177.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Full Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Ram's Skull"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Dragon (Black)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sphynx"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hypnotic"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ring Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Capricorn"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 3,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 933,
+    "name": "skelly, the chaotic",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT drenched in fire.",
+      "magic": "You cut down trees with a swipe of your claw.",
+      "acts_of_service": "You and your WITCH bond over a mutual respect for Beyonce.",
+      "belonging": "Your sharp claws carve hexes into people's souls.",
+      "meow": "WALK IN SHADOWS!"
+    },
+    "skills": {
+      "caprice": 1,
+      "caution": 7,
+      "catastrophe": 5,
+      "curiosity": 8,
+      "charisma": 6,
+      "cunning": 3
+    },
+    "birth_chart": {
+      "sun": "leo",
+      "moon": "scorpio",
+      "rising": "capricorn"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Taupe"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Full Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Ram's Skull"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "Dragon (Black)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sphynx"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hypnotic"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ring Collar (Silver)"
+      }
+    ],
+    "hash": "1b59145feb681b433ff424d729cedd0f1648fc7caac9bfef4e4bd60200cc7177"
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "name": "titan dawn",
+  "description": "You are a CAT woven from the petals of peonies. You investigate all mice and spend your days scrutinising their habits and appetites. You and your WITCH bond over bright copper kettles. Your tail is a powerful scrying tool. POUNCE BACKWARDS INTO THE SUN!",
+  "image": "https://covencats.s3.amazonaws.com/310e5686e1fb8a6c1539dffd0fdbb91811166de12e215578b55c88560479244f.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Spiderwebs (Ethereum)"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Green)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Flooded Gold"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Piercing Choker (Blue)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Leo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 6,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 1007,
+    "name": "titan dawn",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT woven from the petals of peonies.",
+      "magic": "You investigate all mice and spend your days scrutinising their habits and appetites.",
+      "acts_of_service": "You and your WITCH bond over bright copper kettles.",
+      "belonging": "Your tail is a powerful scrying tool.",
+      "meow": "POUNCE BACKWARDS INTO THE SUN!"
+    },
+    "skills": {
+      "caprice": 9,
+      "caution": 4,
+      "catastrophe": 1,
+      "curiosity": 9,
+      "charisma": 1,
+      "cunning": 6
+    },
+    "birth_chart": {
+      "sun": "aries",
+      "moon": "taurus",
+      "rising": "leo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Spiderwebs (Ethereum)"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Green)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Flooded Gold"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Piercing Choker (Blue)"
+      }
+    ],
+    "hash": "310e5686e1fb8a6c1539dffd0fdbb91811166de12e215578b55c88560479244f"
+  }
+}

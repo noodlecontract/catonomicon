@@ -1,0 +1,160 @@
+{
+  "name": "butterscotch of the shire",
+  "description": "You are a CAT forged from death. You eat endless amounts of lasagna. You and your WITCH share a common enemy. Birds ask for your fur to create elaborate nests. MOVE FAST OR GET OUT OF THE WAY!",
+  "image": "https://covencats.s3.amazonaws.com/6f5c2346359ad3578321cbe900c0998486da4b52a9db61c0e4d53cbd7201668d.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Broom"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Bag of Salt"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mauve"
+    },
+    {
+      "trait_type": "Forehead Marking",
+      "value": "Mark of the Chained Moon (White)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Bicolor Pink Turquoise"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 3,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 906,
+    "name": "butterscotch of the shire",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT forged from death.",
+      "magic": "You eat endless amounts of lasagna.",
+      "acts_of_service": "You and your WITCH share a common enemy.",
+      "belonging": "Birds ask for your fur to create elaborate nests.",
+      "meow": "MOVE FAST OR GET OUT OF THE WAY!"
+    },
+    "skills": {
+      "caprice": 0,
+      "caution": 4,
+      "catastrophe": 2,
+      "curiosity": 6,
+      "charisma": 4,
+      "cunning": 3
+    },
+    "birth_chart": {
+      "sun": "leo",
+      "moon": "leo",
+      "rising": "sagittarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Taupe"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Broom"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Bag of Salt"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mauve"
+      },
+      {
+        "trait_type": "Forehead Marking",
+        "value": "Mark of the Chained Moon (White)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Bicolor Pink Turquoise"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      }
+    ],
+    "hash": "6f5c2346359ad3578321cbe900c0998486da4b52a9db61c0e4d53cbd7201668d"
+  }
+}

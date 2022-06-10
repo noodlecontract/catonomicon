@@ -1,7 +1,152 @@
 {
-  "description": "something familiar comes this way...",
+  "name": "uranium myth",
+  "description": "You are a CAT who loves dumplings and grandmas. Your purrs cast spells of slumber, suspending minds in nightmares and dreams. You watch over your WITCH's potions. You make sure all the stars are in their correct places each night. MAKE WAY!",
+  "image": "https://covencats.s3.amazonaws.com/d6fb7a314a18ff98e3d15a16d19fd011967c43b5093b7e82c670e96607642c59.png",
   "external_url": "https://www.covencats.xyz/",
-  "image": "https://covencats.s3.amazonaws.com/placeholder.png",
-  "name": "CAT",
-  "attributes": []
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "Scripted Mage Aura (Green)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 5,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 886,
+    "name": "uranium myth",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT who loves dumplings and grandmas.",
+      "magic": "Your purrs cast spells of slumber, suspending minds in nightmares and dreams.",
+      "acts_of_service": "You watch over your WITCH's potions.",
+      "belonging": "You make sure all the stars are in their correct places each night.",
+      "meow": "MAKE WAY!"
+    },
+    "skills": {
+      "caprice": 8,
+      "caution": 2,
+      "catastrophe": 8,
+      "curiosity": 9,
+      "charisma": 0,
+      "cunning": 5
+    },
+    "birth_chart": {
+      "sun": "sagittarius",
+      "moon": "capricorn",
+      "rising": "taurus"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Aura",
+        "value": "Scripted Mage Aura (Green)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Navy"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Lilac"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      }
+    ],
+    "hash": "d6fb7a314a18ff98e3d15a16d19fd011967c43b5093b7e82c670e96607642c59"
+  }
 }

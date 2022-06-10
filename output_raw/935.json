@@ -1,0 +1,168 @@
+{
+  "name": "hangry",
+  "description": "You are a CAT with 3 lives, born from earth once sculpted by a WITCH. You craft carafes and cups out of clay. You remind your WITCH to take deep breaths and drink water. You summon chaos from the seventh circle of hell. PLUNGE INTO THE COLD WATER!",
+  "image": "https://covencats.s3.amazonaws.com/fa1bfa2be3f1e23811f5b6e3fc398bde20c18c226a522a19112a375db504230d.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Crescent Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (White)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mermaid"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Inscribed Demon Bloom"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Moon Choker (Silver)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Flame Horns"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 3,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 935,
+    "name": "hangry",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT with 3 lives, born from earth once sculpted by a WITCH.",
+      "magic": "You craft carafes and cups out of clay.",
+      "acts_of_service": "You remind your WITCH to take deep breaths and drink water.",
+      "belonging": "You summon chaos from the seventh circle of hell.",
+      "meow": "PLUNGE INTO THE COLD WATER!"
+    },
+    "skills": {
+      "caprice": 8,
+      "caution": 7,
+      "catastrophe": 8,
+      "curiosity": 3,
+      "charisma": 8,
+      "cunning": 3
+    },
+    "birth_chart": {
+      "sun": "sagittarius",
+      "moon": "aries",
+      "rising": "sagittarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Crescent Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Skull"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (White)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mermaid"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Inscribed Demon Bloom"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Moon Choker (Silver)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Flame Horns"
+      }
+    ],
+    "hash": "fa1bfa2be3f1e23811f5b6e3fc398bde20c18c226a522a19112a375db504230d"
+  }
+}

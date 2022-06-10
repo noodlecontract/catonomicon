@@ -1,0 +1,168 @@
+{
+  "name": "ginger morte",
+  "description": "You are a CAT who tells no lies. You snuggle close to the fireplace and dream of epic adventures. You win your WITCH's affection by warming their feet and soothing their pains. Your best naps happen in a bed of dying flowers. STEAL THE TUNA!",
+  "image": "https://covencats.s3.amazonaws.com/f00d90302b705e2adc8a0cee58c81df78fc9b77f45a5a03f77015082779c5f59.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Spiderwebs (Skull)"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Black)"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Creepy Yeha Pearls"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Smudged"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Virgo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 5,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 909,
+    "name": "ginger morte",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT who tells no lies.",
+      "magic": "You snuggle close to the fireplace and dream of epic adventures.",
+      "acts_of_service": "You win your WITCH's affection by warming their feet and soothing their pains.",
+      "belonging": "Your best naps happen in a bed of dying flowers.",
+      "meow": "STEAL THE TUNA!"
+    },
+    "skills": {
+      "caprice": 8,
+      "caution": 9,
+      "catastrophe": 3,
+      "curiosity": 5,
+      "charisma": 2,
+      "cunning": 5
+    },
+    "birth_chart": {
+      "sun": "gemini",
+      "moon": "gemini",
+      "rising": "virgo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Taupe"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Spiderwebs (Skull)"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Black)"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Creepy Yeha Pearls"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "f00d90302b705e2adc8a0cee58c81df78fc9b77f45a5a03f77015082779c5f59"
+  }
+}

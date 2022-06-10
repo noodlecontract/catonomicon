@@ -1,0 +1,152 @@
+{
+  "name": "amaranth phantasm",
+  "description": "You are a CAT who unravels yarn. You jump from kitchen table to counter to cabinet top in a blink of an eye. You win your WITCH's affection by warming their feet and soothing their pains. You can hear the spectral whisper of a thing long passed. IT'S TIME TO EAT!",
+  "image": "https://covencats.s3.amazonaws.com/45bb281439bb94e6633f070f7d0f60c3dfc367ce505d914f730fd2ec44fe0776.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Bag of Salt"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Maleficent Horns"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aries"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 6,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 995,
+    "name": "amaranth phantasm",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT who unravels yarn.",
+      "magic": "You jump from kitchen table to counter to cabinet top in a blink of an eye.",
+      "acts_of_service": "You win your WITCH's affection by warming their feet and soothing their pains.",
+      "belonging": "You can hear the spectral whisper of a thing long passed.",
+      "meow": "IT'S TIME TO EAT!"
+    },
+    "skills": {
+      "caprice": 5,
+      "caution": 3,
+      "catastrophe": 8,
+      "curiosity": 1,
+      "charisma": 8,
+      "cunning": 6
+    },
+    "birth_chart": {
+      "sun": "pisces",
+      "moon": "cancer",
+      "rising": "aries"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Bag of Salt"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Hazel"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Maleficent Horns"
+      }
+    ],
+    "hash": "45bb281439bb94e6633f070f7d0f60c3dfc367ce505d914f730fd2ec44fe0776"
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "name": "gentle lilikoi",
+  "description": "You are a CAT made of catnip. You are as sweet as the chord that ends a happy song. You and your WITCH stay up late on full moon nights to inscribe new spells into magical tomes. Birds ask for your fur to create elaborate nests. WIGGLE YOUR BUTT!",
+  "image": "https://covencats.s3.amazonaws.com/20b1a0642843d806887eaa7e937e871e1cdd0317b35b79418581688f312a6609.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Sunbeam"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Easel"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Paintbrushes"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Folded"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Babylash"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Gemini"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 7,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 982,
+    "name": "gentle lilikoi",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT made of catnip.",
+      "magic": "You are as sweet as the chord that ends a happy song.",
+      "acts_of_service": "You and your WITCH stay up late on full moon nights to inscribe new spells into magical tomes.",
+      "belonging": "Birds ask for your fur to create elaborate nests.",
+      "meow": "WIGGLE YOUR BUTT!"
+    },
+    "skills": {
+      "caprice": 6,
+      "caution": 8,
+      "catastrophe": 7,
+      "curiosity": 6,
+      "charisma": 7,
+      "cunning": 7
+    },
+    "birth_chart": {
+      "sun": "aquarius",
+      "moon": "capricorn",
+      "rising": "gemini"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Sunbeam"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Easel"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Paintbrushes"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Folded"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lilac"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Babylash"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      }
+    ],
+    "hash": "20b1a0642843d806887eaa7e937e871e1cdd0317b35b79418581688f312a6609"
+  }
+}

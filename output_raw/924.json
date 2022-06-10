@@ -1,0 +1,168 @@
+{
+  "name": "spruce rin",
+  "description": "You are a CAT feared by dogs the land over. You demand watercress, arugula, and wild spinach year-round to appease your discerning palate. You and your WITCH find doppelgangers across the Weird Wilds and beyond. You take naps on the bridge between life and death. STEAL THE TUNA!",
+  "image": "https://covencats.s3.amazonaws.com/08bdb4efef038b9cea50714427df9d22f56e71b89c4f168dbfd10a1c272ad0f6.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Bumblebees"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Black)"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Creepy Yeha Pearls"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Brown Bengal"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Vivetta Paw Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Pisces"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 3,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 924,
+    "name": "spruce rin",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT feared by dogs the land over.",
+      "magic": "You demand watercress, arugula, and wild spinach year-round to appease your discerning palate.",
+      "acts_of_service": "You and your WITCH find doppelgangers across the Weird Wilds and beyond.",
+      "belonging": "You take naps on the bridge between life and death.",
+      "meow": "STEAL THE TUNA!"
+    },
+    "skills": {
+      "caprice": 8,
+      "caution": 4,
+      "catastrophe": 5,
+      "curiosity": 1,
+      "charisma": 6,
+      "cunning": 3
+    },
+    "birth_chart": {
+      "sun": "taurus",
+      "moon": "pisces",
+      "rising": "pisces"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Bumblebees"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Black)"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Creepy Yeha Pearls"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Brown Bengal"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Amber"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Vivetta Paw Collar"
+      }
+    ],
+    "hash": "08bdb4efef038b9cea50714427df9d22f56e71b89c4f168dbfd10a1c272ad0f6"
+  }
+}

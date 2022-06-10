@@ -1,0 +1,160 @@
+{
+  "name": "quasar, the chaos",
+  "description": "You are a CAT with 16 lives, found on the streets of Mumbai. You walk like a crab, back arched and fur spiked, to chase away your enemies. You gift your WITCH rats, bugs, and twigs. Your unpredictability makes all others tremble in fear. BASK IN SUNLIGHT!",
+  "image": "https://covencats.s3.amazonaws.com/272a3932a328613644c3caa1cacd4b1f6f05de49704ede099e82fcd1a73d62fd.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Apothecary Jars (Forgotten Kisses, Limes, Dragon Scales)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ring Collar (Silver)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Horns of Taurus"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Pisces"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 8,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 915,
+    "name": "quasar, the chaos",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT with 16 lives, found on the streets of Mumbai.",
+      "magic": "You walk like a crab, back arched and fur spiked, to chase away your enemies.",
+      "acts_of_service": "You gift your WITCH rats, bugs, and twigs.",
+      "belonging": "Your unpredictability makes all others tremble in fear.",
+      "meow": "BASK IN SUNLIGHT!"
+    },
+    "skills": {
+      "caprice": 5,
+      "caution": 3,
+      "catastrophe": 4,
+      "curiosity": 6,
+      "charisma": 4,
+      "cunning": 8
+    },
+    "birth_chart": {
+      "sun": "aries",
+      "moon": "pisces",
+      "rising": "pisces"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Apothecary Jars (Forgotten Kisses, Limes, Dragon Scales)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ring Collar (Silver)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Horns of Taurus"
+      }
+    ],
+    "hash": "272a3932a328613644c3caa1cacd4b1f6f05de49704ede099e82fcd1a73d62fd"
+  }
+}

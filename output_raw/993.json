@@ -1,0 +1,160 @@
+{
+  "name": "mica, the sword",
+  "description": "You are a CAT come to life from a potion. You steep your paws in moonlight and color your claws with the dust trails of comets. You and your WITCH share a love story started by catnip. You craft potions of tuna to turn your enemies into lost dogs. SCRATCH THE POST!",
+  "image": "https://covencats.s3.amazonaws.com/313d4f5d1b612824975737bf19957028f2aa93d2438415632c47e9a649b9ad4a.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Mirror"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Silver)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Smudged"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Cancer"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 0,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 993,
+    "name": "mica, the sword",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT come to life from a potion.",
+      "magic": "You steep your paws in moonlight and color your claws with the dust trails of comets.",
+      "acts_of_service": "You and your WITCH share a love story started by catnip.",
+      "belonging": "You craft potions of tuna to turn your enemies into lost dogs.",
+      "meow": "SCRATCH THE POST!"
+    },
+    "skills": {
+      "caprice": 8,
+      "caution": 8,
+      "catastrophe": 3,
+      "curiosity": 8,
+      "charisma": 4,
+      "cunning": 0
+    },
+    "birth_chart": {
+      "sun": "capricorn",
+      "moon": "aquarius",
+      "rising": "cancer"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Mirror"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Silver)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lilac"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      }
+    ],
+    "hash": "313d4f5d1b612824975737bf19957028f2aa93d2438415632c47e9a649b9ad4a"
+  }
+}

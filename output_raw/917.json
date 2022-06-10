@@ -1,0 +1,152 @@
+{
+  "name": "dewey, the honest",
+  "description": "You are a CAT who cracks cases at the Weird Wilds Detective Agency. Your catnaps are the topic of fables told across the Weird Wilds. You protect your WITCH from enemies by purring so loudly their heads spin. You wrote the book on the best way to live 9 lives. FATE IS NOTHING BUT A PLAYTHING!",
+  "image": "https://covencats.s3.amazonaws.com/4b4e9f53fb7b144a0a07f9ad4dce7659e69e7602d7b0389786950894066bb9b3.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Primordial Ooze"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "Scripted Mage Aura (Gold)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Smudged"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Moon Choker (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aquarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 7,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 917,
+    "name": "dewey, the honest",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT who cracks cases at the Weird Wilds Detective Agency.",
+      "magic": "Your catnaps are the topic of fables told across the Weird Wilds.",
+      "acts_of_service": "You protect your WITCH from enemies by purring so loudly their heads spin.",
+      "belonging": "You wrote the book on the best way to live 9 lives.",
+      "meow": "FATE IS NOTHING BUT A PLAYTHING!"
+    },
+    "skills": {
+      "caprice": 0,
+      "caution": 9,
+      "catastrophe": 9,
+      "curiosity": 9,
+      "charisma": 3,
+      "cunning": 7
+    },
+    "birth_chart": {
+      "sun": "capricorn",
+      "moon": "leo",
+      "rising": "aquarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Primordial Ooze"
+      },
+      {
+        "trait_type": "Aura",
+        "value": "Scripted Mage Aura (Gold)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Navy"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Moon Choker (Silver)"
+      }
+    ],
+    "hash": "4b4e9f53fb7b144a0a07f9ad4dce7659e69e7602d7b0389786950894066bb9b3"
+  }
+}

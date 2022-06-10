@@ -1,0 +1,152 @@
+{
+  "name": "nostradamus of the opal",
+  "description": "You are a CAT who solves riddles for prizes. You weave tapestries with your tail. You and your WITCH enjoy boba and bubble baths. Your favorite fish lives inside a WITCH's crystal ball. MEOW AT THE SUN!",
+  "image": "https://covencats.s3.amazonaws.com/3867d4cca77449900e8cb2a12da831553b428db531ea33050604d593ee57e48f.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Sunbeam"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Genie Lamp (Purple)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mermaid"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Alert"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Piercing Choker (Purple)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aquarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 7,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 1002,
+    "name": "nostradamus of the opal",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT who solves riddles for prizes.",
+      "magic": "You weave tapestries with your tail.",
+      "acts_of_service": "You and your WITCH enjoy boba and bubble baths.",
+      "belonging": "Your favorite fish lives inside a WITCH's crystal ball.",
+      "meow": "MEOW AT THE SUN!"
+    },
+    "skills": {
+      "caprice": 9,
+      "caution": 9,
+      "catastrophe": 7,
+      "curiosity": 5,
+      "charisma": 2,
+      "cunning": 7
+    },
+    "birth_chart": {
+      "sun": "taurus",
+      "moon": "scorpio",
+      "rising": "aquarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Sunbeam"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Genie Lamp (Purple)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mermaid"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Alert"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Piercing Choker (Purple)"
+      }
+    ],
+    "hash": "3867d4cca77449900e8cb2a12da831553b428db531ea33050604d593ee57e48f"
+  }
+}

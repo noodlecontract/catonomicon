@@ -1,0 +1,152 @@
+{
+  "name": "moloch, the menacing trap",
+  "description": "You are a CAT summoned from a failed transaction. You dream of all-you-can-eat salmon buffets. You and your WITCH share a love story started by catnip. You delight in the dark tones of terror. LET THEM EAT CAKE!",
+  "image": "https://covencats.s3.amazonaws.com/ecef8f3a54febfed187b4617256b30d501a515fe5b6fdfdfcac43482e8598832.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Apothecary Jars (Starlight, Screams)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Floofed"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Grumpy Mermaid"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Reverse Cateye"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Glo"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Horns of Taurus"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aquarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 5,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 937,
+    "name": "moloch, the menacing trap",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT summoned from a failed transaction.",
+      "magic": "You dream of all-you-can-eat salmon buffets.",
+      "acts_of_service": "You and your WITCH share a love story started by catnip.",
+      "belonging": "You delight in the dark tones of terror.",
+      "meow": "LET THEM EAT CAKE!"
+    },
+    "skills": {
+      "caprice": 7,
+      "caution": 8,
+      "catastrophe": 3,
+      "curiosity": 4,
+      "charisma": 2,
+      "cunning": 5
+    },
+    "birth_chart": {
+      "sun": "pisces",
+      "moon": "taurus",
+      "rising": "aquarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Apothecary Jars (Starlight, Screams)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Grumpy Mermaid"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Reverse Cateye"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Glo"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Horns of Taurus"
+      }
+    ],
+    "hash": "ecef8f3a54febfed187b4617256b30d501a515fe5b6fdfdfcac43482e8598832"
+  }
+}

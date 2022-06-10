@@ -1,0 +1,160 @@
+{
+  "name": "rho lovecraft",
+  "description": "You are a CAT who swats at flies and stares down dogs. You conduct orchestras of singing birds and croaking frogs. You and your WITCH share the spotlight in a Broadway show. You can read and write in hieroglyphics. LIVE EACH LIFE AS IF YOU HAVE ONLY ONE!",
+  "image": "https://covencats.s3.amazonaws.com/27671be009ee74dd3801ce7b5b77c89646a6e29517e8912197adf8ceea7b50dd.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Crescent Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Grimoires"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Mage Script Serpent (Gold)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Moon Choker (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Scorpio"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 5,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 957,
+    "name": "rho lovecraft",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT who swats at flies and stares down dogs.",
+      "magic": "You conduct orchestras of singing birds and croaking frogs.",
+      "acts_of_service": "You and your WITCH share the spotlight in a Broadway show.",
+      "belonging": "You can read and write in hieroglyphics.",
+      "meow": "LIVE EACH LIFE AS IF YOU HAVE ONLY ONE!"
+    },
+    "skills": {
+      "caprice": 0,
+      "caution": 9,
+      "catastrophe": 9,
+      "curiosity": 4,
+      "charisma": 3,
+      "cunning": 5
+    },
+    "birth_chart": {
+      "sun": "capricorn",
+      "moon": "pisces",
+      "rising": "scorpio"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Crescent Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Grimoires"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Mage Script Serpent (Gold)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Hazel"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Moon Choker (Silver)"
+      }
+    ],
+    "hash": "27671be009ee74dd3801ce7b5b77c89646a6e29517e8912197adf8ceea7b50dd"
+  }
+}

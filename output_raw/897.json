@@ -1,7 +1,144 @@
 {
-  "description": "something familiar comes this way...",
+  "name": "melody wigglesworth",
+  "description": "You are a CAT who yowls under the new moon. Your purrs inspire composers to craft the most beautiful symphonies. You and your WITCH create bouquets with wilted, wild flowers. You refuse all but the most luxurious of scratching posts. BOW BEFORE ME!",
+  "image": "https://covencats.s3.amazonaws.com/9791bba4a6f014cdb82300072942042167335243a4457e1fbe88489e56d840b3.png",
   "external_url": "https://www.covencats.xyz/",
-  "image": "https://covencats.s3.amazonaws.com/placeholder.png",
-  "name": "CAT",
-  "attributes": []
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Moths"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Pillow (Cream)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 6,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 897,
+    "name": "melody wigglesworth",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT who yowls under the new moon.",
+      "magic": "Your purrs inspire composers to craft the most beautiful symphonies.",
+      "acts_of_service": "You and your WITCH create bouquets with wilted, wild flowers.",
+      "belonging": "You refuse all but the most luxurious of scratching posts.",
+      "meow": "BOW BEFORE ME!"
+    },
+    "skills": {
+      "caprice": 8,
+      "caution": 5,
+      "catastrophe": 5,
+      "curiosity": 2,
+      "charisma": 9,
+      "cunning": 6
+    },
+    "birth_chart": {
+      "sun": "taurus",
+      "moon": "sagittarius",
+      "rising": "taurus"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Taupe"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Moths"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Pillow (Cream)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Hazel"
+      }
+    ],
+    "hash": "9791bba4a6f014cdb82300072942042167335243a4457e1fbe88489e56d840b3"
+  }
 }

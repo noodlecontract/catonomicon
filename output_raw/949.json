@@ -1,0 +1,144 @@
+{
+  "name": "piri piri, the bounce",
+  "description": "You are a CAT made of bread, noodles, and rice. You herd corgis in your sleep. You and your WITCH share a special language. You play with Xuannu's code until it's utterly tangled in void function calls and false variables. FLOURISH MY FRIEND!",
+  "image": "https://covencats.s3.amazonaws.com/ab5c9ca115ebf201569374b608a14a8ef259e0a2d0c11a3b8f5dcd966781a7c2.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Ram's Skull"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sphynx"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Reverse Cateye"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Glo"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ring Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Pisces"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 5,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 949,
+    "name": "piri piri, the bounce",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT made of bread, noodles, and rice.",
+      "magic": "You herd corgis in your sleep.",
+      "acts_of_service": "You and your WITCH share a special language.",
+      "belonging": "You play with Xuannu's code until it's utterly tangled in void function calls and false variables.",
+      "meow": "FLOURISH MY FRIEND!"
+    },
+    "skills": {
+      "caprice": 1,
+      "caution": 2,
+      "catastrophe": 9,
+      "curiosity": 2,
+      "charisma": 0,
+      "cunning": 5
+    },
+    "birth_chart": {
+      "sun": "libra",
+      "moon": "cancer",
+      "rising": "pisces"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Ram's Skull"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sphynx"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lilac"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Reverse Cateye"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Glo"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ring Collar (Silver)"
+      }
+    ],
+    "hash": "ab5c9ca115ebf201569374b608a14a8ef259e0a2d0c11a3b8f5dcd966781a7c2"
+  }
+}

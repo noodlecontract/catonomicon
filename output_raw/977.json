@@ -1,0 +1,160 @@
+{
+  "name": "saffron, the somber",
+  "description": "You are a CAT who claws at imposters. Your yowls touch unreachable worlds and send tremors across the Weird Wilds. You and your WITCH are gonna make it. You capture the last breaths of the dying and use them to hone your deepest meows. YOWL AT LUNA!",
+  "image": "https://covencats.s3.amazonaws.com/25883db362d43ed4ead5ad05b18f220e773743f01a31e4cdad18aed8a66ba2c3.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Mirror"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (White)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Calico Mirror"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Carnelian"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Leo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 5,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 977,
+    "name": "saffron, the somber",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT who claws at imposters.",
+      "magic": "Your yowls touch unreachable worlds and send tremors across the Weird Wilds.",
+      "acts_of_service": "You and your WITCH are gonna make it.",
+      "belonging": "You capture the last breaths of the dying and use them to hone your deepest meows.",
+      "meow": "YOWL AT LUNA!"
+    },
+    "skills": {
+      "caprice": 0,
+      "caution": 7,
+      "catastrophe": 5,
+      "curiosity": 3,
+      "charisma": 2,
+      "cunning": 5
+    },
+    "birth_chart": {
+      "sun": "taurus",
+      "moon": "scorpio",
+      "rising": "leo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Mirror"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (White)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Calico Mirror"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Carnelian"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "25883db362d43ed4ead5ad05b18f220e773743f01a31e4cdad18aed8a66ba2c3"
+  }
+}

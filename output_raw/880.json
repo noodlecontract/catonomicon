@@ -1,7 +1,152 @@
 {
-  "description": "something familiar comes this way...",
+  "name": "californium potter",
+  "description": "You are a CAT with infinite lives, born clinging to the highest branch in the Woods. Your claws are as sharp as blades. You protect your WITCH from leeches, lavender, and Leos. You are an expert in the anatomy of mackerels. TAKE A NAP!",
+  "image": "https://covencats.s3.amazonaws.com/df443d5361234d2d56cae3e81f4f57093dff832924e0d72407c9bfa8db00832a.png",
   "external_url": "https://www.covencats.xyz/",
-  "image": "https://covencats.s3.amazonaws.com/placeholder.png",
-  "name": "CAT",
-  "attributes": []
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Blue)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Calico Mirror"
+    },
+    {
+      "trait_type": "Forehead Marking",
+      "value": "Mage Mark Moon (Blue)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Smudged"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Scorpio"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 2,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 880,
+    "name": "californium potter",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT with infinite lives, born clinging to the highest branch in the Woods.",
+      "magic": "Your claws are as sharp as blades.",
+      "acts_of_service": "You protect your WITCH from leeches, lavender, and Leos.",
+      "belonging": "You are an expert in the anatomy of mackerels.",
+      "meow": "TAKE A NAP!"
+    },
+    "skills": {
+      "caprice": 5,
+      "caution": 9,
+      "catastrophe": 4,
+      "curiosity": 9,
+      "charisma": 6,
+      "cunning": 2
+    },
+    "birth_chart": {
+      "sun": "taurus",
+      "moon": "scorpio",
+      "rising": "scorpio"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Blue)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Calico Mirror"
+      },
+      {
+        "trait_type": "Forehead Marking",
+        "value": "Mage Mark Moon (Blue)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Gold"
+      }
+    ],
+    "hash": "df443d5361234d2d56cae3e81f4f57093dff832924e0d72407c9bfa8db00832a"
+  }
 }

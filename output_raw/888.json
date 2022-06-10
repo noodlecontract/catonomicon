@@ -1,7 +1,160 @@
 {
-  "description": "something familiar comes this way...",
+  "name": "spike, the sneak",
+  "description": "You are a CAT who tangoes with your prey. You sniff out the ripest fruit. You and your WITCH make wishes on dandelion fluff. You dance among flames without a care in the world. BOOP, BOOP, BOOP!",
+  "image": "https://covencats.s3.amazonaws.com/0cafa1dc9c21869524aa04e535194f79cf28ef3927539ed1982b1471cb161945.png",
   "external_url": "https://www.covencats.xyz/",
-  "image": "https://covencats.s3.amazonaws.com/placeholder.png",
-  "name": "CAT",
-  "attributes": []
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Apothecary Jars (Limes, Forgotten Kisses, Screams)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Platinum"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Sclera"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ring Collar (Silver)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Horns of Taurus"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 4,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 888,
+    "name": "spike, the sneak",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT who tangoes with your prey.",
+      "magic": "You sniff out the ripest fruit.",
+      "acts_of_service": "You and your WITCH make wishes on dandelion fluff.",
+      "belonging": "You dance among flames without a care in the world.",
+      "meow": "BOOP, BOOP, BOOP!"
+    },
+    "skills": {
+      "caprice": 2,
+      "caution": 7,
+      "catastrophe": 7,
+      "curiosity": 8,
+      "charisma": 0,
+      "cunning": 4
+    },
+    "birth_chart": {
+      "sun": "virgo",
+      "moon": "sagittarius",
+      "rising": "taurus"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Apothecary Jars (Limes, Forgotten Kisses, Screams)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Platinum"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Sclera"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ring Collar (Silver)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Horns of Taurus"
+      }
+    ],
+    "hash": "0cafa1dc9c21869524aa04e535194f79cf28ef3927539ed1982b1471cb161945"
+  }
 }

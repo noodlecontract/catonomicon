@@ -1,0 +1,160 @@
+{
+  "name": "moruga, the nightmare",
+  "description": "You are a CAT with infinite lives, found untangling threads of code left by the Void Cat. You scare away enemies with a high-pitched yowl. You rate your WITCH's outfit of the day every morning. You thrive in the heat of battle. TAKE A NAP!",
+  "image": "https://covencats.s3.amazonaws.com/35f9ddb8f96aa41acfac9bdbd07d0250a4247eb0b13bda8dcfce8718c7787a7e.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Waxing Crescent"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Ram's Skull"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Tabby"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Claw Marked (Black)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Carnelian"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Fish Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Leo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 6,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 931,
+    "name": "moruga, the nightmare",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT with infinite lives, found untangling threads of code left by the Void Cat.",
+      "magic": "You scare away enemies with a high-pitched yowl.",
+      "acts_of_service": "You rate your WITCH's outfit of the day every morning.",
+      "belonging": "You thrive in the heat of battle.",
+      "meow": "TAKE A NAP!"
+    },
+    "skills": {
+      "caprice": 5,
+      "caution": 8,
+      "catastrophe": 9,
+      "curiosity": 0,
+      "charisma": 8,
+      "cunning": 6
+    },
+    "birth_chart": {
+      "sun": "cancer",
+      "moon": "virgo",
+      "rising": "leo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Waxing Crescent"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Ram's Skull"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Tabby"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Claw Marked (Black)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Carnelian"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Fish Collar"
+      }
+    ],
+    "hash": "35f9ddb8f96aa41acfac9bdbd07d0250a4247eb0b13bda8dcfce8718c7787a7e"
+  }
+}

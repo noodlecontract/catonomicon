@@ -1,7 +1,152 @@
 {
-  "description": "something familiar comes this way...",
+  "name": "gamma austen",
+  "description": "You are a CAT who judges all who cross your path. Your fur is a map of the night sky. You remind your WITCH to take deep breaths and drink water. You research the best places to catch fish. RUN HORIZONTALLY ACROSS THE WALL!",
+  "image": "https://covencats.s3.amazonaws.com/661edb7e27d677e31f49eacda7557b9407c9f72fcac23718ed3803ff04a887ab.png",
   "external_url": "https://www.covencats.xyz/",
-  "image": "https://covencats.s3.amazonaws.com/placeholder.png",
-  "name": "CAT",
-  "attributes": []
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Apothecary Jars (Limes, Forgotten Kisses, Screams)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Steel"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Glo"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 1,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 899,
+    "name": "gamma austen",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT who judges all who cross your path.",
+      "magic": "Your fur is a map of the night sky.",
+      "acts_of_service": "You remind your WITCH to take deep breaths and drink water.",
+      "belonging": "You research the best places to catch fish.",
+      "meow": "RUN HORIZONTALLY ACROSS THE WALL!"
+    },
+    "skills": {
+      "caprice": 3,
+      "caution": 2,
+      "catastrophe": 9,
+      "curiosity": 9,
+      "charisma": 4,
+      "cunning": 1
+    },
+    "birth_chart": {
+      "sun": "capricorn",
+      "moon": "aries",
+      "rising": "sagittarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Taupe"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Apothecary Jars (Limes, Forgotten Kisses, Screams)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Steel"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Glo"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "661edb7e27d677e31f49eacda7557b9407c9f72fcac23718ed3803ff04a887ab"
+  }
 }

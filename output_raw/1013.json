@@ -1,0 +1,168 @@
+{
+  "name": "dahoma of the compost",
+  "description": "You are a CAT with 4 lives, born from a ritual of the chaos circle. You are grumpy, jumpy, and dumpy. You and your WITCH create paintings with water magic. You sit at the gates of hell and watch as kings beg for forgiveness. MOVE FAST OR GET OUT OF THE WAY!",
+  "image": "https://covencats.s3.amazonaws.com/8bcbe5a117e5e6ee96d5d950e3f961674a0bca0eec875f3f1dbfb89d882bd2d7.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Moths"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Cat Food (Salmon)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Sclera"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Maleficent Horns"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 8,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 1013,
+    "name": "dahoma of the compost",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT with 4 lives, born from a ritual of the chaos circle.",
+      "magic": "You are grumpy, jumpy, and dumpy.",
+      "acts_of_service": "You and your WITCH create paintings with water magic.",
+      "belonging": "You sit at the gates of hell and watch as kings beg for forgiveness.",
+      "meow": "MOVE FAST OR GET OUT OF THE WAY!"
+    },
+    "skills": {
+      "caprice": 8,
+      "caution": 5,
+      "catastrophe": 9,
+      "curiosity": 1,
+      "charisma": 7,
+      "cunning": 8
+    },
+    "birth_chart": {
+      "sun": "scorpio",
+      "moon": "leo",
+      "rising": "taurus"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Moths"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Cat Food (Salmon)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Sclera"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Maleficent Horns"
+      }
+    ],
+    "hash": "8bcbe5a117e5e6ee96d5d950e3f961674a0bca0eec875f3f1dbfb89d882bd2d7"
+  }
+}

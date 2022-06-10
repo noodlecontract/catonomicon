@@ -1,0 +1,160 @@
+{
+  "name": "muir, the merciless eater",
+  "description": "You are a CAT with infinite lives, born clinging to the highest branch in the Woods. You scare away enemies with a bat of your eyes. You play with your WITCH while all the other cats fight. Ghosts beg you for forgiveness. RIGHTY-O!",
+  "image": "https://covencats.s3.amazonaws.com/0d60a0c0cfec7df4003b3a13595d3bd27fea3357ae5b2092e3f05ac3d58fe05d.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Crescent Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Tombstone"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Clear Graphic"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Vivetta Paw Collar"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Horns of Taurus"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aries"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 6,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 923,
+    "name": "muir, the merciless eater",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT with infinite lives, born clinging to the highest branch in the Woods.",
+      "magic": "You scare away enemies with a bat of your eyes.",
+      "acts_of_service": "You play with your WITCH while all the other cats fight.",
+      "belonging": "Ghosts beg you for forgiveness.",
+      "meow": "RIGHTY-O!"
+    },
+    "skills": {
+      "caprice": 7,
+      "caution": 4,
+      "catastrophe": 4,
+      "curiosity": 1,
+      "charisma": 8,
+      "cunning": 6
+    },
+    "birth_chart": {
+      "sun": "leo",
+      "moon": "gemini",
+      "rising": "aries"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Crescent Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Tombstone"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Clear Graphic"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Vivetta Paw Collar"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Horns of Taurus"
+      }
+    ],
+    "hash": "0d60a0c0cfec7df4003b3a13595d3bd27fea3357ae5b2092e3f05ac3d58fe05d"
+  }
+}

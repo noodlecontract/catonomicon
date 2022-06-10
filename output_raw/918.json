@@ -1,0 +1,144 @@
+{
+  "name": "diamond",
+  "description": "You are a CAT made of matzah crumbs and shank bone. You wear witch hats and tap dance from room to room. You and your WITCH bond over brown paper packages tied up with string. You are the very definition of cat royalty. LA LUNA!",
+  "image": "https://covencats.s3.amazonaws.com/4fe584784790d6b2034b30aad755e6367dfba4c45bbc59a6f8233f00943a403b.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Rolled"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Platinum"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Collar of Pearls"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Libra"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 4,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 918,
+    "name": "diamond",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT made of matzah crumbs and shank bone.",
+      "magic": "You wear witch hats and tap dance from room to room.",
+      "acts_of_service": "You and your WITCH bond over brown paper packages tied up with string.",
+      "belonging": "You are the very definition of cat royalty.",
+      "meow": "LA LUNA!"
+    },
+    "skills": {
+      "caprice": 2,
+      "caution": 0,
+      "catastrophe": 6,
+      "curiosity": 1,
+      "charisma": 8,
+      "cunning": 4
+    },
+    "birth_chart": {
+      "sun": "sagittarius",
+      "moon": "gemini",
+      "rising": "libra"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Platinum"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Hazel"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Collar of Pearls"
+      }
+    ],
+    "hash": "4fe584784790d6b2034b30aad755e6367dfba4c45bbc59a6f8233f00943a403b"
+  }
+}

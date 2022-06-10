@@ -1,0 +1,152 @@
+{
+  "name": "teak rin",
+  "description": "You are a CAT who smirks in your sleep. You claw at wicked warts and monstrous magicians. You and your WITCH take cat naps in the sun. Your yowlings guide lost souls home. FLOURISH MY FRIEND!",
+  "image": "https://covencats.s3.amazonaws.com/380815fac9989adf4d3bf78d72f3b45223c7ff017350936ffc4dac5fbcdac5e9.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Crescent Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Tombstone"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lilac Siamese"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ring Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aquarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 0,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 987,
+    "name": "teak rin",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT who smirks in your sleep.",
+      "magic": "You claw at wicked warts and monstrous magicians.",
+      "acts_of_service": "You and your WITCH take cat naps in the sun.",
+      "belonging": "Your yowlings guide lost souls home.",
+      "meow": "FLOURISH MY FRIEND!"
+    },
+    "skills": {
+      "caprice": 5,
+      "caution": 7,
+      "catastrophe": 9,
+      "curiosity": 3,
+      "charisma": 9,
+      "cunning": 0
+    },
+    "birth_chart": {
+      "sun": "taurus",
+      "moon": "taurus",
+      "rising": "aquarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Sea"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Crescent Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Tombstone"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lilac Siamese"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Hazel"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ring Collar (Silver)"
+      }
+    ],
+    "hash": "380815fac9989adf4d3bf78d72f3b45223c7ff017350936ffc4dac5fbcdac5e9"
+  }
+}

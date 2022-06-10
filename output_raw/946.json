@@ -1,0 +1,152 @@
+{
+  "name": "khat of the carnelian",
+  "description": "You are a CAT who tells no lies. You snuggle close to the fireplace and dream of epic adventures. You and your WITCH share a common enemy. You foresee impending doom with every hair on your body. DO NOT DISTURB!",
+  "image": "https://covencats.s3.amazonaws.com/93fbf44c412083dd7a0846a5e540ace14672b4d05ad1af676a469dcaa51af2db.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Full Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Genie Lamp (Purple)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Floofed"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Liquid Metal"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Bronze"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ethereum Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Pisces"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 6,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 946,
+    "name": "khat of the carnelian",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT who tells no lies.",
+      "magic": "You snuggle close to the fireplace and dream of epic adventures.",
+      "acts_of_service": "You and your WITCH share a common enemy.",
+      "belonging": "You foresee impending doom with every hair on your body.",
+      "meow": "DO NOT DISTURB!"
+    },
+    "skills": {
+      "caprice": 9,
+      "caution": 9,
+      "catastrophe": 3,
+      "curiosity": 3,
+      "charisma": 4,
+      "cunning": 6
+    },
+    "birth_chart": {
+      "sun": "capricorn",
+      "moon": "taurus",
+      "rising": "pisces"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Full Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Genie Lamp (Purple)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Liquid Metal"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Bronze"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ethereum Collar"
+      }
+    ],
+    "hash": "93fbf44c412083dd7a0846a5e540ace14672b4d05ad1af676a469dcaa51af2db"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "name": "lucent of the shrine",
+  "description": "You are a CAT feared by dogs the land over. You conduct orchestras of singing birds and croaking frogs. You and your WITCH bond over perfectly-brewed cups of coffee. Your tail is a powerful scrying tool. FEED ME!",
+  "image": "https://covencats.s3.amazonaws.com/c443916989d8ce2ee0949bfa352b97b12ba0ea52f6e31b5fa3caf4554c484ba4.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Crystals (Amethyst)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Reverse Cateye"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Glo"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ethereum Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aries"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 8,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 1018,
+    "name": "lucent of the shrine",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT feared by dogs the land over.",
+      "magic": "You conduct orchestras of singing birds and croaking frogs.",
+      "acts_of_service": "You and your WITCH bond over perfectly-brewed cups of coffee.",
+      "belonging": "Your tail is a powerful scrying tool.",
+      "meow": "FEED ME!"
+    },
+    "skills": {
+      "caprice": 3,
+      "caution": 3,
+      "catastrophe": 2,
+      "curiosity": 7,
+      "charisma": 1,
+      "cunning": 8
+    },
+    "birth_chart": {
+      "sun": "libra",
+      "moon": "sagittarius",
+      "rising": "aries"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Sea"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Crystals (Amethyst)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Emerald"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Reverse Cateye"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Glo"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ethereum Collar"
+      }
+    ],
+    "hash": "c443916989d8ce2ee0949bfa352b97b12ba0ea52f6e31b5fa3caf4554c484ba4"
+  }
+}

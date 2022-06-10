@@ -1,0 +1,160 @@
+{
+  "name": "persephone, the dark",
+  "description": "You are a CAT made from lovingly cut fruit. You make your bed in the softest of clover fields. You and your WITCH meet under the stars at the end of a long day. You craft potions of tuna to turn your enemies into lost dogs. LEARN TO TANGO!",
+  "image": "https://covencats.s3.amazonaws.com/c1484c3d28df0abc85915650b65941cb2776807c9adc3b43d1175e2e58d81972.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Sunbeam"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Bag of Salt"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Lymantriinae Moth"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Reverse Cateye"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Glo"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ring Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Scorpio"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 0,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 974,
+    "name": "persephone, the dark",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT made from lovingly cut fruit.",
+      "magic": "You make your bed in the softest of clover fields.",
+      "acts_of_service": "You and your WITCH meet under the stars at the end of a long day.",
+      "belonging": "You craft potions of tuna to turn your enemies into lost dogs.",
+      "meow": "LEARN TO TANGO!"
+    },
+    "skills": {
+      "caprice": 6,
+      "caution": 4,
+      "catastrophe": 9,
+      "curiosity": 0,
+      "charisma": 2,
+      "cunning": 0
+    },
+    "birth_chart": {
+      "sun": "taurus",
+      "moon": "libra",
+      "rising": "scorpio"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Sunbeam"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Bag of Salt"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "Lymantriinae Moth"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Navy"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Reverse Cateye"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Glo"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ring Collar (Silver)"
+      }
+    ],
+    "hash": "c1484c3d28df0abc85915650b65941cb2776807c9adc3b43d1175e2e58d81972"
+  }
+}

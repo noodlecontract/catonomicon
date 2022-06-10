@@ -1,0 +1,168 @@
+{
+  "name": "kennedy",
+  "description": "You are a CAT who sleeps on yarn. You catch mice in your sleep. You bring your WITCH gifts of mice, birds, and fish. You gaze upon mortals from the highest point of the Tower. PURR A LULLABY!",
+  "image": "https://covencats.s3.amazonaws.com/f4db34f6eea152a441bd330ffafd2b95653c41e99e43f5cfcb8f523815f8d4e7.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Creepy Yeha Pearls"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Crown of Pearls"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Sad Girl Tears"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Cancer"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 5,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 978,
+    "name": "kennedy",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT who sleeps on yarn.",
+      "magic": "You catch mice in your sleep.",
+      "acts_of_service": "You bring your WITCH gifts of mice, birds, and fish.",
+      "belonging": "You gaze upon mortals from the highest point of the Tower.",
+      "meow": "PURR A LULLABY!"
+    },
+    "skills": {
+      "caprice": 9,
+      "caution": 7,
+      "catastrophe": 6,
+      "curiosity": 2,
+      "charisma": 5,
+      "cunning": 5
+    },
+    "birth_chart": {
+      "sun": "aries",
+      "moon": "aquarius",
+      "rising": "cancer"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Creepy Yeha Pearls"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Crown of Pearls"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Amber"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      },
+      {
+        "trait_type": "Facewear",
+        "value": "Sad Girl Tears"
+      }
+    ],
+    "hash": "f4db34f6eea152a441bd330ffafd2b95653c41e99e43f5cfcb8f523815f8d4e7"
+  }
+}

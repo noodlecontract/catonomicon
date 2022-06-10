@@ -1,0 +1,152 @@
+{
+  "name": "blazar, the unpredictable",
+  "description": "You are a CAT who claws at imposters. You change the color of your fur at will. You sleep on your WITCH's pillow at night. No one dares cross you and those that do live to regret it. WIGGLE YOUR BUTT!",
+  "image": "https://covencats.s3.amazonaws.com/b7c20f7ba27839d3848fd49f688029d052f35d7b49a461184617e121ee528389.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Broom"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Bag of Salt"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Glo"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ring Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Virgo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 5,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 1019,
+    "name": "blazar, the unpredictable",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT who claws at imposters.",
+      "magic": "You change the color of your fur at will.",
+      "acts_of_service": "You sleep on your WITCH's pillow at night.",
+      "belonging": "No one dares cross you and those that do live to regret it.",
+      "meow": "WIGGLE YOUR BUTT!"
+    },
+    "skills": {
+      "caprice": 3,
+      "caution": 3,
+      "catastrophe": 7,
+      "curiosity": 6,
+      "charisma": 6,
+      "cunning": 5
+    },
+    "birth_chart": {
+      "sun": "taurus",
+      "moon": "capricorn",
+      "rising": "virgo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Broom"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Bag of Salt"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Glo"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ring Collar (Silver)"
+      }
+    ],
+    "hash": "b7c20f7ba27839d3848fd49f688029d052f35d7b49a461184617e121ee528389"
+  }
+}

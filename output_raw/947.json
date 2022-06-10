@@ -1,0 +1,160 @@
+{
+  "name": "boron curie",
+  "description": "You are a CAT with 19 lives, found on the streets of Amsterdam. Your magic leaves the scent of roasted chicken and crispy potatoes in its wake. You and your WITCH bond over brown paper packages tied up with string. Your best naps are taken inside structures that are perfect isosceles triangles. IF IT FITS, SIT!",
+  "image": "https://covencats.s3.amazonaws.com/24a1c4d456caf9cce173d7530a6a16ed97f37e1d5847c3926205ab6fe957c8f3.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Apothecary Jars (Starlight, Dewdrops, ETH)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Platinum"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Mark of Tacolin (Silver)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Clear Graphic"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Moon Choker (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Libra"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 8,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 947,
+    "name": "boron curie",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT with 19 lives, found on the streets of Amsterdam.",
+      "magic": "Your magic leaves the scent of roasted chicken and crispy potatoes in its wake.",
+      "acts_of_service": "You and your WITCH bond over brown paper packages tied up with string.",
+      "belonging": "Your best naps are taken inside structures that are perfect isosceles triangles.",
+      "meow": "IF IT FITS, SIT!"
+    },
+    "skills": {
+      "caprice": 0,
+      "caution": 5,
+      "catastrophe": 4,
+      "curiosity": 7,
+      "charisma": 7,
+      "cunning": 8
+    },
+    "birth_chart": {
+      "sun": "aquarius",
+      "moon": "scorpio",
+      "rising": "libra"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Apothecary Jars (Starlight, Dewdrops, ETH)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Platinum"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Mark of Tacolin (Silver)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Clear Graphic"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Moon Choker (Silver)"
+      }
+    ],
+    "hash": "24a1c4d456caf9cce173d7530a6a16ed97f37e1d5847c3926205ab6fe957c8f3"
+  }
+}

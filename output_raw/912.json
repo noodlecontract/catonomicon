@@ -1,0 +1,152 @@
+{
+  "name": "hook, the boop",
+  "description": "You are a CAT made of melodies and meowing. Your form expands or shrinks to exactly fill the space you occupy. You and your WITCH bond over kittens wearing little top hats. Your eyes shine through the darkest nights. SCAMPER BACKWARDS INTO THE SUN!",
+  "image": "https://covencats.s3.amazonaws.com/9545630325b377bf2024c4817e83c13971d9f2922566710538eca2c1fcbac2f7.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Dragon (Black)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Fish Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Cancer"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 9,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 912,
+    "name": "hook, the boop",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT made of melodies and meowing.",
+      "magic": "Your form expands or shrinks to exactly fill the space you occupy.",
+      "acts_of_service": "You and your WITCH bond over kittens wearing little top hats.",
+      "belonging": "Your eyes shine through the darkest nights.",
+      "meow": "SCAMPER BACKWARDS INTO THE SUN!"
+    },
+    "skills": {
+      "caprice": 2,
+      "caution": 0,
+      "catastrophe": 8,
+      "curiosity": 0,
+      "charisma": 4,
+      "cunning": 9
+    },
+    "birth_chart": {
+      "sun": "aquarius",
+      "moon": "leo",
+      "rising": "cancer"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Sea"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "Dragon (Black)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Fish Collar"
+      }
+    ],
+    "hash": "9545630325b377bf2024c4817e83c13971d9f2922566710538eca2c1fcbac2f7"
+  }
+}

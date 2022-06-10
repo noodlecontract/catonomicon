@@ -1,7 +1,152 @@
 {
-  "description": "something familiar comes this way...",
+  "name": "sabrina le foof",
+  "description": "You are a CAT who paints portraits of pineapples. You eat endless amounts of lasagna. You and your WITCH bond over high-quality tassels. You beguile young WITCHES and toy with their hearts. BEWARE OF MICE!",
+  "image": "https://covencats.s3.amazonaws.com/13aaa64bd3f8b5e56d267c16bb85d56e5c4eb479d69ac611d958e827f8662c33.png",
   "external_url": "https://www.covencats.xyz/",
-  "image": "https://covencats.s3.amazonaws.com/placeholder.png",
-  "name": "CAT",
-  "attributes": []
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Silver)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Rolled"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Babylash"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ethereum Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Gemini"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 6,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 898,
+    "name": "sabrina le foof",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT who paints portraits of pineapples.",
+      "magic": "You eat endless amounts of lasagna.",
+      "acts_of_service": "You and your WITCH bond over high-quality tassels.",
+      "belonging": "You beguile young WITCHES and toy with their hearts.",
+      "meow": "BEWARE OF MICE!"
+    },
+    "skills": {
+      "caprice": 6,
+      "caution": 1,
+      "catastrophe": 8,
+      "curiosity": 8,
+      "charisma": 9,
+      "cunning": 6
+    },
+    "birth_chart": {
+      "sun": "leo",
+      "moon": "capricorn",
+      "rising": "gemini"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Silver)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Babylash"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ethereum Collar"
+      }
+    ],
+    "hash": "13aaa64bd3f8b5e56d267c16bb85d56e5c4eb479d69ac611d958e827f8662c33"
+  }
 }

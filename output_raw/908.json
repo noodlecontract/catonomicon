@@ -1,0 +1,160 @@
+{
+  "name": "fractal myth, the persistent",
+  "description": "You are a CAT who steals sips of small-batch craft beer. You hallucinate on mushrooms and talk with your past lives. You and your WITCH bond over California rolls. You have read the Iliad, the Odyssey, and the Aeneid in their original languages. RUN FOR THE POTION!",
+  "image": "https://covencats.s3.amazonaws.com/7705d7bf0a4b58745fc85358ff5adf002d4fde85b8b64459f3566b482155ba08.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Cat Plates"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lilac Siamese"
+    },
+    {
+      "trait_type": "Forehead Marking",
+      "value": "Mage Mark Moon (Blue)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Smudged"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 2,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 908,
+    "name": "fractal myth, the persistent",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT who steals sips of small-batch craft beer.",
+      "magic": "You hallucinate on mushrooms and talk with your past lives.",
+      "acts_of_service": "You and your WITCH bond over California rolls.",
+      "belonging": "You have read the Iliad, the Odyssey, and the Aeneid in their original languages.",
+      "meow": "RUN FOR THE POTION!"
+    },
+    "skills": {
+      "caprice": 4,
+      "caution": 2,
+      "catastrophe": 3,
+      "curiosity": 3,
+      "charisma": 0,
+      "cunning": 2
+    },
+    "birth_chart": {
+      "sun": "aries",
+      "moon": "virgo",
+      "rising": "taurus"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Cat Plates"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lilac Siamese"
+      },
+      {
+        "trait_type": "Forehead Marking",
+        "value": "Mage Mark Moon (Blue)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "7705d7bf0a4b58745fc85358ff5adf002d4fde85b8b64459f3566b482155ba08"
+  }
+}

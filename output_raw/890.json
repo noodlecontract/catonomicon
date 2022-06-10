@@ -1,7 +1,152 @@
 {
-  "description": "something familiar comes this way...",
+  "name": "arity, the clever",
+  "description": "You are a CAT who judges all who cross your path. You creep within the dreams of regents, sowing seeds of distrust and sedition. You and your WITCH stay up late on full moon nights to inscribe new spells into magical tomes. You count in prime numbers and only prime numbers. BOUNCE OFF THE WALLS!",
+  "image": "https://covencats.s3.amazonaws.com/a03f61554364f7246bdbb5b5c24678330961105d598f7fefec373b50544bcc46.png",
   "external_url": "https://www.covencats.xyz/",
-  "image": "https://covencats.s3.amazonaws.com/placeholder.png",
-  "name": "CAT",
-  "attributes": []
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Primordial Ooze"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Mage Script Melovesmealot (Green)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Alert"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Capricorn"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 2,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 890,
+    "name": "arity, the clever",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT who judges all who cross your path.",
+      "magic": "You creep within the dreams of regents, sowing seeds of distrust and sedition.",
+      "acts_of_service": "You and your WITCH stay up late on full moon nights to inscribe new spells into magical tomes.",
+      "belonging": "You count in prime numbers and only prime numbers.",
+      "meow": "BOUNCE OFF THE WALLS!"
+    },
+    "skills": {
+      "caprice": 4,
+      "caution": 9,
+      "catastrophe": 9,
+      "curiosity": 7,
+      "charisma": 7,
+      "cunning": 2
+    },
+    "birth_chart": {
+      "sun": "gemini",
+      "moon": "aquarius",
+      "rising": "capricorn"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Primordial Ooze"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Mage Script Melovesmealot (Green)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Alert"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "a03f61554364f7246bdbb5b5c24678330961105d598f7fefec373b50544bcc46"
+  }
 }

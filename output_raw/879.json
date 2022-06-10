@@ -1,7 +1,160 @@
 {
-  "description": "something familiar comes this way...",
+  "name": "gorgonzola of the winery",
+  "description": "You are a CAT who shushes everyone at the Library. You steep your paws in almond extract and hide almonds within your toes. You and your WITCH share a cozy blanket and a good book. You're famous for your award-winning mackerel pizza. DARE TO PET ME!",
+  "image": "https://covencats.s3.amazonaws.com/b2f3a52375d0c906d9bf8656390ca88c92b19b6f4c9872ea9fcd3db6d88b38ad.png",
   "external_url": "https://www.covencats.xyz/",
-  "image": "https://covencats.s3.amazonaws.com/placeholder.png",
-  "name": "CAT",
-  "attributes": []
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Basket of Yarn"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Butterfly"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Ball of Yarn (Wine)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Cat Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 3,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 879,
+    "name": "gorgonzola of the winery",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT who shushes everyone at the Library.",
+      "magic": "You steep your paws in almond extract and hide almonds within your toes.",
+      "acts_of_service": "You and your WITCH share a cozy blanket and a good book.",
+      "belonging": "You're famous for your award-winning mackerel pizza.",
+      "meow": "DARE TO PET ME!"
+    },
+    "skills": {
+      "caprice": 0,
+      "caution": 7,
+      "catastrophe": 7,
+      "curiosity": 3,
+      "charisma": 2,
+      "cunning": 3
+    },
+    "birth_chart": {
+      "sun": "libra",
+      "moon": "leo",
+      "rising": "taurus"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Basket of Yarn"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Butterfly"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Ball of Yarn (Wine)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Hazel"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Cat Collar"
+      }
+    ],
+    "hash": "b2f3a52375d0c906d9bf8656390ca88c92b19b6f4c9872ea9fcd3db6d88b38ad"
+  }
 }

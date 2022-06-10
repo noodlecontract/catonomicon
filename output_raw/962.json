@@ -1,0 +1,160 @@
+{
+  "name": "amalthea, the perceptive",
+  "description": "You are a CAT drenched in fire. You eat endless amounts of lasagna. You and your WITCH share a love language. You see mice, spiders, and days of doom. PLUNGE INTO YOUR DREAMS!",
+  "image": "https://covencats.s3.amazonaws.com/cc529fd3c71a6b0edc656399b0ff2ee2de31087050a3c243ba87aebe63093838.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Moths"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Genie Lamp (Pearl)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Glo"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Rope Third Eye (Green)"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Eyepatch (Gold)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Virgo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 3,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 962,
+    "name": "amalthea, the perceptive",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT drenched in fire.",
+      "magic": "You eat endless amounts of lasagna.",
+      "acts_of_service": "You and your WITCH share a love language.",
+      "belonging": "You see mice, spiders, and days of doom.",
+      "meow": "PLUNGE INTO YOUR DREAMS!"
+    },
+    "skills": {
+      "caprice": 2,
+      "caution": 3,
+      "catastrophe": 8,
+      "curiosity": 7,
+      "charisma": 7,
+      "cunning": 3
+    },
+    "birth_chart": {
+      "sun": "cancer",
+      "moon": "taurus",
+      "rising": "virgo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Moths"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Genie Lamp (Pearl)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Glo"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Rope Third Eye (Green)"
+      },
+      {
+        "trait_type": "Facewear",
+        "value": "Eyepatch (Gold)"
+      }
+    ],
+    "hash": "cc529fd3c71a6b0edc656399b0ff2ee2de31087050a3c243ba87aebe63093838"
+  }
+}

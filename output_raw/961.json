@@ -1,0 +1,160 @@
+{
+  "name": "paisley izanami",
+  "description": "You are a CAT who cracks cases at the Weird Wilds Detective Agency. You herd children to and fro. You and your WITCH make wishes on dandelion fluff. Even the strongest poisons have no effect on you. MEOWZEL TOV!",
+  "image": "https://covencats.s3.amazonaws.com/664aa15e56a52c4359e691312fe5974c5e4659a3b50a9248e04dc0fbe860f3c2.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Waxing Crescent"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Tombstone"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Clear Graphic"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Horns of Taurus"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Libra"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 1,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 961,
+    "name": "paisley izanami",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT who cracks cases at the Weird Wilds Detective Agency.",
+      "magic": "You herd children to and fro.",
+      "acts_of_service": "You and your WITCH make wishes on dandelion fluff.",
+      "belonging": "Even the strongest poisons have no effect on you.",
+      "meow": "MEOWZEL TOV!"
+    },
+    "skills": {
+      "caprice": 6,
+      "caution": 5,
+      "catastrophe": 9,
+      "curiosity": 2,
+      "charisma": 3,
+      "cunning": 1
+    },
+    "birth_chart": {
+      "sun": "capricorn",
+      "moon": "gemini",
+      "rising": "libra"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Waxing Crescent"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Tombstone"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Clear Graphic"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Horns of Taurus"
+      }
+    ],
+    "hash": "664aa15e56a52c4359e691312fe5974c5e4659a3b50a9248e04dc0fbe860f3c2"
+  }
+}

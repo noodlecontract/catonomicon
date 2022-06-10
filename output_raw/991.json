@@ -1,0 +1,168 @@
+{
+  "name": "volcano, the devious trap",
+  "description": "You are a CAT who speaks in haikus. You dance between the lines of sheet music, whirl around the notes. You and your WITCH make potions from the morning dew. You delight in everlasting flames. IT'S TIME TO PLAY!",
+  "image": "https://covencats.s3.amazonaws.com/7aa0c8a7426ffb8a2bccef6d2e7a7ba91d057695cb4f0c3e3114f3237fa97ec7.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Sunbeam"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Dragon (Ethereum)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Alert"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ring Collar (Silver)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Horns of Taurus"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aquarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 5,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 991,
+    "name": "volcano, the devious trap",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT who speaks in haikus.",
+      "magic": "You dance between the lines of sheet music, whirl around the notes.",
+      "acts_of_service": "You and your WITCH make potions from the morning dew.",
+      "belonging": "You delight in everlasting flames.",
+      "meow": "IT'S TIME TO PLAY!"
+    },
+    "skills": {
+      "caprice": 9,
+      "caution": 4,
+      "catastrophe": 6,
+      "curiosity": 1,
+      "charisma": 0,
+      "cunning": 5
+    },
+    "birth_chart": {
+      "sun": "sagittarius",
+      "moon": "aries",
+      "rising": "aquarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Sunbeam"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "Dragon (Ethereum)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Alert"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ring Collar (Silver)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Horns of Taurus"
+      }
+    ],
+    "hash": "7aa0c8a7426ffb8a2bccef6d2e7a7ba91d057695cb4f0c3e3114f3237fa97ec7"
+  }
+}

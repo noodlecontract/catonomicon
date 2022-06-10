@@ -1,0 +1,152 @@
+{
+  "name": "phobos bubble",
+  "description": "You are a CAT who swats at flies and stares down dogs. You crab walk on sofas and run horizontally across walls. You and your WITCH are gonna make it. You predict the tarot cards your WITCH pulls. HOLD YOUR TONGUE!",
+  "image": "https://covencats.s3.amazonaws.com/6ff4b16c69e23e8945768ddd3b7fd90a508f8adaa42ff2c37335addc73f3ca09.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Crystals (Amethyst)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Eyepatch (Black)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Virgo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 8,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 1003,
+    "name": "phobos bubble",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT who swats at flies and stares down dogs.",
+      "magic": "You crab walk on sofas and run horizontally across walls.",
+      "acts_of_service": "You and your WITCH are gonna make it.",
+      "belonging": "You predict the tarot cards your WITCH pulls.",
+      "meow": "HOLD YOUR TONGUE!"
+    },
+    "skills": {
+      "caprice": 9,
+      "caution": 3,
+      "catastrophe": 7,
+      "curiosity": 7,
+      "charisma": 4,
+      "cunning": 8
+    },
+    "birth_chart": {
+      "sun": "taurus",
+      "moon": "aquarius",
+      "rising": "virgo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Crystals (Amethyst)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Emerald"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Amber"
+      },
+      {
+        "trait_type": "Facewear",
+        "value": "Eyepatch (Black)"
+      }
+    ],
+    "hash": "6ff4b16c69e23e8945768ddd3b7fd90a508f8adaa42ff2c37335addc73f3ca09"
+  }
+}

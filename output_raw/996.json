@@ -1,0 +1,160 @@
+{
+  "name": "manganese kafka",
+  "description": "You are a CAT with 14 lives, found in Zagreb. Your fur is a constellation of stars. You provoke your WITCH just because you can. You can recite the entire works of Homer in Greek. MAKE BISCUITS!",
+  "image": "https://covencats.s3.amazonaws.com/27bb288e9a5827cd76deb17e5b072b18661ab2d9fe09177c12c39ae2bc3a579c.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Primordial Ooze"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Forehead Marking",
+      "value": "Mage Mark Moon (Blue)"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Mark of Tacolin (Silver)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Virgo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 8,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 996,
+    "name": "manganese kafka",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT with 14 lives, found in Zagreb.",
+      "magic": "Your fur is a constellation of stars.",
+      "acts_of_service": "You provoke your WITCH just because you can.",
+      "belonging": "You can recite the entire works of Homer in Greek.",
+      "meow": "MAKE BISCUITS!"
+    },
+    "skills": {
+      "caprice": 3,
+      "caution": 9,
+      "catastrophe": 8,
+      "curiosity": 9,
+      "charisma": 0,
+      "cunning": 8
+    },
+    "birth_chart": {
+      "sun": "pisces",
+      "moon": "cancer",
+      "rising": "virgo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Taupe"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Primordial Ooze"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Navy"
+      },
+      {
+        "trait_type": "Forehead Marking",
+        "value": "Mage Mark Moon (Blue)"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Mark of Tacolin (Silver)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      }
+    ],
+    "hash": "27bb288e9a5827cd76deb17e5b072b18661ab2d9fe09177c12c39ae2bc3a579c"
+  }
+}

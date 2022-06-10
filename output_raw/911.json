@@ -1,0 +1,152 @@
+{
+  "name": "hydra of the shrine",
+  "description": "You are a CAT mysterious beyond belief. You can sense the presence of others, no matter how well they are hidden. You slay mosquitoes and ticks for your WITCH. You inhale catnip and exhale spells that stop time. PLUNGE INTO YOUR DREAMS!",
+  "image": "https://covencats.s3.amazonaws.com/8b83167994c5400e97ca314934e2c42f2f59cb60935d5baa7c04b92139847ad4.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Moths"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Genie Lamp (Pearl)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Raised Third Eye (Red)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Scorpio"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 2,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 911,
+    "name": "hydra of the shrine",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT mysterious beyond belief.",
+      "magic": "You can sense the presence of others, no matter how well they are hidden.",
+      "acts_of_service": "You slay mosquitoes and ticks for your WITCH.",
+      "belonging": "You inhale catnip and exhale spells that stop time.",
+      "meow": "PLUNGE INTO YOUR DREAMS!"
+    },
+    "skills": {
+      "caprice": 3,
+      "caution": 8,
+      "catastrophe": 7,
+      "curiosity": 9,
+      "charisma": 1,
+      "cunning": 2
+    },
+    "birth_chart": {
+      "sun": "pisces",
+      "moon": "scorpio",
+      "rising": "scorpio"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Moths"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Genie Lamp (Pearl)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lilac"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "White"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Raised Third Eye (Red)"
+      }
+    ],
+    "hash": "8b83167994c5400e97ca314934e2c42f2f59cb60935d5baa7c04b92139847ad4"
+  }
+}

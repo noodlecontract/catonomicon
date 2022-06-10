@@ -1,0 +1,160 @@
+{
+  "name": "nuri, the boop",
+  "description": "You are a CAT who roasts and brews perfect coffee. You are as sweet as the chord that ends a happy song. You and your WITCH play fetch with almonds. You call for the Demon Market and it comes to you. EAT LIKE THERE'S NO TOMORROW!",
+  "image": "https://covencats.s3.amazonaws.com/7e582a7f4249b2ceffc9857283d9b2030abf66d6afad062d135112a56145857b.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Spiderwebs (Ethereum)"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Ethereum)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Auburn"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Glo"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ring Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 5,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 922,
+    "name": "nuri, the boop",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT who roasts and brews perfect coffee.",
+      "magic": "You are as sweet as the chord that ends a happy song.",
+      "acts_of_service": "You and your WITCH play fetch with almonds.",
+      "belonging": "You call for the Demon Market and it comes to you.",
+      "meow": "EAT LIKE THERE'S NO TOMORROW!"
+    },
+    "skills": {
+      "caprice": 2,
+      "caution": 2,
+      "catastrophe": 4,
+      "curiosity": 4,
+      "charisma": 3,
+      "cunning": 5
+    },
+    "birth_chart": {
+      "sun": "virgo",
+      "moon": "scorpio",
+      "rising": "taurus"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Spiderwebs (Ethereum)"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Ethereum)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Auburn"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Glo"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ring Collar (Silver)"
+      }
+    ],
+    "hash": "7e582a7f4249b2ceffc9857283d9b2030abf66d6afad062d135112a56145857b"
+  }
+}

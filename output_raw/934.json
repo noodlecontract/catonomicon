@@ -1,0 +1,160 @@
+{
+  "name": "capricornus of the onyx",
+  "description": "You are a CAT who yowls under the new moon. You fight dragons and demons in your dreams. You and your WITCH swap spooky stories before bed. You spend this life figuring out how to see into your next life. EAT LIKE THERE'S NO TOMORROW!",
+  "image": "https://covencats.s3.amazonaws.com/683376d79782cd433c202ae31b471560d9d3dcc3610cc3d46107a3ab27d1093f.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Crystals (Glo)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Platinum"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Undereye Gems (White)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Libra"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 6,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 934,
+    "name": "capricornus of the onyx",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT who yowls under the new moon.",
+      "magic": "You fight dragons and demons in your dreams.",
+      "acts_of_service": "You and your WITCH swap spooky stories before bed.",
+      "belonging": "You spend this life figuring out how to see into your next life.",
+      "meow": "EAT LIKE THERE'S NO TOMORROW!"
+    },
+    "skills": {
+      "caprice": 6,
+      "caution": 6,
+      "catastrophe": 5,
+      "curiosity": 6,
+      "charisma": 0,
+      "cunning": 6
+    },
+    "birth_chart": {
+      "sun": "virgo",
+      "moon": "sagittarius",
+      "rising": "libra"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Crystals (Glo)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Platinum"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Undereye Gems (White)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "683376d79782cd433c202ae31b471560d9d3dcc3610cc3d46107a3ab27d1093f"
+  }
+}

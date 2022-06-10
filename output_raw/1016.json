@@ -1,0 +1,160 @@
+{
+  "name": "spook, the haunted howler",
+  "description": "You are a CAT who thrives in obscurity and grey areas. You eat endless amounts of lasagna. You and your WITCH recharge, reflect, and release every full moon. Even the strongest poisons have no effect on you. NAP UNDER THE STARS!",
+  "image": "https://covencats.s3.amazonaws.com/2bc02a0b4e6ec6c4fddc848f1e13e3cf00285cbd153bfc2950f384071481b70f.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Cat Food (Beef with Gravy)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Babylash"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Gentle Horns"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Gemini"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 6,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 1016,
+    "name": "spook, the haunted howler",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT who thrives in obscurity and grey areas.",
+      "magic": "You eat endless amounts of lasagna.",
+      "acts_of_service": "You and your WITCH recharge, reflect, and release every full moon.",
+      "belonging": "Even the strongest poisons have no effect on you.",
+      "meow": "NAP UNDER THE STARS!"
+    },
+    "skills": {
+      "caprice": 7,
+      "caution": 9,
+      "catastrophe": 3,
+      "curiosity": 2,
+      "charisma": 6,
+      "cunning": 6
+    },
+    "birth_chart": {
+      "sun": "gemini",
+      "moon": "cancer",
+      "rising": "gemini"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Cat Food (Beef with Gravy)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Babylash"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Gentle Horns"
+      }
+    ],
+    "hash": "2bc02a0b4e6ec6c4fddc848f1e13e3cf00285cbd153bfc2950f384071481b70f"
+  }
+}

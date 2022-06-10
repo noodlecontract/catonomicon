@@ -1,0 +1,160 @@
+{
+  "name": "wyvern of the void",
+  "description": "You are a CAT who judges all who cross your path. Your magic leaves the scent of roasted chicken and crispy potatoes in its wake. You predict your WITCH's future. You summon spirits to debate the best lasagna recipe. READ THE MOON!",
+  "image": "https://covencats.s3.amazonaws.com/701947ba47d9f35c03011f85f6f550fbb4fbe9320db6b6eed221a74dd45ff6e2.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Crescent Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Tombstone"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Platinum"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Reverse Cateye"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Horns of Taurus"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Gemini"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 1,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 1006,
+    "name": "wyvern of the void",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT who judges all who cross your path.",
+      "magic": "Your magic leaves the scent of roasted chicken and crispy potatoes in its wake.",
+      "acts_of_service": "You predict your WITCH's future.",
+      "belonging": "You summon spirits to debate the best lasagna recipe.",
+      "meow": "READ THE MOON!"
+    },
+    "skills": {
+      "caprice": 5,
+      "caution": 9,
+      "catastrophe": 9,
+      "curiosity": 0,
+      "charisma": 6,
+      "cunning": 1
+    },
+    "birth_chart": {
+      "sun": "capricorn",
+      "moon": "pisces",
+      "rising": "gemini"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Crescent Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Tombstone"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Platinum"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Reverse Cateye"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Horns of Taurus"
+      }
+    ],
+    "hash": "701947ba47d9f35c03011f85f6f550fbb4fbe9320db6b6eed221a74dd45ff6e2"
+  }
+}

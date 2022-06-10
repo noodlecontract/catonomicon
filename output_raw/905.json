@@ -1,0 +1,152 @@
+{
+  "name": "pyxis of the peridot",
+  "description": "You are a CAT who swims with sharks. Your eyes change color with your mood. You write lore with your WITCH every Saturday morning. You entangle people's destinies with the help of a spider. WALK IN SHADOWS!",
+  "image": "https://covencats.s3.amazonaws.com/82f5b4fa67015e92c42b1ada9ea93308c7d25aae9ca41b69c503d3e5f6267978.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Witch Hat"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Platinum"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Raised Third Eye (Pink)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Scorpio"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 4,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 905,
+    "name": "pyxis of the peridot",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT who swims with sharks.",
+      "magic": "Your eyes change color with your mood.",
+      "acts_of_service": "You write lore with your WITCH every Saturday morning.",
+      "belonging": "You entangle people's destinies with the help of a spider.",
+      "meow": "WALK IN SHADOWS!"
+    },
+    "skills": {
+      "caprice": 3,
+      "caution": 9,
+      "catastrophe": 1,
+      "curiosity": 9,
+      "charisma": 3,
+      "cunning": 4
+    },
+    "birth_chart": {
+      "sun": "leo",
+      "moon": "cancer",
+      "rising": "scorpio"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Witch Hat"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Platinum"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "White"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Raised Third Eye (Pink)"
+      }
+    ],
+    "hash": "82f5b4fa67015e92c42b1ada9ea93308c7d25aae9ca41b69c503d3e5f6267978"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "name": "lacuna cacophony",
+  "description": "You are a CAT with 16 lives, found on the streets of Mumbai. Your hugs heal ailments and bad dreams. You and your WITCH share the spotlight in a Broadway show. You torment mice by devising exceedingly complex mazes for them. IT'S TIME TO TEND TO THE CHICKEN COOP!",
+  "image": "https://covencats.s3.amazonaws.com/ed81a84911a4f8b3b3ade50dedd057e4a7893320e07e5293db4e94f5b5f91b37.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Primordial Ooze"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "Scripted Mage Aura (Green)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mauve"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Smudged"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 1,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 967,
+    "name": "lacuna cacophony",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT with 16 lives, found on the streets of Mumbai.",
+      "magic": "Your hugs heal ailments and bad dreams.",
+      "acts_of_service": "You and your WITCH share the spotlight in a Broadway show.",
+      "belonging": "You torment mice by devising exceedingly complex mazes for them.",
+      "meow": "IT'S TIME TO TEND TO THE CHICKEN COOP!"
+    },
+    "skills": {
+      "caprice": 4,
+      "caution": 7,
+      "catastrophe": 5,
+      "curiosity": 6,
+      "charisma": 6,
+      "cunning": 1
+    },
+    "birth_chart": {
+      "sun": "aries",
+      "moon": "leo",
+      "rising": "taurus"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Primordial Ooze"
+      },
+      {
+        "trait_type": "Aura",
+        "value": "Scripted Mage Aura (Green)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mauve"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Green"
+      }
+    ],
+    "hash": "ed81a84911a4f8b3b3ade50dedd057e4a7893320e07e5293db4e94f5b5f91b37"
+  }
+}

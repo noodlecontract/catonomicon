@@ -1,0 +1,160 @@
+{
+  "name": "mahogany of the academy",
+  "description": "You are a CAT with 3 lives, born from earth once sculpted by a WITCH. You dream of all-you-can-eat salmon buffets. Your anger shields your WITCH from enemy spells. You prowl the wilds at night, seeking solace in the company of dark spirits. IT'S TIME TO NAP!",
+  "image": "https://covencats.s3.amazonaws.com/6acf1aad33b5ceb7080c3fa70fa4bc2dd9d3727312a21d17c6c6568df6dea3d0.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Mirror"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Blue)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Rolled"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Alert"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Libra"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 3,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 968,
+    "name": "mahogany of the academy",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT with 3 lives, born from earth once sculpted by a WITCH.",
+      "magic": "You dream of all-you-can-eat salmon buffets.",
+      "acts_of_service": "Your anger shields your WITCH from enemy spells.",
+      "belonging": "You prowl the wilds at night, seeking solace in the company of dark spirits.",
+      "meow": "IT'S TIME TO NAP!"
+    },
+    "skills": {
+      "caprice": 2,
+      "caution": 9,
+      "catastrophe": 9,
+      "curiosity": 8,
+      "charisma": 2,
+      "cunning": 3
+    },
+    "birth_chart": {
+      "sun": "gemini",
+      "moon": "capricorn",
+      "rising": "libra"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Mirror"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Blue)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Alert"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "6acf1aad33b5ceb7080c3fa70fa4bc2dd9d3727312a21d17c6c6568df6dea3d0"
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "name": "catimony, the inquisitive",
+  "description": "You are a CAT with 2 lives, born from the combination of chaos, carbs, and catnip. Your ears always point true north. You and your WITCH play fetch with almonds. Your best naps are taken inside structures that are perfect isosceles triangles. RUN HORIZONTALLY ACROSS THE WALL!",
+  "image": "https://covencats.s3.amazonaws.com/ba8f764c2a19e136a8018d2711a08dd5249f8c8bbd47ca1eae391188ace1ddce.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Crescent Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Grimoires"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Silver)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Witch Hat"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Platinum"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Mage Script Serpent (Gold)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Reverse Cateye"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Glo"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 5,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 1011,
+    "name": "catimony, the inquisitive",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT with 2 lives, born from the combination of chaos, carbs, and catnip.",
+      "magic": "Your ears always point true north.",
+      "acts_of_service": "You and your WITCH play fetch with almonds.",
+      "belonging": "Your best naps are taken inside structures that are perfect isosceles triangles.",
+      "meow": "RUN HORIZONTALLY ACROSS THE WALL!"
+    },
+    "skills": {
+      "caprice": 6,
+      "caution": 6,
+      "catastrophe": 6,
+      "curiosity": 5,
+      "charisma": 3,
+      "cunning": 5
+    },
+    "birth_chart": {
+      "sun": "libra",
+      "moon": "aquarius",
+      "rising": "sagittarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Crescent Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Grimoires"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Silver)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Witch Hat"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Platinum"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Mage Script Serpent (Gold)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Reverse Cateye"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Glo"
+      }
+    ],
+    "hash": "ba8f764c2a19e136a8018d2711a08dd5249f8c8bbd47ca1eae391188ace1ddce"
+  }
+}

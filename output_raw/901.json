@@ -1,0 +1,152 @@
+{
+  "name": "iodine",
+  "description": "You are a CAT who swats at flies and stares down dogs. You crab walk on sofas and run horizontally across walls. Your anger shields your WITCH from enemy spells. You speak fluent Japanese to the sushi on your plate. THROW CAUTION TO THE WIND!",
+  "image": "https://covencats.s3.amazonaws.com/c573c372f99b5dd1c32bc544b9bf7435e759ffafae21a4f1ca73cd7fd9180416.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Books"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Ethereum)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 4,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 901,
+    "name": "iodine",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT who swats at flies and stares down dogs.",
+      "magic": "You crab walk on sofas and run horizontally across walls.",
+      "acts_of_service": "Your anger shields your WITCH from enemy spells.",
+      "belonging": "You speak fluent Japanese to the sushi on your plate.",
+      "meow": "THROW CAUTION TO THE WIND!"
+    },
+    "skills": {
+      "caprice": 7,
+      "caution": 8,
+      "catastrophe": 9,
+      "curiosity": 5,
+      "charisma": 2,
+      "cunning": 4
+    },
+    "birth_chart": {
+      "sun": "taurus",
+      "moon": "cancer",
+      "rising": "sagittarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Sea"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Books"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Ethereum)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "c573c372f99b5dd1c32bc544b9bf7435e759ffafae21a4f1ca73cd7fd9180416"
+  }
+}

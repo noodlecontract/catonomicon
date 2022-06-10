@@ -1,0 +1,152 @@
+{
+  "name": "rin, the deep",
+  "description": "You are a CAT drenched in fire. You read Shakespeare's tales on the coldest winter nights. To cat or not to cat? That is the question. You protect your WITCH from tentacles, thorns, and Tauruses. You love chasing ghost mice at the Demon Market. BOOP, BOOP, BOOP!",
+  "image": "https://covencats.s3.amazonaws.com/a95c5212fd23ad6fecb7656a38f7e0d4087d210d13f62d225b042c715e3c2599.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Full Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Tombstone"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Auburn"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Pisces"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 5,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 969,
+    "name": "rin, the deep",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT drenched in fire.",
+      "magic": "You read Shakespeare's tales on the coldest winter nights. To cat or not to cat? That is the question.",
+      "acts_of_service": "You protect your WITCH from tentacles, thorns, and Tauruses.",
+      "belonging": "You love chasing ghost mice at the Demon Market.",
+      "meow": "BOOP, BOOP, BOOP!"
+    },
+    "skills": {
+      "caprice": 0,
+      "caution": 9,
+      "catastrophe": 8,
+      "curiosity": 3,
+      "charisma": 3,
+      "cunning": 5
+    },
+    "birth_chart": {
+      "sun": "aries",
+      "moon": "scorpio",
+      "rising": "pisces"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Full Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Tombstone"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Auburn"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      }
+    ],
+    "hash": "a95c5212fd23ad6fecb7656a38f7e0d4087d210d13f62d225b042c715e3c2599"
+  }
+}
