@@ -1,40 +1,44 @@
 {
-  "name": "odette gryffin",
-  "description": "You are a CAT who plays devil's advocate. You steep your paws in moonlight and color your claws with the dust trails of comets. You protect your WITCH from pencils, pincher bugs, and Pisces. In a room full of CATS, you are the one who stands out most. SWING FROM THE CURTAINS!",
-  "image": "https://covencats.s3.amazonaws.com/03a84b1f9d600d9bc7222591e129472a9b3e9f765022ea1dd60679a2d2222957.png",
+  "name": "hercules of the wand",
+  "description": "You are a CAT mischievous beyond reckoning. Your fur is a constellation of stars. You and your WITCH share a pillow fort and watch movies all day. You throw mouse bones and read their teachings. MAKE ALL AWARE OF YOUR PURR!",
+  "image": "https://covencats.s3.amazonaws.com/bbfd8370df039f1cb5d090690fb4bac9db1f0edfd9f5639be817204e88bf97bb.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Plum"
+      "value": "Rust"
     },
     {
       "trait_type": "Seat",
-      "value": "Pillow (Purple)"
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Silver)"
     },
     {
       "trait_type": "Body Style",
-      "value": "Rolled"
+      "value": "Floofed"
     },
     {
       "trait_type": "Fur Color",
-      "value": "Lavender"
+      "value": "Birman"
     },
     {
       "trait_type": "Eye Style",
-      "value": "Babylash"
+      "value": "Blank"
     },
     {
       "trait_type": "Eye Color",
-      "value": "Green"
+      "value": "Red"
     },
     {
       "trait_type": "Collar",
-      "value": "Studded Collar (Silver)"
+      "value": "Piercing Choker (Green)"
     },
     {
       "trait_type": "Archetype of Power",
-      "value": "Enchantress"
+      "value": "Seer"
     },
     {
       "trait_type": "Sun Sign",
@@ -42,7 +46,7 @@
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Capricorn"
+      "value": "Virgo"
     },
     {
       "trait_type": "Rising Sign",
@@ -51,94 +55,98 @@
     {
       "display_type": "number",
       "trait_type": "Caprice",
-      "value": 2,
-      "max_value": 9
-    },
-    {
-      "display_type": "number",
-      "trait_type": "Caution",
-      "value": 1,
-      "max_value": 9
-    },
-    {
-      "display_type": "number",
-      "trait_type": "Catastrophe",
-      "value": 5,
-      "max_value": 9
-    },
-    {
-      "display_type": "number",
-      "trait_type": "Curiosity",
       "value": 4,
       "max_value": 9
     },
     {
       "display_type": "number",
+      "trait_type": "Caution",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
       "trait_type": "Charisma",
-      "value": 7,
+      "value": 8,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Cunning",
-      "value": 9,
+      "value": 4,
       "max_value": 9
     }
   ],
   "coven_cats": {
-    "id": 1020,
-    "name": "odette gryffin",
-    "type": "enchantress",
+    "id": 1044,
+    "name": "hercules of the wand",
+    "type": "seer",
     "description": {
-      "summoning": "You are a CAT who plays devil's advocate.",
-      "magic": "You steep your paws in moonlight and color your claws with the dust trails of comets.",
-      "acts_of_service": "You protect your WITCH from pencils, pincher bugs, and Pisces.",
-      "belonging": "In a room full of CATS, you are the one who stands out most.",
-      "meow": "SWING FROM THE CURTAINS!"
+      "summoning": "You are a CAT mischievous beyond reckoning.",
+      "magic": "Your fur is a constellation of stars.",
+      "acts_of_service": "You and your WITCH share a pillow fort and watch movies all day.",
+      "belonging": "You throw mouse bones and read their teachings.",
+      "meow": "MAKE ALL AWARE OF YOUR PURR!"
     },
     "skills": {
-      "caprice": 2,
-      "caution": 1,
-      "catastrophe": 5,
-      "curiosity": 4,
-      "charisma": 7,
-      "cunning": 9
+      "caprice": 4,
+      "caution": 3,
+      "catastrophe": 3,
+      "curiosity": 9,
+      "charisma": 8,
+      "cunning": 4
     },
     "birth_chart": {
       "sun": "sagittarius",
-      "moon": "capricorn",
+      "moon": "virgo",
       "rising": "aquarius"
     },
     "styles": [
       {
         "trait_type": "Background",
-        "value": "Plum"
+        "value": "Rust"
       },
       {
         "trait_type": "Seat",
-        "value": "Pillow (Purple)"
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Silver)"
       },
       {
         "trait_type": "Body Style",
-        "value": "Rolled"
+        "value": "Floofed"
       },
       {
         "trait_type": "Fur Color",
-        "value": "Lavender"
+        "value": "Birman"
       },
       {
         "trait_type": "Eye Style",
-        "value": "Babylash"
+        "value": "Blank"
       },
       {
         "trait_type": "Eye Color",
-        "value": "Green"
+        "value": "Red"
       },
       {
         "trait_type": "Collar",
-        "value": "Studded Collar (Silver)"
+        "value": "Piercing Choker (Green)"
       }
     ],
-    "hash": "03a84b1f9d600d9bc7222591e129472a9b3e9f765022ea1dd60679a2d2222957"
+    "hash": "bbfd8370df039f1cb5d090690fb4bac9db1f0edfd9f5639be817204e88bf97bb"
   }
 }

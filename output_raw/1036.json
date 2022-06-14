@@ -1,16 +1,20 @@
 {
-  "name": "odette gryffin",
-  "description": "You are a CAT who plays devil's advocate. You steep your paws in moonlight and color your claws with the dust trails of comets. You protect your WITCH from pencils, pincher bugs, and Pisces. In a room full of CATS, you are the one who stands out most. SWING FROM THE CURTAINS!",
-  "image": "https://covencats.s3.amazonaws.com/03a84b1f9d600d9bc7222591e129472a9b3e9f765022ea1dd60679a2d2222957.png",
+  "name": "fermata of luxembourg",
+  "description": "You are a CAT who solves riddles for prizes. Your ears always point true north. You remind your WITCH to touch grass. You charm your way into the most exclusive clubs. ONTO THE NEXT LIFE!",
+  "image": "https://covencats.s3.amazonaws.com/c6bf19ea1dbca58f90c7cfdb00dbaefcbec8b1ad735e92cc7c5a29376b3aa48f.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Plum"
+      "value": "Sea"
     },
     {
       "trait_type": "Seat",
-      "value": "Pillow (Purple)"
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (White)"
     },
     {
       "trait_type": "Body Style",
@@ -18,15 +22,15 @@
     },
     {
       "trait_type": "Fur Color",
-      "value": "Lavender"
+      "value": "Platinum"
     },
     {
       "trait_type": "Eye Style",
-      "value": "Babylash"
+      "value": "Alert"
     },
     {
       "trait_type": "Eye Color",
-      "value": "Green"
+      "value": "Grey"
     },
     {
       "trait_type": "Collar",
@@ -38,44 +42,44 @@
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Sagittarius"
+      "value": "Aries"
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Capricorn"
+      "value": "Aquarius"
     },
     {
       "trait_type": "Rising Sign",
-      "value": "Aquarius"
+      "value": "Gemini"
     },
     {
       "display_type": "number",
       "trait_type": "Caprice",
-      "value": 2,
-      "max_value": 9
-    },
-    {
-      "display_type": "number",
-      "trait_type": "Caution",
-      "value": 1,
-      "max_value": 9
-    },
-    {
-      "display_type": "number",
-      "trait_type": "Catastrophe",
-      "value": 5,
-      "max_value": 9
-    },
-    {
-      "display_type": "number",
-      "trait_type": "Curiosity",
       "value": 4,
       "max_value": 9
     },
     {
       "display_type": "number",
-      "trait_type": "Charisma",
+      "trait_type": "Caution",
       "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 9,
       "max_value": 9
     },
     {
@@ -86,37 +90,41 @@
     }
   ],
   "coven_cats": {
-    "id": 1020,
-    "name": "odette gryffin",
+    "id": 1036,
+    "name": "fermata of luxembourg",
     "type": "enchantress",
     "description": {
-      "summoning": "You are a CAT who plays devil's advocate.",
-      "magic": "You steep your paws in moonlight and color your claws with the dust trails of comets.",
-      "acts_of_service": "You protect your WITCH from pencils, pincher bugs, and Pisces.",
-      "belonging": "In a room full of CATS, you are the one who stands out most.",
-      "meow": "SWING FROM THE CURTAINS!"
+      "summoning": "You are a CAT who solves riddles for prizes.",
+      "magic": "Your ears always point true north.",
+      "acts_of_service": "You remind your WITCH to touch grass.",
+      "belonging": "You charm your way into the most exclusive clubs.",
+      "meow": "ONTO THE NEXT LIFE!"
     },
     "skills": {
-      "caprice": 2,
-      "caution": 1,
-      "catastrophe": 5,
-      "curiosity": 4,
-      "charisma": 7,
+      "caprice": 4,
+      "caution": 7,
+      "catastrophe": 4,
+      "curiosity": 2,
+      "charisma": 9,
       "cunning": 9
     },
     "birth_chart": {
-      "sun": "sagittarius",
-      "moon": "capricorn",
-      "rising": "aquarius"
+      "sun": "aries",
+      "moon": "aquarius",
+      "rising": "gemini"
     },
     "styles": [
       {
         "trait_type": "Background",
-        "value": "Plum"
+        "value": "Sea"
       },
       {
         "trait_type": "Seat",
-        "value": "Pillow (Purple)"
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (White)"
       },
       {
         "trait_type": "Body Style",
@@ -124,21 +132,21 @@
       },
       {
         "trait_type": "Fur Color",
-        "value": "Lavender"
+        "value": "Platinum"
       },
       {
         "trait_type": "Eye Style",
-        "value": "Babylash"
+        "value": "Alert"
       },
       {
         "trait_type": "Eye Color",
-        "value": "Green"
+        "value": "Grey"
       },
       {
         "trait_type": "Collar",
         "value": "Studded Collar (Silver)"
       }
     ],
-    "hash": "03a84b1f9d600d9bc7222591e129472a9b3e9f765022ea1dd60679a2d2222957"
+    "hash": "c6bf19ea1dbca58f90c7cfdb00dbaefcbec8b1ad735e92cc7c5a29376b3aa48f"
   }
 }

@@ -1,16 +1,20 @@
 {
-  "name": "odette gryffin",
-  "description": "You are a CAT who plays devil's advocate. You steep your paws in moonlight and color your claws with the dust trails of comets. You protect your WITCH from pencils, pincher bugs, and Pisces. In a room full of CATS, you are the one who stands out most. SWING FROM THE CURTAINS!",
-  "image": "https://covencats.s3.amazonaws.com/03a84b1f9d600d9bc7222591e129472a9b3e9f765022ea1dd60679a2d2222957.png",
+  "name": "bermuda soul",
+  "description": "You are a CAT come to life from a potion. Your ears wiggle to a silent disco. You write lore with your WITCH every Saturday morning. You keep a mischief of ghost mice at your beck and call. MAKE ALL AWARE OF YOUR NINE LIVES!",
+  "image": "https://covencats.s3.amazonaws.com/c3436e320fc50f086853d784c14c4723368f8b78e6d28fb4cd3896ceb52ac556.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Plum"
+      "value": "Pink"
     },
     {
       "trait_type": "Seat",
-      "value": "Pillow (Purple)"
+      "value": "Tombstone"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Spiderwebs (Black)"
     },
     {
       "trait_type": "Body Style",
@@ -18,11 +22,11 @@
     },
     {
       "trait_type": "Fur Color",
-      "value": "Lavender"
+      "value": "Platinum"
     },
     {
       "trait_type": "Eye Style",
-      "value": "Babylash"
+      "value": "Smudged Monolid"
     },
     {
       "trait_type": "Eye Color",
@@ -30,40 +34,40 @@
     },
     {
       "trait_type": "Collar",
-      "value": "Studded Collar (Silver)"
+      "value": "Leather Collar"
     },
     {
       "trait_type": "Archetype of Power",
-      "value": "Enchantress"
+      "value": "Necromancer"
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Sagittarius"
+      "value": "Leo"
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Capricorn"
+      "value": "Sagittarius"
     },
     {
       "trait_type": "Rising Sign",
-      "value": "Aquarius"
+      "value": "Aries"
     },
     {
       "display_type": "number",
       "trait_type": "Caprice",
-      "value": 2,
+      "value": 5,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Caution",
-      "value": 1,
+      "value": 5,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Catastrophe",
-      "value": 5,
+      "value": 9,
       "max_value": 9
     },
     {
@@ -75,48 +79,52 @@
     {
       "display_type": "number",
       "trait_type": "Charisma",
-      "value": 7,
+      "value": 4,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Cunning",
-      "value": 9,
+      "value": 8,
       "max_value": 9
     }
   ],
   "coven_cats": {
-    "id": 1020,
-    "name": "odette gryffin",
-    "type": "enchantress",
+    "id": 1032,
+    "name": "bermuda soul",
+    "type": "necromancer",
     "description": {
-      "summoning": "You are a CAT who plays devil's advocate.",
-      "magic": "You steep your paws in moonlight and color your claws with the dust trails of comets.",
-      "acts_of_service": "You protect your WITCH from pencils, pincher bugs, and Pisces.",
-      "belonging": "In a room full of CATS, you are the one who stands out most.",
-      "meow": "SWING FROM THE CURTAINS!"
+      "summoning": "You are a CAT come to life from a potion.",
+      "magic": "Your ears wiggle to a silent disco.",
+      "acts_of_service": "You write lore with your WITCH every Saturday morning.",
+      "belonging": "You keep a mischief of ghost mice at your beck and call.",
+      "meow": "MAKE ALL AWARE OF YOUR NINE LIVES!"
     },
     "skills": {
-      "caprice": 2,
-      "caution": 1,
-      "catastrophe": 5,
+      "caprice": 5,
+      "caution": 5,
+      "catastrophe": 9,
       "curiosity": 4,
-      "charisma": 7,
-      "cunning": 9
+      "charisma": 4,
+      "cunning": 8
     },
     "birth_chart": {
-      "sun": "sagittarius",
-      "moon": "capricorn",
-      "rising": "aquarius"
+      "sun": "leo",
+      "moon": "sagittarius",
+      "rising": "aries"
     },
     "styles": [
       {
         "trait_type": "Background",
-        "value": "Plum"
+        "value": "Pink"
       },
       {
         "trait_type": "Seat",
-        "value": "Pillow (Purple)"
+        "value": "Tombstone"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Spiderwebs (Black)"
       },
       {
         "trait_type": "Body Style",
@@ -124,11 +132,11 @@
       },
       {
         "trait_type": "Fur Color",
-        "value": "Lavender"
+        "value": "Platinum"
       },
       {
         "trait_type": "Eye Style",
-        "value": "Babylash"
+        "value": "Smudged Monolid"
       },
       {
         "trait_type": "Eye Color",
@@ -136,9 +144,9 @@
       },
       {
         "trait_type": "Collar",
-        "value": "Studded Collar (Silver)"
+        "value": "Leather Collar"
       }
     ],
-    "hash": "03a84b1f9d600d9bc7222591e129472a9b3e9f765022ea1dd60679a2d2222957"
+    "hash": "c3436e320fc50f086853d784c14c4723368f8b78e6d28fb4cd3896ceb52ac556"
   }
 }

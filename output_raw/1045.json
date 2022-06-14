@@ -1,12 +1,16 @@
 {
-  "name": "odette gryffin",
-  "description": "You are a CAT who plays devil's advocate. You steep your paws in moonlight and color your claws with the dust trails of comets. You protect your WITCH from pencils, pincher bugs, and Pisces. In a room full of CATS, you are the one who stands out most. SWING FROM THE CURTAINS!",
-  "image": "https://covencats.s3.amazonaws.com/03a84b1f9d600d9bc7222591e129472a9b3e9f765022ea1dd60679a2d2222957.png",
+  "name": "chime of versailles",
+  "description": "You are a CAT who adores designer sunglasses. You drink piping hot tea in all seasons, at all hours of the day. You and your WITCH share an iced latte every morning. You gaze upon mortals from the highest point of the Tower. MAKE BISCUITS!",
+  "image": "https://covencats.s3.amazonaws.com/adf21332697ba09568fbeb53f4b2fdec5388730aa6aceb6db2c9839a1f0bfd8f.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Plum"
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Full Moon"
     },
     {
       "trait_type": "Seat",
@@ -18,7 +22,7 @@
     },
     {
       "trait_type": "Fur Color",
-      "value": "Lavender"
+      "value": "Steel"
     },
     {
       "trait_type": "Eye Style",
@@ -26,11 +30,15 @@
     },
     {
       "trait_type": "Eye Color",
-      "value": "Green"
+      "value": "Blue"
     },
     {
       "trait_type": "Collar",
-      "value": "Studded Collar (Silver)"
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Sad Girl Tears"
     },
     {
       "trait_type": "Archetype of Power",
@@ -38,7 +46,7 @@
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Sagittarius"
+      "value": "Aquarius"
     },
     {
       "trait_type": "Moon Sign",
@@ -51,31 +59,31 @@
     {
       "display_type": "number",
       "trait_type": "Caprice",
-      "value": 2,
-      "max_value": 9
-    },
-    {
-      "display_type": "number",
-      "trait_type": "Caution",
-      "value": 1,
-      "max_value": 9
-    },
-    {
-      "display_type": "number",
-      "trait_type": "Catastrophe",
-      "value": 5,
-      "max_value": 9
-    },
-    {
-      "display_type": "number",
-      "trait_type": "Curiosity",
       "value": 4,
       "max_value": 9
     },
     {
       "display_type": "number",
+      "trait_type": "Caution",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
       "trait_type": "Charisma",
-      "value": 7,
+      "value": 3,
       "max_value": 9
     },
     {
@@ -86,33 +94,37 @@
     }
   ],
   "coven_cats": {
-    "id": 1020,
-    "name": "odette gryffin",
+    "id": 1045,
+    "name": "chime of versailles",
     "type": "enchantress",
     "description": {
-      "summoning": "You are a CAT who plays devil's advocate.",
-      "magic": "You steep your paws in moonlight and color your claws with the dust trails of comets.",
-      "acts_of_service": "You protect your WITCH from pencils, pincher bugs, and Pisces.",
-      "belonging": "In a room full of CATS, you are the one who stands out most.",
-      "meow": "SWING FROM THE CURTAINS!"
+      "summoning": "You are a CAT who adores designer sunglasses.",
+      "magic": "You drink piping hot tea in all seasons, at all hours of the day.",
+      "acts_of_service": "You and your WITCH share an iced latte every morning.",
+      "belonging": "You gaze upon mortals from the highest point of the Tower.",
+      "meow": "MAKE BISCUITS!"
     },
     "skills": {
-      "caprice": 2,
-      "caution": 1,
-      "catastrophe": 5,
-      "curiosity": 4,
-      "charisma": 7,
+      "caprice": 4,
+      "caution": 4,
+      "catastrophe": 3,
+      "curiosity": 2,
+      "charisma": 3,
       "cunning": 9
     },
     "birth_chart": {
-      "sun": "sagittarius",
+      "sun": "aquarius",
       "moon": "capricorn",
       "rising": "aquarius"
     },
     "styles": [
       {
         "trait_type": "Background",
-        "value": "Plum"
+        "value": "Taupe"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Full Moon"
       },
       {
         "trait_type": "Seat",
@@ -124,7 +136,7 @@
       },
       {
         "trait_type": "Fur Color",
-        "value": "Lavender"
+        "value": "Steel"
       },
       {
         "trait_type": "Eye Style",
@@ -132,13 +144,17 @@
       },
       {
         "trait_type": "Eye Color",
-        "value": "Green"
+        "value": "Blue"
       },
       {
         "trait_type": "Collar",
-        "value": "Studded Collar (Silver)"
+        "value": "Leather Collar"
+      },
+      {
+        "trait_type": "Facewear",
+        "value": "Sad Girl Tears"
       }
     ],
-    "hash": "03a84b1f9d600d9bc7222591e129472a9b3e9f765022ea1dd60679a2d2222957"
+    "hash": "adf21332697ba09568fbeb53f4b2fdec5388730aa6aceb6db2c9839a1f0bfd8f"
   }
 }

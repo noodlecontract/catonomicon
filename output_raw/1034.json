@@ -1,16 +1,24 @@
 {
-  "name": "odette gryffin",
-  "description": "You are a CAT who plays devil's advocate. You steep your paws in moonlight and color your claws with the dust trails of comets. You protect your WITCH from pencils, pincher bugs, and Pisces. In a room full of CATS, you are the one who stands out most. SWING FROM THE CURTAINS!",
-  "image": "https://covencats.s3.amazonaws.com/03a84b1f9d600d9bc7222591e129472a9b3e9f765022ea1dd60679a2d2222957.png",
+  "name": "alto, the nonchalant",
+  "description": "You are a CAT come to life from a dream. Your whiskers tingle in the presence of magic. You and your WITCH share a hot bowl of soup together on the coldest day of the year. You gaze upon mortals from the highest point of the Tower. IT'S TIME TO TEND TO THE CHICKEN COOP!",
+  "image": "https://covencats.s3.amazonaws.com/ac1d881acec0fda8c34c20f2eb4e1123f18a1169de1129fa5cca7bf300fe8304.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Plum"
+      "value": "Peach"
     },
     {
       "trait_type": "Seat",
-      "value": "Pillow (Purple)"
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (White)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Witch Hat"
     },
     {
       "trait_type": "Body Style",
@@ -26,11 +34,15 @@
     },
     {
       "trait_type": "Eye Color",
-      "value": "Green"
+      "value": "Pink"
     },
     {
       "trait_type": "Collar",
-      "value": "Studded Collar (Silver)"
+      "value": "Collar of Pearls"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Sad Girl Tears"
     },
     {
       "trait_type": "Archetype of Power",
@@ -38,7 +50,7 @@
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Sagittarius"
+      "value": "Taurus"
     },
     {
       "trait_type": "Moon Sign",
@@ -46,7 +58,7 @@
     },
     {
       "trait_type": "Rising Sign",
-      "value": "Aquarius"
+      "value": "Gemini"
     },
     {
       "display_type": "number",
@@ -57,25 +69,25 @@
     {
       "display_type": "number",
       "trait_type": "Caution",
-      "value": 1,
+      "value": 2,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Catastrophe",
-      "value": 5,
+      "value": 3,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Curiosity",
-      "value": 4,
+      "value": 8,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Charisma",
-      "value": 7,
+      "value": 8,
       "max_value": 9
     },
     {
@@ -86,37 +98,45 @@
     }
   ],
   "coven_cats": {
-    "id": 1020,
-    "name": "odette gryffin",
+    "id": 1034,
+    "name": "alto, the nonchalant",
     "type": "enchantress",
     "description": {
-      "summoning": "You are a CAT who plays devil's advocate.",
-      "magic": "You steep your paws in moonlight and color your claws with the dust trails of comets.",
-      "acts_of_service": "You protect your WITCH from pencils, pincher bugs, and Pisces.",
-      "belonging": "In a room full of CATS, you are the one who stands out most.",
-      "meow": "SWING FROM THE CURTAINS!"
+      "summoning": "You are a CAT come to life from a dream.",
+      "magic": "Your whiskers tingle in the presence of magic.",
+      "acts_of_service": "You and your WITCH share a hot bowl of soup together on the coldest day of the year.",
+      "belonging": "You gaze upon mortals from the highest point of the Tower.",
+      "meow": "IT'S TIME TO TEND TO THE CHICKEN COOP!"
     },
     "skills": {
       "caprice": 2,
-      "caution": 1,
-      "catastrophe": 5,
-      "curiosity": 4,
-      "charisma": 7,
+      "caution": 2,
+      "catastrophe": 3,
+      "curiosity": 8,
+      "charisma": 8,
       "cunning": 9
     },
     "birth_chart": {
-      "sun": "sagittarius",
+      "sun": "taurus",
       "moon": "capricorn",
-      "rising": "aquarius"
+      "rising": "gemini"
     },
     "styles": [
       {
         "trait_type": "Background",
-        "value": "Plum"
+        "value": "Peach"
       },
       {
         "trait_type": "Seat",
-        "value": "Pillow (Purple)"
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (White)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Witch Hat"
       },
       {
         "trait_type": "Body Style",
@@ -132,13 +152,17 @@
       },
       {
         "trait_type": "Eye Color",
-        "value": "Green"
+        "value": "Pink"
       },
       {
         "trait_type": "Collar",
-        "value": "Studded Collar (Silver)"
+        "value": "Collar of Pearls"
+      },
+      {
+        "trait_type": "Facewear",
+        "value": "Sad Girl Tears"
       }
     ],
-    "hash": "03a84b1f9d600d9bc7222591e129472a9b3e9f765022ea1dd60679a2d2222957"
+    "hash": "ac1d881acec0fda8c34c20f2eb4e1123f18a1169de1129fa5cca7bf300fe8304"
   }
 }
