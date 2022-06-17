@@ -1,12 +1,12 @@
 {
-  "name": "ripley of the alley",
-  "description": "You are a CAT with 13 lives, found in Timbuktu. You steep your paws in moonlight and color your claws with the dust trails of comets. You beat your WITCH in pictionary and charades every time. You feel kinship with all creatures, living and departed. MAKE SPACE FOR MY TAIL!",
-  "image": "https://covencats.s3.amazonaws.com/8a28c69f518d4bc4292c84ef27dfcefab1957751e0f858fa4f3a79903b375f39.png",
+  "name": "uranium lee",
+  "description": "You are a CAT with 17 lives, found on the streets of Canggu. Everywhere you go, you leave a trail of stories behind you. You and your WITCH play fetch with almonds. You have read the Iliad, the Odyssey, and the Aeneid in their original languages. TO THE MOON!",
+  "image": "https://covencats.s3.amazonaws.com/61019195016737f31ca7c5f5131b63d65f85588f020589420b56d42d25898307.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Rust"
+      "value": "Lavender"
     },
     {
       "trait_type": "Seat",
@@ -14,50 +14,54 @@
     },
     {
       "trait_type": "Body Style",
-      "value": "Rolled"
+      "value": "Sleek"
     },
     {
       "trait_type": "Fur Color",
-      "value": "Lavender"
+      "value": "Lilac Siamese"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Mage Script Serpent (Green)"
     },
     {
       "trait_type": "Eye Style",
-      "value": "Sclera"
+      "value": "Hooded Side"
     },
     {
       "trait_type": "Eye Color",
-      "value": "Gold"
+      "value": "Carnelian"
     },
     {
       "trait_type": "Collar",
-      "value": "Studded Collar (Silver)"
+      "value": "Leather Collar"
     },
     {
       "trait_type": "Archetype of Power",
-      "value": "Necromancer"
+      "value": "Mage"
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Capricorn"
+      "value": "Pisces"
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Aries"
+      "value": "Gemini"
     },
     {
       "trait_type": "Rising Sign",
-      "value": "Pisces"
+      "value": "Virgo"
     },
     {
       "display_type": "number",
       "trait_type": "Caprice",
-      "value": 5,
+      "value": 2,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Caution",
-      "value": 7,
+      "value": 6,
       "max_value": 9
     },
     {
@@ -75,7 +79,7 @@
     {
       "display_type": "number",
       "trait_type": "Charisma",
-      "value": 9,
+      "value": 2,
       "max_value": 9
     },
     {
@@ -86,33 +90,33 @@
     }
   ],
   "coven_cats": {
-    "id": 1047,
-    "name": "ripley of the alley",
-    "type": "necromancer",
+    "id": 1054,
+    "name": "uranium lee",
+    "type": "mage",
     "description": {
-      "summoning": "You are a CAT with 13 lives, found in Timbuktu.",
-      "magic": "You steep your paws in moonlight and color your claws with the dust trails of comets.",
-      "acts_of_service": "You beat your WITCH in pictionary and charades every time.",
-      "belonging": "You feel kinship with all creatures, living and departed.",
-      "meow": "MAKE SPACE FOR MY TAIL!"
+      "summoning": "You are a CAT with 17 lives, found on the streets of Canggu.",
+      "magic": "Everywhere you go, you leave a trail of stories behind you.",
+      "acts_of_service": "You and your WITCH play fetch with almonds.",
+      "belonging": "You have read the Iliad, the Odyssey, and the Aeneid in their original languages.",
+      "meow": "TO THE MOON!"
     },
     "skills": {
-      "caprice": 5,
-      "caution": 7,
+      "caprice": 2,
+      "caution": 6,
       "catastrophe": 4,
       "curiosity": 7,
-      "charisma": 9,
+      "charisma": 2,
       "cunning": 8
     },
     "birth_chart": {
-      "sun": "capricorn",
-      "moon": "aries",
-      "rising": "pisces"
+      "sun": "pisces",
+      "moon": "gemini",
+      "rising": "virgo"
     },
     "styles": [
       {
         "trait_type": "Background",
-        "value": "Rust"
+        "value": "Lavender"
       },
       {
         "trait_type": "Seat",
@@ -120,25 +124,29 @@
       },
       {
         "trait_type": "Body Style",
-        "value": "Rolled"
+        "value": "Sleek"
       },
       {
         "trait_type": "Fur Color",
-        "value": "Lavender"
+        "value": "Lilac Siamese"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Mage Script Serpent (Green)"
       },
       {
         "trait_type": "Eye Style",
-        "value": "Sclera"
+        "value": "Hooded Side"
       },
       {
         "trait_type": "Eye Color",
-        "value": "Gold"
+        "value": "Carnelian"
       },
       {
         "trait_type": "Collar",
-        "value": "Studded Collar (Silver)"
+        "value": "Leather Collar"
       }
     ],
-    "hash": "8a28c69f518d4bc4292c84ef27dfcefab1957751e0f858fa4f3a79903b375f39"
+    "hash": "61019195016737f31ca7c5f5131b63d65f85588f020589420b56d42d25898307"
   }
 }

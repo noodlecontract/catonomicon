@@ -1,20 +1,20 @@
 {
-  "name": "ripley of the alley",
-  "description": "You are a CAT with 13 lives, found in Timbuktu. You steep your paws in moonlight and color your claws with the dust trails of comets. You beat your WITCH in pictionary and charades every time. You feel kinship with all creatures, living and departed. MAKE SPACE FOR MY TAIL!",
-  "image": "https://covencats.s3.amazonaws.com/8a28c69f518d4bc4292c84ef27dfcefab1957751e0f858fa4f3a79903b375f39.png",
+  "name": "platinum, the nosy",
+  "description": "You are a CAT who dances among sunflowers. You drink piping hot tea in all seasons, at all hours of the day. You and your WITCH harvest mushrooms, fallen antlers, and misshapen twigs. You have a vast knowledge of all types of cheese. SAY HELLO!",
+  "image": "https://covencats.s3.amazonaws.com/c6888c592ef2992d8f797689736263e96c57843a86850f054cdf6dae08a9b19e.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Rust"
+      "value": "Sea"
     },
     {
       "trait_type": "Seat",
-      "value": "Table"
+      "value": "Primordial Ooze"
     },
     {
       "trait_type": "Body Style",
-      "value": "Rolled"
+      "value": "Sleek"
     },
     {
       "trait_type": "Fur Color",
@@ -22,60 +22,60 @@
     },
     {
       "trait_type": "Eye Style",
-      "value": "Sclera"
+      "value": "Smudged"
     },
     {
       "trait_type": "Eye Color",
-      "value": "Gold"
+      "value": "Red"
     },
     {
       "trait_type": "Collar",
-      "value": "Studded Collar (Silver)"
+      "value": "Leather Collar"
     },
     {
       "trait_type": "Archetype of Power",
-      "value": "Necromancer"
+      "value": "Mage"
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Capricorn"
-    },
-    {
-      "trait_type": "Moon Sign",
       "value": "Aries"
     },
     {
+      "trait_type": "Moon Sign",
+      "value": "Sagittarius"
+    },
+    {
       "trait_type": "Rising Sign",
-      "value": "Pisces"
+      "value": "Leo"
     },
     {
       "display_type": "number",
       "trait_type": "Caprice",
-      "value": 5,
+      "value": 6,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Caution",
-      "value": 7,
-      "max_value": 9
-    },
-    {
-      "display_type": "number",
-      "trait_type": "Catastrophe",
       "value": 4,
       "max_value": 9
     },
     {
       "display_type": "number",
-      "trait_type": "Curiosity",
+      "trait_type": "Catastrophe",
       "value": 7,
       "max_value": 9
     },
     {
       "display_type": "number",
-      "trait_type": "Charisma",
+      "trait_type": "Curiosity",
       "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 1,
       "max_value": 9
     },
     {
@@ -86,41 +86,41 @@
     }
   ],
   "coven_cats": {
-    "id": 1047,
-    "name": "ripley of the alley",
-    "type": "necromancer",
+    "id": 1052,
+    "name": "platinum, the nosy",
+    "type": "mage",
     "description": {
-      "summoning": "You are a CAT with 13 lives, found in Timbuktu.",
-      "magic": "You steep your paws in moonlight and color your claws with the dust trails of comets.",
-      "acts_of_service": "You beat your WITCH in pictionary and charades every time.",
-      "belonging": "You feel kinship with all creatures, living and departed.",
-      "meow": "MAKE SPACE FOR MY TAIL!"
+      "summoning": "You are a CAT who dances among sunflowers.",
+      "magic": "You drink piping hot tea in all seasons, at all hours of the day.",
+      "acts_of_service": "You and your WITCH harvest mushrooms, fallen antlers, and misshapen twigs.",
+      "belonging": "You have a vast knowledge of all types of cheese.",
+      "meow": "SAY HELLO!"
     },
     "skills": {
-      "caprice": 5,
-      "caution": 7,
-      "catastrophe": 4,
-      "curiosity": 7,
-      "charisma": 9,
+      "caprice": 6,
+      "caution": 4,
+      "catastrophe": 7,
+      "curiosity": 9,
+      "charisma": 1,
       "cunning": 8
     },
     "birth_chart": {
-      "sun": "capricorn",
-      "moon": "aries",
-      "rising": "pisces"
+      "sun": "aries",
+      "moon": "sagittarius",
+      "rising": "leo"
     },
     "styles": [
       {
         "trait_type": "Background",
-        "value": "Rust"
+        "value": "Sea"
       },
       {
         "trait_type": "Seat",
-        "value": "Table"
+        "value": "Primordial Ooze"
       },
       {
         "trait_type": "Body Style",
-        "value": "Rolled"
+        "value": "Sleek"
       },
       {
         "trait_type": "Fur Color",
@@ -128,17 +128,17 @@
       },
       {
         "trait_type": "Eye Style",
-        "value": "Sclera"
+        "value": "Smudged"
       },
       {
         "trait_type": "Eye Color",
-        "value": "Gold"
+        "value": "Red"
       },
       {
         "trait_type": "Collar",
-        "value": "Studded Collar (Silver)"
+        "value": "Leather Collar"
       }
     ],
-    "hash": "8a28c69f518d4bc4292c84ef27dfcefab1957751e0f858fa4f3a79903b375f39"
+    "hash": "c6888c592ef2992d8f797689736263e96c57843a86850f054cdf6dae08a9b19e"
   }
 }

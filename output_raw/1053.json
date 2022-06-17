@@ -1,40 +1,44 @@
 {
-  "name": "ripley of the alley",
-  "description": "You are a CAT with 13 lives, found in Timbuktu. You steep your paws in moonlight and color your claws with the dust trails of comets. You beat your WITCH in pictionary and charades every time. You feel kinship with all creatures, living and departed. MAKE SPACE FOR MY TAIL!",
-  "image": "https://covencats.s3.amazonaws.com/8a28c69f518d4bc4292c84ef27dfcefab1957751e0f858fa4f3a79903b375f39.png",
+  "name": "fermata purrington",
+  "description": "You are a CAT with 4 lives, found in the Zocalo. You tie the strongest knots from the weakest links. You attend sound baths with your WITCH and bask in the songs of sirens. In a room full of CATS, you are the one who stands out most. SCRAM!",
+  "image": "https://covencats.s3.amazonaws.com/940ac53afb682b92171d0c0dc63a26c80a6f50dd2eb27e906c025c7292ed545c.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Rust"
+      "value": "Taupe"
     },
     {
       "trait_type": "Seat",
       "value": "Table"
     },
     {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Gold)"
+    },
+    {
       "trait_type": "Body Style",
-      "value": "Rolled"
+      "value": "Tufted"
     },
     {
       "trait_type": "Fur Color",
-      "value": "Lavender"
+      "value": "Iridescent"
     },
     {
       "trait_type": "Eye Style",
-      "value": "Sclera"
+      "value": "Hooded Side"
     },
     {
       "trait_type": "Eye Color",
-      "value": "Gold"
+      "value": "Pink"
     },
     {
       "trait_type": "Collar",
-      "value": "Studded Collar (Silver)"
+      "value": "Ethereum Collar"
     },
     {
       "trait_type": "Archetype of Power",
-      "value": "Necromancer"
+      "value": "Enchantress"
     },
     {
       "trait_type": "Sun Sign",
@@ -42,22 +46,22 @@
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Aries"
+      "value": "Cancer"
     },
     {
       "trait_type": "Rising Sign",
-      "value": "Pisces"
+      "value": "Capricorn"
     },
     {
       "display_type": "number",
       "trait_type": "Caprice",
-      "value": 5,
+      "value": 4,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Caution",
-      "value": 7,
+      "value": 1,
       "max_value": 9
     },
     {
@@ -69,7 +73,7 @@
     {
       "display_type": "number",
       "trait_type": "Curiosity",
-      "value": 7,
+      "value": 0,
       "max_value": 9
     },
     {
@@ -81,64 +85,68 @@
     {
       "display_type": "number",
       "trait_type": "Cunning",
-      "value": 8,
+      "value": 6,
       "max_value": 9
     }
   ],
   "coven_cats": {
-    "id": 1047,
-    "name": "ripley of the alley",
-    "type": "necromancer",
+    "id": 1053,
+    "name": "fermata purrington",
+    "type": "enchantress",
     "description": {
-      "summoning": "You are a CAT with 13 lives, found in Timbuktu.",
-      "magic": "You steep your paws in moonlight and color your claws with the dust trails of comets.",
-      "acts_of_service": "You beat your WITCH in pictionary and charades every time.",
-      "belonging": "You feel kinship with all creatures, living and departed.",
-      "meow": "MAKE SPACE FOR MY TAIL!"
+      "summoning": "You are a CAT with 4 lives, found in the Zocalo.",
+      "magic": "You tie the strongest knots from the weakest links.",
+      "acts_of_service": "You attend sound baths with your WITCH and bask in the songs of sirens.",
+      "belonging": "In a room full of CATS, you are the one who stands out most.",
+      "meow": "SCRAM!"
     },
     "skills": {
-      "caprice": 5,
-      "caution": 7,
+      "caprice": 4,
+      "caution": 1,
       "catastrophe": 4,
-      "curiosity": 7,
+      "curiosity": 0,
       "charisma": 9,
-      "cunning": 8
+      "cunning": 6
     },
     "birth_chart": {
       "sun": "capricorn",
-      "moon": "aries",
-      "rising": "pisces"
+      "moon": "cancer",
+      "rising": "capricorn"
     },
     "styles": [
       {
         "trait_type": "Background",
-        "value": "Rust"
+        "value": "Taupe"
       },
       {
         "trait_type": "Seat",
         "value": "Table"
       },
       {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Gold)"
+      },
+      {
         "trait_type": "Body Style",
-        "value": "Rolled"
+        "value": "Tufted"
       },
       {
         "trait_type": "Fur Color",
-        "value": "Lavender"
+        "value": "Iridescent"
       },
       {
         "trait_type": "Eye Style",
-        "value": "Sclera"
+        "value": "Hooded Side"
       },
       {
         "trait_type": "Eye Color",
-        "value": "Gold"
+        "value": "Pink"
       },
       {
         "trait_type": "Collar",
-        "value": "Studded Collar (Silver)"
+        "value": "Ethereum Collar"
       }
     ],
-    "hash": "8a28c69f518d4bc4292c84ef27dfcefab1957751e0f858fa4f3a79903b375f39"
+    "hash": "940ac53afb682b92171d0c0dc63a26c80a6f50dd2eb27e906c025c7292ed545c"
   }
 }

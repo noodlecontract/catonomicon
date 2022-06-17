@@ -1,28 +1,32 @@
 {
-  "name": "deimos sky",
-  "description": "You are a CAT who cracks cases at the Weird Wilds Detective Agency. Everywhere you go, you leave a trail of stories behind you. You protect your WITCH from chaos, candles, and Capricorns. Your meows call out prophecies of wisdom and woe. IT'S TIME TO SLEEP ON THE KEYBOARD!",
-  "image": "https://covencats.s3.amazonaws.com/3c94f580673e45af0bc521f19fd1b1264776180fa853b3a1698adec2e257aa6f.png",
+  "name": "rocotillo, the chaotic meddler",
+  "description": "You are a CAT who pounces on shiny objects. You tailor clothes with a swish of your tail. You and your WITCH are gonna make it. You delight in the misery of your enemies. IF YOU'VE GOT IT, FLAUNT IT!",
+  "image": "https://covencats.s3.amazonaws.com/733e13725d326ddaa8378ed24573c485ec2f87e3f9e65b1b6255540ede4ea78e.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Pink"
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Sunbeam"
     },
     {
       "trait_type": "Seat",
       "value": "Shelf"
     },
     {
-      "trait_type": "Background Item",
-      "value": "Spiderwebs (Black)"
+      "trait_type": "Wings",
+      "value": "Dragon (Black)"
     },
     {
       "trait_type": "Foreground Item",
-      "value": "Lucky Cat"
+      "value": "Cat Food (Salmon)"
     },
     {
       "trait_type": "Body Style",
-      "value": "Floofed"
+      "value": "Sleek"
     },
     {
       "trait_type": "Fur Color",
@@ -30,27 +34,27 @@
     },
     {
       "trait_type": "Eye Style",
-      "value": "Circle Lens"
+      "value": "Smudged"
     },
     {
       "trait_type": "Eye Color",
-      "value": "Hazel"
+      "value": "Gold"
     },
     {
       "trait_type": "Collar",
-      "value": "Raised Third Eye (Blue)"
+      "value": "Moon Choker (Silver)"
     },
     {
       "trait_type": "Archetype of Power",
-      "value": "Seer"
+      "value": "Occultist"
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Taurus"
+      "value": "Sagittarius"
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Virgo"
+      "value": "Aries"
     },
     {
       "trait_type": "Rising Sign",
@@ -59,84 +63,88 @@
     {
       "display_type": "number",
       "trait_type": "Caprice",
-      "value": 7,
+      "value": 4,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Caution",
-      "value": 9,
+      "value": 1,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Catastrophe",
-      "value": 0,
-      "max_value": 9
-    },
-    {
-      "display_type": "number",
-      "trait_type": "Curiosity",
       "value": 9,
       "max_value": 9
     },
     {
       "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
       "trait_type": "Charisma",
-      "value": 8,
+      "value": 0,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Cunning",
-      "value": 2,
+      "value": 6,
       "max_value": 9
     }
   ],
   "coven_cats": {
-    "id": 1050,
-    "name": "deimos sky",
-    "type": "seer",
+    "id": 1056,
+    "name": "rocotillo, the chaotic meddler",
+    "type": "occultist",
     "description": {
-      "summoning": "You are a CAT who cracks cases at the Weird Wilds Detective Agency.",
-      "magic": "Everywhere you go, you leave a trail of stories behind you.",
-      "acts_of_service": "You protect your WITCH from chaos, candles, and Capricorns.",
-      "belonging": "Your meows call out prophecies of wisdom and woe.",
-      "meow": "IT'S TIME TO SLEEP ON THE KEYBOARD!"
+      "summoning": "You are a CAT who pounces on shiny objects.",
+      "magic": "You tailor clothes with a swish of your tail.",
+      "acts_of_service": "You and your WITCH are gonna make it.",
+      "belonging": "You delight in the misery of your enemies.",
+      "meow": "IF YOU'VE GOT IT, FLAUNT IT!"
     },
     "skills": {
-      "caprice": 7,
-      "caution": 9,
-      "catastrophe": 0,
-      "curiosity": 9,
-      "charisma": 8,
-      "cunning": 2
+      "caprice": 4,
+      "caution": 1,
+      "catastrophe": 9,
+      "curiosity": 1,
+      "charisma": 0,
+      "cunning": 6
     },
     "birth_chart": {
-      "sun": "taurus",
-      "moon": "virgo",
+      "sun": "sagittarius",
+      "moon": "aries",
       "rising": "libra"
     },
     "styles": [
       {
         "trait_type": "Background",
-        "value": "Pink"
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Sunbeam"
       },
       {
         "trait_type": "Seat",
         "value": "Shelf"
       },
       {
-        "trait_type": "Background Item",
-        "value": "Spiderwebs (Black)"
+        "trait_type": "Wings",
+        "value": "Dragon (Black)"
       },
       {
         "trait_type": "Foreground Item",
-        "value": "Lucky Cat"
+        "value": "Cat Food (Salmon)"
       },
       {
         "trait_type": "Body Style",
-        "value": "Floofed"
+        "value": "Sleek"
       },
       {
         "trait_type": "Fur Color",
@@ -144,17 +152,17 @@
       },
       {
         "trait_type": "Eye Style",
-        "value": "Circle Lens"
+        "value": "Smudged"
       },
       {
         "trait_type": "Eye Color",
-        "value": "Hazel"
+        "value": "Gold"
       },
       {
         "trait_type": "Collar",
-        "value": "Raised Third Eye (Blue)"
+        "value": "Moon Choker (Silver)"
       }
     ],
-    "hash": "3c94f580673e45af0bc521f19fd1b1264776180fa853b3a1698adec2e257aa6f"
+    "hash": "733e13725d326ddaa8378ed24573c485ec2f87e3f9e65b1b6255540ede4ea78e"
   }
 }
