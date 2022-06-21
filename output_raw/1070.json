@@ -1,0 +1,176 @@
+{
+  "name": "cappuccino of the vineyard",
+  "description": "You are a CAT forged from death. You sniff out the best quality tuna. You play with your WITCH while all the other cats fight. You help lost kittens find their homes. BEWARE OF MICE!",
+  "image": "https://covencats.s3.amazonaws.com/12457bfdfa4d6ad9b81668bc77223e75f42d634264953c7a931d2191a2032d11.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Basket of Yarn"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Butterfly (Rose Quartz)"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Ball of Yarn (Mustard)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mauve"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Mark of Moon Tears (White)"
+    },
+    {
+      "trait_type": "Forehead Marking",
+      "value": "Mark of Earth (White)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Leo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 4,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 1070,
+    "name": "cappuccino of the vineyard",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT forged from death.",
+      "magic": "You sniff out the best quality tuna.",
+      "acts_of_service": "You play with your WITCH while all the other cats fight.",
+      "belonging": "You help lost kittens find their homes.",
+      "meow": "BEWARE OF MICE!"
+    },
+    "skills": {
+      "caprice": 1,
+      "caution": 9,
+      "catastrophe": 0,
+      "curiosity": 9,
+      "charisma": 7,
+      "cunning": 4
+    },
+    "birth_chart": {
+      "sun": "sagittarius",
+      "moon": "pisces",
+      "rising": "leo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Basket of Yarn"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "Butterfly (Rose Quartz)"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Ball of Yarn (Mustard)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mauve"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Mark of Moon Tears (White)"
+      },
+      {
+        "trait_type": "Forehead Marking",
+        "value": "Mark of Earth (White)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "12457bfdfa4d6ad9b81668bc77223e75f42d634264953c7a931d2191a2032d11"
+  }
+}

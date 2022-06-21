@@ -1,0 +1,160 @@
+{
+  "name": "jollof of the ocean",
+  "description": "You are a CAT who pounces on shiny objects. You bottle forgotten kisses and fallen dragon scales. You and your WITCH create bouquets with wilted, wild flowers. You're famous for your award-winning mackerel pizza. WALK IN SHADOWS!",
+  "image": "https://covencats.s3.amazonaws.com/7363ecd26a7c4d85d4d46d1dca612f3f7b94840293081760337e20380426cf2d.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Cat Plates"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Cat Food (Salmon)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Folded"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Warm Brown"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Mark of Moon Tears (White)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Alert"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aries"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 6,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 1078,
+    "name": "jollof of the ocean",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT who pounces on shiny objects.",
+      "magic": "You bottle forgotten kisses and fallen dragon scales.",
+      "acts_of_service": "You and your WITCH create bouquets with wilted, wild flowers.",
+      "belonging": "You're famous for your award-winning mackerel pizza.",
+      "meow": "WALK IN SHADOWS!"
+    },
+    "skills": {
+      "caprice": 5,
+      "caution": 6,
+      "catastrophe": 3,
+      "curiosity": 3,
+      "charisma": 4,
+      "cunning": 6
+    },
+    "birth_chart": {
+      "sun": "aquarius",
+      "moon": "scorpio",
+      "rising": "aries"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Cat Plates"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Cat Food (Salmon)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Folded"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Warm Brown"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Mark of Moon Tears (White)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Alert"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey"
+      }
+    ],
+    "hash": "7363ecd26a7c4d85d4d46d1dca612f3f7b94840293081760337e20380426cf2d"
+  }
+}

@@ -1,44 +1,48 @@
 {
-  "name": "cascabella, the terror",
-  "description": "You are a CAT with 8 lives, found on Mount Kilimanjaro. You stack cats in towers and sleep on top. You and your WITCH are gonna make it. All that you touch is torn asunder. SCAMPER BACKWARDS INTO THE SUN!",
-  "image": "https://covencats.s3.amazonaws.com/1dd29053f28078572fb3e87be11eb0479a15708cb45add349f342838338168a2.png",
+  "name": "hannibal, the spicy terror",
+  "description": "You are a CAT mysterious beyond belief. You wield knives and guard thresholds. You and your WITCH drink Earl Grey tea together every morning. You wander the darkest depths of the Weird Wilds. IT'S TIME TO EAT FISH!",
+  "image": "https://covencats.s3.amazonaws.com/e5eae3ecd2f3eb1a40a3c1c828175d86f9524fdc42042ec64848572c164bf0a5.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Pink"
-    },
-    {
-      "trait_type": "Background Item",
-      "value": "Cross-stitch"
+      "value": "Lavender"
     },
     {
       "trait_type": "Seat",
-      "value": "Shelf"
+      "value": "Table"
     },
     {
       "trait_type": "Foreground Item",
-      "value": "Cat Food (Salmon)"
+      "value": "Candle (Silver)"
     },
     {
       "trait_type": "Body Style",
-      "value": "Spiked"
+      "value": "Sleek"
     },
     {
       "trait_type": "Fur Color",
-      "value": "Auburn"
+      "value": "Mauve"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Claw Marked (Purple)"
     },
     {
       "trait_type": "Eye Style",
-      "value": "Sclera"
+      "value": "Smudged"
     },
     {
       "trait_type": "Eye Color",
       "value": "Red"
     },
     {
+      "trait_type": "Collar",
+      "value": "Moon Choker (Silver)"
+    },
+    {
       "trait_type": "Head Topper",
-      "value": "Bat Wings"
+      "value": "Halloween Ghost"
     },
     {
       "trait_type": "Archetype of Power",
@@ -46,26 +50,26 @@
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Virgo"
+      "value": "Pisces"
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Leo"
+      "value": "Virgo"
     },
     {
       "trait_type": "Rising Sign",
-      "value": "Taurus"
+      "value": "Aries"
     },
     {
       "display_type": "number",
       "trait_type": "Caprice",
-      "value": 6,
+      "value": 5,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Caution",
-      "value": 2,
+      "value": 0,
       "max_value": 9
     },
     {
@@ -83,78 +87,82 @@
     {
       "display_type": "number",
       "trait_type": "Charisma",
-      "value": 4,
+      "value": 6,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Cunning",
-      "value": 4,
+      "value": 3,
       "max_value": 9
     }
   ],
   "coven_cats": {
-    "id": 1059,
-    "name": "cascabella, the terror",
+    "id": 1089,
+    "name": "hannibal, the spicy terror",
     "type": "occultist",
     "description": {
-      "summoning": "You are a CAT with 8 lives, found on Mount Kilimanjaro.",
-      "magic": "You stack cats in towers and sleep on top.",
-      "acts_of_service": "You and your WITCH are gonna make it.",
-      "belonging": "All that you touch is torn asunder.",
-      "meow": "SCAMPER BACKWARDS INTO THE SUN!"
+      "summoning": "You are a CAT mysterious beyond belief.",
+      "magic": "You wield knives and guard thresholds.",
+      "acts_of_service": "You and your WITCH drink Earl Grey tea together every morning.",
+      "belonging": "You wander the darkest depths of the Weird Wilds.",
+      "meow": "IT'S TIME TO EAT FISH!"
     },
     "skills": {
-      "caprice": 6,
-      "caution": 2,
+      "caprice": 5,
+      "caution": 0,
       "catastrophe": 9,
       "curiosity": 1,
-      "charisma": 4,
-      "cunning": 4
+      "charisma": 6,
+      "cunning": 3
     },
     "birth_chart": {
-      "sun": "virgo",
-      "moon": "leo",
-      "rising": "taurus"
+      "sun": "pisces",
+      "moon": "virgo",
+      "rising": "aries"
     },
     "styles": [
       {
         "trait_type": "Background",
-        "value": "Pink"
-      },
-      {
-        "trait_type": "Background Item",
-        "value": "Cross-stitch"
+        "value": "Lavender"
       },
       {
         "trait_type": "Seat",
-        "value": "Shelf"
+        "value": "Table"
       },
       {
         "trait_type": "Foreground Item",
-        "value": "Cat Food (Salmon)"
+        "value": "Candle (Silver)"
       },
       {
         "trait_type": "Body Style",
-        "value": "Spiked"
+        "value": "Sleek"
       },
       {
         "trait_type": "Fur Color",
-        "value": "Auburn"
+        "value": "Mauve"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Claw Marked (Purple)"
       },
       {
         "trait_type": "Eye Style",
-        "value": "Sclera"
+        "value": "Smudged"
       },
       {
         "trait_type": "Eye Color",
         "value": "Red"
       },
       {
+        "trait_type": "Collar",
+        "value": "Moon Choker (Silver)"
+      },
+      {
         "trait_type": "Head Topper",
-        "value": "Bat Wings"
+        "value": "Halloween Ghost"
       }
     ],
-    "hash": "1dd29053f28078572fb3e87be11eb0479a15708cb45add349f342838338168a2"
+    "hash": "e5eae3ecd2f3eb1a40a3c1c828175d86f9524fdc42042ec64848572c164bf0a5"
   }
 }

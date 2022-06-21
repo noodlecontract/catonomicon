@@ -3263,6 +3263,173 @@
     ]
   },
   {
+    "id": 1057,
+    "name": "potato of the solarium",
+    "description": "You are a CAT who swims with sharks. You bottle tears from witches and skeletons. You bring your WITCH gifts of mice, birds, and fish. Your fur is perpetually scented with vanilla and cinnamon from all the cookies you bake. FLOURISH MY FRIEND!",
+    "archetype": "Hag",
+    "sun": "Capricorn",
+    "moon": "Capricorn",
+    "rising": "Aquarius",
+    "caprice": 1,
+    "catastrophe": 1,
+    "caution": 9,
+    "charisma": 5,
+    "cunning": 1,
+    "curiosity": 3,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Basket of Yarn"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Moths"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Platinum"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Undereye Gems (White)"
+      },
+      {
+        "trait_type": "Forehead Marking",
+        "value": "Star Mark (White)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Clear Graphic"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey"
+      }
+    ]
+  },
+  {
+    "id": 1058,
+    "name": "endothion, the hangry",
+    "description": "You are a CAT who seeks the truth. You crab walk on sofas and run horizontally across walls. You and your WITCH drink Earl Grey tea together every morning. All that you touch is torn asunder. POUNCE BACKWARDS INTO PURGATORY!",
+    "archetype": "Occultist",
+    "sun": "Sagittarius",
+    "moon": "Gemini",
+    "rising": "Virgo",
+    "caprice": 6,
+    "catastrophe": 9,
+    "caution": 5,
+    "charisma": 5,
+    "cunning": 9,
+    "curiosity": 7,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Cross-stitch"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Green)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Grumpy Lilac"
+      },
+      {
+        "trait_type": "Forehead Marking",
+        "value": "Darkened Demon Third Eye (Ruby)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ring Collar (Silver)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Flame Horns"
+      }
+    ]
+  },
+  {
+    "id": 1059,
+    "name": "cascabella, the terror",
+    "description": "You are a CAT with 8 lives, found on Mount Kilimanjaro. You stack cats in towers and sleep on top. You and your WITCH are gonna make it. All that you touch is torn asunder. SCAMPER BACKWARDS INTO THE SUN!",
+    "archetype": "Occultist",
+    "sun": "Virgo",
+    "moon": "Leo",
+    "rising": "Taurus",
+    "caprice": 6,
+    "catastrophe": 9,
+    "caution": 2,
+    "charisma": 4,
+    "cunning": 4,
+    "curiosity": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Cross-stitch"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Cat Food (Salmon)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Auburn"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Sclera"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Bat Wings"
+      }
+    ]
+  },
+  {
     "id": 106,
     "name": "nickel cacophony",
     "description": "You are a CAT who hides in the dark. Your fur glows in the dark. You protect your WITCH from tentacles, thorns, and Tauruses. You are often heard giving cryptography lectures in the Hallowed Halls. IT'S TIME TO STALK YOUR PREY!",
@@ -3312,6 +3479,516 @@
       {
         "trait_type": "Collar",
         "value": "Leather Collar"
+      }
+    ]
+  },
+  {
+    "id": 1060,
+    "name": "prince grey, the classic",
+    "description": "You are a CAT who dances among sunflowers. You scare away enemies with a high-pitched yowl. You and your WITCH scream into the Void. The way your fur shines in the sunlight captivates all who pass by. IT'S TIME TO CHASE THE MOUSE!",
+    "archetype": "Enchantress",
+    "sun": "Libra",
+    "moon": "Leo",
+    "rising": "Capricorn",
+    "caprice": 2,
+    "catastrophe": 6,
+    "caution": 4,
+    "charisma": 9,
+    "cunning": 6,
+    "curiosity": 7,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Mirror"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Cat Food (Salmon)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Chocolate Siamese"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Babylash"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Collar of Pearls"
+      }
+    ]
+  },
+  {
+    "id": 1061,
+    "name": "balthazar bellagio",
+    "description": "You are a CAT made from fluffy clouds, feathers, and water magic. Your claws are as sharp as blades. You and your WITCH take cat naps in the sun. The way your fur shines in the sunlight captivates all who pass by. DANCE TO THE MUSIC!",
+    "archetype": "Enchantress",
+    "sun": "Virgo",
+    "moon": "Leo",
+    "rising": "Capricorn",
+    "caprice": 8,
+    "catastrophe": 3,
+    "caution": 4,
+    "charisma": 9,
+    "cunning": 3,
+    "curiosity": 4,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Pillow (Cream)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Maine Coon Smoke"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Lilac"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ethereum Collar"
+      }
+    ]
+  },
+  {
+    "id": 1062,
+    "name": "hangry azide",
+    "description": "You are a CAT with 16 lives, found on the streets of Mumbai. You make your bed in the softest of clover fields. You and your WITCH debate the virtues of decentralization and governance. You dance with the VOID WITCH in the deepest dark of the Weird Wilds. CATNIP!",
+    "archetype": "Occultist",
+    "sun": "Sagittarius",
+    "moon": "Virgo",
+    "rising": "Gemini",
+    "caprice": 1,
+    "catastrophe": 8,
+    "caution": 8,
+    "charisma": 4,
+    "cunning": 9,
+    "curiosity": 0,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Silver)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Auburn"
+      },
+      {
+        "trait_type": "Forehead Marking",
+        "value": "Mark of the Claw"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Sclera"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Fish Collar"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Gentle Horns"
+      }
+    ]
+  },
+  {
+    "id": 1063,
+    "name": "sinfonia, the wicked",
+    "description": "You are a CAT who roasts and brews perfect coffee. Your paws dance to silent music. You and your WITCH play fetch with almonds. Your purrs can be heard in the music of Sylv. ROLL, ROLL, ROLL!",
+    "archetype": "Enchantress",
+    "sun": "Gemini",
+    "moon": "Libra",
+    "rising": "Gemini",
+    "caprice": 8,
+    "catastrophe": 7,
+    "caution": 2,
+    "charisma": 8,
+    "cunning": 9,
+    "curiosity": 5,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sea"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Moths"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mauve"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Simple Circlet (Silver)"
+      }
+    ]
+  },
+  {
+    "id": 1064,
+    "name": "ararat of the pyramid",
+    "description": "You are a CAT with 18 lives, found in a karaoke bar in Tokyo. You plunge into hot baths to catch magic trapped in bubbles. You and your WITCH take cat naps in the sun. Your tail is a powerful scrying tool. AHAHAHAHA... I WIN!",
+    "archetype": "Seer",
+    "sun": "Cancer",
+    "moon": "Virgo",
+    "rising": "Libra",
+    "caprice": 7,
+    "catastrophe": 6,
+    "caution": 8,
+    "charisma": 7,
+    "cunning": 4,
+    "curiosity": 5,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Taupe"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Crystal Ball"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Sage"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mermaid"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Hazel"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Piercing Choker (Red)"
+      },
+      {
+        "trait_type": "Facewear",
+        "value": "Eyepatch (Black)"
+      }
+    ]
+  },
+  {
+    "id": 1065,
+    "name": "callisto twilight",
+    "description": "You are a CAT with 7 lives, found in a cenote in the Yucatan. You hatch schemes while you nap and spend your days clawing them into existence. You and your WITCH bond over a mutual love for Rihanna. You entangle people's destinies with the help of a spider. LA LUNA!",
+    "archetype": "Seer",
+    "sun": "Virgo",
+    "moon": "Cancer",
+    "rising": "Capricorn",
+    "caprice": 2,
+    "catastrophe": 2,
+    "caution": 9,
+    "charisma": 2,
+    "cunning": 7,
+    "curiosity": 5,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Genie Lamp (Pink)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lilac"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Carnelian"
+      },
+      {
+        "trait_type": "Facewear",
+        "value": "Eyepatch (Black)"
+      }
+    ]
+  },
+  {
+    "id": 1066,
+    "name": "cognac, the devious prankster",
+    "description": "You are a CAT with 18 lives, found in a karaoke bar in Tokyo. Your form expands or shrinks to exactly fill the space you occupy. You and your WITCH recharge, reflect, and release every full moon. You steal everything that isn't nailed down and sometimes things that are. PAY ATTENTION TO ME!",
+    "archetype": "Occultist",
+    "sun": "Aries",
+    "moon": "Gemini",
+    "rising": "Libra",
+    "caprice": 6,
+    "catastrophe": 7,
+    "caution": 4,
+    "charisma": 1,
+    "cunning": 9,
+    "curiosity": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Cross-stitch"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Apothecary Jars (Forgotten Kisses, Limes, Dragon Scales)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lilac"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Amber"
+      }
+    ]
+  },
+  {
+    "id": 1067,
+    "name": "cadenza california",
+    "description": "You are a CAT with 5 lives, found in the Taj Mahal. You flick your ears to the beat of the music. You delight in your WITCH's spellcasting experiments. You delight in the subtlety of deception. LOVE ME FIERCE AND LOVE ME TENDER!",
+    "archetype": "Enchantress",
+    "sun": "Pisces",
+    "moon": "Scorpio",
+    "rising": "Aquarius",
+    "caprice": 2,
+    "catastrophe": 8,
+    "caution": 7,
+    "charisma": 9,
+    "cunning": 8,
+    "curiosity": 3,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Mirror"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Apothecary Jars (Starlight, Dewdrops, ETH)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Witch Hat"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Starry Purple"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Glo"
+      }
+    ]
+  },
+  {
+    "id": 1068,
+    "name": "leonis, the soft",
+    "description": "You are a CAT sprung from a shower of glitter. Your paws hide multitudes of wisdom and... almonds. You and your WITCH meet under the stars at the end of a long day. The cards speak to you in the squabbles of birds. MAKE SPACE FOR MY TAIL!",
+    "archetype": "Seer",
+    "sun": "Libra",
+    "moon": "Sagittarius",
+    "rising": "Capricorn",
+    "caprice": 9,
+    "catastrophe": 6,
+    "caution": 9,
+    "charisma": 8,
+    "cunning": 0,
+    "curiosity": 6,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Spiderwebs (Black)"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Crystals (Amethyst)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Starry Silver"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Bicolor Blue Gold"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Simple Circlet (Silver)"
+      }
+    ]
+  },
+  {
+    "id": 1069,
+    "name": "einstein, the demanding",
+    "description": "You are a CAT forged from death. Your whiskers tell fortunes. You cherish your WITCH like you would the rarest gem. You research the best places to catch fish. TO THE MOON!",
+    "archetype": "Mage",
+    "sun": "Capricorn",
+    "moon": "Sagittarius",
+    "rising": "Aries",
+    "caprice": 4,
+    "catastrophe": 4,
+    "caution": 2,
+    "charisma": 4,
+    "cunning": 2,
+    "curiosity": 3,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Apothecary Jars (Starlight, Dewdrops, ETH)"
+      },
+      {
+        "trait_type": "Aura",
+        "value": "Scripted Mage Aura (Blue)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Chocolate Siamese"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Reverse Cateye"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Glo"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
       }
     ]
   },
@@ -3369,6 +4046,540 @@
     ]
   },
   {
+    "id": 1070,
+    "name": "cappuccino of the vineyard",
+    "description": "You are a CAT forged from death. You sniff out the best quality tuna. You play with your WITCH while all the other cats fight. You help lost kittens find their homes. BEWARE OF MICE!",
+    "archetype": "Hag",
+    "sun": "Sagittarius",
+    "moon": "Pisces",
+    "rising": "Leo",
+    "caprice": 1,
+    "catastrophe": 0,
+    "caution": 9,
+    "charisma": 7,
+    "cunning": 4,
+    "curiosity": 9,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Basket of Yarn"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "Butterfly (Rose Quartz)"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Ball of Yarn (Mustard)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mauve"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Mark of Moon Tears (White)"
+      },
+      {
+        "trait_type": "Forehead Marking",
+        "value": "Mark of Earth (White)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ]
+  },
+  {
+    "id": 1071,
+    "name": "popcorn of the isle",
+    "description": "You are a CAT feared by dogs the land over. You spin on record players and meow with the music. You and your WITCH bond over spring/summer runway shows. You step on four-leaf clovers to make wishes. TO THE MOON!",
+    "archetype": "Hag",
+    "sun": "Capricorn",
+    "moon": "Libra",
+    "rising": "Scorpio",
+    "caprice": 1,
+    "catastrophe": 4,
+    "caution": 3,
+    "charisma": 1,
+    "cunning": 6,
+    "curiosity": 6,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Sunbeam"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Easel"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Paintbrushes"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lilac Siamese"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Babylash"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Anemone Horns"
+      }
+    ]
+  },
+  {
+    "id": 1072,
+    "name": "clarus",
+    "description": "You are a CAT with unknown lives, born beneath an auspicious full moon. You weave tapestries with your tail. You and your WITCH speak in riddles and puzzles. You inhale catnip and exhale spells that stop time. THROW CAUTION TO THE WIND!",
+    "archetype": "Seer",
+    "sun": "Scorpio",
+    "moon": "Sagittarius",
+    "rising": "Virgo",
+    "caprice": 7,
+    "catastrophe": 5,
+    "caution": 4,
+    "charisma": 1,
+    "cunning": 1,
+    "curiosity": 4,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Full Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Crystal Ball"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Sage"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mauve"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Rope Third Eye (Purple)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Hoodlondon Hathor (Gold)"
+      },
+      {
+        "trait_type": "Facewear",
+        "value": "Eyepatch (Gold)"
+      }
+    ]
+  },
+  {
+    "id": 1073,
+    "name": "toast of the quilt",
+    "description": "You are a CAT with unknown lives, born beneath an auspicious full moon. You cut down trees with a swipe of your claw. You and your WITCH meet under the stars at the end of a long day. Your steaming breath keeps wolves warm on long winter nights. TAKE A NAP!",
+    "archetype": "Hag",
+    "sun": "Gemini",
+    "moon": "Sagittarius",
+    "rising": "Pisces",
+    "caprice": 2,
+    "catastrophe": 2,
+    "caution": 9,
+    "charisma": 6,
+    "cunning": 7,
+    "curiosity": 3,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Easel"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Paintbrushes"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Folded"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lilac"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Glo"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      }
+    ]
+  },
+  {
+    "id": 1074,
+    "name": "bordeaux baudelaire",
+    "description": "You are a CAT who guards the threshold. You scare away enemies with a bat of your eyes. You and your WITCH bond over brown paper packages tied up with string. People appear more beautiful the longer they are in your presence. BE STILL; BE FREE; BE MINE!",
+    "archetype": "Enchantress",
+    "sun": "Leo",
+    "moon": "Sagittarius",
+    "rising": "Aquarius",
+    "caprice": 9,
+    "catastrophe": 8,
+    "caution": 6,
+    "charisma": 8,
+    "cunning": 9,
+    "curiosity": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Butterfly"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Pillow (Purple)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mermaid"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Glo"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ethereum Collar"
+      }
+    ]
+  },
+  {
+    "id": 1075,
+    "name": "mandelbrot, the groom",
+    "description": "You are a CAT with 15 lives, found at the base of Machu Picchu. You claw at wicked warts and monstrous magicians. You support your WITCH in all things. You dance among flames without a care in the world. BOOP, BOOP, BOOP!",
+    "archetype": "Occultist",
+    "sun": "Virgo",
+    "moon": "Sagittarius",
+    "rising": "Taurus",
+    "caprice": 1,
+    "catastrophe": 8,
+    "caution": 7,
+    "charisma": 4,
+    "cunning": 7,
+    "curiosity": 6,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sea"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Full Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Ram's Skull"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sphynx"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mask and Mantle"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Demon"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Bat Wings"
+      }
+    ]
+  },
+  {
+    "id": 1076,
+    "name": "adage, the quiet",
+    "description": "You are a CAT made of two candles melted together. You catch mice in your sleep. You and your WITCH bond over a mutual respect for Beyonce. You are often heard giving cryptography lectures in the Hallowed Halls. DO AS I SAY, NOT AS I DO!",
+    "archetype": "Mage",
+    "sun": "Libra",
+    "moon": "Aries",
+    "rising": "Taurus",
+    "caprice": 3,
+    "catastrophe": 5,
+    "caution": 5,
+    "charisma": 0,
+    "cunning": 1,
+    "curiosity": 5,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Cross-stitch"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Green)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Carnelian"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Moon Choker (Silver)"
+      }
+    ]
+  },
+  {
+    "id": 1077,
+    "name": "tuna",
+    "description": "You are a CAT who pounces on shiny objects. You snuggle close to the fireplace and dream of epic adventures. You and your WITCH bond over California rolls. You label mushrooms by scent with the help of your powerful whiskers. MOVE FAST OR GET OUT OF THE WAY!",
+    "archetype": "Hag",
+    "sun": "Sagittarius",
+    "moon": "Taurus",
+    "rising": "Leo",
+    "caprice": 4,
+    "catastrophe": 5,
+    "caution": 8,
+    "charisma": 5,
+    "cunning": 2,
+    "curiosity": 3,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Cross-stitch"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Sage"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Folded"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mermaid"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      }
+    ]
+  },
+  {
+    "id": 1078,
+    "name": "jollof of the ocean",
+    "description": "You are a CAT who pounces on shiny objects. You bottle forgotten kisses and fallen dragon scales. You and your WITCH create bouquets with wilted, wild flowers. You're famous for your award-winning mackerel pizza. WALK IN SHADOWS!",
+    "archetype": "Hag",
+    "sun": "Aquarius",
+    "moon": "Scorpio",
+    "rising": "Aries",
+    "caprice": 5,
+    "catastrophe": 3,
+    "caution": 6,
+    "charisma": 4,
+    "cunning": 6,
+    "curiosity": 3,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Cat Plates"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Cat Food (Salmon)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Folded"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Warm Brown"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Mark of Moon Tears (White)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Alert"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey"
+      }
+    ]
+  },
+  {
+    "id": 1079,
+    "name": "ripley, the blade",
+    "description": "You are a CAT who loves French toast, French fries, and French horns. You are as sweet as the chord that ends a happy song. You and your WITCH share the spotlight in a Broadway show. Ghosts beg you to pass on their final message. PLAY WITH YOUR FOOD!",
+    "archetype": "Necromancer",
+    "sun": "Aquarius",
+    "moon": "Cancer",
+    "rising": "Aquarius",
+    "caprice": 0,
+    "catastrophe": 5,
+    "caution": 4,
+    "charisma": 1,
+    "cunning": 1,
+    "curiosity": 3,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Bag of Salt"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "Lymantriinae Moth"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Snow Bengal"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Reverse Cateye"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Opal"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ring Collar (Silver)"
+      }
+    ]
+  },
+  {
     "id": 108,
     "name": "ash, the danger",
     "description": "You are a CAT made of waterfalls, wontons, and wisteria. You sleep on top of books and dream yourself into tales of the Weird Wilds past. You and your WITCH recharge, reflect, and release every full moon. Your fur hides black magic in its darker shades. READ THE MOON!",
@@ -3422,6 +4633,536 @@
     ]
   },
   {
+    "id": 1080,
+    "name": "pahoohoo sophocles",
+    "description": "You are a CAT with 6 lives, born from the pounce of a jaguar in the middle of the night. You spin on record players and meow with the music. You protect your WITCH from gluten, peanuts, and shellfish. You've developed the optimal method for catching mice. IT'S TIME TO SNUGGLE!",
+    "archetype": "Mage",
+    "sun": "Leo",
+    "moon": "Aquarius",
+    "rising": "Gemini",
+    "caprice": 6,
+    "catastrophe": 9,
+    "caution": 4,
+    "charisma": 6,
+    "cunning": 2,
+    "curiosity": 9,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Taupe"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Books"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Blue)"
+      },
+      {
+        "trait_type": "Aura",
+        "value": "Scripted Circle (Blue)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Alert"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey"
+      }
+    ]
+  },
+  {
+    "id": 1081,
+    "name": "loki, the fatal",
+    "description": "You are a CAT come to life from a spell. Your claws are dipped in the venom of a spiteful spirit. You and your WITCH bond over your mutual love for gifting tarot cards to friends. You teach demons your mischievous ways. BEWARE OF MICE!",
+    "archetype": "Occultist",
+    "sun": "Capricorn",
+    "moon": "Scorpio",
+    "rising": "Virgo",
+    "caprice": 2,
+    "catastrophe": 4,
+    "caution": 4,
+    "charisma": 3,
+    "cunning": 3,
+    "curiosity": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Apothecary Jars (Forgotten Kisses, Limes, Dragon Scales)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mauve"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Claw Marked (Blue)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Sclera"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Gold"
+      }
+    ]
+  },
+  {
+    "id": 1082,
+    "name": "lawrencium aristotle",
+    "description": "You are a CAT with 8 lives, found on Mount Kilimanjaro. You catch mice in your sleep. You and your WITCH scale mountains and explore caves together. You are an expert in the anatomy of mackerels. MAKE ALL AWARE OF YOUR NINE LIVES!",
+    "archetype": "Mage",
+    "sun": "Aries",
+    "moon": "Taurus",
+    "rising": "Aries",
+    "caprice": 8,
+    "catastrophe": 2,
+    "caution": 2,
+    "charisma": 6,
+    "cunning": 3,
+    "curiosity": 9,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Apothecary Jars (Forgotten Kisses, Limes, Dragon Scales)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Glo"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Mage Script Serpent (Green)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged Monolid"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ]
+  },
+  {
+    "id": 1083,
+    "name": "fable, the discerning",
+    "description": "You are a CAT who tangoes with your prey. You bottle tears from witches and skeletons. You show your love for your WITCH by stuffing them full of your favorite treats. You are often heard giving cryptography lectures in the Hallowed Halls. IT'S TIME TO PLAY!",
+    "archetype": "Mage",
+    "sun": "Gemini",
+    "moon": "Aquarius",
+    "rising": "Capricorn",
+    "caprice": 8,
+    "catastrophe": 4,
+    "caution": 9,
+    "charisma": 8,
+    "cunning": 5,
+    "curiosity": 9,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Silver)"
+      },
+      {
+        "trait_type": "Aura",
+        "value": "Scripted Circle (Blue)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mermaid"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Mage Script Serpent (Phosphorescent)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Moon Choker (Silver)"
+      }
+    ]
+  },
+  {
+    "id": 1084,
+    "name": "nickel",
+    "description": "You are a CAT with 19 lives, found on the streets of Amsterdam. You scratch the sofa, the curtains, and the bed to express your love (and ownership of this house). You and your WITCH bond over California rolls. You play wordle, sudoku, and crossword puzzles every day. POUNCE BACKWARDS INTO HELL!",
+    "archetype": "Mage",
+    "sun": "Scorpio",
+    "moon": "Leo",
+    "rising": "Sagittarius",
+    "caprice": 7,
+    "catastrophe": 3,
+    "caution": 7,
+    "charisma": 8,
+    "cunning": 1,
+    "curiosity": 8,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Cross-stitch"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Blue)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Platinum"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Amber"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Moon Choker (Silver)"
+      }
+    ]
+  },
+  {
+    "id": 1085,
+    "name": "dahoma morte",
+    "description": "You are a CAT made of waterfalls, wontons, and wisteria. You dance between the lines of sheet music, whirl around the notes. You and your WITCH bond over raindrops on roses. You keep a mischief of ghost mice at your beck and call. TO THE MILK SAUCER!",
+    "archetype": "Necromancer",
+    "sun": "Cancer",
+    "moon": "Aries",
+    "rising": "Capricorn",
+    "caprice": 0,
+    "catastrophe": 6,
+    "caution": 7,
+    "charisma": 9,
+    "cunning": 0,
+    "curiosity": 7,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Moths"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Tombstone"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lilac Siamese"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ]
+  },
+  {
+    "id": 1086,
+    "name": "himalia of the incense",
+    "description": "You are a CAT who paints portraits of pineapples. You fight dragons and demons in your dreams. Your anger shields your WITCH from enemy spells. You draw your visions from whiskers, catnip, and mackerel bones. THE UNIVERSE CALLS!",
+    "archetype": "Seer",
+    "sun": "Taurus",
+    "moon": "Capricorn",
+    "rising": "Libra",
+    "caprice": 4,
+    "catastrophe": 1,
+    "caution": 8,
+    "charisma": 6,
+    "cunning": 8,
+    "curiosity": 8,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Broom"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Bag of Salt"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Brown Bengal"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Glo"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ]
+  },
+  {
+    "id": 1087,
+    "name": "kennedy ballet",
+    "description": "You are a CAT who makes homes out of forgotten places. Your whiskers always point true south. You advise your WITCH to decide what's rare. You tell stories of your conquests, and none can tell the difference between truth and fiction. DO AS I SAY, NOT AS I DO!",
+    "archetype": "Enchantress",
+    "sun": "Sagittarius",
+    "moon": "Gemini",
+    "rising": "Taurus",
+    "caprice": 9,
+    "catastrophe": 1,
+    "caution": 1,
+    "charisma": 3,
+    "cunning": 8,
+    "curiosity": 6,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Moths"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Gold)"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Creepy Yeha Pearls"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Crown of Pearls"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Platinum"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Undereye Gems (White)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Babylash"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      }
+    ]
+  },
+  {
+    "id": 1088,
+    "name": "spicy margarita",
+    "description": "You are a CAT who sleeps on yarn. You spin on record players and meow with the music. You and your WITCH weave garlands and crowns from wildflowers. You are a hunter and keeper of bird souls. DIVE INTO THE ABYSS!",
+    "archetype": "Occultist",
+    "sun": "Aries",
+    "moon": "Sagittarius",
+    "rising": "Cancer",
+    "caprice": 7,
+    "catastrophe": 9,
+    "caution": 0,
+    "charisma": 5,
+    "cunning": 4,
+    "curiosity": 6,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Crescent Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Skull"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Silver)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Claw Marked (Black)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Carnelian"
+      }
+    ]
+  },
+  {
+    "id": 1089,
+    "name": "hannibal, the spicy terror",
+    "description": "You are a CAT mysterious beyond belief. You wield knives and guard thresholds. You and your WITCH drink Earl Grey tea together every morning. You wander the darkest depths of the Weird Wilds. IT'S TIME TO EAT FISH!",
+    "archetype": "Occultist",
+    "sun": "Pisces",
+    "moon": "Virgo",
+    "rising": "Aries",
+    "caprice": 5,
+    "catastrophe": 9,
+    "caution": 0,
+    "charisma": 6,
+    "cunning": 3,
+    "curiosity": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Silver)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mauve"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Claw Marked (Purple)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Moon Choker (Silver)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Halloween Ghost"
+      }
+    ]
+  },
+  {
     "id": 109,
     "name": "counterpoint potala",
     "description": "You are a CAT who collects feathers, fingerprints, and frangipane. You read Shakespeare's tales on the coldest winter nights. To cat or not to cat? That is the question. You watch over your WITCH's potions. In a room full of CATS, you are the one who stands out most. MAKE ALL AWARE OF YOUR PURR!",
@@ -3463,6 +5204,218 @@
       {
         "trait_type": "Collar",
         "value": "Ethereum Collar"
+      }
+    ]
+  },
+  {
+    "id": 1090,
+    "name": "radium, the inquisitive",
+    "description": "You are a CAT with 20 lives, found on the Buda side of Budapest. You cast spells with a swish of your tail. You and your WITCH adopt abandoned animals and nurse them back to health. Every morning, you recite T.S. Eliot's Book of Practical Cats to yourself in the mirror. READ THE STARS!",
+    "archetype": "Mage",
+    "sun": "Taurus",
+    "moon": "Capricorn",
+    "rising": "Taurus",
+    "caprice": 3,
+    "catastrophe": 5,
+    "caution": 9,
+    "charisma": 5,
+    "cunning": 3,
+    "curiosity": 5,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Cross-stitch"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Potions"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Glo"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Mage Script Serpent (Blue)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Amber"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ]
+  },
+  {
+    "id": 1091,
+    "name": "lawrencium seuss",
+    "description": "You are a CAT made of candles, clay, and credit cards. You wear witch hats and tap dance from room to room. You and your WITCH love a mess. You study how to exchange one life for another. BOW BEFORE ME!",
+    "archetype": "Mage",
+    "sun": "Leo",
+    "moon": "Sagittarius",
+    "rising": "Pisces",
+    "caprice": 7,
+    "catastrophe": 4,
+    "caution": 3,
+    "charisma": 3,
+    "cunning": 2,
+    "curiosity": 7,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Books"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Simple Octagon Glasses (Silver)"
+      },
+      {
+        "trait_type": "Aura",
+        "value": "Mage Aura (Orange)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Navy"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Moon Choker (Silver)"
+      }
+    ]
+  },
+  {
+    "id": 1092,
+    "name": "kanna fog",
+    "description": "You are a CAT who imbibes potions of all kinds. You steep your paws in almond extract and hide almonds within your toes. You and your WITCH make potions from dried leaves and orange zest. Your oracle lives inside a saucer of fresh cream. THE UNIVERSE CALLS!",
+    "archetype": "Seer",
+    "sun": "Aries",
+    "moon": "Capricorn",
+    "rising": "Libra",
+    "caprice": 4,
+    "catastrophe": 7,
+    "caution": 9,
+    "charisma": 4,
+    "cunning": 7,
+    "curiosity": 5,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Cat Food (Tuna)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Platinum"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Flooded Cobalt"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Rope Third Eye (Purple)"
+      }
+    ]
+  },
+  {
+    "id": 1093,
+    "name": "elemi exu",
+    "description": "You are a CAT whose very existence confounds reason. When you want to be alone, you retreat into the dark recesses of your fur. You and your WITCH bond over kittens wearing little top hats. You keep a mischief of ghost mice at your beck and call. SCRAM!",
+    "archetype": "Necromancer",
+    "sun": "Scorpio",
+    "moon": "Virgo",
+    "rising": "Scorpio",
+    "caprice": 5,
+    "catastrophe": 3,
+    "caution": 9,
+    "charisma": 3,
+    "cunning": 7,
+    "curiosity": 4,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Crescent Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Bag of Salt"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mauve"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Amber"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ring Collar (Silver)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Maleficent Horns"
       }
     ]
   },

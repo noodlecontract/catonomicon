@@ -1,0 +1,160 @@
+{
+  "name": "lawrencium seuss",
+  "description": "You are a CAT made of candles, clay, and credit cards. You wear witch hats and tap dance from room to room. You and your WITCH love a mess. You study how to exchange one life for another. BOW BEFORE ME!",
+  "image": "https://covencats.s3.amazonaws.com/7935da7c92518121bd290970d287b8ad55aa2d5755bc50f94bc3d467fc291938.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Books"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Simple Octagon Glasses (Silver)"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "Mage Aura (Orange)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Smudged"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Moon Choker (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Pisces"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 2,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 1091,
+    "name": "lawrencium seuss",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT made of candles, clay, and credit cards.",
+      "magic": "You wear witch hats and tap dance from room to room.",
+      "acts_of_service": "You and your WITCH love a mess.",
+      "belonging": "You study how to exchange one life for another.",
+      "meow": "BOW BEFORE ME!"
+    },
+    "skills": {
+      "caprice": 7,
+      "caution": 3,
+      "catastrophe": 4,
+      "curiosity": 7,
+      "charisma": 3,
+      "cunning": 2
+    },
+    "birth_chart": {
+      "sun": "leo",
+      "moon": "sagittarius",
+      "rising": "pisces"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Books"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Simple Octagon Glasses (Silver)"
+      },
+      {
+        "trait_type": "Aura",
+        "value": "Mage Aura (Orange)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Navy"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Moon Choker (Silver)"
+      }
+    ],
+    "hash": "7935da7c92518121bd290970d287b8ad55aa2d5755bc50f94bc3d467fc291938"
+  }
+}

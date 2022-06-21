@@ -1,24 +1,20 @@
 {
-  "name": "prince grey, the classic",
-  "description": "You are a CAT who dances among sunflowers. You scare away enemies with a high-pitched yowl. You and your WITCH scream into the Void. The way your fur shines in the sunlight captivates all who pass by. IT'S TIME TO CHASE THE MOUSE!",
-  "image": "https://covencats.s3.amazonaws.com/4ec23040370666cbb3e487b1ba095c28bb659756dce6254565c29d8983172d25.png",
+  "name": "sinfonia, the wicked",
+  "description": "You are a CAT who roasts and brews perfect coffee. Your paws dance to silent music. You and your WITCH play fetch with almonds. Your purrs can be heard in the music of Sylv. ROLL, ROLL, ROLL!",
+  "image": "https://covencats.s3.amazonaws.com/edfc2921952275979e1cffb51b993f10fd32308cc5705d67e19207a2de664e1f.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Peach"
+      "value": "Sea"
     },
     {
       "trait_type": "Background Item",
-      "value": "Mirror"
+      "value": "Moths"
     },
     {
       "trait_type": "Seat",
-      "value": "Shelf"
-    },
-    {
-      "trait_type": "Foreground Item",
-      "value": "Cat Food (Salmon)"
+      "value": "Table"
     },
     {
       "trait_type": "Body Style",
@@ -26,19 +22,19 @@
     },
     {
       "trait_type": "Fur Color",
-      "value": "Chocolate Siamese"
+      "value": "Mauve"
     },
     {
       "trait_type": "Eye Style",
-      "value": "Babylash"
+      "value": "Circle Lens"
     },
     {
       "trait_type": "Eye Color",
-      "value": "Green"
+      "value": "Grey Green"
     },
     {
       "trait_type": "Collar",
-      "value": "Collar of Pearls"
+      "value": "Simple Circlet (Silver)"
     },
     {
       "trait_type": "Archetype of Power",
@@ -46,93 +42,89 @@
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Libra"
+      "value": "Gemini"
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Leo"
+      "value": "Libra"
     },
     {
       "trait_type": "Rising Sign",
-      "value": "Capricorn"
+      "value": "Gemini"
     },
     {
       "display_type": "number",
       "trait_type": "Caprice",
-      "value": 2,
+      "value": 8,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Caution",
-      "value": 4,
+      "value": 2,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Catastrophe",
-      "value": 6,
-      "max_value": 9
-    },
-    {
-      "display_type": "number",
-      "trait_type": "Curiosity",
       "value": 7,
       "max_value": 9
     },
     {
       "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
       "trait_type": "Charisma",
-      "value": 9,
+      "value": 8,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Cunning",
-      "value": 6,
+      "value": 9,
       "max_value": 9
     }
   ],
   "coven_cats": {
-    "id": 1060,
-    "name": "prince grey, the classic",
+    "id": 1063,
+    "name": "sinfonia, the wicked",
     "type": "enchantress",
     "description": {
-      "summoning": "You are a CAT who dances among sunflowers.",
-      "magic": "You scare away enemies with a high-pitched yowl.",
-      "acts_of_service": "You and your WITCH scream into the Void.",
-      "belonging": "The way your fur shines in the sunlight captivates all who pass by.",
-      "meow": "IT'S TIME TO CHASE THE MOUSE!"
+      "summoning": "You are a CAT who roasts and brews perfect coffee.",
+      "magic": "Your paws dance to silent music.",
+      "acts_of_service": "You and your WITCH play fetch with almonds.",
+      "belonging": "Your purrs can be heard in the music of Sylv.",
+      "meow": "ROLL, ROLL, ROLL!"
     },
     "skills": {
-      "caprice": 2,
-      "caution": 4,
-      "catastrophe": 6,
-      "curiosity": 7,
-      "charisma": 9,
-      "cunning": 6
+      "caprice": 8,
+      "caution": 2,
+      "catastrophe": 7,
+      "curiosity": 5,
+      "charisma": 8,
+      "cunning": 9
     },
     "birth_chart": {
-      "sun": "libra",
-      "moon": "leo",
-      "rising": "capricorn"
+      "sun": "gemini",
+      "moon": "libra",
+      "rising": "gemini"
     },
     "styles": [
       {
         "trait_type": "Background",
-        "value": "Peach"
+        "value": "Sea"
       },
       {
         "trait_type": "Background Item",
-        "value": "Mirror"
+        "value": "Moths"
       },
       {
         "trait_type": "Seat",
-        "value": "Shelf"
-      },
-      {
-        "trait_type": "Foreground Item",
-        "value": "Cat Food (Salmon)"
+        "value": "Table"
       },
       {
         "trait_type": "Body Style",
@@ -140,21 +132,21 @@
       },
       {
         "trait_type": "Fur Color",
-        "value": "Chocolate Siamese"
+        "value": "Mauve"
       },
       {
         "trait_type": "Eye Style",
-        "value": "Babylash"
+        "value": "Circle Lens"
       },
       {
         "trait_type": "Eye Color",
-        "value": "Green"
+        "value": "Grey Green"
       },
       {
         "trait_type": "Collar",
-        "value": "Collar of Pearls"
+        "value": "Simple Circlet (Silver)"
       }
     ],
-    "hash": "4ec23040370666cbb3e487b1ba095c28bb659756dce6254565c29d8983172d25"
+    "hash": "edfc2921952275979e1cffb51b993f10fd32308cc5705d67e19207a2de664e1f"
   }
 }

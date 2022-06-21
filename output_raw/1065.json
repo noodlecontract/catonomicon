@@ -1,0 +1,144 @@
+{
+  "name": "callisto twilight",
+  "description": "You are a CAT with 7 lives, found in a cenote in the Yucatan. You hatch schemes while you nap and spend your days clawing them into existence. You and your WITCH bond over a mutual love for Rihanna. You entangle people's destinies with the help of a spider. LA LUNA!",
+  "image": "https://covencats.s3.amazonaws.com/13ba003865ebfc675618698dd75ae2f8bb7a0dab59cd99ddb590eefe01b71909.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Genie Lamp (Pink)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Carnelian"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Eyepatch (Black)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Capricorn"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 7,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 1065,
+    "name": "callisto twilight",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT with 7 lives, found in a cenote in the Yucatan.",
+      "magic": "You hatch schemes while you nap and spend your days clawing them into existence.",
+      "acts_of_service": "You and your WITCH bond over a mutual love for Rihanna.",
+      "belonging": "You entangle people's destinies with the help of a spider.",
+      "meow": "LA LUNA!"
+    },
+    "skills": {
+      "caprice": 2,
+      "caution": 9,
+      "catastrophe": 2,
+      "curiosity": 5,
+      "charisma": 2,
+      "cunning": 7
+    },
+    "birth_chart": {
+      "sun": "virgo",
+      "moon": "cancer",
+      "rising": "capricorn"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Genie Lamp (Pink)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lilac"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Carnelian"
+      },
+      {
+        "trait_type": "Facewear",
+        "value": "Eyepatch (Black)"
+      }
+    ],
+    "hash": "13ba003865ebfc675618698dd75ae2f8bb7a0dab59cd99ddb590eefe01b71909"
+  }
+}

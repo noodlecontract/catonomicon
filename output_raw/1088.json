@@ -1,7 +1,7 @@
 {
-  "name": "cascabella, the terror",
-  "description": "You are a CAT with 8 lives, found on Mount Kilimanjaro. You stack cats in towers and sleep on top. You and your WITCH are gonna make it. All that you touch is torn asunder. SCAMPER BACKWARDS INTO THE SUN!",
-  "image": "https://covencats.s3.amazonaws.com/1dd29053f28078572fb3e87be11eb0479a15708cb45add349f342838338168a2.png",
+  "name": "spicy margarita",
+  "description": "You are a CAT who sleeps on yarn. You spin on record players and meow with the music. You and your WITCH weave garlands and crowns from wildflowers. You are a hunter and keeper of bird souls. DIVE INTO THE ABYSS!",
+  "image": "https://covencats.s3.amazonaws.com/418dc8f9c661aaed94c9c2185a31f726a642e02d236686cd2175dde628debc25.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
@@ -10,35 +10,35 @@
     },
     {
       "trait_type": "Background Item",
-      "value": "Cross-stitch"
+      "value": "Crescent Moon"
     },
     {
       "trait_type": "Seat",
-      "value": "Shelf"
+      "value": "Skull"
     },
     {
       "trait_type": "Foreground Item",
-      "value": "Cat Food (Salmon)"
+      "value": "Candle (Silver)"
     },
     {
       "trait_type": "Body Style",
-      "value": "Spiked"
+      "value": "Sleek"
     },
     {
       "trait_type": "Fur Color",
-      "value": "Auburn"
+      "value": "Black"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Claw Marked (Black)"
     },
     {
       "trait_type": "Eye Style",
-      "value": "Sclera"
+      "value": "Hooded Side"
     },
     {
       "trait_type": "Eye Color",
-      "value": "Red"
-    },
-    {
-      "trait_type": "Head Topper",
-      "value": "Bat Wings"
+      "value": "Carnelian"
     },
     {
       "trait_type": "Archetype of Power",
@@ -46,26 +46,26 @@
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Virgo"
+      "value": "Aries"
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Leo"
+      "value": "Sagittarius"
     },
     {
       "trait_type": "Rising Sign",
-      "value": "Taurus"
+      "value": "Cancer"
     },
     {
       "display_type": "number",
       "trait_type": "Caprice",
-      "value": 6,
+      "value": 7,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Caution",
-      "value": 2,
+      "value": 0,
       "max_value": 9
     },
     {
@@ -77,13 +77,13 @@
     {
       "display_type": "number",
       "trait_type": "Curiosity",
-      "value": 1,
+      "value": 6,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Charisma",
-      "value": 4,
+      "value": 5,
       "max_value": 9
     },
     {
@@ -94,28 +94,28 @@
     }
   ],
   "coven_cats": {
-    "id": 1059,
-    "name": "cascabella, the terror",
+    "id": 1088,
+    "name": "spicy margarita",
     "type": "occultist",
     "description": {
-      "summoning": "You are a CAT with 8 lives, found on Mount Kilimanjaro.",
-      "magic": "You stack cats in towers and sleep on top.",
-      "acts_of_service": "You and your WITCH are gonna make it.",
-      "belonging": "All that you touch is torn asunder.",
-      "meow": "SCAMPER BACKWARDS INTO THE SUN!"
+      "summoning": "You are a CAT who sleeps on yarn.",
+      "magic": "You spin on record players and meow with the music.",
+      "acts_of_service": "You and your WITCH weave garlands and crowns from wildflowers.",
+      "belonging": "You are a hunter and keeper of bird souls.",
+      "meow": "DIVE INTO THE ABYSS!"
     },
     "skills": {
-      "caprice": 6,
-      "caution": 2,
+      "caprice": 7,
+      "caution": 0,
       "catastrophe": 9,
-      "curiosity": 1,
-      "charisma": 4,
+      "curiosity": 6,
+      "charisma": 5,
       "cunning": 4
     },
     "birth_chart": {
-      "sun": "virgo",
-      "moon": "leo",
-      "rising": "taurus"
+      "sun": "aries",
+      "moon": "sagittarius",
+      "rising": "cancer"
     },
     "styles": [
       {
@@ -124,37 +124,37 @@
       },
       {
         "trait_type": "Background Item",
-        "value": "Cross-stitch"
+        "value": "Crescent Moon"
       },
       {
         "trait_type": "Seat",
-        "value": "Shelf"
+        "value": "Skull"
       },
       {
         "trait_type": "Foreground Item",
-        "value": "Cat Food (Salmon)"
+        "value": "Candle (Silver)"
       },
       {
         "trait_type": "Body Style",
-        "value": "Spiked"
+        "value": "Sleek"
       },
       {
         "trait_type": "Fur Color",
-        "value": "Auburn"
+        "value": "Black"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Claw Marked (Black)"
       },
       {
         "trait_type": "Eye Style",
-        "value": "Sclera"
+        "value": "Hooded Side"
       },
       {
         "trait_type": "Eye Color",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Head Topper",
-        "value": "Bat Wings"
+        "value": "Carnelian"
       }
     ],
-    "hash": "1dd29053f28078572fb3e87be11eb0479a15708cb45add349f342838338168a2"
+    "hash": "418dc8f9c661aaed94c9c2185a31f726a642e02d236686cd2175dde628debc25"
   }
 }

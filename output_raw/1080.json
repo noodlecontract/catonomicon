@@ -1,0 +1,152 @@
+{
+  "name": "pahoohoo sophocles",
+  "description": "You are a CAT with 6 lives, born from the pounce of a jaguar in the middle of the night. You spin on record players and meow with the music. You protect your WITCH from gluten, peanuts, and shellfish. You've developed the optimal method for catching mice. IT'S TIME TO SNUGGLE!",
+  "image": "https://covencats.s3.amazonaws.com/67d077fd0106f14f7491c7d97946f4a0b3cf7e5b7436831b153265b2e9c70475.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Books"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Blue)"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "Scripted Circle (Blue)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Alert"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Gemini"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 2,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 1080,
+    "name": "pahoohoo sophocles",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT with 6 lives, born from the pounce of a jaguar in the middle of the night.",
+      "magic": "You spin on record players and meow with the music.",
+      "acts_of_service": "You protect your WITCH from gluten, peanuts, and shellfish.",
+      "belonging": "You've developed the optimal method for catching mice.",
+      "meow": "IT'S TIME TO SNUGGLE!"
+    },
+    "skills": {
+      "caprice": 6,
+      "caution": 4,
+      "catastrophe": 9,
+      "curiosity": 9,
+      "charisma": 6,
+      "cunning": 2
+    },
+    "birth_chart": {
+      "sun": "leo",
+      "moon": "aquarius",
+      "rising": "gemini"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Taupe"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Books"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Blue)"
+      },
+      {
+        "trait_type": "Aura",
+        "value": "Scripted Circle (Blue)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Alert"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey"
+      }
+    ],
+    "hash": "67d077fd0106f14f7491c7d97946f4a0b3cf7e5b7436831b153265b2e9c70475"
+  }
+}

@@ -1,36 +1,32 @@
 {
-  "name": "cascabella, the terror",
-  "description": "You are a CAT with 8 lives, found on Mount Kilimanjaro. You stack cats in towers and sleep on top. You and your WITCH are gonna make it. All that you touch is torn asunder. SCAMPER BACKWARDS INTO THE SUN!",
-  "image": "https://covencats.s3.amazonaws.com/1dd29053f28078572fb3e87be11eb0479a15708cb45add349f342838338168a2.png",
+  "name": "mandelbrot, the groom",
+  "description": "You are a CAT with 15 lives, found at the base of Machu Picchu. You claw at wicked warts and monstrous magicians. You support your WITCH in all things. You dance among flames without a care in the world. BOOP, BOOP, BOOP!",
+  "image": "https://covencats.s3.amazonaws.com/c7de3f87a19ec092a99f615a9022d8dfc250bfb2d6c8cc5bf37379a08f8f7bc7.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Pink"
+      "value": "Sea"
     },
     {
       "trait_type": "Background Item",
-      "value": "Cross-stitch"
+      "value": "Full Moon"
     },
     {
       "trait_type": "Seat",
-      "value": "Shelf"
-    },
-    {
-      "trait_type": "Foreground Item",
-      "value": "Cat Food (Salmon)"
+      "value": "Ram's Skull"
     },
     {
       "trait_type": "Body Style",
-      "value": "Spiked"
+      "value": "Sphynx"
     },
     {
       "trait_type": "Fur Color",
-      "value": "Auburn"
+      "value": "Mask and Mantle"
     },
     {
       "trait_type": "Eye Style",
-      "value": "Sclera"
+      "value": "Demon"
     },
     {
       "trait_type": "Eye Color",
@@ -50,7 +46,7 @@
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Leo"
+      "value": "Sagittarius"
     },
     {
       "trait_type": "Rising Sign",
@@ -59,25 +55,25 @@
     {
       "display_type": "number",
       "trait_type": "Caprice",
-      "value": 6,
+      "value": 1,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Caution",
-      "value": 2,
+      "value": 7,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Catastrophe",
-      "value": 9,
+      "value": 8,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Curiosity",
-      "value": 1,
+      "value": 6,
       "max_value": 9
     },
     {
@@ -89,62 +85,58 @@
     {
       "display_type": "number",
       "trait_type": "Cunning",
-      "value": 4,
+      "value": 7,
       "max_value": 9
     }
   ],
   "coven_cats": {
-    "id": 1059,
-    "name": "cascabella, the terror",
+    "id": 1075,
+    "name": "mandelbrot, the groom",
     "type": "occultist",
     "description": {
-      "summoning": "You are a CAT with 8 lives, found on Mount Kilimanjaro.",
-      "magic": "You stack cats in towers and sleep on top.",
-      "acts_of_service": "You and your WITCH are gonna make it.",
-      "belonging": "All that you touch is torn asunder.",
-      "meow": "SCAMPER BACKWARDS INTO THE SUN!"
+      "summoning": "You are a CAT with 15 lives, found at the base of Machu Picchu.",
+      "magic": "You claw at wicked warts and monstrous magicians.",
+      "acts_of_service": "You support your WITCH in all things.",
+      "belonging": "You dance among flames without a care in the world.",
+      "meow": "BOOP, BOOP, BOOP!"
     },
     "skills": {
-      "caprice": 6,
-      "caution": 2,
-      "catastrophe": 9,
-      "curiosity": 1,
+      "caprice": 1,
+      "caution": 7,
+      "catastrophe": 8,
+      "curiosity": 6,
       "charisma": 4,
-      "cunning": 4
+      "cunning": 7
     },
     "birth_chart": {
       "sun": "virgo",
-      "moon": "leo",
+      "moon": "sagittarius",
       "rising": "taurus"
     },
     "styles": [
       {
         "trait_type": "Background",
-        "value": "Pink"
+        "value": "Sea"
       },
       {
         "trait_type": "Background Item",
-        "value": "Cross-stitch"
+        "value": "Full Moon"
       },
       {
         "trait_type": "Seat",
-        "value": "Shelf"
-      },
-      {
-        "trait_type": "Foreground Item",
-        "value": "Cat Food (Salmon)"
+        "value": "Ram's Skull"
       },
       {
         "trait_type": "Body Style",
-        "value": "Spiked"
+        "value": "Sphynx"
       },
       {
         "trait_type": "Fur Color",
-        "value": "Auburn"
+        "value": "Mask and Mantle"
       },
       {
         "trait_type": "Eye Style",
-        "value": "Sclera"
+        "value": "Demon"
       },
       {
         "trait_type": "Eye Color",
@@ -155,6 +147,6 @@
         "value": "Bat Wings"
       }
     ],
-    "hash": "1dd29053f28078572fb3e87be11eb0479a15708cb45add349f342838338168a2"
+    "hash": "c7de3f87a19ec092a99f615a9022d8dfc250bfb2d6c8cc5bf37379a08f8f7bc7"
   }
 }

@@ -1,16 +1,12 @@
 {
-  "name": "cascabella, the terror",
-  "description": "You are a CAT with 8 lives, found on Mount Kilimanjaro. You stack cats in towers and sleep on top. You and your WITCH are gonna make it. All that you touch is torn asunder. SCAMPER BACKWARDS INTO THE SUN!",
-  "image": "https://covencats.s3.amazonaws.com/1dd29053f28078572fb3e87be11eb0479a15708cb45add349f342838338168a2.png",
+  "name": "loki, the fatal",
+  "description": "You are a CAT come to life from a spell. Your claws are dipped in the venom of a spiteful spirit. You and your WITCH bond over your mutual love for gifting tarot cards to friends. You teach demons your mischievous ways. BEWARE OF MICE!",
+  "image": "https://covencats.s3.amazonaws.com/4f369846fe7ec7731180b7a7721697e53bff27809bd73491d7f3d78cfbb7b9d1.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Pink"
-    },
-    {
-      "trait_type": "Background Item",
-      "value": "Cross-stitch"
+      "value": "Peach"
     },
     {
       "trait_type": "Seat",
@@ -18,15 +14,19 @@
     },
     {
       "trait_type": "Foreground Item",
-      "value": "Cat Food (Salmon)"
+      "value": "Apothecary Jars (Forgotten Kisses, Limes, Dragon Scales)"
     },
     {
       "trait_type": "Body Style",
-      "value": "Spiked"
+      "value": "Floofed"
     },
     {
       "trait_type": "Fur Color",
-      "value": "Auburn"
+      "value": "Mauve"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Claw Marked (Blue)"
     },
     {
       "trait_type": "Eye Style",
@@ -34,11 +34,7 @@
     },
     {
       "trait_type": "Eye Color",
-      "value": "Red"
-    },
-    {
-      "trait_type": "Head Topper",
-      "value": "Bat Wings"
+      "value": "Gold"
     },
     {
       "trait_type": "Archetype of Power",
@@ -46,32 +42,32 @@
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Virgo"
+      "value": "Capricorn"
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Leo"
+      "value": "Scorpio"
     },
     {
       "trait_type": "Rising Sign",
-      "value": "Taurus"
+      "value": "Virgo"
     },
     {
       "display_type": "number",
       "trait_type": "Caprice",
-      "value": 6,
-      "max_value": 9
-    },
-    {
-      "display_type": "number",
-      "trait_type": "Caution",
       "value": 2,
       "max_value": 9
     },
     {
       "display_type": "number",
+      "trait_type": "Caution",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
       "trait_type": "Catastrophe",
-      "value": 9,
+      "value": 4,
       "max_value": 9
     },
     {
@@ -83,48 +79,44 @@
     {
       "display_type": "number",
       "trait_type": "Charisma",
-      "value": 4,
+      "value": 3,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Cunning",
-      "value": 4,
+      "value": 3,
       "max_value": 9
     }
   ],
   "coven_cats": {
-    "id": 1059,
-    "name": "cascabella, the terror",
+    "id": 1081,
+    "name": "loki, the fatal",
     "type": "occultist",
     "description": {
-      "summoning": "You are a CAT with 8 lives, found on Mount Kilimanjaro.",
-      "magic": "You stack cats in towers and sleep on top.",
-      "acts_of_service": "You and your WITCH are gonna make it.",
-      "belonging": "All that you touch is torn asunder.",
-      "meow": "SCAMPER BACKWARDS INTO THE SUN!"
+      "summoning": "You are a CAT come to life from a spell.",
+      "magic": "Your claws are dipped in the venom of a spiteful spirit.",
+      "acts_of_service": "You and your WITCH bond over your mutual love for gifting tarot cards to friends.",
+      "belonging": "You teach demons your mischievous ways.",
+      "meow": "BEWARE OF MICE!"
     },
     "skills": {
-      "caprice": 6,
-      "caution": 2,
-      "catastrophe": 9,
+      "caprice": 2,
+      "caution": 4,
+      "catastrophe": 4,
       "curiosity": 1,
-      "charisma": 4,
-      "cunning": 4
+      "charisma": 3,
+      "cunning": 3
     },
     "birth_chart": {
-      "sun": "virgo",
-      "moon": "leo",
-      "rising": "taurus"
+      "sun": "capricorn",
+      "moon": "scorpio",
+      "rising": "virgo"
     },
     "styles": [
       {
         "trait_type": "Background",
-        "value": "Pink"
-      },
-      {
-        "trait_type": "Background Item",
-        "value": "Cross-stitch"
+        "value": "Peach"
       },
       {
         "trait_type": "Seat",
@@ -132,15 +124,19 @@
       },
       {
         "trait_type": "Foreground Item",
-        "value": "Cat Food (Salmon)"
+        "value": "Apothecary Jars (Forgotten Kisses, Limes, Dragon Scales)"
       },
       {
         "trait_type": "Body Style",
-        "value": "Spiked"
+        "value": "Floofed"
       },
       {
         "trait_type": "Fur Color",
-        "value": "Auburn"
+        "value": "Mauve"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Claw Marked (Blue)"
       },
       {
         "trait_type": "Eye Style",
@@ -148,13 +144,9 @@
       },
       {
         "trait_type": "Eye Color",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Head Topper",
-        "value": "Bat Wings"
+        "value": "Gold"
       }
     ],
-    "hash": "1dd29053f28078572fb3e87be11eb0479a15708cb45add349f342838338168a2"
+    "hash": "4f369846fe7ec7731180b7a7721697e53bff27809bd73491d7f3d78cfbb7b9d1"
   }
 }

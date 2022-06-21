@@ -1,0 +1,176 @@
+{
+  "name": "kennedy ballet",
+  "description": "You are a CAT who makes homes out of forgotten places. Your whiskers always point true south. You advise your WITCH to decide what's rare. You tell stories of your conquests, and none can tell the difference between truth and fiction. DO AS I SAY, NOT AS I DO!",
+  "image": "https://covencats.s3.amazonaws.com/1ab1f28e7264c64e7e0589112a8bcd4c7cb667b27ff73a4b477cecd8449ac7ff.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Moths"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Gold)"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Creepy Yeha Pearls"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Crown of Pearls"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Rolled"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Platinum"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Undereye Gems (White)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Babylash"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 8,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 1087,
+    "name": "kennedy ballet",
+    "type": "enchantress",
+    "description": {
+      "summoning": "You are a CAT who makes homes out of forgotten places.",
+      "magic": "Your whiskers always point true south.",
+      "acts_of_service": "You advise your WITCH to decide what's rare.",
+      "belonging": "You tell stories of your conquests, and none can tell the difference between truth and fiction.",
+      "meow": "DO AS I SAY, NOT AS I DO!"
+    },
+    "skills": {
+      "caprice": 9,
+      "caution": 1,
+      "catastrophe": 1,
+      "curiosity": 6,
+      "charisma": 3,
+      "cunning": 8
+    },
+    "birth_chart": {
+      "sun": "sagittarius",
+      "moon": "gemini",
+      "rising": "taurus"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Moths"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Gold)"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Creepy Yeha Pearls"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Crown of Pearls"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Platinum"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Undereye Gems (White)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Babylash"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      }
+    ],
+    "hash": "1ab1f28e7264c64e7e0589112a8bcd4c7cb667b27ff73a4b477cecd8449ac7ff"
+  }
+}

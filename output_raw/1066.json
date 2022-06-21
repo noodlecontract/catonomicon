@@ -1,12 +1,12 @@
 {
-  "name": "cascabella, the terror",
-  "description": "You are a CAT with 8 lives, found on Mount Kilimanjaro. You stack cats in towers and sleep on top. You and your WITCH are gonna make it. All that you touch is torn asunder. SCAMPER BACKWARDS INTO THE SUN!",
-  "image": "https://covencats.s3.amazonaws.com/1dd29053f28078572fb3e87be11eb0479a15708cb45add349f342838338168a2.png",
+  "name": "cognac, the devious prankster",
+  "description": "You are a CAT with 18 lives, found in a karaoke bar in Tokyo. Your form expands or shrinks to exactly fill the space you occupy. You and your WITCH recharge, reflect, and release every full moon. You steal everything that isn't nailed down and sometimes things that are. PAY ATTENTION TO ME!",
+  "image": "https://covencats.s3.amazonaws.com/ed6932cefc6a06b936d3f73497bd69cc43054f3e7f0ec852c21ecc9d8fd159cc.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Pink"
+      "value": "Lavender"
     },
     {
       "trait_type": "Background Item",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Foreground Item",
-      "value": "Cat Food (Salmon)"
+      "value": "Apothecary Jars (Forgotten Kisses, Limes, Dragon Scales)"
     },
     {
       "trait_type": "Body Style",
@@ -26,19 +26,15 @@
     },
     {
       "trait_type": "Fur Color",
-      "value": "Auburn"
+      "value": "Lilac"
     },
     {
       "trait_type": "Eye Style",
-      "value": "Sclera"
+      "value": "Hooded Side"
     },
     {
       "trait_type": "Eye Color",
-      "value": "Red"
-    },
-    {
-      "trait_type": "Head Topper",
-      "value": "Bat Wings"
+      "value": "Amber"
     },
     {
       "trait_type": "Archetype of Power",
@@ -46,15 +42,15 @@
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Virgo"
+      "value": "Aries"
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Leo"
+      "value": "Gemini"
     },
     {
       "trait_type": "Rising Sign",
-      "value": "Taurus"
+      "value": "Libra"
     },
     {
       "display_type": "number",
@@ -65,13 +61,13 @@
     {
       "display_type": "number",
       "trait_type": "Caution",
-      "value": 2,
+      "value": 4,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Catastrophe",
-      "value": 9,
+      "value": 7,
       "max_value": 9
     },
     {
@@ -83,44 +79,44 @@
     {
       "display_type": "number",
       "trait_type": "Charisma",
-      "value": 4,
+      "value": 1,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Cunning",
-      "value": 4,
+      "value": 9,
       "max_value": 9
     }
   ],
   "coven_cats": {
-    "id": 1059,
-    "name": "cascabella, the terror",
+    "id": 1066,
+    "name": "cognac, the devious prankster",
     "type": "occultist",
     "description": {
-      "summoning": "You are a CAT with 8 lives, found on Mount Kilimanjaro.",
-      "magic": "You stack cats in towers and sleep on top.",
-      "acts_of_service": "You and your WITCH are gonna make it.",
-      "belonging": "All that you touch is torn asunder.",
-      "meow": "SCAMPER BACKWARDS INTO THE SUN!"
+      "summoning": "You are a CAT with 18 lives, found in a karaoke bar in Tokyo.",
+      "magic": "Your form expands or shrinks to exactly fill the space you occupy.",
+      "acts_of_service": "You and your WITCH recharge, reflect, and release every full moon.",
+      "belonging": "You steal everything that isn't nailed down and sometimes things that are.",
+      "meow": "PAY ATTENTION TO ME!"
     },
     "skills": {
       "caprice": 6,
-      "caution": 2,
-      "catastrophe": 9,
+      "caution": 4,
+      "catastrophe": 7,
       "curiosity": 1,
-      "charisma": 4,
-      "cunning": 4
+      "charisma": 1,
+      "cunning": 9
     },
     "birth_chart": {
-      "sun": "virgo",
-      "moon": "leo",
-      "rising": "taurus"
+      "sun": "aries",
+      "moon": "gemini",
+      "rising": "libra"
     },
     "styles": [
       {
         "trait_type": "Background",
-        "value": "Pink"
+        "value": "Lavender"
       },
       {
         "trait_type": "Background Item",
@@ -132,7 +128,7 @@
       },
       {
         "trait_type": "Foreground Item",
-        "value": "Cat Food (Salmon)"
+        "value": "Apothecary Jars (Forgotten Kisses, Limes, Dragon Scales)"
       },
       {
         "trait_type": "Body Style",
@@ -140,21 +136,17 @@
       },
       {
         "trait_type": "Fur Color",
-        "value": "Auburn"
+        "value": "Lilac"
       },
       {
         "trait_type": "Eye Style",
-        "value": "Sclera"
+        "value": "Hooded Side"
       },
       {
         "trait_type": "Eye Color",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Head Topper",
-        "value": "Bat Wings"
+        "value": "Amber"
       }
     ],
-    "hash": "1dd29053f28078572fb3e87be11eb0479a15708cb45add349f342838338168a2"
+    "hash": "ed6932cefc6a06b936d3f73497bd69cc43054f3e7f0ec852c21ecc9d8fd159cc"
   }
 }

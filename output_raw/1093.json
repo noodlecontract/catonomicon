@@ -1,0 +1,160 @@
+{
+  "name": "elemi exu",
+  "description": "You are a CAT whose very existence confounds reason. When you want to be alone, you retreat into the dark recesses of your fur. You and your WITCH bond over kittens wearing little top hats. You keep a mischief of ghost mice at your beck and call. SCRAM!",
+  "image": "https://covencats.s3.amazonaws.com/5d4fd866b8b7d636379e374409d96974d478c9a0983f52e8193f92a553fcee8a.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Crescent Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Bag of Salt"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mauve"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ring Collar (Silver)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Maleficent Horns"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Scorpio"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 7,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 1093,
+    "name": "elemi exu",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT whose very existence confounds reason.",
+      "magic": "When you want to be alone, you retreat into the dark recesses of your fur.",
+      "acts_of_service": "You and your WITCH bond over kittens wearing little top hats.",
+      "belonging": "You keep a mischief of ghost mice at your beck and call.",
+      "meow": "SCRAM!"
+    },
+    "skills": {
+      "caprice": 5,
+      "caution": 9,
+      "catastrophe": 3,
+      "curiosity": 4,
+      "charisma": 3,
+      "cunning": 7
+    },
+    "birth_chart": {
+      "sun": "scorpio",
+      "moon": "virgo",
+      "rising": "scorpio"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Crescent Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Bag of Salt"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mauve"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Amber"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ring Collar (Silver)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Maleficent Horns"
+      }
+    ],
+    "hash": "5d4fd866b8b7d636379e374409d96974d478c9a0983f52e8193f92a553fcee8a"
+  }
+}

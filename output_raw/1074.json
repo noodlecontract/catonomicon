@@ -1,24 +1,20 @@
 {
-  "name": "prince grey, the classic",
-  "description": "You are a CAT who dances among sunflowers. You scare away enemies with a high-pitched yowl. You and your WITCH scream into the Void. The way your fur shines in the sunlight captivates all who pass by. IT'S TIME TO CHASE THE MOUSE!",
-  "image": "https://covencats.s3.amazonaws.com/4ec23040370666cbb3e487b1ba095c28bb659756dce6254565c29d8983172d25.png",
+  "name": "bordeaux baudelaire",
+  "description": "You are a CAT who guards the threshold. You scare away enemies with a bat of your eyes. You and your WITCH bond over brown paper packages tied up with string. People appear more beautiful the longer they are in your presence. BE STILL; BE FREE; BE MINE!",
+  "image": "https://covencats.s3.amazonaws.com/cd41b426e5a2ad8b3acf7ab8921e96187486f6c183fbe2d422c732945d651568.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Peach"
+      "value": "Rust"
     },
     {
       "trait_type": "Background Item",
-      "value": "Mirror"
+      "value": "Butterfly"
     },
     {
       "trait_type": "Seat",
-      "value": "Shelf"
-    },
-    {
-      "trait_type": "Foreground Item",
-      "value": "Cat Food (Salmon)"
+      "value": "Pillow (Purple)"
     },
     {
       "trait_type": "Body Style",
@@ -26,19 +22,19 @@
     },
     {
       "trait_type": "Fur Color",
-      "value": "Chocolate Siamese"
+      "value": "Mermaid"
     },
     {
       "trait_type": "Eye Style",
-      "value": "Babylash"
+      "value": "Hooded Side"
     },
     {
       "trait_type": "Eye Color",
-      "value": "Green"
+      "value": "Glo"
     },
     {
       "trait_type": "Collar",
-      "value": "Collar of Pearls"
+      "value": "Ethereum Collar"
     },
     {
       "trait_type": "Archetype of Power",
@@ -46,93 +42,89 @@
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Libra"
-    },
-    {
-      "trait_type": "Moon Sign",
       "value": "Leo"
     },
     {
+      "trait_type": "Moon Sign",
+      "value": "Sagittarius"
+    },
+    {
       "trait_type": "Rising Sign",
-      "value": "Capricorn"
+      "value": "Aquarius"
     },
     {
       "display_type": "number",
       "trait_type": "Caprice",
-      "value": 2,
-      "max_value": 9
-    },
-    {
-      "display_type": "number",
-      "trait_type": "Caution",
-      "value": 4,
-      "max_value": 9
-    },
-    {
-      "display_type": "number",
-      "trait_type": "Catastrophe",
-      "value": 6,
-      "max_value": 9
-    },
-    {
-      "display_type": "number",
-      "trait_type": "Curiosity",
-      "value": 7,
-      "max_value": 9
-    },
-    {
-      "display_type": "number",
-      "trait_type": "Charisma",
       "value": 9,
       "max_value": 9
     },
     {
       "display_type": "number",
-      "trait_type": "Cunning",
+      "trait_type": "Caution",
       "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 9,
       "max_value": 9
     }
   ],
   "coven_cats": {
-    "id": 1060,
-    "name": "prince grey, the classic",
+    "id": 1074,
+    "name": "bordeaux baudelaire",
     "type": "enchantress",
     "description": {
-      "summoning": "You are a CAT who dances among sunflowers.",
-      "magic": "You scare away enemies with a high-pitched yowl.",
-      "acts_of_service": "You and your WITCH scream into the Void.",
-      "belonging": "The way your fur shines in the sunlight captivates all who pass by.",
-      "meow": "IT'S TIME TO CHASE THE MOUSE!"
+      "summoning": "You are a CAT who guards the threshold.",
+      "magic": "You scare away enemies with a bat of your eyes.",
+      "acts_of_service": "You and your WITCH bond over brown paper packages tied up with string.",
+      "belonging": "People appear more beautiful the longer they are in your presence.",
+      "meow": "BE STILL; BE FREE; BE MINE!"
     },
     "skills": {
-      "caprice": 2,
-      "caution": 4,
-      "catastrophe": 6,
-      "curiosity": 7,
-      "charisma": 9,
-      "cunning": 6
+      "caprice": 9,
+      "caution": 6,
+      "catastrophe": 8,
+      "curiosity": 1,
+      "charisma": 8,
+      "cunning": 9
     },
     "birth_chart": {
-      "sun": "libra",
-      "moon": "leo",
-      "rising": "capricorn"
+      "sun": "leo",
+      "moon": "sagittarius",
+      "rising": "aquarius"
     },
     "styles": [
       {
         "trait_type": "Background",
-        "value": "Peach"
+        "value": "Rust"
       },
       {
         "trait_type": "Background Item",
-        "value": "Mirror"
+        "value": "Butterfly"
       },
       {
         "trait_type": "Seat",
-        "value": "Shelf"
-      },
-      {
-        "trait_type": "Foreground Item",
-        "value": "Cat Food (Salmon)"
+        "value": "Pillow (Purple)"
       },
       {
         "trait_type": "Body Style",
@@ -140,21 +132,21 @@
       },
       {
         "trait_type": "Fur Color",
-        "value": "Chocolate Siamese"
+        "value": "Mermaid"
       },
       {
         "trait_type": "Eye Style",
-        "value": "Babylash"
+        "value": "Hooded Side"
       },
       {
         "trait_type": "Eye Color",
-        "value": "Green"
+        "value": "Glo"
       },
       {
         "trait_type": "Collar",
-        "value": "Collar of Pearls"
+        "value": "Ethereum Collar"
       }
     ],
-    "hash": "4ec23040370666cbb3e487b1ba095c28bb659756dce6254565c29d8983172d25"
+    "hash": "cd41b426e5a2ad8b3acf7ab8921e96187486f6c183fbe2d422c732945d651568"
   }
 }

@@ -1,0 +1,152 @@
+{
+  "name": "himalia of the incense",
+  "description": "You are a CAT who paints portraits of pineapples. You fight dragons and demons in your dreams. Your anger shields your WITCH from enemy spells. You draw your visions from whiskers, catnip, and mackerel bones. THE UNIVERSE CALLS!",
+  "image": "https://covencats.s3.amazonaws.com/54ff360aeedc5105536e8dfcd4f808951f9c16cb5546539c9c60aed0a13a9a5e.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Broom"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Bag of Salt"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Brown Bengal"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Glo"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Libra"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 8,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 1086,
+    "name": "himalia of the incense",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT who paints portraits of pineapples.",
+      "magic": "You fight dragons and demons in your dreams.",
+      "acts_of_service": "Your anger shields your WITCH from enemy spells.",
+      "belonging": "You draw your visions from whiskers, catnip, and mackerel bones.",
+      "meow": "THE UNIVERSE CALLS!"
+    },
+    "skills": {
+      "caprice": 4,
+      "caution": 8,
+      "catastrophe": 1,
+      "curiosity": 8,
+      "charisma": 6,
+      "cunning": 8
+    },
+    "birth_chart": {
+      "sun": "taurus",
+      "moon": "capricorn",
+      "rising": "libra"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Broom"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Bag of Salt"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Brown Bengal"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Glo"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "54ff360aeedc5105536e8dfcd4f808951f9c16cb5546539c9c60aed0a13a9a5e"
+  }
+}

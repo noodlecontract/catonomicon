@@ -1,12 +1,12 @@
 {
-  "name": "cascabella, the terror",
-  "description": "You are a CAT with 8 lives, found on Mount Kilimanjaro. You stack cats in towers and sleep on top. You and your WITCH are gonna make it. All that you touch is torn asunder. SCAMPER BACKWARDS INTO THE SUN!",
-  "image": "https://covencats.s3.amazonaws.com/1dd29053f28078572fb3e87be11eb0479a15708cb45add349f342838338168a2.png",
+  "name": "tuna",
+  "description": "You are a CAT who pounces on shiny objects. You snuggle close to the fireplace and dream of epic adventures. You and your WITCH bond over California rolls. You label mushrooms by scent with the help of your powerful whiskers. MOVE FAST OR GET OUT OF THE WAY!",
+  "image": "https://covencats.s3.amazonaws.com/5747c4120abda7b71423d4bd2b9887d7fe4d6cbd451d79c9e1392d9051cbee2d.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Pink"
+      "value": "Plum"
     },
     {
       "trait_type": "Background Item",
@@ -14,113 +14,113 @@
     },
     {
       "trait_type": "Seat",
-      "value": "Shelf"
+      "value": "Table"
     },
     {
       "trait_type": "Foreground Item",
-      "value": "Cat Food (Salmon)"
+      "value": "Sage"
     },
     {
       "trait_type": "Body Style",
-      "value": "Spiked"
+      "value": "Folded"
     },
     {
       "trait_type": "Fur Color",
-      "value": "Auburn"
+      "value": "Mermaid"
     },
     {
       "trait_type": "Eye Style",
-      "value": "Sclera"
+      "value": "Hooded Side"
     },
     {
       "trait_type": "Eye Color",
-      "value": "Red"
+      "value": "Pink"
     },
     {
-      "trait_type": "Head Topper",
-      "value": "Bat Wings"
+      "trait_type": "Collar",
+      "value": "Studded Collar (Silver)"
     },
     {
       "trait_type": "Archetype of Power",
-      "value": "Occultist"
+      "value": "Hag"
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Virgo"
+      "value": "Sagittarius"
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Leo"
+      "value": "Taurus"
     },
     {
       "trait_type": "Rising Sign",
-      "value": "Taurus"
+      "value": "Leo"
     },
     {
       "display_type": "number",
       "trait_type": "Caprice",
-      "value": 6,
+      "value": 4,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Caution",
-      "value": 2,
+      "value": 8,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Catastrophe",
-      "value": 9,
+      "value": 5,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Curiosity",
-      "value": 1,
+      "value": 3,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Charisma",
-      "value": 4,
+      "value": 5,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Cunning",
-      "value": 4,
+      "value": 2,
       "max_value": 9
     }
   ],
   "coven_cats": {
-    "id": 1059,
-    "name": "cascabella, the terror",
-    "type": "occultist",
+    "id": 1077,
+    "name": "tuna",
+    "type": "hag",
     "description": {
-      "summoning": "You are a CAT with 8 lives, found on Mount Kilimanjaro.",
-      "magic": "You stack cats in towers and sleep on top.",
-      "acts_of_service": "You and your WITCH are gonna make it.",
-      "belonging": "All that you touch is torn asunder.",
-      "meow": "SCAMPER BACKWARDS INTO THE SUN!"
+      "summoning": "You are a CAT who pounces on shiny objects.",
+      "magic": "You snuggle close to the fireplace and dream of epic adventures.",
+      "acts_of_service": "You and your WITCH bond over California rolls.",
+      "belonging": "You label mushrooms by scent with the help of your powerful whiskers.",
+      "meow": "MOVE FAST OR GET OUT OF THE WAY!"
     },
     "skills": {
-      "caprice": 6,
-      "caution": 2,
-      "catastrophe": 9,
-      "curiosity": 1,
-      "charisma": 4,
-      "cunning": 4
+      "caprice": 4,
+      "caution": 8,
+      "catastrophe": 5,
+      "curiosity": 3,
+      "charisma": 5,
+      "cunning": 2
     },
     "birth_chart": {
-      "sun": "virgo",
-      "moon": "leo",
-      "rising": "taurus"
+      "sun": "sagittarius",
+      "moon": "taurus",
+      "rising": "leo"
     },
     "styles": [
       {
         "trait_type": "Background",
-        "value": "Pink"
+        "value": "Plum"
       },
       {
         "trait_type": "Background Item",
@@ -128,33 +128,33 @@
       },
       {
         "trait_type": "Seat",
-        "value": "Shelf"
+        "value": "Table"
       },
       {
         "trait_type": "Foreground Item",
-        "value": "Cat Food (Salmon)"
+        "value": "Sage"
       },
       {
         "trait_type": "Body Style",
-        "value": "Spiked"
+        "value": "Folded"
       },
       {
         "trait_type": "Fur Color",
-        "value": "Auburn"
+        "value": "Mermaid"
       },
       {
         "trait_type": "Eye Style",
-        "value": "Sclera"
+        "value": "Hooded Side"
       },
       {
         "trait_type": "Eye Color",
-        "value": "Red"
+        "value": "Pink"
       },
       {
-        "trait_type": "Head Topper",
-        "value": "Bat Wings"
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
       }
     ],
-    "hash": "1dd29053f28078572fb3e87be11eb0479a15708cb45add349f342838338168a2"
+    "hash": "5747c4120abda7b71423d4bd2b9887d7fe4d6cbd451d79c9e1392d9051cbee2d"
   }
 }

@@ -1,7 +1,160 @@
 {
-  "description": "something familiar comes this way...",
+  "name": "potato of the solarium",
+  "description": "You are a CAT who swims with sharks. You bottle tears from witches and skeletons. You bring your WITCH gifts of mice, birds, and fish. Your fur is perpetually scented with vanilla and cinnamon from all the cookies you bake. FLOURISH MY FRIEND!",
+  "image": "https://covencats.s3.amazonaws.com/cc5e46f37f9581d743c2a9bf05fcd1e7c262d39270ec1cddd20feeeb073b9860.png",
   "external_url": "https://www.covencats.xyz/",
-  "image": "https://covencats.s3.amazonaws.com/placeholder.png",
-  "name": "CAT",
-  "attributes": []
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Basket of Yarn"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Moths"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Platinum"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Undereye Gems (White)"
+    },
+    {
+      "trait_type": "Forehead Marking",
+      "value": "Star Mark (White)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Clear Graphic"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aquarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 1,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 1057,
+    "name": "potato of the solarium",
+    "type": "hag",
+    "description": {
+      "summoning": "You are a CAT who swims with sharks.",
+      "magic": "You bottle tears from witches and skeletons.",
+      "acts_of_service": "You bring your WITCH gifts of mice, birds, and fish.",
+      "belonging": "Your fur is perpetually scented with vanilla and cinnamon from all the cookies you bake.",
+      "meow": "FLOURISH MY FRIEND!"
+    },
+    "skills": {
+      "caprice": 1,
+      "caution": 9,
+      "catastrophe": 1,
+      "curiosity": 3,
+      "charisma": 5,
+      "cunning": 1
+    },
+    "birth_chart": {
+      "sun": "capricorn",
+      "moon": "capricorn",
+      "rising": "aquarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Basket of Yarn"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Moths"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Platinum"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Undereye Gems (White)"
+      },
+      {
+        "trait_type": "Forehead Marking",
+        "value": "Star Mark (White)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Clear Graphic"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey"
+      }
+    ],
+    "hash": "cc5e46f37f9581d743c2a9bf05fcd1e7c262d39270ec1cddd20feeeb073b9860"
+  }
 }

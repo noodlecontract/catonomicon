@@ -1,7 +1,7 @@
 {
-  "name": "prince grey, the classic",
-  "description": "You are a CAT who dances among sunflowers. You scare away enemies with a high-pitched yowl. You and your WITCH scream into the Void. The way your fur shines in the sunlight captivates all who pass by. IT'S TIME TO CHASE THE MOUSE!",
-  "image": "https://covencats.s3.amazonaws.com/4ec23040370666cbb3e487b1ba095c28bb659756dce6254565c29d8983172d25.png",
+  "name": "kanna fog",
+  "description": "You are a CAT who imbibes potions of all kinds. You steep your paws in almond extract and hide almonds within your toes. You and your WITCH make potions from dried leaves and orange zest. Your oracle lives inside a saucer of fresh cream. THE UNIVERSE CALLS!",
+  "image": "https://covencats.s3.amazonaws.com/5a4ca0237c5e53847df61a50e32de68f9bc4f49e6a33660b9c049fffa92b85be.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
@@ -9,16 +9,12 @@
       "value": "Peach"
     },
     {
-      "trait_type": "Background Item",
-      "value": "Mirror"
-    },
-    {
       "trait_type": "Seat",
       "value": "Shelf"
     },
     {
       "trait_type": "Foreground Item",
-      "value": "Cat Food (Salmon)"
+      "value": "Cat Food (Tuna)"
     },
     {
       "trait_type": "Body Style",
@@ -26,96 +22,96 @@
     },
     {
       "trait_type": "Fur Color",
-      "value": "Chocolate Siamese"
+      "value": "Platinum"
     },
     {
       "trait_type": "Eye Style",
-      "value": "Babylash"
+      "value": "Blank"
     },
     {
       "trait_type": "Eye Color",
-      "value": "Green"
+      "value": "Flooded Cobalt"
     },
     {
       "trait_type": "Collar",
-      "value": "Collar of Pearls"
+      "value": "Rope Third Eye (Purple)"
     },
     {
       "trait_type": "Archetype of Power",
-      "value": "Enchantress"
+      "value": "Seer"
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Libra"
+      "value": "Aries"
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Leo"
+      "value": "Capricorn"
     },
     {
       "trait_type": "Rising Sign",
-      "value": "Capricorn"
+      "value": "Libra"
     },
     {
       "display_type": "number",
       "trait_type": "Caprice",
-      "value": 2,
-      "max_value": 9
-    },
-    {
-      "display_type": "number",
-      "trait_type": "Caution",
       "value": 4,
       "max_value": 9
     },
     {
       "display_type": "number",
-      "trait_type": "Catastrophe",
-      "value": 6,
-      "max_value": 9
-    },
-    {
-      "display_type": "number",
-      "trait_type": "Curiosity",
-      "value": 7,
-      "max_value": 9
-    },
-    {
-      "display_type": "number",
-      "trait_type": "Charisma",
+      "trait_type": "Caution",
       "value": 9,
       "max_value": 9
     },
     {
       "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
       "trait_type": "Cunning",
-      "value": 6,
+      "value": 7,
       "max_value": 9
     }
   ],
   "coven_cats": {
-    "id": 1060,
-    "name": "prince grey, the classic",
-    "type": "enchantress",
+    "id": 1092,
+    "name": "kanna fog",
+    "type": "seer",
     "description": {
-      "summoning": "You are a CAT who dances among sunflowers.",
-      "magic": "You scare away enemies with a high-pitched yowl.",
-      "acts_of_service": "You and your WITCH scream into the Void.",
-      "belonging": "The way your fur shines in the sunlight captivates all who pass by.",
-      "meow": "IT'S TIME TO CHASE THE MOUSE!"
+      "summoning": "You are a CAT who imbibes potions of all kinds.",
+      "magic": "You steep your paws in almond extract and hide almonds within your toes.",
+      "acts_of_service": "You and your WITCH make potions from dried leaves and orange zest.",
+      "belonging": "Your oracle lives inside a saucer of fresh cream.",
+      "meow": "THE UNIVERSE CALLS!"
     },
     "skills": {
-      "caprice": 2,
-      "caution": 4,
-      "catastrophe": 6,
-      "curiosity": 7,
-      "charisma": 9,
-      "cunning": 6
+      "caprice": 4,
+      "caution": 9,
+      "catastrophe": 7,
+      "curiosity": 5,
+      "charisma": 4,
+      "cunning": 7
     },
     "birth_chart": {
-      "sun": "libra",
-      "moon": "leo",
-      "rising": "capricorn"
+      "sun": "aries",
+      "moon": "capricorn",
+      "rising": "libra"
     },
     "styles": [
       {
@@ -123,16 +119,12 @@
         "value": "Peach"
       },
       {
-        "trait_type": "Background Item",
-        "value": "Mirror"
-      },
-      {
         "trait_type": "Seat",
         "value": "Shelf"
       },
       {
         "trait_type": "Foreground Item",
-        "value": "Cat Food (Salmon)"
+        "value": "Cat Food (Tuna)"
       },
       {
         "trait_type": "Body Style",
@@ -140,21 +132,21 @@
       },
       {
         "trait_type": "Fur Color",
-        "value": "Chocolate Siamese"
+        "value": "Platinum"
       },
       {
         "trait_type": "Eye Style",
-        "value": "Babylash"
+        "value": "Blank"
       },
       {
         "trait_type": "Eye Color",
-        "value": "Green"
+        "value": "Flooded Cobalt"
       },
       {
         "trait_type": "Collar",
-        "value": "Collar of Pearls"
+        "value": "Rope Third Eye (Purple)"
       }
     ],
-    "hash": "4ec23040370666cbb3e487b1ba095c28bb659756dce6254565c29d8983172d25"
+    "hash": "5a4ca0237c5e53847df61a50e32de68f9bc4f49e6a33660b9c049fffa92b85be"
   }
 }

@@ -1,7 +1,7 @@
 {
-  "name": "prince grey, the classic",
-  "description": "You are a CAT who dances among sunflowers. You scare away enemies with a high-pitched yowl. You and your WITCH scream into the Void. The way your fur shines in the sunlight captivates all who pass by. IT'S TIME TO CHASE THE MOUSE!",
-  "image": "https://covencats.s3.amazonaws.com/4ec23040370666cbb3e487b1ba095c28bb659756dce6254565c29d8983172d25.png",
+  "name": "toast of the quilt",
+  "description": "You are a CAT with unknown lives, born beneath an auspicious full moon. You cut down trees with a swipe of your claw. You and your WITCH meet under the stars at the end of a long day. Your steaming breath keeps wolves warm on long winter nights. TAKE A NAP!",
+  "image": "https://covencats.s3.amazonaws.com/a1f60d81a67ba3f16af302d4e58a01724f0e51d90055a7b88a5cf01ebbd34503.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
@@ -9,52 +9,48 @@
       "value": "Peach"
     },
     {
-      "trait_type": "Background Item",
-      "value": "Mirror"
-    },
-    {
       "trait_type": "Seat",
-      "value": "Shelf"
+      "value": "Easel"
     },
     {
       "trait_type": "Foreground Item",
-      "value": "Cat Food (Salmon)"
+      "value": "Paintbrushes"
     },
     {
       "trait_type": "Body Style",
-      "value": "Sleek"
+      "value": "Folded"
     },
     {
       "trait_type": "Fur Color",
-      "value": "Chocolate Siamese"
+      "value": "Lilac"
     },
     {
       "trait_type": "Eye Style",
-      "value": "Babylash"
+      "value": "Hooded Side"
     },
     {
       "trait_type": "Eye Color",
-      "value": "Green"
+      "value": "Glo"
     },
     {
       "trait_type": "Collar",
-      "value": "Collar of Pearls"
+      "value": "Studded Collar (Silver)"
     },
     {
       "trait_type": "Archetype of Power",
-      "value": "Enchantress"
+      "value": "Hag"
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Libra"
+      "value": "Gemini"
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Leo"
+      "value": "Sagittarius"
     },
     {
       "trait_type": "Rising Sign",
-      "value": "Capricorn"
+      "value": "Pisces"
     },
     {
       "display_type": "number",
@@ -65,57 +61,57 @@
     {
       "display_type": "number",
       "trait_type": "Caution",
-      "value": 4,
-      "max_value": 9
-    },
-    {
-      "display_type": "number",
-      "trait_type": "Catastrophe",
-      "value": 6,
-      "max_value": 9
-    },
-    {
-      "display_type": "number",
-      "trait_type": "Curiosity",
-      "value": 7,
-      "max_value": 9
-    },
-    {
-      "display_type": "number",
-      "trait_type": "Charisma",
       "value": 9,
       "max_value": 9
     },
     {
       "display_type": "number",
-      "trait_type": "Cunning",
+      "trait_type": "Catastrophe",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
       "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 7,
       "max_value": 9
     }
   ],
   "coven_cats": {
-    "id": 1060,
-    "name": "prince grey, the classic",
-    "type": "enchantress",
+    "id": 1073,
+    "name": "toast of the quilt",
+    "type": "hag",
     "description": {
-      "summoning": "You are a CAT who dances among sunflowers.",
-      "magic": "You scare away enemies with a high-pitched yowl.",
-      "acts_of_service": "You and your WITCH scream into the Void.",
-      "belonging": "The way your fur shines in the sunlight captivates all who pass by.",
-      "meow": "IT'S TIME TO CHASE THE MOUSE!"
+      "summoning": "You are a CAT with unknown lives, born beneath an auspicious full moon.",
+      "magic": "You cut down trees with a swipe of your claw.",
+      "acts_of_service": "You and your WITCH meet under the stars at the end of a long day.",
+      "belonging": "Your steaming breath keeps wolves warm on long winter nights.",
+      "meow": "TAKE A NAP!"
     },
     "skills": {
       "caprice": 2,
-      "caution": 4,
-      "catastrophe": 6,
-      "curiosity": 7,
-      "charisma": 9,
-      "cunning": 6
+      "caution": 9,
+      "catastrophe": 2,
+      "curiosity": 3,
+      "charisma": 6,
+      "cunning": 7
     },
     "birth_chart": {
-      "sun": "libra",
-      "moon": "leo",
-      "rising": "capricorn"
+      "sun": "gemini",
+      "moon": "sagittarius",
+      "rising": "pisces"
     },
     "styles": [
       {
@@ -123,38 +119,34 @@
         "value": "Peach"
       },
       {
-        "trait_type": "Background Item",
-        "value": "Mirror"
-      },
-      {
         "trait_type": "Seat",
-        "value": "Shelf"
+        "value": "Easel"
       },
       {
         "trait_type": "Foreground Item",
-        "value": "Cat Food (Salmon)"
+        "value": "Paintbrushes"
       },
       {
         "trait_type": "Body Style",
-        "value": "Sleek"
+        "value": "Folded"
       },
       {
         "trait_type": "Fur Color",
-        "value": "Chocolate Siamese"
+        "value": "Lilac"
       },
       {
         "trait_type": "Eye Style",
-        "value": "Babylash"
+        "value": "Hooded Side"
       },
       {
         "trait_type": "Eye Color",
-        "value": "Green"
+        "value": "Glo"
       },
       {
         "trait_type": "Collar",
-        "value": "Collar of Pearls"
+        "value": "Studded Collar (Silver)"
       }
     ],
-    "hash": "4ec23040370666cbb3e487b1ba095c28bb659756dce6254565c29d8983172d25"
+    "hash": "a1f60d81a67ba3f16af302d4e58a01724f0e51d90055a7b88a5cf01ebbd34503"
   }
 }

@@ -1,0 +1,168 @@
+{
+  "name": "fable, the discerning",
+  "description": "You are a CAT who tangoes with your prey. You bottle tears from witches and skeletons. You show your love for your WITCH by stuffing them full of your favorite treats. You are often heard giving cryptography lectures in the Hallowed Halls. IT'S TIME TO PLAY!",
+  "image": "https://covencats.s3.amazonaws.com/3bd8219716ef0ac5ac358572d9c33bb4f3b04b727680217c2062f60dced57554.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Silver)"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "Scripted Circle (Blue)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mermaid"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Mage Script Serpent (Phosphorescent)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Smudged"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Moon Choker (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Capricorn"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 5,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 1083,
+    "name": "fable, the discerning",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT who tangoes with your prey.",
+      "magic": "You bottle tears from witches and skeletons.",
+      "acts_of_service": "You show your love for your WITCH by stuffing them full of your favorite treats.",
+      "belonging": "You are often heard giving cryptography lectures in the Hallowed Halls.",
+      "meow": "IT'S TIME TO PLAY!"
+    },
+    "skills": {
+      "caprice": 8,
+      "caution": 9,
+      "catastrophe": 4,
+      "curiosity": 9,
+      "charisma": 8,
+      "cunning": 5
+    },
+    "birth_chart": {
+      "sun": "gemini",
+      "moon": "aquarius",
+      "rising": "capricorn"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Silver)"
+      },
+      {
+        "trait_type": "Aura",
+        "value": "Scripted Circle (Blue)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mermaid"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Mage Script Serpent (Phosphorescent)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Moon Choker (Silver)"
+      }
+    ],
+    "hash": "3bd8219716ef0ac5ac358572d9c33bb4f3b04b727680217c2062f60dced57554"
+  }
+}

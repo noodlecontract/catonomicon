@@ -1,0 +1,160 @@
+{
+  "name": "lawrencium aristotle",
+  "description": "You are a CAT with 8 lives, found on Mount Kilimanjaro. You catch mice in your sleep. You and your WITCH scale mountains and explore caves together. You are an expert in the anatomy of mackerels. MAKE ALL AWARE OF YOUR NINE LIVES!",
+  "image": "https://covencats.s3.amazonaws.com/07f26931c4366b1613e2fa65423b2f545bb43c4f1851c1398a8a716b28064351.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Shelf"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Apothecary Jars (Forgotten Kisses, Limes, Dragon Scales)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Glo"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Mage Script Serpent (Green)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Smudged Monolid"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aries"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 3,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 1082,
+    "name": "lawrencium aristotle",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT with 8 lives, found on Mount Kilimanjaro.",
+      "magic": "You catch mice in your sleep.",
+      "acts_of_service": "You and your WITCH scale mountains and explore caves together.",
+      "belonging": "You are an expert in the anatomy of mackerels.",
+      "meow": "MAKE ALL AWARE OF YOUR NINE LIVES!"
+    },
+    "skills": {
+      "caprice": 8,
+      "caution": 2,
+      "catastrophe": 2,
+      "curiosity": 9,
+      "charisma": 6,
+      "cunning": 3
+    },
+    "birth_chart": {
+      "sun": "aries",
+      "moon": "taurus",
+      "rising": "aries"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Apothecary Jars (Forgotten Kisses, Limes, Dragon Scales)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Glo"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Mage Script Serpent (Green)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged Monolid"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "07f26931c4366b1613e2fa65423b2f545bb43c4f1851c1398a8a716b28064351"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "name": "ripley, the blade",
+  "description": "You are a CAT who loves French toast, French fries, and French horns. You are as sweet as the chord that ends a happy song. You and your WITCH share the spotlight in a Broadway show. Ghosts beg you to pass on their final message. PLAY WITH YOUR FOOD!",
+  "image": "https://covencats.s3.amazonaws.com/e2e1b241d8650895431d73549e95dd3ff851979b982a3b3cc4a085f4aa0a897a.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Bag of Salt"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Lymantriinae Moth"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Snow Bengal"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Reverse Cateye"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Opal"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ring Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aquarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 1,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 1079,
+    "name": "ripley, the blade",
+    "type": "necromancer",
+    "description": {
+      "summoning": "You are a CAT who loves French toast, French fries, and French horns.",
+      "magic": "You are as sweet as the chord that ends a happy song.",
+      "acts_of_service": "You and your WITCH share the spotlight in a Broadway show.",
+      "belonging": "Ghosts beg you to pass on their final message.",
+      "meow": "PLAY WITH YOUR FOOD!"
+    },
+    "skills": {
+      "caprice": 0,
+      "caution": 4,
+      "catastrophe": 5,
+      "curiosity": 3,
+      "charisma": 1,
+      "cunning": 1
+    },
+    "birth_chart": {
+      "sun": "aquarius",
+      "moon": "cancer",
+      "rising": "aquarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Bag of Salt"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "Lymantriinae Moth"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Snow Bengal"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Reverse Cateye"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Opal"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ring Collar (Silver)"
+      }
+    ],
+    "hash": "e2e1b241d8650895431d73549e95dd3ff851979b982a3b3cc4a085f4aa0a897a"
+  }
+}

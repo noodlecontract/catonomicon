@@ -1,24 +1,20 @@
 {
-  "name": "cascabella, the terror",
-  "description": "You are a CAT with 8 lives, found on Mount Kilimanjaro. You stack cats in towers and sleep on top. You and your WITCH are gonna make it. All that you touch is torn asunder. SCAMPER BACKWARDS INTO THE SUN!",
-  "image": "https://covencats.s3.amazonaws.com/1dd29053f28078572fb3e87be11eb0479a15708cb45add349f342838338168a2.png",
+  "name": "hangry azide",
+  "description": "You are a CAT with 16 lives, found on the streets of Mumbai. You make your bed in the softest of clover fields. You and your WITCH debate the virtues of decentralization and governance. You dance with the VOID WITCH in the deepest dark of the Weird Wilds. CATNIP!",
+  "image": "https://covencats.s3.amazonaws.com/adad9ca906eadbef8bb53e688d0943a659da58a90a71d924ee4ef297d043fc46.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Pink"
-    },
-    {
-      "trait_type": "Background Item",
-      "value": "Cross-stitch"
+      "value": "Plum"
     },
     {
       "trait_type": "Seat",
-      "value": "Shelf"
+      "value": "Table"
     },
     {
       "trait_type": "Foreground Item",
-      "value": "Cat Food (Salmon)"
+      "value": "Candle (Silver)"
     },
     {
       "trait_type": "Body Style",
@@ -29,16 +25,24 @@
       "value": "Auburn"
     },
     {
+      "trait_type": "Forehead Marking",
+      "value": "Mark of the Claw"
+    },
+    {
       "trait_type": "Eye Style",
       "value": "Sclera"
     },
     {
       "trait_type": "Eye Color",
-      "value": "Red"
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Fish Collar"
     },
     {
       "trait_type": "Head Topper",
-      "value": "Bat Wings"
+      "value": "Gentle Horns"
     },
     {
       "trait_type": "Archetype of Power",
@@ -46,38 +50,38 @@
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Virgo"
+      "value": "Sagittarius"
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Leo"
+      "value": "Virgo"
     },
     {
       "trait_type": "Rising Sign",
-      "value": "Taurus"
+      "value": "Gemini"
     },
     {
       "display_type": "number",
       "trait_type": "Caprice",
-      "value": 6,
+      "value": 1,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Caution",
-      "value": 2,
+      "value": 8,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Catastrophe",
-      "value": 9,
+      "value": 8,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Curiosity",
-      "value": 1,
+      "value": 0,
       "max_value": 9
     },
     {
@@ -89,50 +93,46 @@
     {
       "display_type": "number",
       "trait_type": "Cunning",
-      "value": 4,
+      "value": 9,
       "max_value": 9
     }
   ],
   "coven_cats": {
-    "id": 1059,
-    "name": "cascabella, the terror",
+    "id": 1062,
+    "name": "hangry azide",
     "type": "occultist",
     "description": {
-      "summoning": "You are a CAT with 8 lives, found on Mount Kilimanjaro.",
-      "magic": "You stack cats in towers and sleep on top.",
-      "acts_of_service": "You and your WITCH are gonna make it.",
-      "belonging": "All that you touch is torn asunder.",
-      "meow": "SCAMPER BACKWARDS INTO THE SUN!"
+      "summoning": "You are a CAT with 16 lives, found on the streets of Mumbai.",
+      "magic": "You make your bed in the softest of clover fields.",
+      "acts_of_service": "You and your WITCH debate the virtues of decentralization and governance.",
+      "belonging": "You dance with the VOID WITCH in the deepest dark of the Weird Wilds.",
+      "meow": "CATNIP!"
     },
     "skills": {
-      "caprice": 6,
-      "caution": 2,
-      "catastrophe": 9,
-      "curiosity": 1,
+      "caprice": 1,
+      "caution": 8,
+      "catastrophe": 8,
+      "curiosity": 0,
       "charisma": 4,
-      "cunning": 4
+      "cunning": 9
     },
     "birth_chart": {
-      "sun": "virgo",
-      "moon": "leo",
-      "rising": "taurus"
+      "sun": "sagittarius",
+      "moon": "virgo",
+      "rising": "gemini"
     },
     "styles": [
       {
         "trait_type": "Background",
-        "value": "Pink"
-      },
-      {
-        "trait_type": "Background Item",
-        "value": "Cross-stitch"
+        "value": "Plum"
       },
       {
         "trait_type": "Seat",
-        "value": "Shelf"
+        "value": "Table"
       },
       {
         "trait_type": "Foreground Item",
-        "value": "Cat Food (Salmon)"
+        "value": "Candle (Silver)"
       },
       {
         "trait_type": "Body Style",
@@ -143,18 +143,26 @@
         "value": "Auburn"
       },
       {
+        "trait_type": "Forehead Marking",
+        "value": "Mark of the Claw"
+      },
+      {
         "trait_type": "Eye Style",
         "value": "Sclera"
       },
       {
         "trait_type": "Eye Color",
-        "value": "Red"
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Fish Collar"
       },
       {
         "trait_type": "Head Topper",
-        "value": "Bat Wings"
+        "value": "Gentle Horns"
       }
     ],
-    "hash": "1dd29053f28078572fb3e87be11eb0479a15708cb45add349f342838338168a2"
+    "hash": "adad9ca906eadbef8bb53e688d0943a659da58a90a71d924ee4ef297d043fc46"
   }
 }

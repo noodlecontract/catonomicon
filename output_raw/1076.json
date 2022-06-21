@@ -1,12 +1,12 @@
 {
-  "name": "cascabella, the terror",
-  "description": "You are a CAT with 8 lives, found on Mount Kilimanjaro. You stack cats in towers and sleep on top. You and your WITCH are gonna make it. All that you touch is torn asunder. SCAMPER BACKWARDS INTO THE SUN!",
-  "image": "https://covencats.s3.amazonaws.com/1dd29053f28078572fb3e87be11eb0479a15708cb45add349f342838338168a2.png",
+  "name": "adage, the quiet",
+  "description": "You are a CAT made of two candles melted together. You catch mice in your sleep. You and your WITCH bond over a mutual respect for Beyonce. You are often heard giving cryptography lectures in the Hallowed Halls. DO AS I SAY, NOT AS I DO!",
+  "image": "https://covencats.s3.amazonaws.com/487666c8c86a4ba334a96c58c1534c2111ac3267be464a83157fdc2f6ab12223.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Pink"
+      "value": "Peach"
     },
     {
       "trait_type": "Background Item",
@@ -18,39 +18,39 @@
     },
     {
       "trait_type": "Foreground Item",
-      "value": "Cat Food (Salmon)"
+      "value": "Candle (Green)"
     },
     {
       "trait_type": "Body Style",
-      "value": "Spiked"
+      "value": "Sleek"
     },
     {
       "trait_type": "Fur Color",
-      "value": "Auburn"
+      "value": "Silver"
     },
     {
       "trait_type": "Eye Style",
-      "value": "Sclera"
+      "value": "Hooded Side"
     },
     {
       "trait_type": "Eye Color",
-      "value": "Red"
+      "value": "Carnelian"
     },
     {
-      "trait_type": "Head Topper",
-      "value": "Bat Wings"
+      "trait_type": "Collar",
+      "value": "Moon Choker (Silver)"
     },
     {
       "trait_type": "Archetype of Power",
-      "value": "Occultist"
+      "value": "Mage"
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Virgo"
+      "value": "Libra"
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Leo"
+      "value": "Aries"
     },
     {
       "trait_type": "Rising Sign",
@@ -59,68 +59,68 @@
     {
       "display_type": "number",
       "trait_type": "Caprice",
-      "value": 6,
+      "value": 3,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Caution",
-      "value": 2,
+      "value": 5,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Catastrophe",
-      "value": 9,
+      "value": 5,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Curiosity",
-      "value": 1,
+      "value": 5,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Charisma",
-      "value": 4,
+      "value": 0,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Cunning",
-      "value": 4,
+      "value": 1,
       "max_value": 9
     }
   ],
   "coven_cats": {
-    "id": 1059,
-    "name": "cascabella, the terror",
-    "type": "occultist",
+    "id": 1076,
+    "name": "adage, the quiet",
+    "type": "mage",
     "description": {
-      "summoning": "You are a CAT with 8 lives, found on Mount Kilimanjaro.",
-      "magic": "You stack cats in towers and sleep on top.",
-      "acts_of_service": "You and your WITCH are gonna make it.",
-      "belonging": "All that you touch is torn asunder.",
-      "meow": "SCAMPER BACKWARDS INTO THE SUN!"
+      "summoning": "You are a CAT made of two candles melted together.",
+      "magic": "You catch mice in your sleep.",
+      "acts_of_service": "You and your WITCH bond over a mutual respect for Beyonce.",
+      "belonging": "You are often heard giving cryptography lectures in the Hallowed Halls.",
+      "meow": "DO AS I SAY, NOT AS I DO!"
     },
     "skills": {
-      "caprice": 6,
-      "caution": 2,
-      "catastrophe": 9,
-      "curiosity": 1,
-      "charisma": 4,
-      "cunning": 4
+      "caprice": 3,
+      "caution": 5,
+      "catastrophe": 5,
+      "curiosity": 5,
+      "charisma": 0,
+      "cunning": 1
     },
     "birth_chart": {
-      "sun": "virgo",
-      "moon": "leo",
+      "sun": "libra",
+      "moon": "aries",
       "rising": "taurus"
     },
     "styles": [
       {
         "trait_type": "Background",
-        "value": "Pink"
+        "value": "Peach"
       },
       {
         "trait_type": "Background Item",
@@ -132,29 +132,29 @@
       },
       {
         "trait_type": "Foreground Item",
-        "value": "Cat Food (Salmon)"
+        "value": "Candle (Green)"
       },
       {
         "trait_type": "Body Style",
-        "value": "Spiked"
+        "value": "Sleek"
       },
       {
         "trait_type": "Fur Color",
-        "value": "Auburn"
+        "value": "Silver"
       },
       {
         "trait_type": "Eye Style",
-        "value": "Sclera"
+        "value": "Hooded Side"
       },
       {
         "trait_type": "Eye Color",
-        "value": "Red"
+        "value": "Carnelian"
       },
       {
-        "trait_type": "Head Topper",
-        "value": "Bat Wings"
+        "trait_type": "Collar",
+        "value": "Moon Choker (Silver)"
       }
     ],
-    "hash": "1dd29053f28078572fb3e87be11eb0479a15708cb45add349f342838338168a2"
+    "hash": "487666c8c86a4ba334a96c58c1534c2111ac3267be464a83157fdc2f6ab12223"
   }
 }

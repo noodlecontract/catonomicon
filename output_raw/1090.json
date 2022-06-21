@@ -1,0 +1,168 @@
+{
+  "name": "radium, the inquisitive",
+  "description": "You are a CAT with 20 lives, found on the Buda side of Budapest. You cast spells with a swish of your tail. You and your WITCH adopt abandoned animals and nurse them back to health. Every morning, you recite T.S. Eliot's Book of Practical Cats to yourself in the mirror. READ THE STARS!",
+  "image": "https://covencats.s3.amazonaws.com/f6f47e83f4113ea82c4e9e0949c46e3781951660fb8310e643358d91c351c40a.png",
+  "external_url": "https://www.covencats.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Cross-stitch"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Potions"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Glo"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Mage Script Serpent (Blue)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 3,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 1090,
+    "name": "radium, the inquisitive",
+    "type": "mage",
+    "description": {
+      "summoning": "You are a CAT with 20 lives, found on the Buda side of Budapest.",
+      "magic": "You cast spells with a swish of your tail.",
+      "acts_of_service": "You and your WITCH adopt abandoned animals and nurse them back to health.",
+      "belonging": "Every morning, you recite T.S. Eliot's Book of Practical Cats to yourself in the mirror.",
+      "meow": "READ THE STARS!"
+    },
+    "skills": {
+      "caprice": 3,
+      "caution": 9,
+      "catastrophe": 5,
+      "curiosity": 5,
+      "charisma": 5,
+      "cunning": 3
+    },
+    "birth_chart": {
+      "sun": "taurus",
+      "moon": "capricorn",
+      "rising": "taurus"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Cross-stitch"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Potions"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Glo"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Mage Script Serpent (Blue)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Amber"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "f6f47e83f4113ea82c4e9e0949c46e3781951660fb8310e643358d91c351c40a"
+  }
+}
