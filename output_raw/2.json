@@ -1,7 +1,154 @@
 {
-  "description": "something familiar comes this way...",
+  "name": "celeste",
+  "description": "You are the CAT of CUNNING. You take cat naps with one ear open to gather hot goss from the unsuspecting. You and your WITCH bond over the exchange of secrets. You listen to the whispers of the wind and earth. ATTEND TO THE GRAPEVINE!",
+  "image": "https://covencats.s3.amazonaws.com/e82bc69b5f3969c60456bcafef0437246bd685f7d398196b6ea22892a17aa33c.png",
   "external_url": "https://www.covencats.xyz/",
-  "image": "https://covencats.s3.amazonaws.com/placeholder.png",
-  "name": "CAT",
-  "attributes": []
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Mossy Tree Stump"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Mushrooms (Chicken of the Woods)"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Cup of Tea"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Tufted"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Celeste"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Bicolor Blue Gold"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Antlers (Moss)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Cat of Cunning"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 10
+    }
+  ],
+  "coven_cats": {
+    "id": 2,
+    "name": "celeste",
+    "type": "cat of cunning",
+    "description": {
+      "summoning": "You are the CAT of CUNNING.",
+      "magic": "You take cat naps with one ear open to gather hot goss from the unsuspecting.",
+      "acts_of_service": "You and your WITCH bond over the exchange of secrets.",
+      "belonging": "You listen to the whispers of the wind and earth.",
+      "meow": "ATTEND TO THE GRAPEVINE!"
+    },
+    "skills": {
+      "caprice": 9,
+      "caution": 9,
+      "catastrophe": 9,
+      "curiosity": 9,
+      "charisma": 9,
+      "cunning": 10
+    },
+    "birth_chart": {
+      "sun": "scorpio",
+      "moon": "aries",
+      "rising": "sagittarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Mossy Tree Stump"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Mushrooms (Chicken of the Woods)"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Cup of Tea"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Celeste"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Bicolor Blue Gold"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Antlers (Moss)"
+      }
+    ],
+    "hash": "e82bc69b5f3969c60456bcafef0437246bd685f7d398196b6ea22892a17aa33c"
+  }
 }

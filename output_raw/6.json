@@ -1,7 +1,168 @@
 {
-  "description": "something familiar comes this way...",
+  "name": "KAGS",
+  "description": "You are the CAT of CHAOS. You perch atop bookshelves and baseball bats, plotting the best time to strike. Your WITCH blames you for any and all messes that occur in the Library. Your claws are dipped in black fire. FIAT CHAO!",
+  "image": "https://covencats.s3.amazonaws.com/0684bccc6b0c46a55414711b31ec7c285394fa88a8f9ee520795c1d23abd914e.png",
   "external_url": "https://www.covencats.xyz/",
-  "image": "https://covencats.s3.amazonaws.com/placeholder.png",
-  "name": "CAT",
-  "attributes": []
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Moonbeam"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Ancient Tome on Podium"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "KAGS"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "KAGS"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Flame"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Parakeet Feather"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "Chaos Circle (Red)"
+    },
+    {
+      "trait_type": "Bodywear",
+      "value": "Scorpion Tail"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Cat of Chaos"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Scorpio"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 0
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 10
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 10
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Chaos",
+      "value": 10
+    }
+  ],
+  "coven_cats": {
+    "id": 6,
+    "name": "kags",
+    "type": "cat of chaos",
+    "description": {
+      "summoning": "You are the CAT of CHAOS.",
+      "magic": "You perch atop bookshelves and baseball bats, plotting the best time to strike.",
+      "acts_of_service": "Your WITCH blames you for any and all messes that occur in the Library.",
+      "belonging": "Your claws are dipped in black fire.",
+      "meow": "FIAT CHAO!"
+    },
+    "skills": {
+      "caprice": 9,
+      "caution": 0,
+      "catastrophe": 10,
+      "curiosity": 9,
+      "charisma": 9,
+      "cunning": 10,
+      "chaos": 10
+    },
+    "birth_chart": {
+      "sun": "libra",
+      "moon": "pisces",
+      "rising": "scorpio"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Moonbeam"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Ancient Tome on Podium"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "KAGS"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "KAGS"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Flame"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Parakeet Feather"
+      },
+      {
+        "trait_type": "Aura",
+        "value": "Chaos Circle (Red)"
+      },
+      {
+        "trait_type": "Bodywear",
+        "value": "Scorpion Tail"
+      }
+    ],
+    "hash": "0684bccc6b0c46a55414711b31ec7c285394fa88a8f9ee520795c1d23abd914e"
+  }
 }

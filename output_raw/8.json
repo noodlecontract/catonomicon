@@ -1,7 +1,160 @@
 {
-  "description": "something familiar comes this way...",
+  "name": "pistachio",
+  "description": "You are the CAT of COTTAGE. Your fur smells of freshly mowed grass and ancient tomes. You and your WITCH play tag with faeries and dance in mist. Your moss creations and garden landscapes are revered in the lands over. DEWY BRILLIANCE!",
+  "image": "https://covencats.s3.amazonaws.com/41b88ed5080ca1a5244788fd48955e2e71ac0d7019052bf709d456c7131d8c67.png",
   "external_url": "https://www.covencats.xyz/",
-  "image": "https://covencats.s3.amazonaws.com/placeholder.png",
-  "name": "CAT",
-  "attributes": []
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Olive"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Mist"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Moss and Pothos"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Rolled"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Spectral"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Pistachio"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Angelic"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Peony Flower Crown"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Cat of Cottage"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Gemini"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cottage",
+      "value": 10
+    }
+  ],
+  "coven_cats": {
+    "id": 8,
+    "name": "pistachio",
+    "type": "cat of cottage",
+    "description": {
+      "summoning": "You are the CAT of COTTAGE.",
+      "magic": "Your fur smells of freshly mowed grass and ancient tomes.",
+      "acts_of_service": "You and your WITCH play tag with faeries and dance in mist.",
+      "belonging": "Your moss creations and garden landscapes are revered in the lands over.",
+      "meow": "DEWY BRILLIANCE!"
+    },
+    "skills": {
+      "caprice": 9,
+      "caution": 9,
+      "catastrophe": 9,
+      "curiosity": 9,
+      "charisma": 9,
+      "cunning": 9,
+      "cottage": 10
+    },
+    "birth_chart": {
+      "sun": "gemini",
+      "moon": "gemini",
+      "rising": "gemini"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Olive"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Mist"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Moss and Pothos"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Spectral"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Pistachio"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "Angelic"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Peony Flower Crown"
+      }
+    ],
+    "hash": "41b88ed5080ca1a5244788fd48955e2e71ac0d7019052bf709d456c7131d8c67"
+  }
 }

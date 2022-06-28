@@ -1,7 +1,152 @@
 {
-  "description": "something familiar comes this way...",
+  "name": "mosha",
+  "description": "You are the CAT of CREATIVITY. You sleep on top of fuzzy pink blankets and dream of eating chicken. You and your WITCH design experiences with dried leaves. You absorb the secrets of the universe between bites of twine. GRACEFUL FEARLESSNESS!",
+  "image": "https://covencats.s3.amazonaws.com/5bbe5250fa9dc00f7e05dcc67c1ec99234bbb8dfe14a61c88a1d2c61c54afd2c.png",
   "external_url": "https://www.covencats.xyz/",
-  "image": "https://covencats.s3.amazonaws.com/placeholder.png",
-  "name": "CAT",
-  "attributes": []
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Midnight"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Starry Night Sky"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Pink Blanket on Side Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Twine"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Floofed"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mosha"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Reverse Cateye"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Mosha"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Cat of Creativity"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Creativity",
+      "value": 10
+    }
+  ],
+  "coven_cats": {
+    "id": 9,
+    "name": "mosha",
+    "type": "cat of creativity",
+    "description": {
+      "summoning": "You are the CAT of CREATIVITY.",
+      "magic": "You sleep on top of fuzzy pink blankets and dream of eating chicken.",
+      "acts_of_service": "You and your WITCH design experiences with dried leaves.",
+      "belonging": "You absorb the secrets of the universe between bites of twine.",
+      "meow": "GRACEFUL FEARLESSNESS!"
+    },
+    "skills": {
+      "caprice": 9,
+      "caution": 9,
+      "catastrophe": 9,
+      "curiosity": 9,
+      "charisma": 9,
+      "cunning": 9,
+      "creativity": 10
+    },
+    "birth_chart": {
+      "sun": "gemini",
+      "moon": "capricorn",
+      "rising": "taurus"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Midnight"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Starry Night Sky"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Pink Blanket on Side Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Twine"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mosha"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Reverse Cateye"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Mosha"
+      }
+    ],
+    "hash": "5bbe5250fa9dc00f7e05dcc67c1ec99234bbb8dfe14a61c88a1d2c61c54afd2c"
+  }
 }

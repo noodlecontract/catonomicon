@@ -1,7 +1,154 @@
 {
-  "description": "something familiar comes this way...",
+  "name": "eris",
+  "description": "You are the CAT of CATASTROPHE. Shadows rise and fall at the flick of your tail. You protect your WITCH from creatures wrought of the deepest dark. Where you go, calamity lingers close behind, awaiting your claim or condemnation. DESTRUCTION IS ANOTHER PATH FOR CREATION!",
+  "image": "https://covencats.s3.amazonaws.com/0596b1808a8dc8950deca4fed3271588cff6228a00883a1923267259cc5df98f.png",
   "external_url": "https://www.covencats.xyz/",
-  "image": "https://covencats.s3.amazonaws.com/placeholder.png",
-  "name": "CAT",
-  "attributes": []
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Indigo"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Shadows"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Ouija Board"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Floofed"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Night"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Eris"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Forehead Marking",
+      "value": "Rune of Catastrophe"
+    },
+    {
+      "trait_type": "Bodywear",
+      "value": "Primordial Matter"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Cat of Catastrophe"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Capricorn"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 10
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 4,
+    "name": "eris",
+    "type": "cat of catastrophe",
+    "description": {
+      "summoning": "You are the CAT of CATASTROPHE.",
+      "magic": "Shadows rise and fall at the flick of your tail.",
+      "acts_of_service": "You protect your WITCH from creatures wrought of the deepest dark.",
+      "belonging": "Where you go, calamity lingers close behind, awaiting your claim or condemnation.",
+      "meow": "DESTRUCTION IS ANOTHER PATH FOR CREATION!"
+    },
+    "skills": {
+      "caprice": 9,
+      "caution": 9,
+      "catastrophe": 10,
+      "curiosity": 9,
+      "charisma": 9,
+      "cunning": 9
+    },
+    "birth_chart": {
+      "sun": "libra",
+      "moon": "virgo",
+      "rising": "capricorn"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Indigo"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Shadows"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Ouija Board"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Night"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Eris"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Violet"
+      },
+      {
+        "trait_type": "Forehead Marking",
+        "value": "Rune of Catastrophe"
+      },
+      {
+        "trait_type": "Bodywear",
+        "value": "Primordial Matter"
+      }
+    ],
+    "hash": "0596b1808a8dc8950deca4fed3271588cff6228a00883a1923267259cc5df98f"
+  }
 }

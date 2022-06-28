@@ -1,7 +1,170 @@
 {
-  "description": "something familiar comes this way...",
+  "name": "alice",
+  "description": "You are the CAT of CURIOSITY. Your magic spawns from bouncing your paws in spiccato with the sound of violins. You weave webs of wit and wisdom to tell tales of past, present, and future. You and your WITCH bond over cuddles, cunning, and custard tarts. MEOW AND MANIFEST!",
+  "image": "https://covencats.s3.amazonaws.com/abc14fafeed75502356e8f52664e5631979bc99cfd67e049548f687cf53652a2.png",
   "external_url": "https://www.covencats.xyz/",
-  "image": "https://covencats.s3.amazonaws.com/placeholder.png",
-  "name": "CAT",
-  "attributes": []
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Mage Shelf"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Typewriter"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Camera"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lilac Siamese"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Circle Lens"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Bicolor Pink Turquoise"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Curious Collar"
+    },
+    {
+      "trait_type": "Forehead Marking",
+      "value": "Mage Mark Moon (Pink)"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "Scripted Mage Aura (Pink)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Cat of Curiosity"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Virgo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 10
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 5,
+    "name": "alice",
+    "type": "cat of curiosity",
+    "description": {
+      "summoning": "You are the CAT of CURIOSITY.",
+      "magic": "Your magic spawns from bouncing your paws in spiccato with the sound of violins.",
+      "acts_of_service": "You weave webs of wit and wisdom to tell tales of past, present, and future.",
+      "belonging": "You and your WITCH bond over cuddles, cunning, and custard tarts.",
+      "meow": "MEOW AND MANIFEST!"
+    },
+    "skills": {
+      "caprice": 9,
+      "caution": 9,
+      "catastrophe": 9,
+      "curiosity": 10,
+      "charisma": 9,
+      "cunning": 9
+    },
+    "birth_chart": {
+      "sun": "aries",
+      "moon": "sagittarius",
+      "rising": "virgo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Sea"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Mage Shelf"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Typewriter"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Camera"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lilac Siamese"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Bicolor Pink Turquoise"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Curious Collar"
+      },
+      {
+        "trait_type": "Forehead Marking",
+        "value": "Mage Mark Moon (Pink)"
+      },
+      {
+        "trait_type": "Aura",
+        "value": "Scripted Mage Aura (Pink)"
+      }
+    ],
+    "hash": "abc14fafeed75502356e8f52664e5631979bc99cfd67e049548f687cf53652a2"
+  }
 }

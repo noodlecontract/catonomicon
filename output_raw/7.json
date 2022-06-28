@@ -1,7 +1,160 @@
 {
-  "description": "something familiar comes this way...",
+  "name": "ayalina",
+  "description": "You are the CAT of COMPOSITION. You find beauty in darkness. You and your WITCH cast spells and enchant spaces with notes of walnut, Figma, and B7. You bring harmony and light to everything you touch. BE LUMINOUS!",
+  "image": "https://covencats.s3.amazonaws.com/462d8158bce959cc888ff94d5f0bc5da461167b8c047465f02c3b0eafca8767c.png",
   "external_url": "https://www.covencats.xyz/",
-  "image": "https://covencats.s3.amazonaws.com/placeholder.png",
-  "name": "CAT",
-  "attributes": []
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rose"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Sunbeam"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Guitar"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Peonies"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Rolled"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Blush"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Babylash"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Steel"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Hamsa Hand Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Cat of Composition"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Leo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Composition",
+      "value": 10
+    }
+  ],
+  "coven_cats": {
+    "id": 7,
+    "name": "ayalina",
+    "type": "cat of composition",
+    "description": {
+      "summoning": "You are the CAT of COMPOSITION.",
+      "magic": "You find beauty in darkness.",
+      "acts_of_service": "You and your WITCH cast spells and enchant spaces with notes of walnut, Figma, and B7.",
+      "belonging": "You bring harmony and light to everything you touch.",
+      "meow": "BE LUMINOUS!"
+    },
+    "skills": {
+      "caprice": 9,
+      "caution": 9,
+      "catastrophe": 9,
+      "curiosity": 9,
+      "charisma": 9,
+      "cunning": 9,
+      "composition": 10
+    },
+    "birth_chart": {
+      "sun": "cancer",
+      "moon": "aquarius",
+      "rising": "leo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rose"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Sunbeam"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Guitar"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Peonies"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Blush"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Babylash"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Steel"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Hamsa Hand Collar"
+      }
+    ],
+    "hash": "462d8158bce959cc888ff94d5f0bc5da461167b8c047465f02c3b0eafca8767c"
+  }
 }

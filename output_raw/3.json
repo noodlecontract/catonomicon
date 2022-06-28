@@ -1,7 +1,168 @@
 {
-  "description": "something familiar comes this way...",
+  "name": "moody",
+  "description": "You are the CAT of CRAFT. You turn the world into gray with a swish of your tail. You and your WITCH forge daggers and designs out of dried roses. You read fortunes from pie crusts and apple crumbles. BEHOLD THE UNKNOWN!",
+  "image": "https://covencats.s3.amazonaws.com/b97586deb37c59a8cc2a5b5a3a57416423d84aa9941e7dcaa09bf8586ff72ce4.png",
   "external_url": "https://www.covencats.xyz/",
-  "image": "https://covencats.s3.amazonaws.com/placeholder.png",
-  "name": "CAT",
-  "attributes": []
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Bouquet of Roses"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Athame"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Apple Pie"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Babylash"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Raised Third Eye (Red)"
+    },
+    {
+      "trait_type": "Forehead Marking",
+      "value": "Moon Mark (White)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Cat of Craft"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Virgo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Craft",
+      "value": 10
+    }
+  ],
+  "coven_cats": {
+    "id": 3,
+    "name": "moody",
+    "type": "cat of craft",
+    "description": {
+      "summoning": "You are the CAT of CRAFT.",
+      "magic": "You turn the world into gray with a swish of your tail.",
+      "acts_of_service": "You and your WITCH forge daggers and designs out of dried roses.",
+      "belonging": "You read fortunes from pie crusts and apple crumbles.",
+      "meow": "BEHOLD THE UNKNOWN!"
+    },
+    "skills": {
+      "caprice": 9,
+      "caution": 9,
+      "catastrophe": 9,
+      "curiosity": 9,
+      "charisma": 9,
+      "cunning": 9,
+      "craft": 10
+    },
+    "birth_chart": {
+      "sun": "gemini",
+      "moon": "sagittarius",
+      "rising": "virgo"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Bouquet of Roses"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Athame"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Apple Pie"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Babylash"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Raised Third Eye (Red)"
+      },
+      {
+        "trait_type": "Forehead Marking",
+        "value": "Moon Mark (White)"
+      }
+    ],
+    "hash": "b97586deb37c59a8cc2a5b5a3a57416423d84aa9941e7dcaa09bf8586ff72ce4"
+  }
 }

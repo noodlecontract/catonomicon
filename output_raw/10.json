@@ -1,7 +1,154 @@
 {
-  "description": "something familiar comes this way...",
+  "name": "maat",
+  "description": "You are the CAT of CAUTION. You think through the consequences of every action. You and your WITCH judge whether a soul is to be given to the Void. You study the truth in all forms. STAND BEFORE ME!",
+  "image": "https://covencats.s3.amazonaws.com/af867fcea430392f463a0bf4314ab6f1888e7d4c5ee2d3dbca15e21bad5fc41e.png",
   "external_url": "https://www.covencats.xyz/",
-  "image": "https://covencats.s3.amazonaws.com/placeholder.png",
-  "name": "CAT",
-  "attributes": []
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Turquoise"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Scales of Justice"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Ostrich Feather"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Rolled"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Gilded Black"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Maat"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Scarab"
+    },
+    {
+      "trait_type": "Bodywear",
+      "value": "Jeweled Bracelets"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Cat of Caution"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 10
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 10,
+    "name": "maat",
+    "type": "cat of caution",
+    "description": {
+      "summoning": "You are the CAT of CAUTION.",
+      "magic": "You think through the consequences of every action.",
+      "acts_of_service": "You and your WITCH judge whether a soul is to be given to the Void.",
+      "belonging": "You study the truth in all forms.",
+      "meow": "STAND BEFORE ME!"
+    },
+    "skills": {
+      "caprice": 9,
+      "caution": 10,
+      "catastrophe": 9,
+      "curiosity": 9,
+      "charisma": 9,
+      "cunning": 9
+    },
+    "birth_chart": {
+      "sun": "leo",
+      "moon": "aries",
+      "rising": "taurus"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Turquoise"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Scales of Justice"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Ostrich Feather"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Gilded Black"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Maat"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "Scarab"
+      },
+      {
+        "trait_type": "Bodywear",
+        "value": "Jeweled Bracelets"
+      }
+    ],
+    "hash": "af867fcea430392f463a0bf4314ab6f1888e7d4c5ee2d3dbca15e21bad5fc41e"
+  }
 }
