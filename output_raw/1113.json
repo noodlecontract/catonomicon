@@ -1,20 +1,16 @@
 {
-  "name": "venus of the water",
-  "description": "You are a CAT with 6 lives, found on the beaches of Accra. You wield knives and guard thresholds. You and your WITCH recharge, reflect, and release every full moon. Your tail is a powerful scrying tool. THROW CAUTION TO THE WIND!",
-  "image": "https://covencats.s3.amazonaws.com/772333e45ccabe3678f3dab877240183ff9972fecd24afdec67ef623a4436467.png",
+  "name": "sweeney, the spicy prankster",
+  "description": "You are a CAT with 4 lives, found in the kitchen enjoying a succulent tuna pie. Your tail chases you. You protect your WITCH from ashes, ambiguity, and Aries. You dance in flames and take catnaps on ice. TO BE OR NOT TO BE!",
+  "image": "https://covencats.s3.amazonaws.com/a3393ea6e0a52d0c846750a9e800000e6c69c49840f884ff22e8303fff86c66c.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Plum"
-    },
-    {
-      "trait_type": "Background Item",
-      "value": "Full Moon"
+      "value": "Taupe"
     },
     {
       "trait_type": "Seat",
-      "value": "Genie Lamp (Purple)"
+      "value": "Skull"
     },
     {
       "trait_type": "Body Style",
@@ -22,7 +18,7 @@
     },
     {
       "trait_type": "Fur Color",
-      "value": "Lavender"
+      "value": "Platinum"
     },
     {
       "trait_type": "Eye Style",
@@ -30,27 +26,27 @@
     },
     {
       "trait_type": "Eye Color",
-      "value": "Lilac"
+      "value": "Grey Green"
     },
     {
       "trait_type": "Collar",
-      "value": "Piercing Choker (Red)"
+      "value": "Ring Collar (Silver)"
     },
     {
       "trait_type": "Archetype of Power",
-      "value": "Seer"
+      "value": "Occultist"
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Sagittarius"
+      "value": "Scorpio"
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Pisces"
+      "value": "Sagittarius"
     },
     {
       "trait_type": "Rising Sign",
-      "value": "Aquarius"
+      "value": "Libra"
     },
     {
       "display_type": "number",
@@ -61,7 +57,7 @@
     {
       "display_type": "number",
       "trait_type": "Caution",
-      "value": 6,
+      "value": 2,
       "max_value": 9
     },
     {
@@ -79,52 +75,48 @@
     {
       "display_type": "number",
       "trait_type": "Charisma",
-      "value": 5,
+      "value": 7,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Cunning",
-      "value": 5,
+      "value": 8,
       "max_value": 9
     }
   ],
   "coven_cats": {
-    "id": 1110,
-    "name": "venus of the water",
-    "type": "seer",
+    "id": 1113,
+    "name": "sweeney, the spicy prankster",
+    "type": "occultist",
     "description": {
-      "summoning": "You are a CAT with 6 lives, found on the beaches of Accra.",
-      "magic": "You wield knives and guard thresholds.",
-      "acts_of_service": "You and your WITCH recharge, reflect, and release every full moon.",
-      "belonging": "Your tail is a powerful scrying tool.",
-      "meow": "THROW CAUTION TO THE WIND!"
+      "summoning": "You are a CAT with 4 lives, found in the kitchen enjoying a succulent tuna pie.",
+      "magic": "Your tail chases you.",
+      "acts_of_service": "You protect your WITCH from ashes, ambiguity, and Aries.",
+      "belonging": "You dance in flames and take catnaps on ice.",
+      "meow": "TO BE OR NOT TO BE!"
     },
     "skills": {
       "caprice": 9,
-      "caution": 6,
+      "caution": 2,
       "catastrophe": 6,
       "curiosity": 2,
-      "charisma": 5,
-      "cunning": 5
+      "charisma": 7,
+      "cunning": 8
     },
     "birth_chart": {
-      "sun": "sagittarius",
-      "moon": "pisces",
-      "rising": "aquarius"
+      "sun": "scorpio",
+      "moon": "sagittarius",
+      "rising": "libra"
     },
     "styles": [
       {
         "trait_type": "Background",
-        "value": "Plum"
-      },
-      {
-        "trait_type": "Background Item",
-        "value": "Full Moon"
+        "value": "Taupe"
       },
       {
         "trait_type": "Seat",
-        "value": "Genie Lamp (Purple)"
+        "value": "Skull"
       },
       {
         "trait_type": "Body Style",
@@ -132,7 +124,7 @@
       },
       {
         "trait_type": "Fur Color",
-        "value": "Lavender"
+        "value": "Platinum"
       },
       {
         "trait_type": "Eye Style",
@@ -140,13 +132,13 @@
       },
       {
         "trait_type": "Eye Color",
-        "value": "Lilac"
+        "value": "Grey Green"
       },
       {
         "trait_type": "Collar",
-        "value": "Piercing Choker (Red)"
+        "value": "Ring Collar (Silver)"
       }
     ],
-    "hash": "772333e45ccabe3678f3dab877240183ff9972fecd24afdec67ef623a4436467"
+    "hash": "a3393ea6e0a52d0c846750a9e800000e6c69c49840f884ff22e8303fff86c66c"
   }
 }

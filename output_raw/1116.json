@@ -1,24 +1,20 @@
 {
-  "name": "quesadilla of the swing",
-  "description": "You are a CAT made from lovingly cut fruit. Your magic smells like a storm brewing, dark and full of potential. You and your WITCH enjoy boba and bubble baths. Every day, you tend to the gardens and consult with the bees on the state of your flowers. FLOURISH MY FRIEND!",
-  "image": "https://covencats.s3.amazonaws.com/5876f8fe8e50a1f7e0748d195d9979cc70e443c9028f3b8fb12d894a3e98331d.png",
+  "name": "boron rhyme",
+  "description": "You are a CAT who hides in the dark. You drink piping hot tea in all seasons, at all hours of the day. You and your WITCH make wishes on dandelion fluff. Every morning, you recite T.S. Eliot's Book of Practical Cats to yourself in the mirror. MAKE BISCUITS!",
+  "image": "https://covencats.s3.amazonaws.com/a5641c338f67ab905dd8831bc7533a2075b2b82fd7ec4aff77c53500acc2ffd5.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Rust"
+      "value": "Taupe"
     },
     {
       "trait_type": "Seat",
-      "value": "Basket of Yarn"
-    },
-    {
-      "trait_type": "Background Item",
-      "value": "Bumblebees"
+      "value": "Shelf"
     },
     {
       "trait_type": "Foreground Item",
-      "value": "Ball of Yarn and Knitting Needles"
+      "value": "Books"
     },
     {
       "trait_type": "Body Style",
@@ -29,20 +25,24 @@
       "value": "Mauve"
     },
     {
+      "trait_type": "Markings",
+      "value": "Mage Script Serpent (Green)"
+    },
+    {
       "trait_type": "Eye Style",
-      "value": "Circle Lens"
+      "value": "Clear Graphic"
     },
     {
       "trait_type": "Eye Color",
-      "value": "Green"
+      "value": "Grey"
     },
     {
       "trait_type": "Collar",
-      "value": "Cat Collar"
+      "value": "Moon Choker (Silver)"
     },
     {
       "trait_type": "Archetype of Power",
-      "value": "Hag"
+      "value": "Mage"
     },
     {
       "trait_type": "Sun Sign",
@@ -50,89 +50,85 @@
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Scorpio"
+      "value": "Aries"
     },
     {
       "trait_type": "Rising Sign",
-      "value": "Sagittarius"
+      "value": "Aquarius"
     },
     {
       "display_type": "number",
       "trait_type": "Caprice",
-      "value": 1,
+      "value": 6,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Caution",
-      "value": 8,
+      "value": 2,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Catastrophe",
-      "value": 4,
+      "value": 6,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Curiosity",
-      "value": 5,
+      "value": 4,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Charisma",
-      "value": 3,
+      "value": 2,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Cunning",
-      "value": 2,
+      "value": 6,
       "max_value": 9
     }
   ],
   "coven_cats": {
-    "id": 1111,
-    "name": "quesadilla of the swing",
-    "type": "hag",
+    "id": 1116,
+    "name": "boron rhyme",
+    "type": "mage",
     "description": {
-      "summoning": "You are a CAT made from lovingly cut fruit.",
-      "magic": "Your magic smells like a storm brewing, dark and full of potential.",
-      "acts_of_service": "You and your WITCH enjoy boba and bubble baths.",
-      "belonging": "Every day, you tend to the gardens and consult with the bees on the state of your flowers.",
-      "meow": "FLOURISH MY FRIEND!"
+      "summoning": "You are a CAT who hides in the dark.",
+      "magic": "You drink piping hot tea in all seasons, at all hours of the day.",
+      "acts_of_service": "You and your WITCH make wishes on dandelion fluff.",
+      "belonging": "Every morning, you recite T.S. Eliot's Book of Practical Cats to yourself in the mirror.",
+      "meow": "MAKE BISCUITS!"
     },
     "skills": {
-      "caprice": 1,
-      "caution": 8,
-      "catastrophe": 4,
-      "curiosity": 5,
-      "charisma": 3,
-      "cunning": 2
+      "caprice": 6,
+      "caution": 2,
+      "catastrophe": 6,
+      "curiosity": 4,
+      "charisma": 2,
+      "cunning": 6
     },
     "birth_chart": {
       "sun": "scorpio",
-      "moon": "scorpio",
-      "rising": "sagittarius"
+      "moon": "aries",
+      "rising": "aquarius"
     },
     "styles": [
       {
         "trait_type": "Background",
-        "value": "Rust"
+        "value": "Taupe"
       },
       {
         "trait_type": "Seat",
-        "value": "Basket of Yarn"
-      },
-      {
-        "trait_type": "Background Item",
-        "value": "Bumblebees"
+        "value": "Shelf"
       },
       {
         "trait_type": "Foreground Item",
-        "value": "Ball of Yarn and Knitting Needles"
+        "value": "Books"
       },
       {
         "trait_type": "Body Style",
@@ -143,18 +139,22 @@
         "value": "Mauve"
       },
       {
+        "trait_type": "Markings",
+        "value": "Mage Script Serpent (Green)"
+      },
+      {
         "trait_type": "Eye Style",
-        "value": "Circle Lens"
+        "value": "Clear Graphic"
       },
       {
         "trait_type": "Eye Color",
-        "value": "Green"
+        "value": "Grey"
       },
       {
         "trait_type": "Collar",
-        "value": "Cat Collar"
+        "value": "Moon Choker (Silver)"
       }
     ],
-    "hash": "5876f8fe8e50a1f7e0748d195d9979cc70e443c9028f3b8fb12d894a3e98331d"
+    "hash": "a5641c338f67ab905dd8831bc7533a2075b2b82fd7ec4aff77c53500acc2ffd5"
   }
 }

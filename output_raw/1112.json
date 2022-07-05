@@ -1,56 +1,56 @@
 {
-  "name": "quesadilla of the swing",
-  "description": "You are a CAT made from lovingly cut fruit. Your magic smells like a storm brewing, dark and full of potential. You and your WITCH enjoy boba and bubble baths. Every day, you tend to the gardens and consult with the bees on the state of your flowers. FLOURISH MY FRIEND!",
-  "image": "https://covencats.s3.amazonaws.com/5876f8fe8e50a1f7e0748d195d9979cc70e443c9028f3b8fb12d894a3e98331d.png",
+  "name": "santaka, the crafty",
+  "description": "You are a CAT who pounces on shiny objects. Your tail chases you. You travel the Weird Wilds with your WITCH. Your mischievous ways frighten the most devilish creatures. TREAT YOURSELF!",
+  "image": "https://covencats.s3.amazonaws.com/883f5a9385c293b06698c4788c0cd53624a002252ae044a94f72f5af3913a4ca.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Rust"
+      "value": "Taupe"
     },
     {
       "trait_type": "Seat",
-      "value": "Basket of Yarn"
+      "value": "Table"
     },
     {
       "trait_type": "Background Item",
-      "value": "Bumblebees"
+      "value": "Spiderwebs (Skull)"
     },
     {
       "trait_type": "Foreground Item",
-      "value": "Ball of Yarn and Knitting Needles"
+      "value": "Cat Food (Chicken)"
     },
     {
       "trait_type": "Body Style",
-      "value": "Tufted"
+      "value": "Spiked"
     },
     {
       "trait_type": "Fur Color",
-      "value": "Mauve"
+      "value": "Lavender"
     },
     {
       "trait_type": "Eye Style",
-      "value": "Circle Lens"
+      "value": "Hypnotic"
     },
     {
       "trait_type": "Eye Color",
-      "value": "Green"
+      "value": "Grey"
     },
     {
       "trait_type": "Collar",
-      "value": "Cat Collar"
+      "value": "Moon Choker (Silver)"
     },
     {
       "trait_type": "Archetype of Power",
-      "value": "Hag"
+      "value": "Occultist"
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Scorpio"
+      "value": "Capricorn"
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Scorpio"
+      "value": "Leo"
     },
     {
       "trait_type": "Rising Sign",
@@ -59,102 +59,102 @@
     {
       "display_type": "number",
       "trait_type": "Caprice",
-      "value": 1,
+      "value": 6,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Caution",
-      "value": 8,
+      "value": 6,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Catastrophe",
-      "value": 4,
-      "max_value": 9
-    },
-    {
-      "display_type": "number",
-      "trait_type": "Curiosity",
-      "value": 5,
-      "max_value": 9
-    },
-    {
-      "display_type": "number",
-      "trait_type": "Charisma",
       "value": 3,
       "max_value": 9
     },
     {
       "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
       "trait_type": "Cunning",
-      "value": 2,
+      "value": 9,
       "max_value": 9
     }
   ],
   "coven_cats": {
-    "id": 1111,
-    "name": "quesadilla of the swing",
-    "type": "hag",
+    "id": 1112,
+    "name": "santaka, the crafty",
+    "type": "occultist",
     "description": {
-      "summoning": "You are a CAT made from lovingly cut fruit.",
-      "magic": "Your magic smells like a storm brewing, dark and full of potential.",
-      "acts_of_service": "You and your WITCH enjoy boba and bubble baths.",
-      "belonging": "Every day, you tend to the gardens and consult with the bees on the state of your flowers.",
-      "meow": "FLOURISH MY FRIEND!"
+      "summoning": "You are a CAT who pounces on shiny objects.",
+      "magic": "Your tail chases you.",
+      "acts_of_service": "You travel the Weird Wilds with your WITCH.",
+      "belonging": "Your mischievous ways frighten the most devilish creatures.",
+      "meow": "TREAT YOURSELF!"
     },
     "skills": {
-      "caprice": 1,
-      "caution": 8,
-      "catastrophe": 4,
-      "curiosity": 5,
-      "charisma": 3,
-      "cunning": 2
+      "caprice": 6,
+      "caution": 6,
+      "catastrophe": 3,
+      "curiosity": 7,
+      "charisma": 1,
+      "cunning": 9
     },
     "birth_chart": {
-      "sun": "scorpio",
-      "moon": "scorpio",
+      "sun": "capricorn",
+      "moon": "leo",
       "rising": "sagittarius"
     },
     "styles": [
       {
         "trait_type": "Background",
-        "value": "Rust"
+        "value": "Taupe"
       },
       {
         "trait_type": "Seat",
-        "value": "Basket of Yarn"
+        "value": "Table"
       },
       {
         "trait_type": "Background Item",
-        "value": "Bumblebees"
+        "value": "Spiderwebs (Skull)"
       },
       {
         "trait_type": "Foreground Item",
-        "value": "Ball of Yarn and Knitting Needles"
+        "value": "Cat Food (Chicken)"
       },
       {
         "trait_type": "Body Style",
-        "value": "Tufted"
+        "value": "Spiked"
       },
       {
         "trait_type": "Fur Color",
-        "value": "Mauve"
+        "value": "Lavender"
       },
       {
         "trait_type": "Eye Style",
-        "value": "Circle Lens"
+        "value": "Hypnotic"
       },
       {
         "trait_type": "Eye Color",
-        "value": "Green"
+        "value": "Grey"
       },
       {
         "trait_type": "Collar",
-        "value": "Cat Collar"
+        "value": "Moon Choker (Silver)"
       }
     ],
-    "hash": "5876f8fe8e50a1f7e0748d195d9979cc70e443c9028f3b8fb12d894a3e98331d"
+    "hash": "883f5a9385c293b06698c4788c0cd53624a002252ae044a94f72f5af3913a4ca"
   }
 }
