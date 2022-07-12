@@ -1,48 +1,44 @@
 {
-  "name": "sweet malfoy",
-  "description": "You are a CAT who claws at imposters. You swat the snoots of nosey dogs. You and your WITCH love a mess. Your sharp claws carve hexes into people's souls. TO THE MOON!",
-  "image": "https://covencats.s3.amazonaws.com/3f93a7e417ec5d41b05b9de8f5a5e2f5fbc721682ea0a59d0ed0fbffcecaa08f.png",
+  "name": "parmesan of the planter",
+  "description": "You are a CAT with 6 lives, found on the beaches of Accra. Your wisdom comes from saucers of milk and the smell of ancient books. You protect your WITCH from pencils, pincher bugs, and Pisces. Every morning, you practice your leaps and lunges alongside the frogs and rabbits. WIGGLE YOUR BUTT!",
+  "image": "https://covencats.s3.amazonaws.com/a3959cec2188ebdd994eaa6e8e91f60ffffa8d2d9034d7d388f67ed84d5bdf7b.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Peach"
+      "value": "Rust"
     },
     {
       "trait_type": "Background Item",
-      "value": "Sunbeam"
+      "value": "Broom"
     },
     {
       "trait_type": "Seat",
-      "value": "Shelf"
-    },
-    {
-      "trait_type": "Foreground Item",
-      "value": "Candle (Blue)"
+      "value": "Bag of Salt"
     },
     {
       "trait_type": "Body Style",
-      "value": "Floofed"
+      "value": "Sleek"
     },
     {
       "trait_type": "Fur Color",
-      "value": "Grumpy Mermaid"
+      "value": "Lilac Siamese"
     },
     {
       "trait_type": "Eye Style",
-      "value": "Sclera"
+      "value": "Circle Lens"
     },
     {
       "trait_type": "Eye Color",
-      "value": "Red"
+      "value": "Pink"
     },
     {
       "trait_type": "Collar",
-      "value": "Ring Collar (Silver)"
+      "value": "Studded Collar (Silver)"
     },
     {
       "trait_type": "Archetype of Power",
-      "value": "Occultist"
+      "value": "Hag"
     },
     {
       "trait_type": "Sun Sign",
@@ -50,40 +46,40 @@
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Aries"
+      "value": "Taurus"
     },
     {
       "trait_type": "Rising Sign",
-      "value": "Sagittarius"
+      "value": "Capricorn"
     },
     {
       "display_type": "number",
       "trait_type": "Caprice",
-      "value": 9,
+      "value": 7,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Caution",
-      "value": 1,
+      "value": 4,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Catastrophe",
-      "value": 9,
+      "value": 7,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Curiosity",
-      "value": 7,
+      "value": 9,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Charisma",
-      "value": 7,
+      "value": 8,
       "max_value": 9
     },
     {
@@ -94,67 +90,63 @@
     }
   ],
   "coven_cats": {
-    "id": 1118,
-    "name": "sweet malfoy",
-    "type": "occultist",
+    "id": 1158,
+    "name": "parmesan of the planter",
+    "type": "hag",
     "description": {
-      "summoning": "You are a CAT who claws at imposters.",
-      "magic": "You swat the snoots of nosey dogs.",
-      "acts_of_service": "You and your WITCH love a mess.",
-      "belonging": "Your sharp claws carve hexes into people's souls.",
-      "meow": "TO THE MOON!"
+      "summoning": "You are a CAT with 6 lives, found on the beaches of Accra.",
+      "magic": "Your wisdom comes from saucers of milk and the smell of ancient books.",
+      "acts_of_service": "You protect your WITCH from pencils, pincher bugs, and Pisces.",
+      "belonging": "Every morning, you practice your leaps and lunges alongside the frogs and rabbits.",
+      "meow": "WIGGLE YOUR BUTT!"
     },
     "skills": {
-      "caprice": 9,
-      "caution": 1,
-      "catastrophe": 9,
-      "curiosity": 7,
-      "charisma": 7,
+      "caprice": 7,
+      "caution": 4,
+      "catastrophe": 7,
+      "curiosity": 9,
+      "charisma": 8,
       "cunning": 4
     },
     "birth_chart": {
       "sun": "aquarius",
-      "moon": "aries",
-      "rising": "sagittarius"
+      "moon": "taurus",
+      "rising": "capricorn"
     },
     "styles": [
       {
         "trait_type": "Background",
-        "value": "Peach"
+        "value": "Rust"
       },
       {
         "trait_type": "Background Item",
-        "value": "Sunbeam"
+        "value": "Broom"
       },
       {
         "trait_type": "Seat",
-        "value": "Shelf"
-      },
-      {
-        "trait_type": "Foreground Item",
-        "value": "Candle (Blue)"
+        "value": "Bag of Salt"
       },
       {
         "trait_type": "Body Style",
-        "value": "Floofed"
+        "value": "Sleek"
       },
       {
         "trait_type": "Fur Color",
-        "value": "Grumpy Mermaid"
+        "value": "Lilac Siamese"
       },
       {
         "trait_type": "Eye Style",
-        "value": "Sclera"
+        "value": "Circle Lens"
       },
       {
         "trait_type": "Eye Color",
-        "value": "Red"
+        "value": "Pink"
       },
       {
         "trait_type": "Collar",
-        "value": "Ring Collar (Silver)"
+        "value": "Studded Collar (Silver)"
       }
     ],
-    "hash": "3f93a7e417ec5d41b05b9de8f5a5e2f5fbc721682ea0a59d0ed0fbffcecaa08f"
+    "hash": "a3959cec2188ebdd994eaa6e8e91f60ffffa8d2d9034d7d388f67ed84d5bdf7b"
   }
 }

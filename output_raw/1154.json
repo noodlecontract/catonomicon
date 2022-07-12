@@ -1,48 +1,44 @@
 {
-  "name": "sweet malfoy",
-  "description": "You are a CAT who claws at imposters. You swat the snoots of nosey dogs. You and your WITCH love a mess. Your sharp claws carve hexes into people's souls. TO THE MOON!",
-  "image": "https://covencats.s3.amazonaws.com/3f93a7e417ec5d41b05b9de8f5a5e2f5fbc721682ea0a59d0ed0fbffcecaa08f.png",
+  "name": "ketchup of the brewery",
+  "description": "You are a CAT who dips challah in honey year-round. You creep within the dreams of regents, sowing seeds of distrust and sedition. You and your WITCH bond over hot goss. Every morning, you practice your leaps and lunges alongside the frogs and rabbits. BE STILL!",
+  "image": "https://covencats.s3.amazonaws.com/0cfd0cb5f2bcc97f56528a3adca94d869342d3f697fd2aba48df0253c22f5196.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Peach"
+      "value": "Moss"
     },
     {
       "trait_type": "Background Item",
-      "value": "Sunbeam"
+      "value": "Broom"
     },
     {
       "trait_type": "Seat",
-      "value": "Shelf"
-    },
-    {
-      "trait_type": "Foreground Item",
-      "value": "Candle (Blue)"
+      "value": "Bag of Salt"
     },
     {
       "trait_type": "Body Style",
-      "value": "Floofed"
+      "value": "Sleek"
     },
     {
       "trait_type": "Fur Color",
-      "value": "Grumpy Mermaid"
+      "value": "Calico Mirror"
     },
     {
       "trait_type": "Eye Style",
-      "value": "Sclera"
+      "value": "Circle Lens"
     },
     {
       "trait_type": "Eye Color",
-      "value": "Red"
+      "value": "Bicolor Blue Gold"
     },
     {
       "trait_type": "Collar",
-      "value": "Ring Collar (Silver)"
+      "value": "Studded Collar (Silver)"
     },
     {
       "trait_type": "Archetype of Power",
-      "value": "Occultist"
+      "value": "Hag"
     },
     {
       "trait_type": "Sun Sign",
@@ -50,111 +46,107 @@
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Aries"
+      "value": "Aquarius"
     },
     {
       "trait_type": "Rising Sign",
-      "value": "Sagittarius"
+      "value": "Aries"
     },
     {
       "display_type": "number",
       "trait_type": "Caprice",
-      "value": 9,
+      "value": 4,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Caution",
-      "value": 1,
-      "max_value": 9
-    },
-    {
-      "display_type": "number",
-      "trait_type": "Catastrophe",
       "value": 9,
       "max_value": 9
     },
     {
       "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
       "trait_type": "Curiosity",
-      "value": 7,
+      "value": 4,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Charisma",
-      "value": 7,
+      "value": 2,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Cunning",
-      "value": 4,
+      "value": 2,
       "max_value": 9
     }
   ],
   "coven_cats": {
-    "id": 1118,
-    "name": "sweet malfoy",
-    "type": "occultist",
+    "id": 1154,
+    "name": "ketchup of the brewery",
+    "type": "hag",
     "description": {
-      "summoning": "You are a CAT who claws at imposters.",
-      "magic": "You swat the snoots of nosey dogs.",
-      "acts_of_service": "You and your WITCH love a mess.",
-      "belonging": "Your sharp claws carve hexes into people's souls.",
-      "meow": "TO THE MOON!"
+      "summoning": "You are a CAT who dips challah in honey year-round.",
+      "magic": "You creep within the dreams of regents, sowing seeds of distrust and sedition.",
+      "acts_of_service": "You and your WITCH bond over hot goss.",
+      "belonging": "Every morning, you practice your leaps and lunges alongside the frogs and rabbits.",
+      "meow": "BE STILL!"
     },
     "skills": {
-      "caprice": 9,
-      "caution": 1,
-      "catastrophe": 9,
-      "curiosity": 7,
-      "charisma": 7,
-      "cunning": 4
+      "caprice": 4,
+      "caution": 9,
+      "catastrophe": 4,
+      "curiosity": 4,
+      "charisma": 2,
+      "cunning": 2
     },
     "birth_chart": {
       "sun": "aquarius",
-      "moon": "aries",
-      "rising": "sagittarius"
+      "moon": "aquarius",
+      "rising": "aries"
     },
     "styles": [
       {
         "trait_type": "Background",
-        "value": "Peach"
+        "value": "Moss"
       },
       {
         "trait_type": "Background Item",
-        "value": "Sunbeam"
+        "value": "Broom"
       },
       {
         "trait_type": "Seat",
-        "value": "Shelf"
-      },
-      {
-        "trait_type": "Foreground Item",
-        "value": "Candle (Blue)"
+        "value": "Bag of Salt"
       },
       {
         "trait_type": "Body Style",
-        "value": "Floofed"
+        "value": "Sleek"
       },
       {
         "trait_type": "Fur Color",
-        "value": "Grumpy Mermaid"
+        "value": "Calico Mirror"
       },
       {
         "trait_type": "Eye Style",
-        "value": "Sclera"
+        "value": "Circle Lens"
       },
       {
         "trait_type": "Eye Color",
-        "value": "Red"
+        "value": "Bicolor Blue Gold"
       },
       {
         "trait_type": "Collar",
-        "value": "Ring Collar (Silver)"
+        "value": "Studded Collar (Silver)"
       }
     ],
-    "hash": "3f93a7e417ec5d41b05b9de8f5a5e2f5fbc721682ea0a59d0ed0fbffcecaa08f"
+    "hash": "0cfd0cb5f2bcc97f56528a3adca94d869342d3f697fd2aba48df0253c22f5196"
   }
 }

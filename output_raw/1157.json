@@ -1,16 +1,12 @@
 {
-  "name": "sweet malfoy",
-  "description": "You are a CAT who claws at imposters. You swat the snoots of nosey dogs. You and your WITCH love a mess. Your sharp claws carve hexes into people's souls. TO THE MOON!",
-  "image": "https://covencats.s3.amazonaws.com/3f93a7e417ec5d41b05b9de8f5a5e2f5fbc721682ea0a59d0ed0fbffcecaa08f.png",
+  "name": "tequila, the trap",
+  "description": "You are a CAT made of French fries and chicken nuggets. Your whiskers tell time. You and your WITCH take long road trips through the Weird Wilds. Your eyes shine through the darkest nights. RUN UP THE WALL!",
+  "image": "https://covencats.s3.amazonaws.com/2f0598ff98a68fae4f8b596ca092c594e001f19bea9a617159f7df7670156a73.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Peach"
-    },
-    {
-      "trait_type": "Background Item",
-      "value": "Sunbeam"
+      "value": "Taupe"
     },
     {
       "trait_type": "Seat",
@@ -18,7 +14,7 @@
     },
     {
       "trait_type": "Foreground Item",
-      "value": "Candle (Blue)"
+      "value": "Apothecary Jars (Starlight, Screams)"
     },
     {
       "trait_type": "Body Style",
@@ -26,19 +22,27 @@
     },
     {
       "trait_type": "Fur Color",
-      "value": "Grumpy Mermaid"
+      "value": "Grumpy Platinum"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Claw Marked (Blue)"
     },
     {
       "trait_type": "Eye Style",
-      "value": "Sclera"
+      "value": "Circle Lens"
     },
     {
       "trait_type": "Eye Color",
-      "value": "Red"
+      "value": "Lilac"
     },
     {
       "trait_type": "Collar",
       "value": "Ring Collar (Silver)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Maleficent Horns"
     },
     {
       "trait_type": "Archetype of Power",
@@ -46,7 +50,7 @@
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Aquarius"
+      "value": "Libra"
     },
     {
       "trait_type": "Moon Sign",
@@ -54,18 +58,18 @@
     },
     {
       "trait_type": "Rising Sign",
-      "value": "Sagittarius"
+      "value": "Virgo"
     },
     {
       "display_type": "number",
       "trait_type": "Caprice",
-      "value": 9,
+      "value": 2,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Caution",
-      "value": 1,
+      "value": 4,
       "max_value": 9
     },
     {
@@ -77,54 +81,50 @@
     {
       "display_type": "number",
       "trait_type": "Curiosity",
-      "value": 7,
+      "value": 6,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Charisma",
-      "value": 7,
+      "value": 0,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Cunning",
-      "value": 4,
+      "value": 8,
       "max_value": 9
     }
   ],
   "coven_cats": {
-    "id": 1118,
-    "name": "sweet malfoy",
+    "id": 1157,
+    "name": "tequila, the trap",
     "type": "occultist",
     "description": {
-      "summoning": "You are a CAT who claws at imposters.",
-      "magic": "You swat the snoots of nosey dogs.",
-      "acts_of_service": "You and your WITCH love a mess.",
-      "belonging": "Your sharp claws carve hexes into people's souls.",
-      "meow": "TO THE MOON!"
+      "summoning": "You are a CAT made of French fries and chicken nuggets.",
+      "magic": "Your whiskers tell time.",
+      "acts_of_service": "You and your WITCH take long road trips through the Weird Wilds.",
+      "belonging": "Your eyes shine through the darkest nights.",
+      "meow": "RUN UP THE WALL!"
     },
     "skills": {
-      "caprice": 9,
-      "caution": 1,
+      "caprice": 2,
+      "caution": 4,
       "catastrophe": 9,
-      "curiosity": 7,
-      "charisma": 7,
-      "cunning": 4
+      "curiosity": 6,
+      "charisma": 0,
+      "cunning": 8
     },
     "birth_chart": {
-      "sun": "aquarius",
+      "sun": "libra",
       "moon": "aries",
-      "rising": "sagittarius"
+      "rising": "virgo"
     },
     "styles": [
       {
         "trait_type": "Background",
-        "value": "Peach"
-      },
-      {
-        "trait_type": "Background Item",
-        "value": "Sunbeam"
+        "value": "Taupe"
       },
       {
         "trait_type": "Seat",
@@ -132,7 +132,7 @@
       },
       {
         "trait_type": "Foreground Item",
-        "value": "Candle (Blue)"
+        "value": "Apothecary Jars (Starlight, Screams)"
       },
       {
         "trait_type": "Body Style",
@@ -140,21 +140,29 @@
       },
       {
         "trait_type": "Fur Color",
-        "value": "Grumpy Mermaid"
+        "value": "Grumpy Platinum"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Claw Marked (Blue)"
       },
       {
         "trait_type": "Eye Style",
-        "value": "Sclera"
+        "value": "Circle Lens"
       },
       {
         "trait_type": "Eye Color",
-        "value": "Red"
+        "value": "Lilac"
       },
       {
         "trait_type": "Collar",
         "value": "Ring Collar (Silver)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Maleficent Horns"
       }
     ],
-    "hash": "3f93a7e417ec5d41b05b9de8f5a5e2f5fbc721682ea0a59d0ed0fbffcecaa08f"
+    "hash": "2f0598ff98a68fae4f8b596ca092c594e001f19bea9a617159f7df7670156a73"
   }
 }

@@ -1,20 +1,20 @@
 {
-  "name": "cepheus star",
-  "description": "You are a CAT made of eight crazy nights. You scare away enemies with a high-pitched yowl. You and your WITCH enjoy boba and bubble baths. Your whiskers can predict the curses of the VOID WITCH. IT'S TIME TO TORMENT THE DOG!",
-  "image": "https://covencats.s3.amazonaws.com/522d0e4e083fad56e83951cedfeefc98212ac8ff4354fca57fe1cd2b0a6aa7fb.png",
+  "name": "constance, the startling",
+  "description": "You are a CAT who unravels yarn. You swat the snoots of nosey dogs. You protect your WITCH from vixens, vampires, and Virgos. You spend your days in fashion houses, watching models strut down the catwalk. WATCH AND LEARN!",
+  "image": "https://covencats.s3.amazonaws.com/4400f8aaf1a7ecaf1052a33cf3b2bf6caeea5f5c49267b81514385107ed389fa.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sea"
+      "value": "Lavender"
     },
     {
       "trait_type": "Seat",
-      "value": "Shelf"
+      "value": "Pillow (Cream)"
     },
     {
-      "trait_type": "Foreground Item",
-      "value": "Crystals (Iridescent)"
+      "trait_type": "Wings",
+      "value": "Phoenix (Black)"
     },
     {
       "trait_type": "Body Style",
@@ -26,27 +26,27 @@
     },
     {
       "trait_type": "Eye Style",
-      "value": "Clear Graphic"
+      "value": "Circle Lens"
     },
     {
       "trait_type": "Eye Color",
-      "value": "Grey"
+      "value": "Grey Green"
     },
     {
-      "trait_type": "Facewear",
-      "value": "Eyepatch (Black)"
+      "trait_type": "Collar",
+      "value": "Ethereum Collar"
     },
     {
       "trait_type": "Archetype of Power",
-      "value": "Seer"
+      "value": "Enchantress"
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Capricorn"
+      "value": "Taurus"
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Capricorn"
+      "value": "Pisces"
     },
     {
       "trait_type": "Rising Sign",
@@ -55,76 +55,76 @@
     {
       "display_type": "number",
       "trait_type": "Caprice",
-      "value": 7,
-      "max_value": 9
-    },
-    {
-      "display_type": "number",
-      "trait_type": "Caution",
-      "value": 9,
-      "max_value": 9
-    },
-    {
-      "display_type": "number",
-      "trait_type": "Catastrophe",
-      "value": 0,
-      "max_value": 9
-    },
-    {
-      "display_type": "number",
-      "trait_type": "Curiosity",
-      "value": 9,
-      "max_value": 9
-    },
-    {
-      "display_type": "number",
-      "trait_type": "Charisma",
       "value": 4,
       "max_value": 9
     },
     {
       "display_type": "number",
+      "trait_type": "Caution",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 3,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
       "trait_type": "Cunning",
-      "value": 0,
+      "value": 8,
       "max_value": 9
     }
   ],
   "coven_cats": {
-    "id": 1120,
-    "name": "cepheus star",
-    "type": "seer",
+    "id": 1129,
+    "name": "constance, the startling",
+    "type": "enchantress",
     "description": {
-      "summoning": "You are a CAT made of eight crazy nights.",
-      "magic": "You scare away enemies with a high-pitched yowl.",
-      "acts_of_service": "You and your WITCH enjoy boba and bubble baths.",
-      "belonging": "Your whiskers can predict the curses of the VOID WITCH.",
-      "meow": "IT'S TIME TO TORMENT THE DOG!"
+      "summoning": "You are a CAT who unravels yarn.",
+      "magic": "You swat the snoots of nosey dogs.",
+      "acts_of_service": "You protect your WITCH from vixens, vampires, and Virgos.",
+      "belonging": "You spend your days in fashion houses, watching models strut down the catwalk.",
+      "meow": "WATCH AND LEARN!"
     },
     "skills": {
-      "caprice": 7,
-      "caution": 9,
-      "catastrophe": 0,
-      "curiosity": 9,
-      "charisma": 4,
-      "cunning": 0
+      "caprice": 4,
+      "caution": 8,
+      "catastrophe": 1,
+      "curiosity": 3,
+      "charisma": 5,
+      "cunning": 8
     },
     "birth_chart": {
-      "sun": "capricorn",
-      "moon": "capricorn",
+      "sun": "taurus",
+      "moon": "pisces",
       "rising": "sagittarius"
     },
     "styles": [
       {
         "trait_type": "Background",
-        "value": "Sea"
+        "value": "Lavender"
       },
       {
         "trait_type": "Seat",
-        "value": "Shelf"
+        "value": "Pillow (Cream)"
       },
       {
-        "trait_type": "Foreground Item",
-        "value": "Crystals (Iridescent)"
+        "trait_type": "Wings",
+        "value": "Phoenix (Black)"
       },
       {
         "trait_type": "Body Style",
@@ -136,17 +136,17 @@
       },
       {
         "trait_type": "Eye Style",
-        "value": "Clear Graphic"
+        "value": "Circle Lens"
       },
       {
         "trait_type": "Eye Color",
-        "value": "Grey"
+        "value": "Grey Green"
       },
       {
-        "trait_type": "Facewear",
-        "value": "Eyepatch (Black)"
+        "trait_type": "Collar",
+        "value": "Ethereum Collar"
       }
     ],
-    "hash": "522d0e4e083fad56e83951cedfeefc98212ac8ff4354fca57fe1cd2b0a6aa7fb"
+    "hash": "4400f8aaf1a7ecaf1052a33cf3b2bf6caeea5f5c49267b81514385107ed389fa"
   }
 }

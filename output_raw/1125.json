@@ -1,16 +1,16 @@
 {
-  "name": "kevin",
-  "description": "You are a CAT who tells no lies. Your ears always point true north. You and your WITCH bond over brown paper packages tied up with string. Your yowlings guide lost souls home. RUN UP THE WALL!",
-  "image": "https://covencats.s3.amazonaws.com/bb9a36c0e854b1f611be17c68a240bb35059b4c1ffd659dff03aa87d7d104461.png",
+  "name": "shinigami, the sword",
+  "description": "You are a CAT with 11 lives, found in the souks of Marrakech. You drink starlight from a saucer. You and your WITCH speak in riddles and puzzles. You feel kinship with all creatures, living and departed. READ THE STARS!",
+  "image": "https://covencats.s3.amazonaws.com/82db5ed703c60c5481f4f85234c79fb49b183a88ffa5ad6f9ae3c33cf8b4f2d3.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sea"
+      "value": "Plum"
     },
     {
       "trait_type": "Background Item",
-      "value": "Full Moon"
+      "value": "Spiderwebs (Ethereum)"
     },
     {
       "trait_type": "Seat",
@@ -18,27 +18,23 @@
     },
     {
       "trait_type": "Wings",
-      "value": "Dragon (Ethereum)"
+      "value": "Cicada"
     },
     {
       "trait_type": "Body Style",
-      "value": "Spiked"
+      "value": "Rolled"
     },
     {
       "trait_type": "Fur Color",
-      "value": "Caracal"
+      "value": "Silver"
     },
     {
       "trait_type": "Eye Style",
-      "value": "Demon"
+      "value": "Babylash"
     },
     {
       "trait_type": "Eye Color",
-      "value": "Red"
-    },
-    {
-      "trait_type": "Collar",
-      "value": "Fish Collar"
+      "value": "Grey"
     },
     {
       "trait_type": "Forehead Marking",
@@ -54,16 +50,16 @@
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Scorpio"
+      "value": "Sagittarius"
     },
     {
       "trait_type": "Rising Sign",
-      "value": "Aries"
+      "value": "Capricorn"
     },
     {
       "display_type": "number",
       "trait_type": "Caprice",
-      "value": 5,
+      "value": 3,
       "max_value": 9
     },
     {
@@ -75,60 +71,60 @@
     {
       "display_type": "number",
       "trait_type": "Catastrophe",
-      "value": 5,
+      "value": 7,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Curiosity",
-      "value": 5,
+      "value": 1,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Charisma",
-      "value": 9,
+      "value": 6,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Cunning",
-      "value": 8,
+      "value": 3,
       "max_value": 9
     }
   ],
   "coven_cats": {
-    "id": 1117,
-    "name": "kevin",
+    "id": 1125,
+    "name": "shinigami, the sword",
     "type": "necromancer",
     "description": {
-      "summoning": "You are a CAT who tells no lies.",
-      "magic": "Your ears always point true north.",
-      "acts_of_service": "You and your WITCH bond over brown paper packages tied up with string.",
-      "belonging": "Your yowlings guide lost souls home.",
-      "meow": "RUN UP THE WALL!"
+      "summoning": "You are a CAT with 11 lives, found in the souks of Marrakech.",
+      "magic": "You drink starlight from a saucer.",
+      "acts_of_service": "You and your WITCH speak in riddles and puzzles.",
+      "belonging": "You feel kinship with all creatures, living and departed.",
+      "meow": "READ THE STARS!"
     },
     "skills": {
-      "caprice": 5,
+      "caprice": 3,
       "caution": 6,
-      "catastrophe": 5,
-      "curiosity": 5,
-      "charisma": 9,
-      "cunning": 8
+      "catastrophe": 7,
+      "curiosity": 1,
+      "charisma": 6,
+      "cunning": 3
     },
     "birth_chart": {
       "sun": "pisces",
-      "moon": "scorpio",
-      "rising": "aries"
+      "moon": "sagittarius",
+      "rising": "capricorn"
     },
     "styles": [
       {
         "trait_type": "Background",
-        "value": "Sea"
+        "value": "Plum"
       },
       {
         "trait_type": "Background Item",
-        "value": "Full Moon"
+        "value": "Spiderwebs (Ethereum)"
       },
       {
         "trait_type": "Seat",
@@ -136,33 +132,29 @@
       },
       {
         "trait_type": "Wings",
-        "value": "Dragon (Ethereum)"
+        "value": "Cicada"
       },
       {
         "trait_type": "Body Style",
-        "value": "Spiked"
+        "value": "Rolled"
       },
       {
         "trait_type": "Fur Color",
-        "value": "Caracal"
+        "value": "Silver"
       },
       {
         "trait_type": "Eye Style",
-        "value": "Demon"
+        "value": "Babylash"
       },
       {
         "trait_type": "Eye Color",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Collar",
-        "value": "Fish Collar"
+        "value": "Grey"
       },
       {
         "trait_type": "Forehead Marking",
         "value": "Mark of the Claw"
       }
     ],
-    "hash": "bb9a36c0e854b1f611be17c68a240bb35059b4c1ffd659dff03aa87d7d104461"
+    "hash": "82db5ed703c60c5481f4f85234c79fb49b183a88ffa5ad6f9ae3c33cf8b4f2d3"
   }
 }

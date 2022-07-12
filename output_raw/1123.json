@@ -1,12 +1,16 @@
 {
-  "name": "cepheus star",
-  "description": "You are a CAT made of eight crazy nights. You scare away enemies with a high-pitched yowl. You and your WITCH enjoy boba and bubble baths. Your whiskers can predict the curses of the VOID WITCH. IT'S TIME TO TORMENT THE DOG!",
-  "image": "https://covencats.s3.amazonaws.com/522d0e4e083fad56e83951cedfeefc98212ac8ff4354fca57fe1cd2b0a6aa7fb.png",
+  "name": "indus of the water",
+  "description": "You are a CAT with 19 lives, found on the streets of Amsterdam. You sniff out the best quality tuna. You and your WITCH meet under the stars at the end of a long day. Your favorite fish lives inside a WITCH's crystal ball. WIGGLE YOUR BUTT!",
+  "image": "https://covencats.s3.amazonaws.com/164e61bd1c67f6f78ff40c3a4f6db1e44bdb0672d6fdbf61334f0dc92d6f75bb.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sea"
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Sunbeam"
     },
     {
       "trait_type": "Seat",
@@ -14,27 +18,27 @@
     },
     {
       "trait_type": "Foreground Item",
-      "value": "Crystals (Iridescent)"
+      "value": "Potions (Peace, Luck)"
     },
     {
       "trait_type": "Body Style",
-      "value": "Floofed"
+      "value": "Sleek"
     },
     {
       "trait_type": "Fur Color",
-      "value": "Lavender"
+      "value": "Mermaid"
     },
     {
       "trait_type": "Eye Style",
-      "value": "Clear Graphic"
+      "value": "Reverse Cateye"
     },
     {
       "trait_type": "Eye Color",
-      "value": "Grey"
+      "value": "Glo"
     },
     {
-      "trait_type": "Facewear",
-      "value": "Eyepatch (Black)"
+      "trait_type": "Collar",
+      "value": "Leather Collar"
     },
     {
       "trait_type": "Archetype of Power",
@@ -42,11 +46,11 @@
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Capricorn"
+      "value": "Virgo"
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Capricorn"
+      "value": "Pisces"
     },
     {
       "trait_type": "Rising Sign",
@@ -55,68 +59,72 @@
     {
       "display_type": "number",
       "trait_type": "Caprice",
-      "value": 7,
+      "value": 8,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Caution",
-      "value": 9,
+      "value": 6,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Catastrophe",
-      "value": 0,
+      "value": 6,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Curiosity",
-      "value": 9,
+      "value": 2,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Charisma",
-      "value": 4,
+      "value": 0,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Cunning",
-      "value": 0,
+      "value": 5,
       "max_value": 9
     }
   ],
   "coven_cats": {
-    "id": 1120,
-    "name": "cepheus star",
+    "id": 1123,
+    "name": "indus of the water",
     "type": "seer",
     "description": {
-      "summoning": "You are a CAT made of eight crazy nights.",
-      "magic": "You scare away enemies with a high-pitched yowl.",
-      "acts_of_service": "You and your WITCH enjoy boba and bubble baths.",
-      "belonging": "Your whiskers can predict the curses of the VOID WITCH.",
-      "meow": "IT'S TIME TO TORMENT THE DOG!"
+      "summoning": "You are a CAT with 19 lives, found on the streets of Amsterdam.",
+      "magic": "You sniff out the best quality tuna.",
+      "acts_of_service": "You and your WITCH meet under the stars at the end of a long day.",
+      "belonging": "Your favorite fish lives inside a WITCH's crystal ball.",
+      "meow": "WIGGLE YOUR BUTT!"
     },
     "skills": {
-      "caprice": 7,
-      "caution": 9,
-      "catastrophe": 0,
-      "curiosity": 9,
-      "charisma": 4,
-      "cunning": 0
+      "caprice": 8,
+      "caution": 6,
+      "catastrophe": 6,
+      "curiosity": 2,
+      "charisma": 0,
+      "cunning": 5
     },
     "birth_chart": {
-      "sun": "capricorn",
-      "moon": "capricorn",
+      "sun": "virgo",
+      "moon": "pisces",
       "rising": "sagittarius"
     },
     "styles": [
       {
         "trait_type": "Background",
-        "value": "Sea"
+        "value": "Taupe"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Sunbeam"
       },
       {
         "trait_type": "Seat",
@@ -124,29 +132,29 @@
       },
       {
         "trait_type": "Foreground Item",
-        "value": "Crystals (Iridescent)"
+        "value": "Potions (Peace, Luck)"
       },
       {
         "trait_type": "Body Style",
-        "value": "Floofed"
+        "value": "Sleek"
       },
       {
         "trait_type": "Fur Color",
-        "value": "Lavender"
+        "value": "Mermaid"
       },
       {
         "trait_type": "Eye Style",
-        "value": "Clear Graphic"
+        "value": "Reverse Cateye"
       },
       {
         "trait_type": "Eye Color",
-        "value": "Grey"
+        "value": "Glo"
       },
       {
-        "trait_type": "Facewear",
-        "value": "Eyepatch (Black)"
+        "trait_type": "Collar",
+        "value": "Leather Collar"
       }
     ],
-    "hash": "522d0e4e083fad56e83951cedfeefc98212ac8ff4354fca57fe1cd2b0a6aa7fb"
+    "hash": "164e61bd1c67f6f78ff40c3a4f6db1e44bdb0672d6fdbf61334f0dc92d6f75bb"
   }
 }

@@ -1,52 +1,48 @@
 {
-  "name": "kevin",
-  "description": "You are a CAT who tells no lies. Your ears always point true north. You and your WITCH bond over brown paper packages tied up with string. Your yowlings guide lost souls home. RUN UP THE WALL!",
-  "image": "https://covencats.s3.amazonaws.com/bb9a36c0e854b1f611be17c68a240bb35059b4c1ffd659dff03aa87d7d104461.png",
+  "name": "crux of the jade",
+  "description": "You are a CAT made of melodies and meowing. Your whiskers tingle in the presence of magic. You and your WITCH recharge, reflect, and release every full moon. You divine what will happen by licking spilt milk off the floor. SAY HELLO!",
+  "image": "https://covencats.s3.amazonaws.com/443d82be8a9fbac252a66978e05c10ce7390efa20d4eed5a48cc28be1aa12d6b.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sea"
+      "value": "Rust"
     },
     {
       "trait_type": "Background Item",
-      "value": "Full Moon"
+      "value": "Crescent Moon"
     },
     {
       "trait_type": "Seat",
-      "value": "Tombstone"
-    },
-    {
-      "trait_type": "Wings",
-      "value": "Dragon (Ethereum)"
+      "value": "Crystal Ball"
     },
     {
       "trait_type": "Body Style",
-      "value": "Spiked"
+      "value": "Sleek"
     },
     {
       "trait_type": "Fur Color",
-      "value": "Caracal"
+      "value": "Black"
     },
     {
       "trait_type": "Eye Style",
-      "value": "Demon"
+      "value": "Circle Lens"
     },
     {
       "trait_type": "Eye Color",
-      "value": "Red"
+      "value": "Bicolor Pink Turquoise"
     },
     {
       "trait_type": "Collar",
-      "value": "Fish Collar"
+      "value": "Raised Third Eye (Purple)"
     },
     {
-      "trait_type": "Forehead Marking",
-      "value": "Mark of the Claw"
+      "trait_type": "Facewear",
+      "value": "Eyepatch (Blue)"
     },
     {
       "trait_type": "Archetype of Power",
-      "value": "Necromancer"
+      "value": "Seer"
     },
     {
       "trait_type": "Sun Sign",
@@ -54,16 +50,16 @@
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Scorpio"
+      "value": "Leo"
     },
     {
       "trait_type": "Rising Sign",
-      "value": "Aries"
+      "value": "Libra"
     },
     {
       "display_type": "number",
       "trait_type": "Caprice",
-      "value": 5,
+      "value": 3,
       "max_value": 9
     },
     {
@@ -75,94 +71,90 @@
     {
       "display_type": "number",
       "trait_type": "Catastrophe",
-      "value": 5,
+      "value": 1,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Curiosity",
-      "value": 5,
+      "value": 8,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Charisma",
-      "value": 9,
+      "value": 3,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Cunning",
-      "value": 8,
+      "value": 5,
       "max_value": 9
     }
   ],
   "coven_cats": {
-    "id": 1117,
-    "name": "kevin",
-    "type": "necromancer",
+    "id": 1127,
+    "name": "crux of the jade",
+    "type": "seer",
     "description": {
-      "summoning": "You are a CAT who tells no lies.",
-      "magic": "Your ears always point true north.",
-      "acts_of_service": "You and your WITCH bond over brown paper packages tied up with string.",
-      "belonging": "Your yowlings guide lost souls home.",
-      "meow": "RUN UP THE WALL!"
+      "summoning": "You are a CAT made of melodies and meowing.",
+      "magic": "Your whiskers tingle in the presence of magic.",
+      "acts_of_service": "You and your WITCH recharge, reflect, and release every full moon.",
+      "belonging": "You divine what will happen by licking spilt milk off the floor.",
+      "meow": "SAY HELLO!"
     },
     "skills": {
-      "caprice": 5,
+      "caprice": 3,
       "caution": 6,
-      "catastrophe": 5,
-      "curiosity": 5,
-      "charisma": 9,
-      "cunning": 8
+      "catastrophe": 1,
+      "curiosity": 8,
+      "charisma": 3,
+      "cunning": 5
     },
     "birth_chart": {
       "sun": "pisces",
-      "moon": "scorpio",
-      "rising": "aries"
+      "moon": "leo",
+      "rising": "libra"
     },
     "styles": [
       {
         "trait_type": "Background",
-        "value": "Sea"
+        "value": "Rust"
       },
       {
         "trait_type": "Background Item",
-        "value": "Full Moon"
+        "value": "Crescent Moon"
       },
       {
         "trait_type": "Seat",
-        "value": "Tombstone"
-      },
-      {
-        "trait_type": "Wings",
-        "value": "Dragon (Ethereum)"
+        "value": "Crystal Ball"
       },
       {
         "trait_type": "Body Style",
-        "value": "Spiked"
+        "value": "Sleek"
       },
       {
         "trait_type": "Fur Color",
-        "value": "Caracal"
+        "value": "Black"
       },
       {
         "trait_type": "Eye Style",
-        "value": "Demon"
+        "value": "Circle Lens"
       },
       {
         "trait_type": "Eye Color",
-        "value": "Red"
+        "value": "Bicolor Pink Turquoise"
       },
       {
         "trait_type": "Collar",
-        "value": "Fish Collar"
+        "value": "Raised Third Eye (Purple)"
       },
       {
-        "trait_type": "Forehead Marking",
-        "value": "Mark of the Claw"
+        "trait_type": "Facewear",
+        "value": "Eyepatch (Blue)"
       }
     ],
-    "hash": "bb9a36c0e854b1f611be17c68a240bb35059b4c1ffd659dff03aa87d7d104461"
+    "hash": "443d82be8a9fbac252a66978e05c10ce7390efa20d4eed5a48cc28be1aa12d6b"
   }
 }

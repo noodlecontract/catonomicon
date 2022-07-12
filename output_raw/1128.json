@@ -1,24 +1,24 @@
 {
-  "name": "ume of the sofa",
-  "description": "You are a CAT made of charm and contempt. You demand watercress, arugula, and wild spinach year-round to appease your discerning palate. You and your WITCH enjoy the finer things in life. You get lost in the pages of cookbooks. BEWARE OF MICE!",
-  "image": "https://covencats.s3.amazonaws.com/87008ef1512193f833979f8c20655cf1cab9d0b1ef1aeccac567290d26b0fc2f.png",
+  "name": "lavash of the couch cushions",
+  "description": "You are a CAT with 6 lives, found on the beaches of Accra. You nurture plants into the shapes of cats. You bring your WITCH gifts of mice, birds, and fish. The scent of fresh fish and catnip makes you purr loudly. DREAM A LITTLE DREAM!",
+  "image": "https://covencats.s3.amazonaws.com/5c7d734759ff87622e225d7fb9da557dd09d62f691cf5206a65147021edac25a.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Moss"
-    },
-    {
-      "trait_type": "Wings",
-      "value": "Luna Moth"
+      "value": "Lavender"
     },
     {
       "trait_type": "Seat",
-      "value": "Table"
+      "value": "Basket of Yarn"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Broom"
     },
     {
       "trait_type": "Foreground Item",
-      "value": "Cat Food (Chicken)"
+      "value": "Ball of Yarn (Wine)"
     },
     {
       "trait_type": "Body Style",
@@ -26,7 +26,11 @@
     },
     {
       "trait_type": "Fur Color",
-      "value": "Ash"
+      "value": "Platinum"
+    },
+    {
+      "trait_type": "Forehead Marking",
+      "value": "Nega Moon Mark (Black)"
     },
     {
       "trait_type": "Eye Style",
@@ -35,6 +39,10 @@
     {
       "trait_type": "Eye Color",
       "value": "Pink"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
     },
     {
       "trait_type": "Archetype of Power",
@@ -46,28 +54,28 @@
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Libra"
+      "value": "Aries"
     },
     {
       "trait_type": "Rising Sign",
-      "value": "Capricorn"
+      "value": "Pisces"
     },
     {
       "display_type": "number",
       "trait_type": "Caprice",
-      "value": 1,
+      "value": 5,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Caution",
-      "value": 7,
+      "value": 9,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Catastrophe",
-      "value": 7,
+      "value": 6,
       "max_value": 9
     },
     {
@@ -79,7 +87,7 @@
     {
       "display_type": "number",
       "trait_type": "Charisma",
-      "value": 2,
+      "value": 1,
       "max_value": 9
     },
     {
@@ -90,45 +98,45 @@
     }
   ],
   "coven_cats": {
-    "id": 1119,
-    "name": "ume of the sofa",
+    "id": 1128,
+    "name": "lavash of the couch cushions",
     "type": "hag",
     "description": {
-      "summoning": "You are a CAT made of charm and contempt.",
-      "magic": "You demand watercress, arugula, and wild spinach year-round to appease your discerning palate.",
-      "acts_of_service": "You and your WITCH enjoy the finer things in life.",
-      "belonging": "You get lost in the pages of cookbooks.",
-      "meow": "BEWARE OF MICE!"
+      "summoning": "You are a CAT with 6 lives, found on the beaches of Accra.",
+      "magic": "You nurture plants into the shapes of cats.",
+      "acts_of_service": "You bring your WITCH gifts of mice, birds, and fish.",
+      "belonging": "The scent of fresh fish and catnip makes you purr loudly.",
+      "meow": "DREAM A LITTLE DREAM!"
     },
     "skills": {
-      "caprice": 1,
-      "caution": 7,
-      "catastrophe": 7,
+      "caprice": 5,
+      "caution": 9,
+      "catastrophe": 6,
       "curiosity": 9,
-      "charisma": 2,
+      "charisma": 1,
       "cunning": 1
     },
     "birth_chart": {
       "sun": "aries",
-      "moon": "libra",
-      "rising": "capricorn"
+      "moon": "aries",
+      "rising": "pisces"
     },
     "styles": [
       {
         "trait_type": "Background",
-        "value": "Moss"
-      },
-      {
-        "trait_type": "Wings",
-        "value": "Luna Moth"
+        "value": "Lavender"
       },
       {
         "trait_type": "Seat",
-        "value": "Table"
+        "value": "Basket of Yarn"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Broom"
       },
       {
         "trait_type": "Foreground Item",
-        "value": "Cat Food (Chicken)"
+        "value": "Ball of Yarn (Wine)"
       },
       {
         "trait_type": "Body Style",
@@ -136,7 +144,11 @@
       },
       {
         "trait_type": "Fur Color",
-        "value": "Ash"
+        "value": "Platinum"
+      },
+      {
+        "trait_type": "Forehead Marking",
+        "value": "Nega Moon Mark (Black)"
       },
       {
         "trait_type": "Eye Style",
@@ -145,8 +157,12 @@
       {
         "trait_type": "Eye Color",
         "value": "Pink"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
       }
     ],
-    "hash": "87008ef1512193f833979f8c20655cf1cab9d0b1ef1aeccac567290d26b0fc2f"
+    "hash": "5c7d734759ff87622e225d7fb9da557dd09d62f691cf5206a65147021edac25a"
   }
 }

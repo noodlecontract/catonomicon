@@ -1,64 +1,60 @@
 {
-  "name": "kevin",
-  "description": "You are a CAT who tells no lies. Your ears always point true north. You and your WITCH bond over brown paper packages tied up with string. Your yowlings guide lost souls home. RUN UP THE WALL!",
-  "image": "https://covencats.s3.amazonaws.com/bb9a36c0e854b1f611be17c68a240bb35059b4c1ffd659dff03aa87d7d104461.png",
+  "name": "ramen of small spaces",
+  "description": "You are a CAT come to life from a dream. Your whiskers tell time. You and your WITCH bond over wordle starting words. Birds ask for your fur to create elaborate nests. BE STILL; BE FREE; BE MINE!",
+  "image": "https://covencats.s3.amazonaws.com/c25bcf723eeeb909d359761cffa79658b73adb9a2244ed0a5dff634fb9363dea.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sea"
+      "value": "Moss"
     },
     {
       "trait_type": "Background Item",
-      "value": "Full Moon"
+      "value": "Sunbeam"
     },
     {
       "trait_type": "Seat",
-      "value": "Tombstone"
-    },
-    {
-      "trait_type": "Wings",
-      "value": "Dragon (Ethereum)"
+      "value": "Easel"
     },
     {
       "trait_type": "Body Style",
-      "value": "Spiked"
+      "value": "Sleek"
     },
     {
       "trait_type": "Fur Color",
-      "value": "Caracal"
+      "value": "Platinum"
     },
     {
       "trait_type": "Eye Style",
-      "value": "Demon"
+      "value": "Circle Lens"
     },
     {
       "trait_type": "Eye Color",
-      "value": "Red"
+      "value": "Grey Green"
     },
     {
       "trait_type": "Collar",
-      "value": "Fish Collar"
+      "value": "Studded Collar (Silver)"
     },
     {
-      "trait_type": "Forehead Marking",
-      "value": "Mark of the Claw"
+      "trait_type": "Head Topper",
+      "value": "Anemone Horns"
     },
     {
       "trait_type": "Archetype of Power",
-      "value": "Necromancer"
+      "value": "Hag"
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Pisces"
+      "value": "Aries"
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Scorpio"
+      "value": "Sagittarius"
     },
     {
       "trait_type": "Rising Sign",
-      "value": "Aries"
+      "value": "Cancer"
     },
     {
       "display_type": "number",
@@ -69,13 +65,13 @@
     {
       "display_type": "number",
       "trait_type": "Caution",
-      "value": 6,
+      "value": 9,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Catastrophe",
-      "value": 5,
+      "value": 3,
       "max_value": 9
     },
     {
@@ -87,82 +83,78 @@
     {
       "display_type": "number",
       "trait_type": "Charisma",
-      "value": 9,
+      "value": 4,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Cunning",
-      "value": 8,
+      "value": 4,
       "max_value": 9
     }
   ],
   "coven_cats": {
-    "id": 1117,
-    "name": "kevin",
-    "type": "necromancer",
+    "id": 1144,
+    "name": "ramen of small spaces",
+    "type": "hag",
     "description": {
-      "summoning": "You are a CAT who tells no lies.",
-      "magic": "Your ears always point true north.",
-      "acts_of_service": "You and your WITCH bond over brown paper packages tied up with string.",
-      "belonging": "Your yowlings guide lost souls home.",
-      "meow": "RUN UP THE WALL!"
+      "summoning": "You are a CAT come to life from a dream.",
+      "magic": "Your whiskers tell time.",
+      "acts_of_service": "You and your WITCH bond over wordle starting words.",
+      "belonging": "Birds ask for your fur to create elaborate nests.",
+      "meow": "BE STILL; BE FREE; BE MINE!"
     },
     "skills": {
       "caprice": 5,
-      "caution": 6,
-      "catastrophe": 5,
+      "caution": 9,
+      "catastrophe": 3,
       "curiosity": 5,
-      "charisma": 9,
-      "cunning": 8
+      "charisma": 4,
+      "cunning": 4
     },
     "birth_chart": {
-      "sun": "pisces",
-      "moon": "scorpio",
-      "rising": "aries"
+      "sun": "aries",
+      "moon": "sagittarius",
+      "rising": "cancer"
     },
     "styles": [
       {
         "trait_type": "Background",
-        "value": "Sea"
+        "value": "Moss"
       },
       {
         "trait_type": "Background Item",
-        "value": "Full Moon"
+        "value": "Sunbeam"
       },
       {
         "trait_type": "Seat",
-        "value": "Tombstone"
-      },
-      {
-        "trait_type": "Wings",
-        "value": "Dragon (Ethereum)"
+        "value": "Easel"
       },
       {
         "trait_type": "Body Style",
-        "value": "Spiked"
+        "value": "Sleek"
       },
       {
         "trait_type": "Fur Color",
-        "value": "Caracal"
+        "value": "Platinum"
       },
       {
         "trait_type": "Eye Style",
-        "value": "Demon"
+        "value": "Circle Lens"
       },
       {
         "trait_type": "Eye Color",
-        "value": "Red"
+        "value": "Grey Green"
       },
       {
         "trait_type": "Collar",
-        "value": "Fish Collar"
+        "value": "Studded Collar (Silver)"
       },
       {
-        "trait_type": "Forehead Marking",
-        "value": "Mark of the Claw"
+        "trait_type": "Head Topper",
+        "value": "Anemone Horns"
       }
     ],
-    "hash": "bb9a36c0e854b1f611be17c68a240bb35059b4c1ffd659dff03aa87d7d104461"
+    "hash": "c25bcf723eeeb909d359761cffa79658b73adb9a2244ed0a5dff634fb9363dea"
   }
 }

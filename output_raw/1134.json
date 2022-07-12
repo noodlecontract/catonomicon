@@ -1,16 +1,16 @@
 {
-  "name": "sweet malfoy",
-  "description": "You are a CAT who claws at imposters. You swat the snoots of nosey dogs. You and your WITCH love a mess. Your sharp claws carve hexes into people's souls. TO THE MOON!",
-  "image": "https://covencats.s3.amazonaws.com/3f93a7e417ec5d41b05b9de8f5a5e2f5fbc721682ea0a59d0ed0fbffcecaa08f.png",
+  "name": "velvet de luna",
+  "description": "You are a CAT with 2 lives, found on the streets of Madrid. You conduct orchestras of singing birds and croaking frogs. You and your WITCH scream into the Void. Your whiskers have inspired many a great thinker. TROT!",
+  "image": "https://covencats.s3.amazonaws.com/3196bc0aedf521b7206d5bf24abec49810f460b35e3ecc6256b941a0911f4fd0.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Peach"
+      "value": "Pink"
     },
     {
       "trait_type": "Background Item",
-      "value": "Sunbeam"
+      "value": "Moths"
     },
     {
       "trait_type": "Seat",
@@ -18,43 +18,47 @@
     },
     {
       "trait_type": "Foreground Item",
-      "value": "Candle (Blue)"
+      "value": "Coven No.666 Perfume"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Crown of Pearls"
     },
     {
       "trait_type": "Body Style",
-      "value": "Floofed"
+      "value": "Rolled"
     },
     {
       "trait_type": "Fur Color",
-      "value": "Grumpy Mermaid"
+      "value": "Silver"
     },
     {
       "trait_type": "Eye Style",
-      "value": "Sclera"
+      "value": "Hooded Side"
     },
     {
       "trait_type": "Eye Color",
-      "value": "Red"
+      "value": "Gold"
     },
     {
       "trait_type": "Collar",
-      "value": "Ring Collar (Silver)"
+      "value": "Collar of Pearls"
     },
     {
       "trait_type": "Archetype of Power",
-      "value": "Occultist"
+      "value": "Enchantress"
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Aquarius"
-    },
-    {
-      "trait_type": "Moon Sign",
       "value": "Aries"
     },
     {
+      "trait_type": "Moon Sign",
+      "value": "Scorpio"
+    },
+    {
       "trait_type": "Rising Sign",
-      "value": "Sagittarius"
+      "value": "Libra"
     },
     {
       "display_type": "number",
@@ -71,13 +75,13 @@
     {
       "display_type": "number",
       "trait_type": "Catastrophe",
-      "value": 9,
+      "value": 4,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Curiosity",
-      "value": 7,
+      "value": 1,
       "max_value": 9
     },
     {
@@ -94,37 +98,37 @@
     }
   ],
   "coven_cats": {
-    "id": 1118,
-    "name": "sweet malfoy",
-    "type": "occultist",
+    "id": 1134,
+    "name": "velvet de luna",
+    "type": "enchantress",
     "description": {
-      "summoning": "You are a CAT who claws at imposters.",
-      "magic": "You swat the snoots of nosey dogs.",
-      "acts_of_service": "You and your WITCH love a mess.",
-      "belonging": "Your sharp claws carve hexes into people's souls.",
-      "meow": "TO THE MOON!"
+      "summoning": "You are a CAT with 2 lives, found on the streets of Madrid.",
+      "magic": "You conduct orchestras of singing birds and croaking frogs.",
+      "acts_of_service": "You and your WITCH scream into the Void.",
+      "belonging": "Your whiskers have inspired many a great thinker.",
+      "meow": "TROT!"
     },
     "skills": {
       "caprice": 9,
       "caution": 1,
-      "catastrophe": 9,
-      "curiosity": 7,
+      "catastrophe": 4,
+      "curiosity": 1,
       "charisma": 7,
       "cunning": 4
     },
     "birth_chart": {
-      "sun": "aquarius",
-      "moon": "aries",
-      "rising": "sagittarius"
+      "sun": "aries",
+      "moon": "scorpio",
+      "rising": "libra"
     },
     "styles": [
       {
         "trait_type": "Background",
-        "value": "Peach"
+        "value": "Pink"
       },
       {
         "trait_type": "Background Item",
-        "value": "Sunbeam"
+        "value": "Moths"
       },
       {
         "trait_type": "Seat",
@@ -132,29 +136,33 @@
       },
       {
         "trait_type": "Foreground Item",
-        "value": "Candle (Blue)"
+        "value": "Coven No.666 Perfume"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Crown of Pearls"
       },
       {
         "trait_type": "Body Style",
-        "value": "Floofed"
+        "value": "Rolled"
       },
       {
         "trait_type": "Fur Color",
-        "value": "Grumpy Mermaid"
+        "value": "Silver"
       },
       {
         "trait_type": "Eye Style",
-        "value": "Sclera"
+        "value": "Hooded Side"
       },
       {
         "trait_type": "Eye Color",
-        "value": "Red"
+        "value": "Gold"
       },
       {
         "trait_type": "Collar",
-        "value": "Ring Collar (Silver)"
+        "value": "Collar of Pearls"
       }
     ],
-    "hash": "3f93a7e417ec5d41b05b9de8f5a5e2f5fbc721682ea0a59d0ed0fbffcecaa08f"
+    "hash": "3196bc0aedf521b7206d5bf24abec49810f460b35e3ecc6256b941a0911f4fd0"
   }
 }

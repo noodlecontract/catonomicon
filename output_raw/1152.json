@@ -1,12 +1,12 @@
 {
-  "name": "kevin",
-  "description": "You are a CAT who tells no lies. Your ears always point true north. You and your WITCH bond over brown paper packages tied up with string. Your yowlings guide lost souls home. RUN UP THE WALL!",
-  "image": "https://covencats.s3.amazonaws.com/bb9a36c0e854b1f611be17c68a240bb35059b4c1ffd659dff03aa87d7d104461.png",
+  "name": "scherzo, the stylish",
+  "description": "You are a CAT who lurks just behind the corner. You drink gallons of milk every day. You and your WITCH bond over your mutual love for gifting tarot cards to friends. You gaze upon mortals from the highest point of the Tower. WIGGLE YOUR BUTT!",
+  "image": "https://covencats.s3.amazonaws.com/8f99cf26d803ea846c92df292a0a70fdf5e85c2479e4a4a2bc40dc6fcf7370c1.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sea"
+      "value": "Plum"
     },
     {
       "trait_type": "Background Item",
@@ -14,43 +14,39 @@
     },
     {
       "trait_type": "Seat",
-      "value": "Tombstone"
-    },
-    {
-      "trait_type": "Wings",
-      "value": "Dragon (Ethereum)"
+      "value": "Pillow (Purple)"
     },
     {
       "trait_type": "Body Style",
-      "value": "Spiked"
+      "value": "Sleek"
     },
     {
       "trait_type": "Fur Color",
-      "value": "Caracal"
+      "value": "Lavender"
     },
     {
       "trait_type": "Eye Style",
-      "value": "Demon"
+      "value": "Circle Lens"
     },
     {
       "trait_type": "Eye Color",
-      "value": "Red"
+      "value": "Lilac"
     },
     {
       "trait_type": "Collar",
-      "value": "Fish Collar"
+      "value": "Leather Collar"
     },
     {
-      "trait_type": "Forehead Marking",
-      "value": "Mark of the Claw"
+      "trait_type": "Head Topper",
+      "value": "Hoodlondon Hathor (Gold)"
     },
     {
       "trait_type": "Archetype of Power",
-      "value": "Necromancer"
+      "value": "Enchantress"
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Pisces"
+      "value": "Sagittarius"
     },
     {
       "trait_type": "Moon Sign",
@@ -58,12 +54,12 @@
     },
     {
       "trait_type": "Rising Sign",
-      "value": "Aries"
+      "value": "Virgo"
     },
     {
       "display_type": "number",
       "trait_type": "Caprice",
-      "value": 5,
+      "value": 4,
       "max_value": 9
     },
     {
@@ -75,56 +71,56 @@
     {
       "display_type": "number",
       "trait_type": "Catastrophe",
-      "value": 5,
+      "value": 2,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Curiosity",
-      "value": 5,
+      "value": 8,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Charisma",
-      "value": 9,
+      "value": 7,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Cunning",
-      "value": 8,
+      "value": 7,
       "max_value": 9
     }
   ],
   "coven_cats": {
-    "id": 1117,
-    "name": "kevin",
-    "type": "necromancer",
+    "id": 1152,
+    "name": "scherzo, the stylish",
+    "type": "enchantress",
     "description": {
-      "summoning": "You are a CAT who tells no lies.",
-      "magic": "Your ears always point true north.",
-      "acts_of_service": "You and your WITCH bond over brown paper packages tied up with string.",
-      "belonging": "Your yowlings guide lost souls home.",
-      "meow": "RUN UP THE WALL!"
+      "summoning": "You are a CAT who lurks just behind the corner.",
+      "magic": "You drink gallons of milk every day.",
+      "acts_of_service": "You and your WITCH bond over your mutual love for gifting tarot cards to friends.",
+      "belonging": "You gaze upon mortals from the highest point of the Tower.",
+      "meow": "WIGGLE YOUR BUTT!"
     },
     "skills": {
-      "caprice": 5,
+      "caprice": 4,
       "caution": 6,
-      "catastrophe": 5,
-      "curiosity": 5,
-      "charisma": 9,
-      "cunning": 8
+      "catastrophe": 2,
+      "curiosity": 8,
+      "charisma": 7,
+      "cunning": 7
     },
     "birth_chart": {
-      "sun": "pisces",
+      "sun": "sagittarius",
       "moon": "scorpio",
-      "rising": "aries"
+      "rising": "virgo"
     },
     "styles": [
       {
         "trait_type": "Background",
-        "value": "Sea"
+        "value": "Plum"
       },
       {
         "trait_type": "Background Item",
@@ -132,37 +128,33 @@
       },
       {
         "trait_type": "Seat",
-        "value": "Tombstone"
-      },
-      {
-        "trait_type": "Wings",
-        "value": "Dragon (Ethereum)"
+        "value": "Pillow (Purple)"
       },
       {
         "trait_type": "Body Style",
-        "value": "Spiked"
+        "value": "Sleek"
       },
       {
         "trait_type": "Fur Color",
-        "value": "Caracal"
+        "value": "Lavender"
       },
       {
         "trait_type": "Eye Style",
-        "value": "Demon"
+        "value": "Circle Lens"
       },
       {
         "trait_type": "Eye Color",
-        "value": "Red"
+        "value": "Lilac"
       },
       {
         "trait_type": "Collar",
-        "value": "Fish Collar"
+        "value": "Leather Collar"
       },
       {
-        "trait_type": "Forehead Marking",
-        "value": "Mark of the Claw"
+        "trait_type": "Head Topper",
+        "value": "Hoodlondon Hathor (Gold)"
       }
     ],
-    "hash": "bb9a36c0e854b1f611be17c68a240bb35059b4c1ffd659dff03aa87d7d104461"
+    "hash": "8f99cf26d803ea846c92df292a0a70fdf5e85c2479e4a4a2bc40dc6fcf7370c1"
   }
 }

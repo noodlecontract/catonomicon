@@ -1,32 +1,36 @@
 {
-  "name": "kevin",
-  "description": "You are a CAT who tells no lies. Your ears always point true north. You and your WITCH bond over brown paper packages tied up with string. Your yowlings guide lost souls home. RUN UP THE WALL!",
-  "image": "https://covencats.s3.amazonaws.com/bb9a36c0e854b1f611be17c68a240bb35059b4c1ffd659dff03aa87d7d104461.png",
+  "name": "ophelia",
+  "description": "You are a CAT with one too many lives, born amid the restless slumbers of a WITCH. Everywhere you go, you leave a trail of stories behind you. You write lore with your WITCH every Saturday morning. You summon spirits to play with you on the full moon. TO BE OR NOT TO BE!",
+  "image": "https://covencats.s3.amazonaws.com/c60dbc7830d285bf75a9897f618c3348c1cc7a54a55d713c111f30bfda2c4e2f.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sea"
+      "value": "Plum"
     },
     {
       "trait_type": "Background Item",
-      "value": "Full Moon"
+      "value": "Moths"
     },
     {
       "trait_type": "Seat",
-      "value": "Tombstone"
+      "value": "Shelf"
     },
     {
-      "trait_type": "Wings",
-      "value": "Dragon (Ethereum)"
+      "trait_type": "Foreground Item",
+      "value": "Ghost Mice"
     },
     {
       "trait_type": "Body Style",
-      "value": "Spiked"
+      "value": "Sleek"
     },
     {
       "trait_type": "Fur Color",
-      "value": "Caracal"
+      "value": "Spectral"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Bat Wings"
     },
     {
       "trait_type": "Eye Style",
@@ -38,11 +42,7 @@
     },
     {
       "trait_type": "Collar",
-      "value": "Fish Collar"
-    },
-    {
-      "trait_type": "Forehead Marking",
-      "value": "Mark of the Claw"
+      "value": "Vivetta Ghost Paw Collar"
     },
     {
       "trait_type": "Archetype of Power",
@@ -50,101 +50,105 @@
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Pisces"
+      "value": "Gemini"
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Scorpio"
+      "value": "Pisces"
     },
     {
       "trait_type": "Rising Sign",
-      "value": "Aries"
+      "value": "Pisces"
     },
     {
       "display_type": "number",
       "trait_type": "Caprice",
-      "value": 5,
+      "value": 4,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Caution",
-      "value": 6,
+      "value": 8,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Catastrophe",
-      "value": 5,
+      "value": 6,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Curiosity",
-      "value": 5,
+      "value": 3,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Charisma",
-      "value": 9,
+      "value": 4,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Cunning",
-      "value": 8,
+      "value": 5,
       "max_value": 9
     }
   ],
   "coven_cats": {
-    "id": 1117,
-    "name": "kevin",
+    "id": 1153,
+    "name": "ophelia",
     "type": "necromancer",
     "description": {
-      "summoning": "You are a CAT who tells no lies.",
-      "magic": "Your ears always point true north.",
-      "acts_of_service": "You and your WITCH bond over brown paper packages tied up with string.",
-      "belonging": "Your yowlings guide lost souls home.",
-      "meow": "RUN UP THE WALL!"
+      "summoning": "You are a CAT with one too many lives, born amid the restless slumbers of a WITCH.",
+      "magic": "Everywhere you go, you leave a trail of stories behind you.",
+      "acts_of_service": "You write lore with your WITCH every Saturday morning.",
+      "belonging": "You summon spirits to play with you on the full moon.",
+      "meow": "TO BE OR NOT TO BE!"
     },
     "skills": {
-      "caprice": 5,
-      "caution": 6,
-      "catastrophe": 5,
-      "curiosity": 5,
-      "charisma": 9,
-      "cunning": 8
+      "caprice": 4,
+      "caution": 8,
+      "catastrophe": 6,
+      "curiosity": 3,
+      "charisma": 4,
+      "cunning": 5
     },
     "birth_chart": {
-      "sun": "pisces",
-      "moon": "scorpio",
-      "rising": "aries"
+      "sun": "gemini",
+      "moon": "pisces",
+      "rising": "pisces"
     },
     "styles": [
       {
         "trait_type": "Background",
-        "value": "Sea"
+        "value": "Plum"
       },
       {
         "trait_type": "Background Item",
-        "value": "Full Moon"
+        "value": "Moths"
       },
       {
         "trait_type": "Seat",
-        "value": "Tombstone"
+        "value": "Shelf"
       },
       {
-        "trait_type": "Wings",
-        "value": "Dragon (Ethereum)"
+        "trait_type": "Foreground Item",
+        "value": "Ghost Mice"
       },
       {
         "trait_type": "Body Style",
-        "value": "Spiked"
+        "value": "Sleek"
       },
       {
         "trait_type": "Fur Color",
-        "value": "Caracal"
+        "value": "Spectral"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Bat Wings"
       },
       {
         "trait_type": "Eye Style",
@@ -156,13 +160,9 @@
       },
       {
         "trait_type": "Collar",
-        "value": "Fish Collar"
-      },
-      {
-        "trait_type": "Forehead Marking",
-        "value": "Mark of the Claw"
+        "value": "Vivetta Ghost Paw Collar"
       }
     ],
-    "hash": "bb9a36c0e854b1f611be17c68a240bb35059b4c1ffd659dff03aa87d7d104461"
+    "hash": "c60dbc7830d285bf75a9897f618c3348c1cc7a54a55d713c111f30bfda2c4e2f"
   }
 }

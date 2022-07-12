@@ -1,48 +1,44 @@
 {
-  "name": "kevin",
-  "description": "You are a CAT who tells no lies. Your ears always point true north. You and your WITCH bond over brown paper packages tied up with string. Your yowlings guide lost souls home. RUN UP THE WALL!",
-  "image": "https://covencats.s3.amazonaws.com/bb9a36c0e854b1f611be17c68a240bb35059b4c1ffd659dff03aa87d7d104461.png",
+  "name": "mogget of the cobblestones",
+  "description": "You are a CAT who pounces on shiny objects. You conduct orchestras of singing birds and croaking frogs. You and your WITCH hold dance parties every weekend. You craft potions of tuna to turn your enemies into lost dogs. STEAL THE TUNA!",
+  "image": "https://covencats.s3.amazonaws.com/4b8741ada573482f46fec608f30536acea43a1c3ae4702290ac3676561824695.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sea"
+      "value": "Plum"
     },
     {
       "trait_type": "Background Item",
-      "value": "Full Moon"
+      "value": "Crescent Moon"
     },
     {
       "trait_type": "Seat",
       "value": "Tombstone"
     },
     {
-      "trait_type": "Wings",
-      "value": "Dragon (Ethereum)"
-    },
-    {
       "trait_type": "Body Style",
-      "value": "Spiked"
+      "value": "Sleek"
     },
     {
       "trait_type": "Fur Color",
-      "value": "Caracal"
+      "value": "Steel"
     },
     {
       "trait_type": "Eye Style",
-      "value": "Demon"
+      "value": "Hooded Side"
     },
     {
       "trait_type": "Eye Color",
-      "value": "Red"
+      "value": "Carnelian"
     },
     {
       "trait_type": "Collar",
-      "value": "Fish Collar"
+      "value": "Studded Collar (Silver)"
     },
     {
-      "trait_type": "Forehead Marking",
-      "value": "Mark of the Claw"
+      "trait_type": "Head Topper",
+      "value": "Bat Wings"
     },
     {
       "trait_type": "Archetype of Power",
@@ -50,38 +46,38 @@
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Pisces"
+      "value": "Capricorn"
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Scorpio"
+      "value": "Aries"
     },
     {
       "trait_type": "Rising Sign",
-      "value": "Aries"
+      "value": "Scorpio"
     },
     {
       "display_type": "number",
       "trait_type": "Caprice",
-      "value": 5,
+      "value": 4,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Caution",
-      "value": 6,
+      "value": 5,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Catastrophe",
-      "value": 5,
+      "value": 8,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Curiosity",
-      "value": 5,
+      "value": 0,
       "max_value": 9
     },
     {
@@ -93,76 +89,72 @@
     {
       "display_type": "number",
       "trait_type": "Cunning",
-      "value": 8,
+      "value": 4,
       "max_value": 9
     }
   ],
   "coven_cats": {
-    "id": 1117,
-    "name": "kevin",
+    "id": 1139,
+    "name": "mogget of the cobblestones",
     "type": "necromancer",
     "description": {
-      "summoning": "You are a CAT who tells no lies.",
-      "magic": "Your ears always point true north.",
-      "acts_of_service": "You and your WITCH bond over brown paper packages tied up with string.",
-      "belonging": "Your yowlings guide lost souls home.",
-      "meow": "RUN UP THE WALL!"
+      "summoning": "You are a CAT who pounces on shiny objects.",
+      "magic": "You conduct orchestras of singing birds and croaking frogs.",
+      "acts_of_service": "You and your WITCH hold dance parties every weekend.",
+      "belonging": "You craft potions of tuna to turn your enemies into lost dogs.",
+      "meow": "STEAL THE TUNA!"
     },
     "skills": {
-      "caprice": 5,
-      "caution": 6,
-      "catastrophe": 5,
-      "curiosity": 5,
+      "caprice": 4,
+      "caution": 5,
+      "catastrophe": 8,
+      "curiosity": 0,
       "charisma": 9,
-      "cunning": 8
+      "cunning": 4
     },
     "birth_chart": {
-      "sun": "pisces",
-      "moon": "scorpio",
-      "rising": "aries"
+      "sun": "capricorn",
+      "moon": "aries",
+      "rising": "scorpio"
     },
     "styles": [
       {
         "trait_type": "Background",
-        "value": "Sea"
+        "value": "Plum"
       },
       {
         "trait_type": "Background Item",
-        "value": "Full Moon"
+        "value": "Crescent Moon"
       },
       {
         "trait_type": "Seat",
         "value": "Tombstone"
       },
       {
-        "trait_type": "Wings",
-        "value": "Dragon (Ethereum)"
-      },
-      {
         "trait_type": "Body Style",
-        "value": "Spiked"
+        "value": "Sleek"
       },
       {
         "trait_type": "Fur Color",
-        "value": "Caracal"
+        "value": "Steel"
       },
       {
         "trait_type": "Eye Style",
-        "value": "Demon"
+        "value": "Hooded Side"
       },
       {
         "trait_type": "Eye Color",
-        "value": "Red"
+        "value": "Carnelian"
       },
       {
         "trait_type": "Collar",
-        "value": "Fish Collar"
+        "value": "Studded Collar (Silver)"
       },
       {
-        "trait_type": "Forehead Marking",
-        "value": "Mark of the Claw"
+        "trait_type": "Head Topper",
+        "value": "Bat Wings"
       }
     ],
-    "hash": "bb9a36c0e854b1f611be17c68a240bb35059b4c1ffd659dff03aa87d7d104461"
+    "hash": "4b8741ada573482f46fec608f30536acea43a1c3ae4702290ac3676561824695"
   }
 }

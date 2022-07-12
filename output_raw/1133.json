@@ -1,24 +1,20 @@
 {
-  "name": "kevin",
-  "description": "You are a CAT who tells no lies. Your ears always point true north. You and your WITCH bond over brown paper packages tied up with string. Your yowlings guide lost souls home. RUN UP THE WALL!",
-  "image": "https://covencats.s3.amazonaws.com/bb9a36c0e854b1f611be17c68a240bb35059b4c1ffd659dff03aa87d7d104461.png",
+  "name": "shinigami, the harrowing hiss",
+  "description": "You are a CAT who thrives in obscurity and grey areas. Your yowls touch unreachable worlds and send tremors across the Weird Wilds. You remind your WITCH to live, laugh, love. You take naps on the bridge between life and death. FATE IS NOTHING BUT A PLAYTHING!",
+  "image": "https://covencats.s3.amazonaws.com/1452dc53999e5451fb276db723ed155315d487ba20cbd181fbabdbc8b60feae3.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sea"
+      "value": "Lavender"
     },
     {
       "trait_type": "Background Item",
-      "value": "Full Moon"
+      "value": "Waxing Crescent"
     },
     {
       "trait_type": "Seat",
       "value": "Tombstone"
-    },
-    {
-      "trait_type": "Wings",
-      "value": "Dragon (Ethereum)"
     },
     {
       "trait_type": "Body Style",
@@ -26,23 +22,23 @@
     },
     {
       "trait_type": "Fur Color",
-      "value": "Caracal"
+      "value": "Spectral"
     },
     {
       "trait_type": "Eye Style",
-      "value": "Demon"
+      "value": "Hooded Side"
     },
     {
       "trait_type": "Eye Color",
-      "value": "Red"
+      "value": "Pink"
     },
     {
       "trait_type": "Collar",
-      "value": "Fish Collar"
+      "value": "Ring Collar (Silver)"
     },
     {
-      "trait_type": "Forehead Marking",
-      "value": "Mark of the Claw"
+      "trait_type": "Facewear",
+      "value": "Sad Girl Tears"
     },
     {
       "trait_type": "Archetype of Power",
@@ -50,15 +46,15 @@
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Pisces"
+      "value": "Capricorn"
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Scorpio"
+      "value": "Libra"
     },
     {
       "trait_type": "Rising Sign",
-      "value": "Aries"
+      "value": "Aquarius"
     },
     {
       "display_type": "number",
@@ -69,74 +65,70 @@
     {
       "display_type": "number",
       "trait_type": "Caution",
-      "value": 6,
+      "value": 5,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Catastrophe",
-      "value": 5,
+      "value": 3,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Curiosity",
-      "value": 5,
+      "value": 7,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Charisma",
-      "value": 9,
+      "value": 6,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Cunning",
-      "value": 8,
+      "value": 4,
       "max_value": 9
     }
   ],
   "coven_cats": {
-    "id": 1117,
-    "name": "kevin",
+    "id": 1133,
+    "name": "shinigami, the harrowing hiss",
     "type": "necromancer",
     "description": {
-      "summoning": "You are a CAT who tells no lies.",
-      "magic": "Your ears always point true north.",
-      "acts_of_service": "You and your WITCH bond over brown paper packages tied up with string.",
-      "belonging": "Your yowlings guide lost souls home.",
-      "meow": "RUN UP THE WALL!"
+      "summoning": "You are a CAT who thrives in obscurity and grey areas.",
+      "magic": "Your yowls touch unreachable worlds and send tremors across the Weird Wilds.",
+      "acts_of_service": "You remind your WITCH to live, laugh, love.",
+      "belonging": "You take naps on the bridge between life and death.",
+      "meow": "FATE IS NOTHING BUT A PLAYTHING!"
     },
     "skills": {
       "caprice": 5,
-      "caution": 6,
-      "catastrophe": 5,
-      "curiosity": 5,
-      "charisma": 9,
-      "cunning": 8
+      "caution": 5,
+      "catastrophe": 3,
+      "curiosity": 7,
+      "charisma": 6,
+      "cunning": 4
     },
     "birth_chart": {
-      "sun": "pisces",
-      "moon": "scorpio",
-      "rising": "aries"
+      "sun": "capricorn",
+      "moon": "libra",
+      "rising": "aquarius"
     },
     "styles": [
       {
         "trait_type": "Background",
-        "value": "Sea"
+        "value": "Lavender"
       },
       {
         "trait_type": "Background Item",
-        "value": "Full Moon"
+        "value": "Waxing Crescent"
       },
       {
         "trait_type": "Seat",
         "value": "Tombstone"
-      },
-      {
-        "trait_type": "Wings",
-        "value": "Dragon (Ethereum)"
       },
       {
         "trait_type": "Body Style",
@@ -144,25 +136,25 @@
       },
       {
         "trait_type": "Fur Color",
-        "value": "Caracal"
+        "value": "Spectral"
       },
       {
         "trait_type": "Eye Style",
-        "value": "Demon"
+        "value": "Hooded Side"
       },
       {
         "trait_type": "Eye Color",
-        "value": "Red"
+        "value": "Pink"
       },
       {
         "trait_type": "Collar",
-        "value": "Fish Collar"
+        "value": "Ring Collar (Silver)"
       },
       {
-        "trait_type": "Forehead Marking",
-        "value": "Mark of the Claw"
+        "trait_type": "Facewear",
+        "value": "Sad Girl Tears"
       }
     ],
-    "hash": "bb9a36c0e854b1f611be17c68a240bb35059b4c1ffd659dff03aa87d7d104461"
+    "hash": "1452dc53999e5451fb276db723ed155315d487ba20cbd181fbabdbc8b60feae3"
   }
 }

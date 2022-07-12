@@ -1,24 +1,20 @@
 {
-  "name": "ume of the sofa",
-  "description": "You are a CAT made of charm and contempt. You demand watercress, arugula, and wild spinach year-round to appease your discerning palate. You and your WITCH enjoy the finer things in life. You get lost in the pages of cookbooks. BEWARE OF MICE!",
-  "image": "https://covencats.s3.amazonaws.com/87008ef1512193f833979f8c20655cf1cab9d0b1ef1aeccac567290d26b0fc2f.png",
+  "name": "uni of the windowsill",
+  "description": "You are a CAT who judges all who cross your path. You snuggle close to the fireplace and dream of epic adventures. You and your WITCH share a special language. Every summer, you make fresh pesto using basil and pine nuts from your garden. TREAT YOURSELF!",
+  "image": "https://covencats.s3.amazonaws.com/93685bd21e7dfc40ea693b6fee996a7bd94fcab1b655aef2caf69f2ed54b31a9.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Moss"
+      "value": "Sea"
     },
     {
-      "trait_type": "Wings",
-      "value": "Luna Moth"
+      "trait_type": "Background Item",
+      "value": "Butterfly"
     },
     {
       "trait_type": "Seat",
-      "value": "Table"
-    },
-    {
-      "trait_type": "Foreground Item",
-      "value": "Cat Food (Chicken)"
+      "value": "Toadstool"
     },
     {
       "trait_type": "Body Style",
@@ -26,7 +22,7 @@
     },
     {
       "trait_type": "Fur Color",
-      "value": "Ash"
+      "value": "Platinum"
     },
     {
       "trait_type": "Eye Style",
@@ -42,93 +38,89 @@
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Aries"
+      "value": "Aquarius"
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Libra"
+      "value": "Scorpio"
     },
     {
       "trait_type": "Rising Sign",
-      "value": "Capricorn"
+      "value": "Leo"
     },
     {
       "display_type": "number",
       "trait_type": "Caprice",
-      "value": 1,
+      "value": 4,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Caution",
-      "value": 7,
-      "max_value": 9
-    },
-    {
-      "display_type": "number",
-      "trait_type": "Catastrophe",
-      "value": 7,
-      "max_value": 9
-    },
-    {
-      "display_type": "number",
-      "trait_type": "Curiosity",
       "value": 9,
       "max_value": 9
     },
     {
       "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
       "trait_type": "Charisma",
-      "value": 2,
+      "value": 5,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Cunning",
-      "value": 1,
+      "value": 0,
       "max_value": 9
     }
   ],
   "coven_cats": {
-    "id": 1119,
-    "name": "ume of the sofa",
+    "id": 1150,
+    "name": "uni of the windowsill",
     "type": "hag",
     "description": {
-      "summoning": "You are a CAT made of charm and contempt.",
-      "magic": "You demand watercress, arugula, and wild spinach year-round to appease your discerning palate.",
-      "acts_of_service": "You and your WITCH enjoy the finer things in life.",
-      "belonging": "You get lost in the pages of cookbooks.",
-      "meow": "BEWARE OF MICE!"
+      "summoning": "You are a CAT who judges all who cross your path.",
+      "magic": "You snuggle close to the fireplace and dream of epic adventures.",
+      "acts_of_service": "You and your WITCH share a special language.",
+      "belonging": "Every summer, you make fresh pesto using basil and pine nuts from your garden.",
+      "meow": "TREAT YOURSELF!"
     },
     "skills": {
-      "caprice": 1,
-      "caution": 7,
-      "catastrophe": 7,
-      "curiosity": 9,
-      "charisma": 2,
-      "cunning": 1
+      "caprice": 4,
+      "caution": 9,
+      "catastrophe": 1,
+      "curiosity": 6,
+      "charisma": 5,
+      "cunning": 0
     },
     "birth_chart": {
-      "sun": "aries",
-      "moon": "libra",
-      "rising": "capricorn"
+      "sun": "aquarius",
+      "moon": "scorpio",
+      "rising": "leo"
     },
     "styles": [
       {
         "trait_type": "Background",
-        "value": "Moss"
+        "value": "Sea"
       },
       {
-        "trait_type": "Wings",
-        "value": "Luna Moth"
+        "trait_type": "Background Item",
+        "value": "Butterfly"
       },
       {
         "trait_type": "Seat",
-        "value": "Table"
-      },
-      {
-        "trait_type": "Foreground Item",
-        "value": "Cat Food (Chicken)"
+        "value": "Toadstool"
       },
       {
         "trait_type": "Body Style",
@@ -136,7 +128,7 @@
       },
       {
         "trait_type": "Fur Color",
-        "value": "Ash"
+        "value": "Platinum"
       },
       {
         "trait_type": "Eye Style",
@@ -147,6 +139,6 @@
         "value": "Pink"
       }
     ],
-    "hash": "87008ef1512193f833979f8c20655cf1cab9d0b1ef1aeccac567290d26b0fc2f"
+    "hash": "93685bd21e7dfc40ea693b6fee996a7bd94fcab1b655aef2caf69f2ed54b31a9"
   }
 }

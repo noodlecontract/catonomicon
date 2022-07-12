@@ -1,60 +1,52 @@
 {
-  "name": "kevin",
-  "description": "You are a CAT who tells no lies. Your ears always point true north. You and your WITCH bond over brown paper packages tied up with string. Your yowlings guide lost souls home. RUN UP THE WALL!",
-  "image": "https://covencats.s3.amazonaws.com/bb9a36c0e854b1f611be17c68a240bb35059b4c1ffd659dff03aa87d7d104461.png",
+  "name": "baguette of the yarn",
+  "description": "You are a CAT who sleeps on yarn. You scare away enemies with a bat of your eyes. You and your WITCH bond over raindrops on roses. You step on four-leaf clovers to make wishes. ONTO THE NEXT LIFE!",
+  "image": "https://covencats.s3.amazonaws.com/786a695d43d0ab2c06481a762b163df5df5538beda5a4a3d0c90bb8cce6514e9.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sea"
-    },
-    {
-      "trait_type": "Background Item",
-      "value": "Full Moon"
+      "value": "Lavender"
     },
     {
       "trait_type": "Seat",
-      "value": "Tombstone"
-    },
-    {
-      "trait_type": "Wings",
-      "value": "Dragon (Ethereum)"
+      "value": "Table"
     },
     {
       "trait_type": "Body Style",
-      "value": "Spiked"
+      "value": "Tufted"
     },
     {
       "trait_type": "Fur Color",
-      "value": "Caracal"
+      "value": "Navy"
     },
     {
       "trait_type": "Eye Style",
-      "value": "Demon"
+      "value": "Circle Lens"
     },
     {
       "trait_type": "Eye Color",
-      "value": "Red"
+      "value": "Lilac"
     },
     {
       "trait_type": "Collar",
       "value": "Fish Collar"
     },
     {
-      "trait_type": "Forehead Marking",
-      "value": "Mark of the Claw"
+      "trait_type": "Head Topper",
+      "value": "Jeweled Antlers"
     },
     {
       "trait_type": "Archetype of Power",
-      "value": "Necromancer"
+      "value": "Hag"
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Pisces"
+      "value": "Virgo"
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Scorpio"
+      "value": "Aries"
     },
     {
       "trait_type": "Rising Sign",
@@ -63,19 +55,19 @@
     {
       "display_type": "number",
       "trait_type": "Caprice",
-      "value": 5,
+      "value": 1,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Caution",
-      "value": 6,
+      "value": 8,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Catastrophe",
-      "value": 5,
+      "value": 3,
       "max_value": 9
     },
     {
@@ -93,76 +85,68 @@
     {
       "display_type": "number",
       "trait_type": "Cunning",
-      "value": 8,
+      "value": 5,
       "max_value": 9
     }
   ],
   "coven_cats": {
-    "id": 1117,
-    "name": "kevin",
-    "type": "necromancer",
+    "id": 1132,
+    "name": "baguette of the yarn",
+    "type": "hag",
     "description": {
-      "summoning": "You are a CAT who tells no lies.",
-      "magic": "Your ears always point true north.",
-      "acts_of_service": "You and your WITCH bond over brown paper packages tied up with string.",
-      "belonging": "Your yowlings guide lost souls home.",
-      "meow": "RUN UP THE WALL!"
+      "summoning": "You are a CAT who sleeps on yarn.",
+      "magic": "You scare away enemies with a bat of your eyes.",
+      "acts_of_service": "You and your WITCH bond over raindrops on roses.",
+      "belonging": "You step on four-leaf clovers to make wishes.",
+      "meow": "ONTO THE NEXT LIFE!"
     },
     "skills": {
-      "caprice": 5,
-      "caution": 6,
-      "catastrophe": 5,
+      "caprice": 1,
+      "caution": 8,
+      "catastrophe": 3,
       "curiosity": 5,
       "charisma": 9,
-      "cunning": 8
+      "cunning": 5
     },
     "birth_chart": {
-      "sun": "pisces",
-      "moon": "scorpio",
+      "sun": "virgo",
+      "moon": "aries",
       "rising": "aries"
     },
     "styles": [
       {
         "trait_type": "Background",
-        "value": "Sea"
-      },
-      {
-        "trait_type": "Background Item",
-        "value": "Full Moon"
+        "value": "Lavender"
       },
       {
         "trait_type": "Seat",
-        "value": "Tombstone"
-      },
-      {
-        "trait_type": "Wings",
-        "value": "Dragon (Ethereum)"
+        "value": "Table"
       },
       {
         "trait_type": "Body Style",
-        "value": "Spiked"
+        "value": "Tufted"
       },
       {
         "trait_type": "Fur Color",
-        "value": "Caracal"
+        "value": "Navy"
       },
       {
         "trait_type": "Eye Style",
-        "value": "Demon"
+        "value": "Circle Lens"
       },
       {
         "trait_type": "Eye Color",
-        "value": "Red"
+        "value": "Lilac"
       },
       {
         "trait_type": "Collar",
         "value": "Fish Collar"
       },
       {
-        "trait_type": "Forehead Marking",
-        "value": "Mark of the Claw"
+        "trait_type": "Head Topper",
+        "value": "Jeweled Antlers"
       }
     ],
-    "hash": "bb9a36c0e854b1f611be17c68a240bb35059b4c1ffd659dff03aa87d7d104461"
+    "hash": "786a695d43d0ab2c06481a762b163df5df5538beda5a4a3d0c90bb8cce6514e9"
   }
 }

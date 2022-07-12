@@ -1,52 +1,56 @@
 {
-  "name": "cepheus star",
-  "description": "You are a CAT made of eight crazy nights. You scare away enemies with a high-pitched yowl. You and your WITCH enjoy boba and bubble baths. Your whiskers can predict the curses of the VOID WITCH. IT'S TIME TO TORMENT THE DOG!",
-  "image": "https://covencats.s3.amazonaws.com/522d0e4e083fad56e83951cedfeefc98212ac8ff4354fca57fe1cd2b0a6aa7fb.png",
+  "name": "ramen of the basket",
+  "description": "You are a CAT made of nightmares. You invite chaos to your bedside. You and your WITCH love a mess. The sound of a can of tuna being opened is like music to your ears. POUNCE BACKWARDS INTO HELL!",
+  "image": "https://covencats.s3.amazonaws.com/c9b8cec60f9801f232d227a96384ae919fdbbd0d0f1c98e09b399ace2a1652bd.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sea"
+      "value": "Moss"
     },
     {
       "trait_type": "Seat",
-      "value": "Shelf"
+      "value": "Toadstool"
     },
     {
-      "trait_type": "Foreground Item",
-      "value": "Crystals (Iridescent)"
+      "trait_type": "Wings",
+      "value": "Cicada"
     },
     {
       "trait_type": "Body Style",
-      "value": "Floofed"
+      "value": "Sleek"
     },
     {
       "trait_type": "Fur Color",
       "value": "Lavender"
     },
     {
+      "trait_type": "Forehead Marking",
+      "value": "Moon Mark (White)"
+    },
+    {
       "trait_type": "Eye Style",
-      "value": "Clear Graphic"
+      "value": "Hooded Side"
     },
     {
       "trait_type": "Eye Color",
-      "value": "Grey"
+      "value": "Glo"
     },
     {
-      "trait_type": "Facewear",
-      "value": "Eyepatch (Black)"
+      "trait_type": "Collar",
+      "value": "Leather Collar"
     },
     {
       "trait_type": "Archetype of Power",
-      "value": "Seer"
+      "value": "Hag"
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Capricorn"
+      "value": "Sagittarius"
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Capricorn"
+      "value": "Taurus"
     },
     {
       "trait_type": "Rising Sign",
@@ -55,13 +59,13 @@
     {
       "display_type": "number",
       "trait_type": "Caprice",
-      "value": 7,
+      "value": 2,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Caution",
-      "value": 9,
+      "value": 3,
       "max_value": 9
     },
     {
@@ -73,7 +77,7 @@
     {
       "display_type": "number",
       "trait_type": "Curiosity",
-      "value": 9,
+      "value": 7,
       "max_value": 9
     },
     {
@@ -85,68 +89,72 @@
     {
       "display_type": "number",
       "trait_type": "Cunning",
-      "value": 0,
+      "value": 3,
       "max_value": 9
     }
   ],
   "coven_cats": {
-    "id": 1120,
-    "name": "cepheus star",
-    "type": "seer",
+    "id": 1124,
+    "name": "ramen of the basket",
+    "type": "hag",
     "description": {
-      "summoning": "You are a CAT made of eight crazy nights.",
-      "magic": "You scare away enemies with a high-pitched yowl.",
-      "acts_of_service": "You and your WITCH enjoy boba and bubble baths.",
-      "belonging": "Your whiskers can predict the curses of the VOID WITCH.",
-      "meow": "IT'S TIME TO TORMENT THE DOG!"
+      "summoning": "You are a CAT made of nightmares.",
+      "magic": "You invite chaos to your bedside.",
+      "acts_of_service": "You and your WITCH love a mess.",
+      "belonging": "The sound of a can of tuna being opened is like music to your ears.",
+      "meow": "POUNCE BACKWARDS INTO HELL!"
     },
     "skills": {
-      "caprice": 7,
-      "caution": 9,
+      "caprice": 2,
+      "caution": 3,
       "catastrophe": 0,
-      "curiosity": 9,
+      "curiosity": 7,
       "charisma": 4,
-      "cunning": 0
+      "cunning": 3
     },
     "birth_chart": {
-      "sun": "capricorn",
-      "moon": "capricorn",
+      "sun": "sagittarius",
+      "moon": "taurus",
       "rising": "sagittarius"
     },
     "styles": [
       {
         "trait_type": "Background",
-        "value": "Sea"
+        "value": "Moss"
       },
       {
         "trait_type": "Seat",
-        "value": "Shelf"
+        "value": "Toadstool"
       },
       {
-        "trait_type": "Foreground Item",
-        "value": "Crystals (Iridescent)"
+        "trait_type": "Wings",
+        "value": "Cicada"
       },
       {
         "trait_type": "Body Style",
-        "value": "Floofed"
+        "value": "Sleek"
       },
       {
         "trait_type": "Fur Color",
         "value": "Lavender"
       },
       {
+        "trait_type": "Forehead Marking",
+        "value": "Moon Mark (White)"
+      },
+      {
         "trait_type": "Eye Style",
-        "value": "Clear Graphic"
+        "value": "Hooded Side"
       },
       {
         "trait_type": "Eye Color",
-        "value": "Grey"
+        "value": "Glo"
       },
       {
-        "trait_type": "Facewear",
-        "value": "Eyepatch (Black)"
+        "trait_type": "Collar",
+        "value": "Leather Collar"
       }
     ],
-    "hash": "522d0e4e083fad56e83951cedfeefc98212ac8ff4354fca57fe1cd2b0a6aa7fb"
+    "hash": "c9b8cec60f9801f232d227a96384ae919fdbbd0d0f1c98e09b399ace2a1652bd"
   }
 }

@@ -1,12 +1,12 @@
 {
-  "name": "kevin",
-  "description": "You are a CAT who tells no lies. Your ears always point true north. You and your WITCH bond over brown paper packages tied up with string. Your yowlings guide lost souls home. RUN UP THE WALL!",
-  "image": "https://covencats.s3.amazonaws.com/bb9a36c0e854b1f611be17c68a240bb35059b4c1ffd659dff03aa87d7d104461.png",
+  "name": "mu, the exact",
+  "description": "You are a CAT who yowls under the new moon. You leave pawprints of silver in your wake. You and your WITCH enjoy boba and bubble baths. Your command of arcane languages is unparalleled. LA LUNA!",
+  "image": "https://covencats.s3.amazonaws.com/ef4ac5896b4b7feabd053140277a53bfc83e0805c2861add04db12a76e239d89.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sea"
+      "value": "Moss"
     },
     {
       "trait_type": "Background Item",
@@ -14,56 +14,56 @@
     },
     {
       "trait_type": "Seat",
-      "value": "Tombstone"
+      "value": "Grimoires"
     },
     {
-      "trait_type": "Wings",
-      "value": "Dragon (Ethereum)"
+      "trait_type": "Foreground Item",
+      "value": "Simple Octagon Glasses (Silver)"
     },
     {
       "trait_type": "Body Style",
-      "value": "Spiked"
+      "value": "Sleek"
     },
     {
       "trait_type": "Fur Color",
-      "value": "Caracal"
+      "value": "Mermaid"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Mage Script Serpent (Phosphorescent)"
     },
     {
       "trait_type": "Eye Style",
-      "value": "Demon"
+      "value": "Hooded Side"
     },
     {
       "trait_type": "Eye Color",
-      "value": "Red"
+      "value": "Carnelian"
     },
     {
       "trait_type": "Collar",
-      "value": "Fish Collar"
-    },
-    {
-      "trait_type": "Forehead Marking",
-      "value": "Mark of the Claw"
+      "value": "Leather Collar"
     },
     {
       "trait_type": "Archetype of Power",
-      "value": "Necromancer"
+      "value": "Mage"
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Pisces"
+      "value": "Sagittarius"
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Scorpio"
+      "value": "Cancer"
     },
     {
       "trait_type": "Rising Sign",
-      "value": "Aries"
+      "value": "Cancer"
     },
     {
       "display_type": "number",
       "trait_type": "Caprice",
-      "value": 5,
+      "value": 6,
       "max_value": 9
     },
     {
@@ -75,7 +75,7 @@
     {
       "display_type": "number",
       "trait_type": "Catastrophe",
-      "value": 5,
+      "value": 8,
       "max_value": 9
     },
     {
@@ -87,44 +87,44 @@
     {
       "display_type": "number",
       "trait_type": "Charisma",
-      "value": 9,
+      "value": 1,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Cunning",
-      "value": 8,
+      "value": 4,
       "max_value": 9
     }
   ],
   "coven_cats": {
-    "id": 1117,
-    "name": "kevin",
-    "type": "necromancer",
+    "id": 1130,
+    "name": "mu, the exact",
+    "type": "mage",
     "description": {
-      "summoning": "You are a CAT who tells no lies.",
-      "magic": "Your ears always point true north.",
-      "acts_of_service": "You and your WITCH bond over brown paper packages tied up with string.",
-      "belonging": "Your yowlings guide lost souls home.",
-      "meow": "RUN UP THE WALL!"
+      "summoning": "You are a CAT who yowls under the new moon.",
+      "magic": "You leave pawprints of silver in your wake.",
+      "acts_of_service": "You and your WITCH enjoy boba and bubble baths.",
+      "belonging": "Your command of arcane languages is unparalleled.",
+      "meow": "LA LUNA!"
     },
     "skills": {
-      "caprice": 5,
+      "caprice": 6,
       "caution": 6,
-      "catastrophe": 5,
+      "catastrophe": 8,
       "curiosity": 5,
-      "charisma": 9,
-      "cunning": 8
+      "charisma": 1,
+      "cunning": 4
     },
     "birth_chart": {
-      "sun": "pisces",
-      "moon": "scorpio",
-      "rising": "aries"
+      "sun": "sagittarius",
+      "moon": "cancer",
+      "rising": "cancer"
     },
     "styles": [
       {
         "trait_type": "Background",
-        "value": "Sea"
+        "value": "Moss"
       },
       {
         "trait_type": "Background Item",
@@ -132,37 +132,37 @@
       },
       {
         "trait_type": "Seat",
-        "value": "Tombstone"
+        "value": "Grimoires"
       },
       {
-        "trait_type": "Wings",
-        "value": "Dragon (Ethereum)"
+        "trait_type": "Foreground Item",
+        "value": "Simple Octagon Glasses (Silver)"
       },
       {
         "trait_type": "Body Style",
-        "value": "Spiked"
+        "value": "Sleek"
       },
       {
         "trait_type": "Fur Color",
-        "value": "Caracal"
+        "value": "Mermaid"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Mage Script Serpent (Phosphorescent)"
       },
       {
         "trait_type": "Eye Style",
-        "value": "Demon"
+        "value": "Hooded Side"
       },
       {
         "trait_type": "Eye Color",
-        "value": "Red"
+        "value": "Carnelian"
       },
       {
         "trait_type": "Collar",
-        "value": "Fish Collar"
-      },
-      {
-        "trait_type": "Forehead Marking",
-        "value": "Mark of the Claw"
+        "value": "Leather Collar"
       }
     ],
-    "hash": "bb9a36c0e854b1f611be17c68a240bb35059b4c1ffd659dff03aa87d7d104461"
+    "hash": "ef4ac5896b4b7feabd053140277a53bfc83e0805c2861add04db12a76e239d89"
   }
 }

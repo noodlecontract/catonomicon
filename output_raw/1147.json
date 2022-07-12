@@ -1,48 +1,44 @@
 {
-  "name": "sweet malfoy",
-  "description": "You are a CAT who claws at imposters. You swat the snoots of nosey dogs. You and your WITCH love a mess. Your sharp claws carve hexes into people's souls. TO THE MOON!",
-  "image": "https://covencats.s3.amazonaws.com/3f93a7e417ec5d41b05b9de8f5a5e2f5fbc721682ea0a59d0ed0fbffcecaa08f.png",
+  "name": "muerte, the scissor",
+  "description": "You are a CAT with 9 lives, found in an alley. You snuggle close to the fireplace and dream of epic adventures. You protect your WITCH from unrequited love. Even the strongest poisons have no effect on you. DARE TO PET ME!",
+  "image": "https://covencats.s3.amazonaws.com/3649482f01f0a1a5dade0ab13b087aac3460dbc1f77e5cfbedeecc4e3a90925a.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Peach"
-    },
-    {
-      "trait_type": "Background Item",
-      "value": "Sunbeam"
+      "value": "Sea"
     },
     {
       "trait_type": "Seat",
-      "value": "Shelf"
-    },
-    {
-      "trait_type": "Foreground Item",
-      "value": "Candle (Blue)"
+      "value": "Gramophone"
     },
     {
       "trait_type": "Body Style",
-      "value": "Floofed"
+      "value": "Sleek"
     },
     {
       "trait_type": "Fur Color",
-      "value": "Grumpy Mermaid"
+      "value": "Black"
     },
     {
       "trait_type": "Eye Style",
-      "value": "Sclera"
+      "value": "Circle Lens"
     },
     {
       "trait_type": "Eye Color",
-      "value": "Red"
+      "value": "Grey Green"
     },
     {
       "trait_type": "Collar",
       "value": "Ring Collar (Silver)"
     },
     {
+      "trait_type": "Head Topper",
+      "value": "Bat Wings"
+    },
+    {
       "trait_type": "Archetype of Power",
-      "value": "Occultist"
+      "value": "Necromancer"
     },
     {
       "trait_type": "Sun Sign",
@@ -50,22 +46,22 @@
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Aries"
+      "value": "Taurus"
     },
     {
       "trait_type": "Rising Sign",
-      "value": "Sagittarius"
+      "value": "Aries"
     },
     {
       "display_type": "number",
       "trait_type": "Caprice",
-      "value": 9,
+      "value": 1,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Caution",
-      "value": 1,
+      "value": 7,
       "max_value": 9
     },
     {
@@ -77,84 +73,80 @@
     {
       "display_type": "number",
       "trait_type": "Curiosity",
-      "value": 7,
+      "value": 0,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Charisma",
-      "value": 7,
+      "value": 3,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Cunning",
-      "value": 4,
+      "value": 3,
       "max_value": 9
     }
   ],
   "coven_cats": {
-    "id": 1118,
-    "name": "sweet malfoy",
-    "type": "occultist",
+    "id": 1147,
+    "name": "muerte, the scissor",
+    "type": "necromancer",
     "description": {
-      "summoning": "You are a CAT who claws at imposters.",
-      "magic": "You swat the snoots of nosey dogs.",
-      "acts_of_service": "You and your WITCH love a mess.",
-      "belonging": "Your sharp claws carve hexes into people's souls.",
-      "meow": "TO THE MOON!"
+      "summoning": "You are a CAT with 9 lives, found in an alley.",
+      "magic": "You snuggle close to the fireplace and dream of epic adventures.",
+      "acts_of_service": "You protect your WITCH from unrequited love.",
+      "belonging": "Even the strongest poisons have no effect on you.",
+      "meow": "DARE TO PET ME!"
     },
     "skills": {
-      "caprice": 9,
-      "caution": 1,
+      "caprice": 1,
+      "caution": 7,
       "catastrophe": 9,
-      "curiosity": 7,
-      "charisma": 7,
-      "cunning": 4
+      "curiosity": 0,
+      "charisma": 3,
+      "cunning": 3
     },
     "birth_chart": {
       "sun": "aquarius",
-      "moon": "aries",
-      "rising": "sagittarius"
+      "moon": "taurus",
+      "rising": "aries"
     },
     "styles": [
       {
         "trait_type": "Background",
-        "value": "Peach"
-      },
-      {
-        "trait_type": "Background Item",
-        "value": "Sunbeam"
+        "value": "Sea"
       },
       {
         "trait_type": "Seat",
-        "value": "Shelf"
-      },
-      {
-        "trait_type": "Foreground Item",
-        "value": "Candle (Blue)"
+        "value": "Gramophone"
       },
       {
         "trait_type": "Body Style",
-        "value": "Floofed"
+        "value": "Sleek"
       },
       {
         "trait_type": "Fur Color",
-        "value": "Grumpy Mermaid"
+        "value": "Black"
       },
       {
         "trait_type": "Eye Style",
-        "value": "Sclera"
+        "value": "Circle Lens"
       },
       {
         "trait_type": "Eye Color",
-        "value": "Red"
+        "value": "Grey Green"
       },
       {
         "trait_type": "Collar",
         "value": "Ring Collar (Silver)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Bat Wings"
       }
     ],
-    "hash": "3f93a7e417ec5d41b05b9de8f5a5e2f5fbc721682ea0a59d0ed0fbffcecaa08f"
+    "hash": "3649482f01f0a1a5dade0ab13b087aac3460dbc1f77e5cfbedeecc4e3a90925a"
   }
 }

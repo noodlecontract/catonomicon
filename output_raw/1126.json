@@ -1,48 +1,48 @@
 {
-  "name": "ume of the sofa",
-  "description": "You are a CAT made of charm and contempt. You demand watercress, arugula, and wild spinach year-round to appease your discerning palate. You and your WITCH enjoy the finer things in life. You get lost in the pages of cookbooks. BEWARE OF MICE!",
-  "image": "https://covencats.s3.amazonaws.com/87008ef1512193f833979f8c20655cf1cab9d0b1ef1aeccac567290d26b0fc2f.png",
+  "name": "tessitura whiskerson",
+  "description": "You are a CAT who loves dumplings and grandmas. You conquer kingdoms with a fierce hiss. You and your WITCH share an iced latte every morning. People appear more beautiful the longer they are in your presence. MAKE BISCUITS!",
+  "image": "https://covencats.s3.amazonaws.com/8c64a9502668c6b5921dbf2a8e79bc1b6c9dbbfc92ab9514a6348538e58dd32d.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Moss"
-    },
-    {
-      "trait_type": "Wings",
-      "value": "Luna Moth"
+      "value": "Taupe"
     },
     {
       "trait_type": "Seat",
-      "value": "Table"
+      "value": "Shelf"
     },
     {
       "trait_type": "Foreground Item",
-      "value": "Cat Food (Chicken)"
+      "value": "Candle (White)"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Crown of Pearls"
     },
     {
       "trait_type": "Body Style",
-      "value": "Folded"
+      "value": "Tufted"
     },
     {
       "trait_type": "Fur Color",
-      "value": "Ash"
+      "value": "Ethereum"
     },
     {
       "trait_type": "Eye Style",
-      "value": "Babylash"
+      "value": "Hooded Side"
     },
     {
       "trait_type": "Eye Color",
-      "value": "Pink"
+      "value": "Glo"
     },
     {
       "trait_type": "Archetype of Power",
-      "value": "Hag"
+      "value": "Enchantress"
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Aries"
+      "value": "Libra"
     },
     {
       "trait_type": "Moon Sign",
@@ -55,98 +55,98 @@
     {
       "display_type": "number",
       "trait_type": "Caprice",
-      "value": 1,
+      "value": 7,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Caution",
-      "value": 7,
+      "value": 8,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Catastrophe",
-      "value": 7,
+      "value": 3,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Curiosity",
-      "value": 9,
-      "max_value": 9
-    },
-    {
-      "display_type": "number",
-      "trait_type": "Charisma",
       "value": 2,
       "max_value": 9
     },
     {
       "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
       "trait_type": "Cunning",
-      "value": 1,
+      "value": 2,
       "max_value": 9
     }
   ],
   "coven_cats": {
-    "id": 1119,
-    "name": "ume of the sofa",
-    "type": "hag",
+    "id": 1126,
+    "name": "tessitura whiskerson",
+    "type": "enchantress",
     "description": {
-      "summoning": "You are a CAT made of charm and contempt.",
-      "magic": "You demand watercress, arugula, and wild spinach year-round to appease your discerning palate.",
-      "acts_of_service": "You and your WITCH enjoy the finer things in life.",
-      "belonging": "You get lost in the pages of cookbooks.",
-      "meow": "BEWARE OF MICE!"
+      "summoning": "You are a CAT who loves dumplings and grandmas.",
+      "magic": "You conquer kingdoms with a fierce hiss.",
+      "acts_of_service": "You and your WITCH share an iced latte every morning.",
+      "belonging": "People appear more beautiful the longer they are in your presence.",
+      "meow": "MAKE BISCUITS!"
     },
     "skills": {
-      "caprice": 1,
-      "caution": 7,
-      "catastrophe": 7,
-      "curiosity": 9,
-      "charisma": 2,
-      "cunning": 1
+      "caprice": 7,
+      "caution": 8,
+      "catastrophe": 3,
+      "curiosity": 2,
+      "charisma": 6,
+      "cunning": 2
     },
     "birth_chart": {
-      "sun": "aries",
+      "sun": "libra",
       "moon": "libra",
       "rising": "capricorn"
     },
     "styles": [
       {
         "trait_type": "Background",
-        "value": "Moss"
-      },
-      {
-        "trait_type": "Wings",
-        "value": "Luna Moth"
+        "value": "Taupe"
       },
       {
         "trait_type": "Seat",
-        "value": "Table"
+        "value": "Shelf"
       },
       {
         "trait_type": "Foreground Item",
-        "value": "Cat Food (Chicken)"
+        "value": "Candle (White)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Crown of Pearls"
       },
       {
         "trait_type": "Body Style",
-        "value": "Folded"
+        "value": "Tufted"
       },
       {
         "trait_type": "Fur Color",
-        "value": "Ash"
+        "value": "Ethereum"
       },
       {
         "trait_type": "Eye Style",
-        "value": "Babylash"
+        "value": "Hooded Side"
       },
       {
         "trait_type": "Eye Color",
-        "value": "Pink"
+        "value": "Glo"
       }
     ],
-    "hash": "87008ef1512193f833979f8c20655cf1cab9d0b1ef1aeccac567290d26b0fc2f"
+    "hash": "8c64a9502668c6b5921dbf2a8e79bc1b6c9dbbfc92ab9514a6348538e58dd32d"
   }
 }

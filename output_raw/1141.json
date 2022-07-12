@@ -1,7 +1,7 @@
 {
-  "name": "sweet malfoy",
-  "description": "You are a CAT who claws at imposters. You swat the snoots of nosey dogs. You and your WITCH love a mess. Your sharp claws carve hexes into people's souls. TO THE MOON!",
-  "image": "https://covencats.s3.amazonaws.com/3f93a7e417ec5d41b05b9de8f5a5e2f5fbc721682ea0a59d0ed0fbffcecaa08f.png",
+  "name": "monet",
+  "description": "You are a CAT who judges all who cross your path. You wield knives and guard thresholds. You and your WITCH love brisk walks through the Woods. Every morning, you recite T.S. Eliot's Book of Practical Cats to yourself in the mirror. RUN FOR THE POTION!",
+  "image": "https://covencats.s3.amazonaws.com/f954dca573c6e9524251dd5afdb62702df729f111c87ea94f80e7cb48f29ef06.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
@@ -10,27 +10,35 @@
     },
     {
       "trait_type": "Background Item",
-      "value": "Sunbeam"
+      "value": "Cross-stitch"
     },
     {
       "trait_type": "Seat",
       "value": "Shelf"
     },
     {
+      "trait_type": "Aura",
+      "value": "Scripted Mage Aura (Gold)"
+    },
+    {
       "trait_type": "Foreground Item",
-      "value": "Candle (Blue)"
+      "value": "Apothecary Jars (Starlight, Screams)"
     },
     {
       "trait_type": "Body Style",
-      "value": "Floofed"
+      "value": "Tufted"
     },
     {
       "trait_type": "Fur Color",
-      "value": "Grumpy Mermaid"
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Head Topper",
+      "value": "Bat Wings"
     },
     {
       "trait_type": "Eye Style",
-      "value": "Sclera"
+      "value": "Smudged"
     },
     {
       "trait_type": "Eye Color",
@@ -38,40 +46,40 @@
     },
     {
       "trait_type": "Collar",
-      "value": "Ring Collar (Silver)"
+      "value": "Moon Choker (Silver)"
     },
     {
       "trait_type": "Archetype of Power",
-      "value": "Occultist"
+      "value": "Mage"
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Aquarius"
+      "value": "Scorpio"
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Aries"
+      "value": "Gemini"
     },
     {
       "trait_type": "Rising Sign",
-      "value": "Sagittarius"
+      "value": "Scorpio"
     },
     {
       "display_type": "number",
       "trait_type": "Caprice",
-      "value": 9,
+      "value": 4,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Caution",
-      "value": 1,
+      "value": 2,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Catastrophe",
-      "value": 9,
+      "value": 6,
       "max_value": 9
     },
     {
@@ -83,39 +91,39 @@
     {
       "display_type": "number",
       "trait_type": "Charisma",
-      "value": 7,
+      "value": 4,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Cunning",
-      "value": 4,
+      "value": 6,
       "max_value": 9
     }
   ],
   "coven_cats": {
-    "id": 1118,
-    "name": "sweet malfoy",
-    "type": "occultist",
+    "id": 1141,
+    "name": "monet",
+    "type": "mage",
     "description": {
-      "summoning": "You are a CAT who claws at imposters.",
-      "magic": "You swat the snoots of nosey dogs.",
-      "acts_of_service": "You and your WITCH love a mess.",
-      "belonging": "Your sharp claws carve hexes into people's souls.",
-      "meow": "TO THE MOON!"
+      "summoning": "You are a CAT who judges all who cross your path.",
+      "magic": "You wield knives and guard thresholds.",
+      "acts_of_service": "You and your WITCH love brisk walks through the Woods.",
+      "belonging": "Every morning, you recite T.S. Eliot's Book of Practical Cats to yourself in the mirror.",
+      "meow": "RUN FOR THE POTION!"
     },
     "skills": {
-      "caprice": 9,
-      "caution": 1,
-      "catastrophe": 9,
+      "caprice": 4,
+      "caution": 2,
+      "catastrophe": 6,
       "curiosity": 7,
-      "charisma": 7,
-      "cunning": 4
+      "charisma": 4,
+      "cunning": 6
     },
     "birth_chart": {
-      "sun": "aquarius",
-      "moon": "aries",
-      "rising": "sagittarius"
+      "sun": "scorpio",
+      "moon": "gemini",
+      "rising": "scorpio"
     },
     "styles": [
       {
@@ -124,27 +132,35 @@
       },
       {
         "trait_type": "Background Item",
-        "value": "Sunbeam"
+        "value": "Cross-stitch"
       },
       {
         "trait_type": "Seat",
         "value": "Shelf"
       },
       {
+        "trait_type": "Aura",
+        "value": "Scripted Mage Aura (Gold)"
+      },
+      {
         "trait_type": "Foreground Item",
-        "value": "Candle (Blue)"
+        "value": "Apothecary Jars (Starlight, Screams)"
       },
       {
         "trait_type": "Body Style",
-        "value": "Floofed"
+        "value": "Tufted"
       },
       {
         "trait_type": "Fur Color",
-        "value": "Grumpy Mermaid"
+        "value": "Navy"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Bat Wings"
       },
       {
         "trait_type": "Eye Style",
-        "value": "Sclera"
+        "value": "Smudged"
       },
       {
         "trait_type": "Eye Color",
@@ -152,9 +168,9 @@
       },
       {
         "trait_type": "Collar",
-        "value": "Ring Collar (Silver)"
+        "value": "Moon Choker (Silver)"
       }
     ],
-    "hash": "3f93a7e417ec5d41b05b9de8f5a5e2f5fbc721682ea0a59d0ed0fbffcecaa08f"
+    "hash": "f954dca573c6e9524251dd5afdb62702df729f111c87ea94f80e7cb48f29ef06"
   }
 }
