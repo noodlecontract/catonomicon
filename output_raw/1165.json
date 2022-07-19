@@ -1,7 +1,160 @@
 {
-  "description": "something familiar comes this way...",
+  "name": "sambuca, the wily terror",
+  "description": "You are a CAT with 6 lives, found on the beaches of Accra. You walk like a crab, back arched and fur spiked, to chase away your enemies. You protect your WITCH from making poor deals at the Demon Market. You call for the Demon Market and it comes to you. ROLL, ROLL, ROLL!",
+  "image": "https://covencats.s3.amazonaws.com/6ec9d5e180404bbcee5c0a624c5ad5d50b42e9c727224b990b04e0c32c5d28e8.png",
   "external_url": "https://www.covencats.xyz/",
-  "image": "https://covencats.s3.amazonaws.com/placeholder.png",
-  "name": "CAT",
-  "attributes": []
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Crescent Moon"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (Silver)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Hooded Side"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Glo"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Moon Choker (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Pisces"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 3,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 1165,
+    "name": "sambuca, the wily terror",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT with 6 lives, found on the beaches of Accra.",
+      "magic": "You walk like a crab, back arched and fur spiked, to chase away your enemies.",
+      "acts_of_service": "You protect your WITCH from making poor deals at the Demon Market.",
+      "belonging": "You call for the Demon Market and it comes to you.",
+      "meow": "ROLL, ROLL, ROLL!"
+    },
+    "skills": {
+      "caprice": 5,
+      "caution": 2,
+      "catastrophe": 4,
+      "curiosity": 0,
+      "charisma": 8,
+      "cunning": 3
+    },
+    "birth_chart": {
+      "sun": "scorpio",
+      "moon": "aquarius",
+      "rising": "pisces"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Crescent Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Skull"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Silver)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Glo"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Moon Choker (Silver)"
+      }
+    ],
+    "hash": "6ec9d5e180404bbcee5c0a624c5ad5d50b42e9c727224b990b04e0c32c5d28e8"
+  }
 }

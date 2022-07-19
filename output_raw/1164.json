@@ -1,7 +1,144 @@
 {
-  "description": "something familiar comes this way...",
+  "name": "ursa minor of the stars",
+  "description": "You are a CAT woven from the petals of peonies. You wear witch hats and tap dance from room to room. You and your WITCH love brisk walks through the Woods. You predict the future from the crumbs left on the table. LOVE ME FIERCE AND LOVE ME TENDER!",
+  "image": "https://covencats.s3.amazonaws.com/d48a1aa4fc3606f36811247823a93db81523d933207357307de9927a8e96ecb4.png",
   "external_url": "https://www.covencats.xyz/",
-  "image": "https://covencats.s3.amazonaws.com/placeholder.png",
-  "name": "CAT",
-  "attributes": []
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Genie Lamp (Pearl)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Tortie"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Leather Collar"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Libra"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 5,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 8,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 1164,
+    "name": "ursa minor of the stars",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT woven from the petals of peonies.",
+      "magic": "You wear witch hats and tap dance from room to room.",
+      "acts_of_service": "You and your WITCH love brisk walks through the Woods.",
+      "belonging": "You predict the future from the crumbs left on the table.",
+      "meow": "LOVE ME FIERCE AND LOVE ME TENDER!"
+    },
+    "skills": {
+      "caprice": 7,
+      "caution": 4,
+      "catastrophe": 4,
+      "curiosity": 9,
+      "charisma": 5,
+      "cunning": 8
+    },
+    "birth_chart": {
+      "sun": "aquarius",
+      "moon": "capricorn",
+      "rising": "libra"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Genie Lamp (Pearl)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Tortie"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "White"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ],
+    "hash": "d48a1aa4fc3606f36811247823a93db81523d933207357307de9927a8e96ecb4"
+  }
 }

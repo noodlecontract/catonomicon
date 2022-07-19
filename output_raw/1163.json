@@ -1,7 +1,152 @@
 {
-  "description": "something familiar comes this way...",
+  "name": "hubble bubble",
+  "description": "You are a CAT with 4 lives, found in the kitchen enjoying a succulent tuna pie. You dance between the lines of sheet music, whirl around the notes. You and your WITCH create paintings with water magic. You spend this life figuring out how to see into your next life. GENTLE JUDGMENT!",
+  "image": "https://covencats.s3.amazonaws.com/a9e51574da26f387ddb046a731ee82db2cced49c8ee57b2834908e0783c97123.png",
   "external_url": "https://www.covencats.xyz/",
-  "image": "https://covencats.s3.amazonaws.com/placeholder.png",
-  "name": "CAT",
-  "attributes": []
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Waxing Crescent"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Genie Lamp (Pink)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Floofed"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mauve"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Liquid Metal Lined"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Raised Third Eye (Pink)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aries"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 9,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 6,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 2,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 1,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 1163,
+    "name": "hubble bubble",
+    "type": "seer",
+    "description": {
+      "summoning": "You are a CAT with 4 lives, found in the kitchen enjoying a succulent tuna pie.",
+      "magic": "You dance between the lines of sheet music, whirl around the notes.",
+      "acts_of_service": "You and your WITCH create paintings with water magic.",
+      "belonging": "You spend this life figuring out how to see into your next life.",
+      "meow": "GENTLE JUDGMENT!"
+    },
+    "skills": {
+      "caprice": 4,
+      "caution": 9,
+      "catastrophe": 7,
+      "curiosity": 6,
+      "charisma": 2,
+      "cunning": 1
+    },
+    "birth_chart": {
+      "sun": "aries",
+      "moon": "pisces",
+      "rising": "aries"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Waxing Crescent"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Genie Lamp (Pink)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mauve"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Liquid Metal Lined"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Raised Third Eye (Pink)"
+      }
+    ],
+    "hash": "a9e51574da26f387ddb046a731ee82db2cced49c8ee57b2834908e0783c97123"
+  }
 }

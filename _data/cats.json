@@ -9286,6 +9286,300 @@
     ]
   },
   {
+    "id": 1160,
+    "name": "dona satin buckingham",
+    "description": "You are a CAT with 18 lives, found in a karaoke bar in Tokyo. You keep cauldrons of pet fish for... reasons. You and your WITCH enjoy fast food and fine dining together. In a room full of CATS, you are the one who stands out most. MEOW AT THE STARS!",
+    "archetype": "Enchantress",
+    "sun": "Aquarius",
+    "moon": "Sagittarius",
+    "rising": "Leo",
+    "caprice": 7,
+    "catastrophe": 7,
+    "caution": 8,
+    "charisma": 9,
+    "cunning": 4,
+    "curiosity": 6,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Taupe"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Moths"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Steel"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      }
+    ]
+  },
+  {
+    "id": 1161,
+    "name": "villanelle, the devious boop",
+    "description": "You are a CAT who guards the threshold. You tailor clothes with a swish of your tail. You and your WITCH discuss how to make friends as smart as you. You dance with the VOID WITCH in the deepest dark of the Weird Wilds. TO THE MOON!",
+    "archetype": "Occultist",
+    "sun": "Pisces",
+    "moon": "Scorpio",
+    "rising": "Taurus",
+    "caprice": 7,
+    "catastrophe": 4,
+    "caution": 7,
+    "charisma": 4,
+    "cunning": 9,
+    "curiosity": 0,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Cross-stitch"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Cat Food (Beef with Gravy)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Platinum"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged Monolid"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Moon Choker (Silver)"
+      }
+    ]
+  },
+  {
+    "id": 1162,
+    "name": "congee of the ivy",
+    "description": "You are a CAT with more ears than the eye can see. You are grumpy, jumpy, and dumpy. You and your WITCH bond over the perfect playlist. You nibble on the arugula from your WITCH's greenest salads. YOWL AT LUNA!",
+    "archetype": "Hag",
+    "sun": "Cancer",
+    "moon": "Gemini",
+    "rising": "Gemini",
+    "caprice": 0,
+    "catastrophe": 4,
+    "caution": 9,
+    "charisma": 4,
+    "cunning": 8,
+    "curiosity": 5,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Waxing Crescent"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Toadstool"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mermaid"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Pink"
+      }
+    ]
+  },
+  {
+    "id": 1163,
+    "name": "hubble bubble",
+    "description": "You are a CAT with 4 lives, found in the kitchen enjoying a succulent tuna pie. You dance between the lines of sheet music, whirl around the notes. You and your WITCH create paintings with water magic. You spend this life figuring out how to see into your next life. GENTLE JUDGMENT!",
+    "archetype": "Seer",
+    "sun": "Aries",
+    "moon": "Pisces",
+    "rising": "Aries",
+    "caprice": 4,
+    "catastrophe": 7,
+    "caution": 9,
+    "charisma": 2,
+    "cunning": 1,
+    "curiosity": 6,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Waxing Crescent"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Genie Lamp (Pink)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mauve"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Liquid Metal Lined"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Raised Third Eye (Pink)"
+      }
+    ]
+  },
+  {
+    "id": 1164,
+    "name": "ursa minor of the stars",
+    "description": "You are a CAT woven from the petals of peonies. You wear witch hats and tap dance from room to room. You and your WITCH love brisk walks through the Woods. You predict the future from the crumbs left on the table. LOVE ME FIERCE AND LOVE ME TENDER!",
+    "archetype": "Seer",
+    "sun": "Aquarius",
+    "moon": "Capricorn",
+    "rising": "Libra",
+    "caprice": 7,
+    "catastrophe": 4,
+    "caution": 4,
+    "charisma": 5,
+    "cunning": 8,
+    "curiosity": 9,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Genie Lamp (Pearl)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Tortie"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "White"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ]
+  },
+  {
+    "id": 1165,
+    "name": "sambuca, the wily terror",
+    "description": "You are a CAT with 6 lives, found on the beaches of Accra. You walk like a crab, back arched and fur spiked, to chase away your enemies. You protect your WITCH from making poor deals at the Demon Market. You call for the Demon Market and it comes to you. ROLL, ROLL, ROLL!",
+    "archetype": "Occultist",
+    "sun": "Scorpio",
+    "moon": "Aquarius",
+    "rising": "Pisces",
+    "caprice": 5,
+    "catastrophe": 4,
+    "caution": 2,
+    "charisma": 8,
+    "cunning": 3,
+    "curiosity": 0,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Crescent Moon"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Skull"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Silver)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Glo"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Moon Choker (Silver)"
+      }
+    ]
+  },
+  {
     "id": 117,
     "name": "wyvern izanami",
     "description": "You are a CAT with 12 lives, found near Westminster Abbey. Your ears always point true north. You grant your WITCH the gift of your attention... most days. You brew potions from the wishes of the dying. DYOR!",

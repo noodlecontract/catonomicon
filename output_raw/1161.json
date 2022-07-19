@@ -1,7 +1,160 @@
 {
-  "description": "something familiar comes this way...",
+  "name": "villanelle, the devious boop",
+  "description": "You are a CAT who guards the threshold. You tailor clothes with a swish of your tail. You and your WITCH discuss how to make friends as smart as you. You dance with the VOID WITCH in the deepest dark of the Weird Wilds. TO THE MOON!",
+  "image": "https://covencats.s3.amazonaws.com/8cf8473ddb4693103bd59f1918d97c909c124eac19388051e26b04f224ce4c72.png",
   "external_url": "https://www.covencats.xyz/",
-  "image": "https://covencats.s3.amazonaws.com/placeholder.png",
-  "name": "CAT",
-  "attributes": []
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Cross-stitch"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Cat Food (Beef with Gravy)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Sleek"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Platinum"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Smudged Monolid"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Moon Choker (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 7,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 0,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 9,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 1161,
+    "name": "villanelle, the devious boop",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT who guards the threshold.",
+      "magic": "You tailor clothes with a swish of your tail.",
+      "acts_of_service": "You and your WITCH discuss how to make friends as smart as you.",
+      "belonging": "You dance with the VOID WITCH in the deepest dark of the Weird Wilds.",
+      "meow": "TO THE MOON!"
+    },
+    "skills": {
+      "caprice": 7,
+      "caution": 7,
+      "catastrophe": 4,
+      "curiosity": 0,
+      "charisma": 4,
+      "cunning": 9
+    },
+    "birth_chart": {
+      "sun": "pisces",
+      "moon": "scorpio",
+      "rising": "taurus"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Cross-stitch"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Cat Food (Beef with Gravy)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Platinum"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged Monolid"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Moon Choker (Silver)"
+      }
+    ],
+    "hash": "8cf8473ddb4693103bd59f1918d97c909c124eac19388051e26b04f224ce4c72"
+  }
 }
