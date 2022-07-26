@@ -1,7 +1,160 @@
 {
-  "description": "something familiar comes this way...",
+  "name": "sambuca, the wily",
+  "description": "You are a CAT who speaks in haikus. You change furs whenever you desire. You and your WITCH are gonna make it. You dance in the rain and yowl at the moon. DO NOT DISTURB!",
+  "image": "https://covencats.s3.amazonaws.com/8156940c5b5672cfcb489fd399aeced4dc852840dfe13bdbb8f2a53a60d13641.png",
   "external_url": "https://www.covencats.xyz/",
-  "image": "https://covencats.s3.amazonaws.com/placeholder.png",
-  "name": "CAT",
-  "attributes": []
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "Table"
+    },
+    {
+      "trait_type": "Foreground Item",
+      "value": "Candle (White)"
+    },
+    {
+      "trait_type": "Body Style",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Markings",
+      "value": "Claw Marked (Blue)"
+    },
+    {
+      "trait_type": "Eye Style",
+      "value": "Demon Bloom"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Ring Collar (Silver)"
+    },
+    {
+      "trait_type": "Archetype of Power",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caprice",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Caution",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Catastrophe",
+      "value": 8,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Curiosity",
+      "value": 1,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Charisma",
+      "value": 4,
+      "max_value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cunning",
+      "value": 6,
+      "max_value": 9
+    }
+  ],
+  "coven_cats": {
+    "id": 1166,
+    "name": "sambuca, the wily",
+    "type": "occultist",
+    "description": {
+      "summoning": "You are a CAT who speaks in haikus.",
+      "magic": "You change furs whenever you desire.",
+      "acts_of_service": "You and your WITCH are gonna make it.",
+      "belonging": "You dance in the rain and yowl at the moon.",
+      "meow": "DO NOT DISTURB!"
+    },
+    "skills": {
+      "caprice": 1,
+      "caution": 1,
+      "catastrophe": 8,
+      "curiosity": 1,
+      "charisma": 4,
+      "cunning": 6
+    },
+    "birth_chart": {
+      "sun": "aries",
+      "moon": "aries",
+      "rising": "sagittarius"
+    },
+    "styles": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (White)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Claw Marked (Blue)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Demon Bloom"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ring Collar (Silver)"
+      }
+    ],
+    "hash": "8156940c5b5672cfcb489fd399aeced4dc852840dfe13bdbb8f2a53a60d13641"
+  }
 }

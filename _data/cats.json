@@ -9580,6 +9580,169 @@
     ]
   },
   {
+    "id": 1166,
+    "name": "sambuca, the wily",
+    "description": "You are a CAT who speaks in haikus. You change furs whenever you desire. You and your WITCH are gonna make it. You dance in the rain and yowl at the moon. DO NOT DISTURB!",
+    "archetype": "Occultist",
+    "sun": "Aries",
+    "moon": "Aries",
+    "rising": "Sagittarius",
+    "caprice": 1,
+    "catastrophe": 8,
+    "caution": 1,
+    "charisma": 4,
+    "cunning": 6,
+    "curiosity": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (White)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Claw Marked (Blue)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Demon Bloom"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ring Collar (Silver)"
+      }
+    ]
+  },
+  {
+    "id": 1167,
+    "name": "paisley, the chupacabra",
+    "description": "You are a CAT who collects gossip, glitter, and gel pens. You wear witch hats and tap dance from room to room. You pull tarot cards for your WITCH. Ghosts beg you for forgiveness. BE STILL; BE FREE; BE MINE!",
+    "archetype": "Necromancer",
+    "sun": "Gemini",
+    "moon": "Gemini",
+    "rising": "Scorpio",
+    "caprice": 6,
+    "catastrophe": 7,
+    "caution": 9,
+    "charisma": 8,
+    "cunning": 1,
+    "curiosity": 8,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Cat Plates"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Apothecary Jars (Forgotten Kisses, Limes, Dragon Scales)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mauve"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Sclera"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Vivetta Paw Collar"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Gentle Horns"
+      }
+    ]
+  },
+  {
+    "id": 1168,
+    "name": "titus, the tantalizing",
+    "description": "You are a CAT made of matzah crumbs and shank bone. You drink starlight from a saucer. You and your WITCH bond over high-quality tassels. Your purrs are heard in the music of the spheres. OY VEY!",
+    "archetype": "Enchantress",
+    "sun": "Pisces",
+    "moon": "Libra",
+    "rising": "Aries",
+    "caprice": 7,
+    "catastrophe": 1,
+    "caution": 2,
+    "charisma": 7,
+    "cunning": 8,
+    "curiosity": 0,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Mirror"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Crown of Pearls"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Lavender"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hooded Side"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Collar of Pearls"
+      }
+    ]
+  },
+  {
     "id": 117,
     "name": "wyvern izanami",
     "description": "You are a CAT with 12 lives, found near Westminster Abbey. Your ears always point true north. You grant your WITCH the gift of your attention... most days. You brew potions from the wishes of the dying. DYOR!",
