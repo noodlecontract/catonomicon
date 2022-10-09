@@ -1,16 +1,16 @@
 {
-  "name": "empress cadenza drama",
-  "description": "You are a CAT who adores designer sunglasses. You weave tapestries with your tail. You and your WITCH adopt abandoned animals and nurse them back to health. Your fur inspires painters and designers the land over. MOVE FAST OR GET OUT OF THE WAY!",
-  "image": "https://covencats.s3.amazonaws.com/6093c477ac9c50f5728b95f0626bf03f95e5e2769221b1b57823ee65b5fd944e.png",
+  "name": "earl timbre",
+  "description": "You are a CAT who guards the threshold. You scare away enemies with a swish of your tail. You and your WITCH make wishes on dandelion fluff. Your purrs are heard in the music of the spheres. TREAT YOURSELF!",
+  "image": "https://covencats.s3.amazonaws.com/b40294e8dba0c0e54fecfd1b9c2114f4418f8c971387a71ffb1ab4347b4b5e35.png",
   "external_url": "https://www.covencats.xyz/",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Peach"
+      "value": "Taupe"
     },
     {
       "trait_type": "Seat",
-      "value": "Pillow (Purple)"
+      "value": "Throne"
     },
     {
       "trait_type": "Body Style",
@@ -18,19 +18,19 @@
     },
     {
       "trait_type": "Fur Color",
-      "value": "Steel"
+      "value": "Silver"
     },
     {
       "trait_type": "Eye Style",
-      "value": "Reverse Cateye"
+      "value": "Circle Lens"
     },
     {
       "trait_type": "Eye Color",
-      "value": "Opal"
+      "value": "Green"
     },
     {
       "trait_type": "Collar",
-      "value": "Simple Circlet (Silver)"
+      "value": "Studded Collar (Silver)"
     },
     {
       "trait_type": "Archetype of Power",
@@ -38,85 +38,85 @@
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Aries"
-    },
-    {
-      "trait_type": "Moon Sign",
       "value": "Virgo"
     },
     {
+      "trait_type": "Moon Sign",
+      "value": "Taurus"
+    },
+    {
       "trait_type": "Rising Sign",
-      "value": "Capricorn"
+      "value": "Scorpio"
     },
     {
       "display_type": "number",
       "trait_type": "Caprice",
-      "value": 6,
+      "value": 4,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Caution",
-      "value": 6,
+      "value": 0,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Catastrophe",
-      "value": 6,
+      "value": 3,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Curiosity",
-      "value": 5,
+      "value": 4,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Charisma",
-      "value": 8,
+      "value": 9,
       "max_value": 9
     },
     {
       "display_type": "number",
       "trait_type": "Cunning",
-      "value": 9,
+      "value": 4,
       "max_value": 9
     }
   ],
   "coven_cats": {
-    "id": 1183,
-    "name": "empress cadenza drama",
+    "id": 1174,
+    "name": "earl timbre",
     "type": "enchantress",
     "description": {
-      "summoning": "You are a CAT who adores designer sunglasses.",
-      "magic": "You weave tapestries with your tail.",
-      "acts_of_service": "You and your WITCH adopt abandoned animals and nurse them back to health.",
-      "belonging": "Your fur inspires painters and designers the land over.",
-      "meow": "MOVE FAST OR GET OUT OF THE WAY!"
+      "summoning": "You are a CAT who guards the threshold.",
+      "magic": "You scare away enemies with a swish of your tail.",
+      "acts_of_service": "You and your WITCH make wishes on dandelion fluff.",
+      "belonging": "Your purrs are heard in the music of the spheres.",
+      "meow": "TREAT YOURSELF!"
     },
     "skills": {
-      "caprice": 6,
-      "caution": 6,
-      "catastrophe": 6,
-      "curiosity": 5,
-      "charisma": 8,
-      "cunning": 9
+      "caprice": 4,
+      "caution": 0,
+      "catastrophe": 3,
+      "curiosity": 4,
+      "charisma": 9,
+      "cunning": 4
     },
     "birth_chart": {
-      "sun": "aries",
-      "moon": "virgo",
-      "rising": "capricorn"
+      "sun": "virgo",
+      "moon": "taurus",
+      "rising": "scorpio"
     },
     "styles": [
       {
         "trait_type": "Background",
-        "value": "Peach"
+        "value": "Taupe"
       },
       {
         "trait_type": "Seat",
-        "value": "Pillow (Purple)"
+        "value": "Throne"
       },
       {
         "trait_type": "Body Style",
@@ -124,21 +124,21 @@
       },
       {
         "trait_type": "Fur Color",
-        "value": "Steel"
+        "value": "Silver"
       },
       {
         "trait_type": "Eye Style",
-        "value": "Reverse Cateye"
+        "value": "Circle Lens"
       },
       {
         "trait_type": "Eye Color",
-        "value": "Opal"
+        "value": "Green"
       },
       {
         "trait_type": "Collar",
-        "value": "Simple Circlet (Silver)"
+        "value": "Studded Collar (Silver)"
       }
     ],
-    "hash": "6093c477ac9c50f5728b95f0626bf03f95e5e2769221b1b57823ee65b5fd944e"
+    "hash": "b40294e8dba0c0e54fecfd1b9c2114f4418f8c971387a71ffb1ab4347b4b5e35"
   }
 }

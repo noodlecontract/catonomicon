@@ -10053,6 +10053,51 @@
     ]
   },
   {
+    "id": 1174,
+    "name": "earl timbre",
+    "description": "You are a CAT who guards the threshold. You scare away enemies with a swish of your tail. You and your WITCH make wishes on dandelion fluff. Your purrs are heard in the music of the spheres. TREAT YOURSELF!",
+    "archetype": "Enchantress",
+    "sun": "Virgo",
+    "moon": "Taurus",
+    "rising": "Scorpio",
+    "caprice": 4,
+    "catastrophe": 3,
+    "caution": 0,
+    "charisma": 9,
+    "cunning": 4,
+    "curiosity": 4,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Taupe"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Throne"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Studded Collar (Silver)"
+      }
+    ]
+  },
+  {
     "id": 1175,
     "name": "calla, the treacherous meow",
     "description": "You are a CAT drawn into existence. You creep within the dreams of regents, sowing seeds of distrust and sedition. You and your WITCH weave garlands and crowns from wildflowers. You keep a mischief of ghost mice at your beck and call. POUNCE BACKWARDS INTO PURGATORY!",
@@ -10098,6 +10143,116 @@
       {
         "trait_type": "Eye Color",
         "value": "Red"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ]
+  },
+  {
+    "id": 1176,
+    "name": "travertine, the grim",
+    "description": "You are a CAT made of melodies and meowing. You scheme to eat fresh fish every day. You and your WITCH take long road trips through the Weird Wilds. You visit abandoned cemeteries and converse with the dead on the full moon. STEAL THE TUNA!",
+    "archetype": "Necromancer",
+    "sun": "Gemini",
+    "moon": "Virgo",
+    "rising": "Taurus",
+    "caprice": 4,
+    "catastrophe": 4,
+    "caution": 9,
+    "charisma": 4,
+    "cunning": 0,
+    "curiosity": 4,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Mirror"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Apothecary Jars (Limes, Forgotten Kisses, Screams)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Auburn"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Reverse Cateye"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Opal"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ring Collar (Silver)"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Horns of Taurus"
+      }
+    ]
+  },
+  {
+    "id": 1177,
+    "name": "theta poisson",
+    "description": "You are a CAT made of nightmares. You spin on record players and meow with the music. You support your WITCH in all things. You are the world's leading expert in CAT bed construction. READ THE MOON!",
+    "archetype": "Mage",
+    "sun": "Aquarius",
+    "moon": "Libra",
+    "rising": "Sagittarius",
+    "caprice": 7,
+    "catastrophe": 6,
+    "caution": 9,
+    "charisma": 3,
+    "cunning": 3,
+    "curiosity": 9,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Shelf"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Potions (Love, Morph)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Tufted"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Platinum"
+      },
+      {
+        "trait_type": "Markings",
+        "value": "Mage Script Serpent (Blue)"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smudged"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Green"
       },
       {
         "trait_type": "Collar",
@@ -10155,6 +10310,149 @@
       {
         "trait_type": "Collar",
         "value": "Ring Collar (Silver)"
+      }
+    ]
+  },
+  {
+    "id": 1180,
+    "name": "staccato de fouf",
+    "description": "You are a CAT made of French fries and chicken nuggets. You make your bed in the softest of clover fields. You and your WITCH scream into the Void. Your whiskers have inspired many a great thinker. IT'S TIME TO SLEEP ON THE KEYBOARD!",
+    "archetype": "Enchantress",
+    "sun": "Leo",
+    "moon": "Cancer",
+    "rising": "Cancer",
+    "caprice": 4,
+    "catastrophe": 6,
+    "caution": 0,
+    "charisma": 4,
+    "cunning": 2,
+    "curiosity": 0,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Table"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Candle (Silver)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Platinum"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Circle Lens"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey Green"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ethereum Collar"
+      }
+    ]
+  },
+  {
+    "id": 1182,
+    "name": "fichu, the razor",
+    "description": "You are a CAT made of two candles melted together. Your whiskers tell fortunes. You and your WITCH debate the virtues of decentralization and governance. Your playground is a cemetery and your familiar, a crow. IF IT FITS, SIT!",
+    "archetype": "Necromancer",
+    "sun": "Sagittarius",
+    "moon": "Aries",
+    "rising": "Virgo",
+    "caprice": 8,
+    "catastrophe": 9,
+    "caution": 9,
+    "charisma": 6,
+    "cunning": 8,
+    "curiosity": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Waxing Crescent"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Bag of Salt"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Sleek"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Mermaid"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Sclera"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Leather Collar"
+      }
+    ]
+  },
+  {
+    "id": 1183,
+    "name": "empress cadenza drama",
+    "description": "You are a CAT who adores designer sunglasses. You weave tapestries with your tail. You and your WITCH adopt abandoned animals and nurse them back to health. Your fur inspires painters and designers the land over. MOVE FAST OR GET OUT OF THE WAY!",
+    "archetype": "Enchantress",
+    "sun": "Aries",
+    "moon": "Virgo",
+    "rising": "Capricorn",
+    "caprice": 6,
+    "catastrophe": 6,
+    "caution": 6,
+    "charisma": 8,
+    "cunning": 9,
+    "curiosity": 5,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Pillow (Purple)"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Rolled"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Steel"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Reverse Cateye"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Opal"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Simple Circlet (Silver)"
       }
     ]
   },
